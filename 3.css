@@ -1,0 +1,21 @@
+
+div {
+    border-style: solid;
+    border-width: 1px;
+    border-color: red;
+}
+.name {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(15, 33, 196);
+
+}
+#www {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(70, 175, 0);
+
+}
+.col {
+    color:rgb(207, 5, 190);
+}
