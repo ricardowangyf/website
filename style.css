@@ -1,0 +1,46 @@
+.juzhong {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    margin: 0 auto;
+
+}
+
+.wyf {
+    margin-top: 30px;
+    /* border: 1px solid rgb(53, 36, 39); */
+    font-size: 12px;
+    color: #bbb;
+}
+
+.name {
+    float: left;
+}
+
+.last {
+    float: right;
+}
+
+.div {
+    clear: both;
+}
+
+.rangkai {
+    padding: 30px 50px;
+    color: #fff;
+    background-color: #00b38a;
+    border-radius: 5px 5px 0px 0px;
+    float: left;
+}
+
+.juzhong .job {
+    font-size: 20px;
+    float: right;
+    position: relative;
+}
+
+.juzhong .job div {
+    float: right;
+    font-size: 24px;
+    margin-top: 30px;
+}
