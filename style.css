@@ -52,6 +52,27 @@ body {
 .clear{
     clear: both;
 }
+.myjob{
+    width: 100%;
+    min-height: 200px;
+    padding: 20px 30px 50px;
+    overflow: hidden;
+}
+.jobleft{
+    width: 94%;
+    min-height: 200px;
+    padding: 20px 30px 50px;
+    overflow: hidden
+}
+.job-r{
+    margin-left: 144px;
+}
+.clear{
+    clear: both;
+}
+.item{
+    margin-bottom: 23px;
+}
 
 
 
