@@ -1,9 +1,12 @@
+/* 设置整个页面背景颜色 */
+body {
+    background-color: #eee;
+}
 .juzhong {
     margin-left: auto;
     margin-right: auto;
     width: 1024px;
     margin: 0 auto;
-
 }
 
 .wyf {
@@ -15,6 +18,7 @@
 
 .name {
     float: left;
+    font-size: 20px;
 }
 
 .last {
@@ -26,22 +30,28 @@
 }
 
 .rangkai {
-    padding: 30px 50px;
-    color: #fff;
+    color: rgb(12, 8, 8);
     background-color: #00b38a;
     border-radius: 5px 5px 0px 0px;
-    float: left;
+    margin-top: 10px;
+    font-size: 8px;
 }
 
 .juzhong .job {
-    font-size: 20px;
+    font-size: 19px;
     float: right;
     position: relative;
 }
-}
 
 .juzhong .job div {
-    display: inline-block;
-    font-size: 24px;
-    margin-top: 30px;
+    font-weight: 100;
 }
+.boke{
+    float: right;
+}
+.clear{
+    clear: both;
+}
+
+
+
