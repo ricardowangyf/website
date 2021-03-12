@@ -92,7 +92,7 @@ body {
     clear: both;
 }
 .cctv{
-    margin-left: 46px;
+    margin-left: 119px;
     width: 21%;
     font-size: 5px;
 }
@@ -124,4 +124,23 @@ body {
     width: 35%;
     vertical-align: middle;
     border-top: 1px solid #ededed;
+}
+.job-l{
+    position: relative;
+    text-align: center;
+    top: 20px;
+    display: inline-block;
+    background: #eee;
+    width: 22%;
+    height: 1px;
+}
+.job-r{
+    background: #eee;
+    width: 22%;
+    height: 1px;
+    right: -79%;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    bottom: 26px;
 }
