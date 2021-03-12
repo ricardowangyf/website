@@ -144,3 +144,19 @@ body {
     display: inline-block;
     bottom: 26px;
 }
+.item-name{
+    font-size: 15px;
+}
+.item-time{
+    font-size: 10px;
+}
+.item-job{
+    font-size: 10px;
+}
+.item-des{
+    font-size: 10px;
+    line-height: 4.5;
+}
+.job-name{
+    margin-left: 58px;
+}
