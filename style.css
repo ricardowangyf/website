@@ -89,4 +89,20 @@ body {
     text-align: center;
     margin-left:10px ;
 }
+.job {
+    position: relative;
+    z-index: 1;
+    width: 24%;
+    min-width: 100px;
+    margin: 0 auto;
+    padding: 4px 10px;
+    text-align: center;
+    background-color: #eee;
+    margin-left: 10px;
+}
 
+.job-des {
+    list-style: square inside;
+    margin-bottom: 30px;
+    margin-top: 66px;
+}
