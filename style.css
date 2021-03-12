@@ -35,6 +35,8 @@ body {
     border-radius: 5px 5px 0px 0px;
     margin-top: 10px;
     font-size: 8px;
+}.juzhong .job div {
+    font-weight: 100;
 }
 
 .juzhong .job {
@@ -43,9 +45,7 @@ body {
     position: relative;
 }
 
-.juzhong .job div {
-    font-weight: 100;
-}
+
 .boke{
     float: right;
 }
@@ -96,4 +96,10 @@ body {
 }
 .meituan{
     margin-top: 39px;
+}
+.qqweizhi{
+    font-size: 20px;
+}
+.qq{
+    margin-top: 40px;
 }
