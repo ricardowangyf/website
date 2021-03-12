@@ -44,8 +44,6 @@ body {
     float: right;
     position: relative;
 }
-
-
 .boke{
     float: right;
 }
@@ -53,64 +51,43 @@ body {
 
     clear: both;
 }
-.myjob-h{
-    width: 100%;
-    min-height: 200px;
-    padding: 20px 30px 50px;
-    overflow: hidden;
+.content-hd{
+     background-color: #eee;   
 }
-.jobleft{
-    width: 94%;
-    min-height: 200px;
-    padding: 20px 30px 50px;
-    overflow: hidden;
-    margin-top: 47px;
-    font-size: 8px;
-}
-.job-h{
-    padding-left: 56px;
-}
-.job-l{
-    position: relative;
-    z-index: 1;
-    min-width: 85px;
-    margin: 0 auto;
-    text-align: center;
-    margin-left: 119px;
-    background: #cc9f9f;
-    border-radius: 67px;
-    padding: 2px;
-    width: 82px;
-    height: 22px;
-}
-.jobjingli{
-    font-size: 16px;
+.jobnameclear{
+    clear: both;
 }
 .job-left{
-    font-size: 12px;
     background-color: white;
-    margin-left: 81px;
-    margin-right: 80px;
-
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    margin: 0 auto;
 }
-.item-name{
-    font-size: 17px;
+.clear{
+    clear: both;
 }
-.meituan{
-    margin-top: 39px;
+.cctv{
+    margin-left: 46px;
+    width: 21%;
+    font-size: 100%;
+    font-size: 5px;
 }
-.qqweizhi{
-    font-size: 20px;
+.job{
+    width: 94%;
+    min-height: 329px;
+    padding: 20px 30px 50px;
+    overflow: hidden;
 }
-.qq{
-    margin-top: 40px;
-}
-.name-p{
-    margin-left: 54px;
-}
-.qqweizhi{
-    margin-left: 54px;
-}
-.qqtime{
-    margin-left: 54px;
+.jobjingli{
+    z-index: 1;
+    width: 24%;
+    min-width: 100px;
+    margin: 0 auto;
+    padding: 4px 10px;
+    border-radius: 32px;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    background-color: #eee;
 }
