@@ -68,7 +68,7 @@ body {
     font-size: 8px;
 }
 .job-h{
-    padding-left: 108px;
+    padding-left: 56px;
 }
 .job-l{
     position: relative;
@@ -104,4 +104,13 @@ body {
 }
 .qq{
     margin-top: 40px;
+}
+.name-p{
+    margin-left: 54px;
+}
+.qqweizhi{
+    margin-left: 54px;
+}
+.qqtime{
+    margin-left: 54px;
 }
