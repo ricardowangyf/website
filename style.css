@@ -35,11 +35,11 @@ body {
     border-radius: 5px 5px 0px 0px;
     margin-top: 10px;
     font-size: 8px;
-}.juzhong .job div {
+}.juzhong .job-h div {
     font-weight: 100;
 }
 
-.juzhong .job {
+.juzhong .job-h {
     font-size: 19px;
     float: right;
     position: relative;
@@ -53,7 +53,7 @@ body {
 
     clear: both;
 }
-.myjob{
+.myjob-h{
     width: 100%;
     min-height: 200px;
     padding: 20px 30px 50px;
@@ -67,7 +67,7 @@ body {
     margin-top: 47px;
     font-size: 8px;
 }
-.job{
+.job-h{
     padding-left: 108px;
 }
 .job-l{
@@ -89,7 +89,9 @@ body {
 .job-left{
     font-size: 12px;
     background-color: white;
-    margin-top: 1px;
+    margin-left: 81px;
+    margin-right: 80px;
+
 }
 .item-name{
     font-size: 17px;
