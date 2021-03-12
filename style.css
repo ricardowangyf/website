@@ -63,46 +63,37 @@ body {
     width: 94%;
     min-height: 200px;
     padding: 20px 30px 50px;
-    overflow: hidden
+    overflow: hidden;
+    margin-top: 47px;
+    font-size: 8px;
 }
-
-.item{
-    float: left;
-    text-align: left;
-    padding-left: 55px;
-    background-color: #eee;
+.job{
+    padding-left: 108px;
 }
-.job-leftjob-l{
-    left: 0;
-}
-.item.name {
-    width: 10px;
-}
-
-.job {
+.job-l{
     position: relative;
     z-index: 1;
-    width: 24%;
-    min-width: 100px;
+    min-width: 85px;
     margin: 0 auto;
-    padding: 4px 10px;
     text-align: center;
-    margin-left:10px ;
+    margin-left: 119px;
+    background: #cc9f9f;
+    border-radius: 67px;
+    padding: 2px;
+    width: 82px;
+    height: 22px;
 }
-.job {
-    position: relative;
-    z-index: 1;
-    width: 24%;
-    min-width: 100px;
-    margin: 0 auto;
-    padding: 4px 10px;
-    text-align: center;
-    background-color: #eee;
-    margin-left: 10px;
+.jobjingli{
+    font-size: 16px;
 }
-
-.job-des {
-    list-style: square inside;
-    margin-bottom: 30px;
-    margin-top: 66px;
+.job-left{
+    font-size: 12px;
+    background-color: white;
+    margin-top: 1px;
+}
+.item-name{
+    font-size: 17px;
+}
+.meituan{
+    margin-top: 39px;
 }
