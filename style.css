@@ -8,7 +8,14 @@ body {
     width: 1024px;
     margin: 0 auto;
 }
-
+.pdf{
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    width: 1000px;
+    color: #bbb;
+    margin-left: -493px;
+}
 .wyf {
     margin-top: 30px;
     /* border: 1px solid rgb(53, 36, 39); */
@@ -70,7 +77,6 @@ body {
 .cctv{
     margin-left: 46px;
     width: 21%;
-    font-size: 100%;
     font-size: 5px;
 }
 .job{
@@ -90,4 +96,15 @@ body {
     font-weight: 700;
     text-align: center;
     background-color: #eee;
+}
+.job-left.job-l{
+    left: 0;
+}
+.job-left.job-l{
+    position: absolute;
+    top: 50%;
+    display: inline-block;
+    width: 35%;
+    vertical-align: middle;
+    border-top: 1px solid #ededed;
 }
