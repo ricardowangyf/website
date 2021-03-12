@@ -22,10 +22,15 @@ body {
     font-size: 12px;
     color: #bbb;
 }
-
+.wang{
+    padding: 30px 50px;
+}
+.yu{
+    border-top: 2px solid #00a982;
+}
 .name {
     float: left;
-    font-size: 20px;
+    font-size: 33px;
 }
 
 .last {
@@ -35,21 +40,27 @@ body {
 .div {
     clear: both;
 }
-
+.boke{
+    font-weight: 100;
+    margin-top: -51px;
+}
 .rangkai {
     color: rgb(248, 245, 245);
     background-color: #00b38a;
     border-radius: 5px 5px 0px 0px;
-    margin-top: 10px;
-    font-size: 8px;
-}.juzhong .job-h div {
+    margin-top: 5px;
+    font-size: 11px;
+    padding-top: 82px;
+}
+.juzhong .job-h div {
     font-weight: 100;
 }
 
 .juzhong .job-h {
-    font-size: 19px;
+    font-size: 24px;
     float: right;
     position: relative;
+    top: 3px;
 }
 .boke{
     float: right;
