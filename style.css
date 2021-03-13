@@ -96,12 +96,6 @@ body {
     width: 21%;
     font-size: 5px;
 }
-.job{
-    width: 94%;
-    min-height: 329px;
-    padding: 20px 30px 50px;
-    overflow: hidden;
-}
 .jobjingli{
     z-index: 1;
     width: 24%;
@@ -125,25 +119,7 @@ body {
     vertical-align: middle;
     border-top: 1px solid #ededed;
 }
-.job-l{
-    position: relative;
-    text-align: center;
-    top: 20px;
-    display: inline-block;
-    background: #eee;
-    width: 22%;
-    height: 1px;
-}
-.job-r{
-    background: #eee;
-    width: 22%;
-    height: 1px;
-    right: -79%;
-    position: relative;
-    text-align: center;
-    display: inline-block;
-    bottom: 26px;
-}
+
 .item-name{
     font-size: 15px;
 }
@@ -158,8 +134,18 @@ body {
     line-height: 4.5;
 }
 .job-name{
-    margin-left: 58px;
+    margin-left: 15px;
 }
 .meituan{
     margin-top: 30px;
+}
+.item{
+    margin-left: 24px;
+    width: 89%;
+    font-size: 10px;
+}
+.job-right{
+    position: relative;
+    bottom: 905px;
+    left: 555px;
 }
