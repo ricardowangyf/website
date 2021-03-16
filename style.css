@@ -218,3 +218,24 @@ body {
 .tenctqq{
     margin-left: 13px;
 }
+.ill{
+    display: flex;
+    justify-content: space-between;
+}
+.ill-l{
+    border-bottom: 1px solid #ededed;
+    width:100%;
+    height: 14px;
+}
+.ill-w{
+    border-radius: 32px;
+    font-weight: 700;
+    padding: 4px 10px;
+    background-color: #eee;
+    text-align: center;
+    width: 249px;
+    margin: 0 10px;
+}
+.ill-l{
+    
+}
