@@ -221,6 +221,7 @@ body {
 .ill{
     display: flex;
     justify-content: space-between;
+    margin-top: 36px;
 }
 .ill-l{
     border-bottom: 1px solid #ededed;
@@ -236,6 +237,12 @@ body {
     width: 249px;
     margin: 0 10px;
 }
-.ill-l{
-    
+.last{
+    color: #d1d1d1;
+    margin-bottom: 25px;
+    text-align: center;
+    margin-top: 38px;
+}
+.kill{
+    padding-top: 7px;
 }
