@@ -186,4 +186,28 @@ body {
 .meituan{
     margin-top: 30px;
 }
+.cctv{
+    margin-left: 219px;
+    width: 23%;
+    font-size: 5px;
+}
 
+.cctvjobjingli{
+    border-radius: 32px;
+    font-weight: 700;
+    padding: 4px 10px;
+    background-color: #eee;
+    text-align: center;
+    width: 249px;
+    margin: 0 10px;
+}
+.cctv .job-l {
+    border-bottom: 1px solid #ededed;
+    width: 100%;
+    height: 14px;
+}
+.cctv .job-rrr {
+    border-bottom: 1px solid #ededed;
+    width: 100%;
+    height: 14px;
+}
