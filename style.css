@@ -246,3 +246,9 @@ body {
 .kill{
     padding-top: 7px;
 }
+.foot-link{
+    display: inline-block;
+    color: #d1d1d1;
+    margin-bottom: 25px;
+    text-decoration: none;
+}
