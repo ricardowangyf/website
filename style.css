@@ -85,6 +85,7 @@ body {
 }
 .yu{
     border-top: 2px solid #00a982;
+    padding-top: 10px;
 }
 .name {
     float: left;
@@ -212,7 +213,7 @@ body {
     height: 14px;
 }
 .item{
-    padding-top: 60px;
+    padding-top: 0px;
     padding-left: 20px;
 }
 .tenctqq{
@@ -223,14 +224,14 @@ body {
     justify-content: space-between;
     margin-top: 36px;
 }
-.ill-l{
+.ill-l{  
+     width: 149px;
     border-bottom: 1px solid #ededed;
-    width:100%;
-    height: 14px;
+    margin-top: 13px;
 }
 .ill-w{
     border-radius: 32px;
-    font-weight: 700;
+    font-weight: 400;
     padding: 4px 10px;
     background-color: #eee;
     text-align: center;
@@ -251,4 +252,8 @@ body {
     color: #d1d1d1;
     margin-bottom: 25px;
     text-decoration: none;
+}
+.zhifubao{
+    text-decoration: none;
+    color: #00b38a;
 }
