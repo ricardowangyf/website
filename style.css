@@ -1,6 +1,7 @@
 /* 设置整个页面背景颜色 */
 body {
     background-color: #eee;
+    font-size: 14px;
 }
 
 .juzhong {
@@ -49,19 +50,19 @@ body {
 /* 标题2 start >>>>>>>>>>>>>>>>>>>> */
 .title {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     position: relative;
-    height: 33px;
+    height: 28px;
     margin: 10px auto 5px;
 }
 
 .title .sub {
     border-radius: 32px;
-    font-weight: 700;
+    font-weight: 600;
     padding: 4px 10px;
     background-color: #eee;
     text-align: center;
-    width: 249px;
+    width: 67px;
 }
 .title .xian-right {
     position: absolute;
@@ -72,7 +73,7 @@ body {
     vertical-align: middle;
     border-top: 1px solid #ededed;
 }
-}
+
 .title .xian-left {
     border-bottom: 1px solid #ededed;
     width: 100%;
@@ -187,7 +188,7 @@ body {
 }
 .item-des{
     font-size: 10px;
-    line-height: 4.5;
+    line-height: 26px;
 }
 .job-name{
     margin-left: 15px;
@@ -227,6 +228,7 @@ body {
 }
 .tenctqq{
     margin-left: 45px;
+    margin-top:28px;
 }
 .ill{
     display: flex;
