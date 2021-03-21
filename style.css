@@ -231,8 +231,8 @@ body {
     height: 14px;
 }
 .item{
-    margin-top: 34px;
-    margin-left: 61px;
+    margin-top: 45px;
+    margin-left: 43px;
 }
 .tenctqq{
     margin-left: 44px;
@@ -252,7 +252,7 @@ body {
 .ill-r{
     border-bottom: 1px solid #ededed;
     position: relative;
-    height: 10px;
+    height: 12px;
     width: 338px;
 }
 .ill-w{
@@ -271,7 +271,7 @@ body {
     margin-top: 38px;
 }
 .kill{
-    padding-top: 7px;
+    padding: 10px 15px;
 }
 .foot-link{
     display: inline-block;
@@ -293,4 +293,8 @@ body {
 .link-icon{
     float: right;
     width: 53px;
+}
+.react{
+    margin-left: 27px;
+    margin-top: 40px;
 }
