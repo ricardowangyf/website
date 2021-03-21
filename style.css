@@ -59,28 +59,33 @@ body {
 .title .sub {
     border-radius: 32px;
     font-weight: 600;
-    padding: 4px 10px;
+    padding: 5px 11px;
     background-color: #eee;
     text-align: center;
-    width: 67px;
+    width: 57px;
     position: relative;
-    right: 55px;
+    left: 7px;
 }
 .xian-right {
     position: absolute;
-    top: 50%;
-    right: 32px;
+    top: 51%;
+    right: 31px;
     display: inline-block;
-    width: 31%;
+    width: 35%;
     height: 0;
     vertical-align: middle;
     border-top: 1px solid #ededed;
 }
 
-.title .xian-left {
-    border-bottom: 1px solid #ededed;
-    width: 6%;
-    height: 28pz;
+.xian-left {
+    position: absolute;
+    top: 50%;
+    left: 56px;
+    display: inline-block;
+    width: 33%;
+    height: 0;
+    vertical-align: middle;
+    border-top: 1px solid #ededed;;
 }
 /* 标题2 end <<<<<<<<<<<<<<<<<<<< */
 
