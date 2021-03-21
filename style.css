@@ -243,19 +243,26 @@ body {
     justify-content: space-between;
     margin-top: 36px;
 }
-.ill-l{  
-     width: 149px;
+.ill-l{
     border-bottom: 1px solid #ededed;
-    margin-top: 13px;
+    position: relative;
+    height: 11px;
+    width: 338px;
+}
+.ill-r{
+    border-bottom: 1px solid #ededed;
+    position: relative;
+    height: 10px;
+    width: 338px;
 }
 .ill-w{
     border-radius: 32px;
-    font-weight: 400;
+    font-weight: 700;
     padding: 4px 10px;
     background-color: #eee;
     text-align: center;
-    width: 249px;
-    margin: 0 10px;
+    width: 25%;
+    margin: 0 auto;
 }
 .last{
     color: #d1d1d1;
