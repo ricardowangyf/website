@@ -199,7 +199,7 @@ body {
     line-height: 26px;
 }
 .job-name{
-    margin-left: 15px;
+    margin-left: 31px;
 }
 .meituan{
     margin-top: 39px;
@@ -299,10 +299,19 @@ body {
     margin-top: 40px;
 }
 .webpack{
-    margin-left: 38px;
+    margin-left: 54px; 
     margin-top: 40px;
 }
 .nodejs{
-    margin-left: 38px;
+    margin-left: 53px;
     margin-top: 40px;
+}
+.qq{
+    position: relative;
+    left: 67px;
+}
+.job-nam{
+    position: relative;
+    left: 38px;
+}
 }
