@@ -203,7 +203,7 @@ body {
 }
 .meituan{
     margin-top: 39px;
-    margin-left: 44px;
+    margin-left: 28px;
 }
 .cctv{
     margin-left: 219px;
@@ -241,7 +241,6 @@ body {
 .ill{
     display: flex;
     justify-content: space-between;
-    margin-top: 36px;
 }
 .ill-l{
     border-bottom: 1px solid #ededed;
@@ -313,5 +312,4 @@ body {
 .job-nam{
     position: relative;
     left: 38px;
-}
 }
