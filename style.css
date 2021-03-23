@@ -313,3 +313,17 @@ body {
     position: relative;
     left: 38px;
 }
+.left{
+    padding: 9px;
+    overflow: hidden;
+}
+.fight{
+    padding: 10px;
+    overflow: hidden;
+}
+.xiamian{
+    padding: 9px;
+}
+.waimian{
+    padding: 9px;
+}
