@@ -294,20 +294,17 @@ body {
     width: 53px;
 }
 .react{
-    margin-left: 27px;
     margin-top: 40px;
 }
 .webpack{
-    margin-left: 54px; 
     margin-top: 40px;
 }
 .nodejs{
-    margin-left: 53px;
     margin-top: 40px;
 }
 .qq{
     position: relative;
-    left: 67px;
+    left: 33px;
 }
 .job-nam{
     position: relative;
@@ -326,4 +323,10 @@ body {
 }
 .waimian{
     padding: 9px;
+}
+.jos{
+    padding-top: 40px;
+}
+.zhongjian{
+    padding:9px;
 }
