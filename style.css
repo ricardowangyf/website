@@ -191,8 +191,7 @@ body {
 .item-time{
     font-size: 10px;
     position: relative;
-    padding: 10px 0 5px;
-    line-height: 20px;
+    line-height: 50px;
     overflow: hidden;
     font-weight: 500;
 }
@@ -302,6 +301,8 @@ body {
 }
 .link-icon{
     float: right;
+    padding-right: 12px;
+}
 }
 .react{
     margin-top: 40px;
