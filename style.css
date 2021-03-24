@@ -302,8 +302,6 @@ body {
 }
 .link-icon{
     float: right;
-    position: relative;
-    right: 30px;
 }
 .react{
     margin-top: 40px;
