@@ -190,13 +190,24 @@ body {
 }
 .item-time{
     font-size: 10px;
+    position: relative;
+    padding: 10px 0 5px;
+    line-height: 20px;
+    overflow: hidden;
+    font-weight: 500;
+    min-height: 30px;
 }
 .item-job{
     font-size: 10px;
 }
 .item-des{
     font-size: 10px;
-    line-height: 26px;
+    position: relative;
+    padding: 10px 0 5px;
+    line-height: 20px;
+    overflow: hidden;
+    font-weight: 500;
+    min-height: 30px;
 }
 .job-name{
     margin-left: 31px;
@@ -288,10 +299,12 @@ body {
 .link{
     position: relative;
     width: 53px;
+    left: 30px;
 }
 .link-icon{
     float: right;
-    width: 53px;
+    position: relative;
+    right: 30px;
 }
 .react{
     margin-top: 40px;
@@ -315,7 +328,7 @@ body {
     overflow: hidden;
 }
 .fight{
-    padding: 10px;
+    padding: 10px  15px;
     overflow: hidden;
 }
 .xiamian{
