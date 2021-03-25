@@ -59,17 +59,17 @@ body {
 .title .sub {
     border-radius: 32px;
     font-weight: 600;
-    padding: 5px 11px;
+    padding: 4px 15px;
     background-color: #eee;
     text-align: center;
-    width: 57px;
+    width: 61px;
     position: relative;
-    left: 7px;
+    left: 14px;
 }
 .xian-right {
     position: absolute;
     top: 51%;
-    right: 31px;
+    right: 5px;
     display: inline-block;
     width: 35%;
     height: 0;
@@ -80,9 +80,9 @@ body {
 .xian-left {
     position: absolute;
     top: 50%;
-    left: 56px;
+    left: 29px;
     display: inline-block;
-    width: 33%;
+    width: 35%;
     height: 0;
     vertical-align: middle;
     border-top: 1px solid #ededed;;
@@ -94,7 +94,9 @@ body {
     color: #bbb;
     font-size: 12px;
 }
-.dingbu div {padding-left: 10px; padding-right: 10px;}
+.dingbu div {
+    padding-left: 10px; padding-right: 10px;
+}
 
 
 .wang{
@@ -191,9 +193,7 @@ body {
 .item-time{
     font-size: 10px;
     position: relative;
-    line-height: 50px;
     overflow: hidden;
-    font-weight: 500;
 }
 .item-job{
     font-size: 10px;
@@ -202,10 +202,6 @@ body {
     font-size: 10px;
     position: relative;
     padding: 10px 0 5px;
-    line-height: 20px;
-    overflow: hidden;
-    font-weight: 500;
-    min-height: 30px;
 }
 .job-name{
     margin-left: 31px;
@@ -301,7 +297,6 @@ body {
 }
 .link-icon{
     float: right;
-    padding-right: 12px;
 }
 }
 .react{
@@ -340,4 +335,7 @@ body {
 }
 .zhongjian{
     padding:9px;
+}
+.react{
+    padding-top: 15px;
 }
