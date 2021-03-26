@@ -323,12 +323,10 @@ body {
     position: relative;
     left: 38px;
 }
-.left{
-    padding: 5px;
+.left{    
+    padding: 15px;
     overflow: hidden;
     line-height: 22px;
-    position: relative;
-    right: 25px;
 }
 .fight{
     padding: 10px  15px;
@@ -356,7 +354,7 @@ body {
 }
 .mao{   
     width: 97%;
-    padding: 4px 16px 34px;
+    padding: 10px 15px 40px;
     overflow: hidden;
 }
 }
