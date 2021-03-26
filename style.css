@@ -332,8 +332,10 @@ body {
     padding: 10px 15px;
 }
 .waimian{
-    padding: 9px;
-    line-height: 13px;
+    padding: 9px;   
+    line-height: 16px;
+    position: relative;
+    right: 30px;
 }
 .jos{
     padding-top: 40px;
