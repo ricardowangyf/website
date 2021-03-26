@@ -290,11 +290,11 @@ body {
 .link{
     float: right;
 }
-.link{
+/*.link{
     position: relative;
     width: 53px;
     left: 30px;
-}
+}*/
 .link-icon{
     float: right;
 }
