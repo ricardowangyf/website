@@ -304,6 +304,9 @@ body {
 }
 .webpack{
     margin-top: 40px;
+    font-size: 10px;
+    position: relative;
+    padding: 10px 0 10px;
 }
 .nodejs{
     margin-top: 40px;
@@ -351,4 +354,7 @@ body {
     min-height: 192px;
     padding: 20px 36px 19px;
     overflow: hidden;
+}
+.des{
+    font-weight: 300;
 }
