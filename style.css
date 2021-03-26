@@ -322,11 +322,11 @@ body {
     left: 38px;
 }
 .left{
-    padding: 9px;
+    padding: 5px;
     overflow: hidden;
-    line-height: 20px;
+    line-height: 22px;
     position: relative;
-    right: 33px;
+    right: 25px;
 }
 .fight{
     padding: 10px  15px;
