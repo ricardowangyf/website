@@ -275,7 +275,9 @@ body {
     margin-top: 38px;
 }
 .kill{
-    padding: 10px 15px;
+    width: 100%;
+    padding: 10px 35px 50px;
+    overflow: hidden;
 }
 .foot-link{
     display: inline-block;
@@ -352,11 +354,11 @@ body {
 .react{
     padding-top: 15px;
 }
-.mao{
-    width: 93%;
-    min-height: 192px;
-    padding: 20px 36px 19px;
+.mao{   
+    width: 97%;
+    padding: 4px 16px 34px;
     overflow: hidden;
+}
 }
 .des{
     font-weight: 300;
