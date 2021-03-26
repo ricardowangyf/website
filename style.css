@@ -201,14 +201,14 @@ body {
 .item-des{
     font-size: 10px;
     position: relative;
-    padding: 10px 0 5px;
+    padding: 10px 0 10px;
+    font-weight: 300;
 }
 .job-name{
     margin-left: 31px;
 }
 .meituan{
-    margin-top: 39px;
-    margin-left: 28px;
+    margin-top: 42px;
 }
 .cctv{
     margin-left: 219px;
@@ -236,12 +236,12 @@ body {
     height: 14px;
 }
 .item{
-    margin-top: 45px;
-    margin-left: 65px;
+    margin-top: 22px;
+    margin-left: 30px;
 }
 .tenctqq{
-    margin-left: 59px;
-    margin-top:39px;
+    margin-left: 30px;
+    margin-top:30px;
 }
 .ill{
     display: flex;
@@ -319,16 +319,21 @@ body {
 .left{
     padding: 9px;
     overflow: hidden;
+    line-height: 20px;
+    position: relative;
+    right: 33px;
 }
 .fight{
     padding: 10px  15px;
     overflow: hidden;
 }
 .xiamian{
-    padding: 9px;
+    overflow: hidden;
+    padding: 10px 15px;
 }
 .waimian{
     padding: 9px;
+    line-height: 13px;
 }
 .jos{
     padding-top: 40px;
@@ -338,4 +343,10 @@ body {
 }
 .react{
     padding-top: 15px;
+}
+.mao{
+    width: 93%;
+    min-height: 192px;
+    padding: 20px 36px 19px;
+    overflow: hidden;
 }
