@@ -278,7 +278,6 @@ body {
     width: 100%;
     padding: 10px 35px 50px;
     overflow: hidden;
-        padding-top: 50px;
 }
 .foot-link{
     display: inline-block;
@@ -356,7 +355,7 @@ body {
 }
 .mao{   
     width: 97%;
-    padding: 10px 15px 40px;
+    padding: 10px 15px ;
     overflow: hidden;
 }
 }
