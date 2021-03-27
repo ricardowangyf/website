@@ -324,9 +324,9 @@ body {
     left: 38px;
 }
 .left{    
-    padding: 15px;
+    padding: 10px 15px;
     overflow: hidden;
-    line-height: 22px;
+    line-height: 21px;
 }
 .fight{
     padding: 10px  15px;
