@@ -59,7 +59,7 @@ body {
 .title .sub {   
     border-radius: 32px;
     font-weight: 700;
-    padding: 3px 15px;
+    padding: 3px 10px;
     background-color: #eee;
     text-align: center;
     width: 93px;
@@ -73,7 +73,7 @@ body {
     top: 51%;
     right: 5px;
     display: inline-block;
-    width: 35%;
+    width: 30%;
     height: 0;
     vertical-align: middle;
     border-top: 1px solid #ededed;
@@ -84,7 +84,7 @@ body {
     top: 50%;
     left: 29px;
     display: inline-block;
-    width: 35%;
+    width: 30%;
     height: 0;
     vertical-align: middle;
     border-top: 1px solid #ededed;;
@@ -205,6 +205,7 @@ body {
     position: relative;
     padding: 10px 0 10px;
     font-weight: 300;
+    margin-bottom: 5px;
 }
 .job-name{
     margin-left: 31px;
@@ -328,12 +329,12 @@ body {
 .left{    
     padding: 10px 15px;
     overflow: hidden;
-    line-height: 23px;
+    line-height: 24px;
 }
 .fight{
     padding: 10px  15px;
     overflow: hidden;
-    line-height: 22px;
+    line-height: 23px;
 }
 .xiamian{
     overflow: hidden;
