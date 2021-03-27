@@ -274,14 +274,11 @@ body {
     right: 30px;
 }
 .last{
-    color: #d1d1d1;
-    margin-bottom: 25px;
     text-align: center;
-    margin-top: 38px;
 }
 .kill{
     width: 100%;
-    padding: 10px 35px 50px;
+    padding: 3px;
     overflow: hidden;
 }
 .foot-link{
@@ -362,7 +359,7 @@ body {
 }
 .mao{   
     width: 97%;
-    padding: 10px 15px ;
+    padding: 10px;
     overflow: hidden;
     position: relative;
     bottom: 20px;
