@@ -291,9 +291,11 @@ body {
 .zhifubao{
     text-decoration: none;
     color: #00b38a;
+    margin-top: -47px;
 }
 .link{
     float: right;
+    margin-top: -47px;
 }
 /*.link{
     position: relative;
@@ -302,7 +304,7 @@ body {
 }*/
 .link-icon{
     float: right;
-}
+    margin-top: -47px;
 }
 .react{
     margin-top: 40px;
@@ -369,4 +371,8 @@ body {
     font-size: 10px;
     position: relative;
     padding: 10px 0 10px;
+}
+.linkicon{
+    float: right;
+    margin-top: -47px;
 }
