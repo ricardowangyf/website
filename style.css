@@ -59,10 +59,10 @@ body {
 .title .sub {
     border-radius: 32px;
     font-weight: 600;
-    padding: 4px 15px;
+    padding: 6px 2px;
     background-color: #eee;
     text-align: center;
-    width: 61px;
+    width: 80px;
     position: relative;
     left: 14px;
 }
