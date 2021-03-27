@@ -71,9 +71,9 @@ body {
 .xian-right {
     position: absolute;
     top: 51%;
-    right: 5px;
+    left: 310px;
     display: inline-block;
-    width: 30%;
+    width: 35%;
     height: 0;
     vertical-align: middle;
     border-top: 1px solid #ededed;
@@ -82,9 +82,9 @@ body {
 .xian-left {
     position: absolute;
     top: 50%;
-    left: 29px;
+    left: 20px;
     display: inline-block;
-    width: 30%;
+    width: 35%;
     height: 0;
     vertical-align: middle;
     border-top: 1px solid #ededed;;
@@ -208,7 +208,7 @@ body {
     margin-bottom: 5px;
 }
 .job-name{
-    margin-left: 31px;
+    margin-left: 20px;
 }
 .meituan{
     margin-top: 42px;
@@ -239,12 +239,12 @@ body {
     height: 14px;
 }
 .item{
-    margin-top: 22px;
-    margin-left: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
 }
 .tenctqq{
-    margin-left: 30px;
-    margin-top:30px;
+    margin-left: 15px;
+    margin-top:20px;
 }
 .ill{
     display: flex;
@@ -377,8 +377,8 @@ body {
     margin-top: -20px;
 }
 .tencqq{
-    margin-left: 30px;
-    padding-top: 66px;
+    margin-left: 15px;
+    padding-top: 50px;
 }
 .name-job{
     position: relative;
