@@ -278,6 +278,7 @@ body {
     width: 100%;
     padding: 10px 35px 50px;
     overflow: hidden;
+        padding-top: 50px;
 }
 .foot-link{
     display: inline-block;
@@ -326,11 +327,12 @@ body {
 .left{    
     padding: 10px 15px;
     overflow: hidden;
-    line-height: 21px;
+    line-height: 20px;
 }
 .fight{
     padding: 10px  15px;
     overflow: hidden;
+    line-height: 17px;
 }
 .xiamian{
     overflow: hidden;
