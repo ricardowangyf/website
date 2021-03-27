@@ -304,7 +304,7 @@ body {
 }*/
 .link-icon{
     float: right;
-    margin-top: -47px;
+    margin-top:-20px
 }
 .react{
     margin-top: 40px;
@@ -374,5 +374,24 @@ body {
 }
 .linkicon{
     float: right;
-    margin-top: -47px;
+    margin-top: -20px;
+}
+.tencqq{
+    margin-left: 30px;
+    padding-top: 66px;
+}
+.name-job{
+    position: relative;
+    padding: 10px 0 5px;
+    line-height: 20px;
+    overflow: hidden;
+    font-weight: 500;
+    min-height: 30px;
+}
+.pol{
+    position: relative;
+    padding: 5px 10px;
+    line-height: 20px;
+    overflow: hidden;
+    font-weight: 500;
 }
