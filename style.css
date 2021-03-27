@@ -56,15 +56,17 @@ body {
     margin: 10px auto 5px;
 }
 
-.title .sub {
+.title .sub {   
     border-radius: 32px;
-    font-weight: 600;
-    padding: 6px 2px;
+    font-weight: 700;
+    padding: 3px 15px;
     background-color: #eee;
     text-align: center;
-    width: 80px;
+    width: 93px;
     position: relative;
     left: 14px;
+    margin: 0 auto;
+    font-size: 15px;
 }
 .xian-right {
     position: absolute;
@@ -326,12 +328,12 @@ body {
 .left{    
     padding: 10px 15px;
     overflow: hidden;
-    line-height: 20px;
+    line-height: 22px;
 }
 .fight{
     padding: 10px  15px;
     overflow: hidden;
-    line-height: 17px;
+    line-height: 19px;
 }
 .xiamian{
     overflow: hidden;
@@ -357,7 +359,6 @@ body {
     width: 97%;
     padding: 10px 15px ;
     overflow: hidden;
-}
 }
 .des{
     font-weight: 300;
