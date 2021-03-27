@@ -59,14 +59,14 @@ body {
 .title .sub {   
     border-radius: 32px;
     font-weight: 700;
-    padding: 3px 10px;
+    padding: 6px 10px 30px 10px;
     background-color: #eee;
     text-align: center;
     width: 93px;
     position: relative;
     left: 14px;
     margin: 0 auto;
-    font-size: 15px;
+    font-size: 17px;
 }
 .xian-right {
     position: absolute;
@@ -254,13 +254,14 @@ body {
     border-bottom: 1px solid #ededed;
     position: relative;
     height: 11px;
-    width: 338px;
+    width: 300px;
 }
 .ill-r{
     border-bottom: 1px solid #ededed;
     position: relative;
     height: 12px;
-    width: 338px;
+    width: 34%;
+    right: 70px;
 }
 .ill-w{
     border-radius: 32px;
@@ -268,8 +269,9 @@ body {
     padding: 4px 10px;
     background-color: #eee;
     text-align: center;
-    width: 25%;
-    margin: 0 auto;
+    width: 15%;
+    position: relative;
+    right: 30px;
 }
 .last{
     color: #d1d1d1;
@@ -362,6 +364,8 @@ body {
     width: 97%;
     padding: 10px 15px ;
     overflow: hidden;
+    position: relative;
+    bottom: 20px;
 }
 .des{
     font-weight: 300;
