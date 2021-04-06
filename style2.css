@@ -13,9 +13,208 @@
     min-height: 800px;
     color: #fff;
 }
-.sidebar-wrapper.profile-contanier{padding: 30px;
+.sidebar-wrapper.profile-contanier{
+    padding: 30px;
     background: rgba(0, 0, 0, 0.2);
     display: flex;
     justify-content: center;
     color: #fff;
+}
+/*设置页面背景颜色*/
+.body {
+    background-color: #eee;
+    font-size: 14px;
+}
+
+.juzhong{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+.dingbu{
+    margin-top: 33px;
+    color: #bbb;
+    font-size: 12px;
+}
+.l{
+    color: rgb(248, 245, 245);
+    background-color: #00b38a;
+    border-radius: 5px 5px 0px 0px;
+    margin-top: 5px;
+    font-size: 11px;
+    height: 252px;
+}
+.name{
+    padding: 30px 50px  10px ;
+    display: flex;
+    justify-content: space-between;
+}
+.wang{
+    font-size: 55px;
+}
+.job-q{    
+    font-size: 24px;
+    position: relative;
+    top: 35px;
+    font-weight: 100;
+}
+.yu{
+    border-top: 2px solid #00a982;
+    padding-top: 10px;
+}
+.wo{
+    display: flex;
+    justify-content: space-between;
+}
+.xian{
+    width: 90%;
+    position: relative;
+    left: 47px;
+}
+.o{
+    padding: 2px 50px 11px;
+}
+.nan{
+    font-size: 17px;
+}
+.boke{
+    font-size: 17px;
+}
+.baise{
+    background-color: #fff;
+    height: 1505px;
+}
+.sub{
+    border-radius: 32px;
+    font-weight: 700;
+    padding: 2px  5px;
+    background-color: #eee;
+    text-align: center;
+    width: 90px;
+    position: relative;
+    left: 10px;
+    margin: 0 auto;
+    font-size: 17px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    height: 28px;
+    margin: 10px auto 5px;
+}
+.xian-left{
+    position: absolute;
+    top: 50%;
+    left: 33px;
+    display: inline-block;
+    width: 35%;
+    height: 0;
+    vertical-align: middle;
+    border-top: 1px solid #ededed;
+}
+.xian-right{
+    position: absolute;
+    top: 50%;
+    right: 7px;
+    display: inline-block;
+    width: 35%;
+    height: 0;
+    vertical-align: middle;
+    border-top: 1px solid #ededed;
+}
+.shanghai{
+    padding: 5px 10px 5px;
+    position: relative;
+    left: 15px;
+    line-height: 30px;
+}
+.link{
+    display: flex;
+    justify-content: flex-end;
+}
+.item-des{
+    position: relative;
+    bottom: 35px;
+    font-weight: 300;
+}
+.meituan{
+    padding: 5px 10px 5px;
+}
+.tenctqq{
+    padding: 10px 5px 5px;
+}
+.item{
+    padding: 5px 10px;
+}
+.mao{
+    padding: 10px 20px;
+}
+.ms{
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+}
+.linkicon{
+    display: flex;
+    justify-content: flex-end;
+}
+.ill{
+    display: flex;
+    justify-content: space-between;
+}
+.ill-w{
+    border-radius: 32px;
+    font-weight: 700;
+    padding: 4px 10px;
+    background-color: #eee;
+    text-align: center;
+    width: 15%;
+    position: relative;
+    right: 5px;
+}
+.ill-l{
+    border-bottom: 1px solid #ededed;
+    position: relative;
+    height: 11px;
+    width: 300px
+}
+.ill-r{
+    border-bottom: 1px solid #ededed;
+    position: relative;
+    height: 11px;
+    width: 300px
+}
+.zhongjian{
+    display: flex;
+    justify-content: space-between;
+    line-height: 35px;
+    padding: 15px 55px;
+    position: relative;
+    right: 30px
+}
+.another{
+    padding: 10px;
+}
+.itemdes{
+    font-weight: 300;
+}
+.item-name{
+    font-weight: 700;
+}
+
+.zhifubao{
+    text-decoration: none;
+    color: #00b38a;
+}
+.last{
+    display: flex;
+    justify-content: center;
+    margin-top: 42px;
+}
+.footlink{
+    display: inline-block;
+    color: #d1d1d1;
+    margin-bottom: 25px;
+    text-decoration: none;
 }
