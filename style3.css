@@ -125,8 +125,6 @@
     font-weight: 500;
     color: #2d7788;
     position: relative;
-    margin-top: 0;
-    margin-bottom: 20px;
 }
 .icon{
     width: 40px;
@@ -157,4 +155,33 @@ a{
     position: relative;
     bottom: 60px;
     color: #2d7788;
+}
+.mo{
+    position: relative;
+    left: 50px;
+    bottom: 60px;
+}
+.tim{
+    position: absolute;
+    right: 0;
+    top: 20px;
+    color: #97AAC3;
+}
+.company{
+    color: #97AAC3;
+    position: relative;
+    bottom: 25px;
+}
+.upper-row{
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 2px;
+}
+.details{
+    position: relative;
+    bottom: 20px;
+}
+.ite{
+    position: relative;
+    bottom: 80px;
 }
