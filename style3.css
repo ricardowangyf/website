@@ -33,3 +33,10 @@
     margin-top: 0;
     margin-bottom: 0;
 }
+.contact{
+    width: 17px;
+}
+.phone{
+    position: relative;
+    left: 21px;
+}
