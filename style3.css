@@ -40,3 +40,14 @@
     position: relative;
     left: 21px;
 }
+.web{
+    position: relative;
+    left: 23px;
+}
+.jus{
+    text-decoration: none;
+    color: white;
+    position: relative;
+    left: 30px;
+    bottom: 25px;
+}
