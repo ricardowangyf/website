@@ -1,11 +1,11 @@
-.wrapper{
-    background: #42A8C0;
+.wraper{
+    background: #42A8c0;
     max-width: 960px;
     margin: 0 auto;
     margin-top: 30px;
-    position: relative;
+    position: relative
 }
-.sidebar-wrapper{
+.sid-wraper{
     background: #42A8C0;
     position: absolute;
     right: 0;
@@ -14,24 +14,9 @@
     min-height: 800px;
     color: #fff;
 }
-.profile-container .sidebar-wrapper{
+.pro-contanin{
     padding: 30px;
     background: rgba(0, 0, 0, 0.2);
-    text-align: center;
+  text-align: center;
     color: #fff;
-}
-  .sidebar-wrapper .name  {
-    font-size: 32px;
-    font-weight: 900;
-    margin-top: 0;
-    margin-bottom: 10px;
-    display: flex;
-    justify-content: center;
-}
-.di{
-    display: flex;
-    justify-content: center;
-}
-.profile{
-    width: 20px;
 }
