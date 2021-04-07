@@ -205,3 +205,33 @@ a{
     top: 20px;
     color: #97AAC3;
 }
+.project-title{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.intro{
+    position: relative;
+    bottom: 50px;
+}
+.item{
+    position: relative;
+    bottom: 40px;
+}
+.itm{
+    position: relative;
+    top: 20px;
+}
+.em{
+    position: relative;
+    top: 35px;
+}
+.tem{
+    position: relative;
+    top: 50px;
+}
+.ios{
+    position: relative;
+    top: 20px;
+}
