@@ -245,3 +245,25 @@ a{
     bottom: 60px;
     text-transform: uppercase;
 }
+.bar{
+    background: #68bacd;
+}
+.ol{
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+.level-title{
+   display: flex;
+   justify-content: flex-start;
+    width: 30%;
+    margin-bottom: 0;
+}
+.bar{
+    height: 12px;
+    background: #f5f5f5;
+    border-radius: 2px;
+    background: #68bacd;
+    position: relative;
+    left: 133px;
+    bottom: 15px;
+}
