@@ -243,4 +243,5 @@ a{
     position: relative;
     left: 50px;
     bottom: 60px;
+    text-transform: uppercase;
 }
