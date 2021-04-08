@@ -235,3 +235,12 @@ a{
     position: relative;
     top: 20px;
 }
+.ti{
+    position: relative;
+    top: 60px;
+}
+.amp{
+    position: relative;
+    left: 50px;
+    bottom: 60px;
+}
