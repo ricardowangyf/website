@@ -274,9 +274,30 @@ a{
     display: flex;
     justify-content: center;
 }
-.theme-progress-bar{
-    background: #68bacd;
+.the{
+    width: 60%;
+    border: 5px  solid #68bacd;
 }
 .skills{
     line-height: 0.5px;
+    overflow: hidden;
+}
+.theme-progress-bar{
+    width: 74%;
+    border: 5px  solid #68bacd;
+}.te{
+    width: 73%;
+    border: 5px  solid #68bacd;
+}
+.me{
+    width: 73%;
+    border: 5px  solid #68bacd;
+}
+.pro{
+    width: 70%;
+    border: 5px  solid #68bacd;
+}
+.arr{
+    width: 65%;
+    border: 5px  solid #68bacd;
 }
