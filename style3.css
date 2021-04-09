@@ -305,3 +305,11 @@ a{
     width: 50%;
     border: 5px  solid #68bacd;
 }
+.item{
+    position: relative;
+    bottom: 110px;
+}
+.summay{
+    position: relative;
+    bottom: 85px;
+}
