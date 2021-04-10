@@ -78,11 +78,15 @@ body{
     color: rgba(255, 255, 255, 0.6);
     font-weight: 500;
     margin-bottom: 0px;
+    position: relative;
+    bottom: 20px;
 }
 .time{
     color: rgba(255, 255, 255, 0.6);
     font-weight: 500;
     margin-bottom: 0px;
+    position: relative;
+    bottom: 20px;
 }
 .languages{
     padding: 15px;
