@@ -5,6 +5,9 @@ img{
     color: #81848f;
 }
 .navebar{
+    border: 30px solid #fff;
+}
+.menu{
     background: #fff;
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.2);
