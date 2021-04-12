@@ -10,3 +10,36 @@ img{
 .navebar{
     border: 30px solid #fff;
 }
+.right{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 13px;
+    font-weight: 600;
+    color: #515769;
+    position: relative;
+    bottom: 35px;
+}
+.header .nav-item-hover:after{
+    position: absolute;
+    top: 45px;
+    left: 0;
+    width: 9px;
+    height: 2px;
+    background: #608b90;
+}
+.j{
+    position: absolute;
+    width: 9px;
+    height: 2px;
+    background: #17bed2;
+    right: 200px;
+}
+.op{
+    display: flex;
+    justify-content: flex-end;
+}
+.l{
+    position: relative;
+    right: 160px;
+    bottom: 8px;
+}
