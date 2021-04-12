@@ -1,7 +1,10 @@
-
+body{
+    margin: 0;
+}
 .im{
     position: relative;
     left: 210px;
+    width: 350px;
 }
 img{
     color: #81848f;
@@ -58,6 +61,7 @@ img{
     background: #17bed2;
 }
 .q{
+    display: block;
     position: relative;
     top: 48px;
     width: 9px;
@@ -65,6 +69,7 @@ img{
     background: #17bed2;
     right: 15px;
 }
+
 .w{
     position: relative;
     top: 48px;
@@ -80,6 +85,7 @@ img{
     width: 9px;
     height: 2px;
     background: #17bed2;
+    display: block;
 }
 .r{
     position: relative;
@@ -99,7 +105,7 @@ img{
 }
 .container{
     position: relative;
-    top: 21px;
+    top: 28px;
 }
 .con{
     position: relative;
@@ -148,5 +154,20 @@ img{
     width: 50%;
     float: right;
     position: relative;
-    bottom: 420px;
+    bottom: 480px;
+}
+.inline{
+    height: 40px;
+    /* font-size: 26px; */
+    color: #515769;
+    background: #fff;
+    border-radius: 50%;
+    padding: 11px;
+    width: 38px;
+    position: relative;
+    /* font-family: 'simple-line-icons'; */
+    /* speak: none; */
+    /* font-style: normal; */
+    bottom: 130px;
+    left: 30px;
 }
