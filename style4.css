@@ -32,7 +32,8 @@ img{
     width: 9px;
     height: 2px;
     background: #17bed2;
-    right: 200px;
+    right: 40px;
+    top: 8px;
 }
 .op{
     display: flex;
@@ -40,6 +41,23 @@ img{
 }
 .l{
     position: relative;
-    right: 160px;
+    right: 340px;
     bottom: 8px;
+    text-transform : uppercase
+}
+.R{
+    position: absolute;
+    width: 9px;
+    height: 2px;
+    background: #17bed2;
+    right: 50px;
+    top: 8px;
+}
+.o{
+    text-transform : uppercase
+}
+.M{
+    position: relative;
+    right: 315px;
+    bottom: 7px;
 }
