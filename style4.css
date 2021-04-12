@@ -1,10 +1,9 @@
 body{
     bottom: 0px;
     background: #fff;
-
+    
 }
 html{
-    overflow: hidden;
     padding: 5px;
 }
 img{
@@ -64,43 +63,43 @@ img{
 }
 .q{
     position: absolute;
-    top: 47px;
-    left: 655px;
+    top: 48px;
+    left: 638px;
     width: 9px;
     height: 2px;
     background: #17bed2;
 }
 .w{
     position: absolute;
-    top: 47px;
-    left: 825px;
+    top: 48px;
+    left: 810px;
     width: 9px;
     height: 2px;
     background: #17bed2;
 }
 .e{
     position: relative;
-    top: 47px;
-    right: 10px;
+    top: 48px;
+    right: 13px;
     width: 9px;
     height: 2px;
     background: #17bed2;
 }
 .r{
     position: relative;
-    top: 46px;
+    top: 48px;
     width: 9px;
     height: 2px;
     background: #17bed2;
-    right: 10px;
+    right: 15px;
 }
 .t{
     position: relative;
-    top: 47px;
+    top: 48px;
     width: 9px;
     height: 2px;
     background: #17bed2;
-    right: 10px;
+    right: 15px;
 }
 .container{
     position: relative;
@@ -108,12 +107,14 @@ img{
 }
 .con{
     position: relative;
-    bottom: 35px;
+    bottom: 52px;
 }
 .another{
     background: #fafafa;
     padding-top: 220px;
-    width: 50%;
+    width: 52%;
+    position: relative;
+    right: 14px;
 }
 .b{
     font-size: 32px;
@@ -146,7 +147,13 @@ img{
     border-radius: 50%;
     padding: 11px;
 }
-.r{
-    display: flex;
-    justify-content: flex-start;
+.nother{
+    background: #fafafa;
+    width: 50%;
+    float: right;
+    position: relative;
+    bottom: 509px;
+}
+.img{
+    float: right;
 }
