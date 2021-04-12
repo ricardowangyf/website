@@ -132,3 +132,21 @@ img{
     color: #515769;
     margin: auto;
 }
+.op{
+    background: #fafafa;
+    padding-top: 220px;
+    width: 50%;
+}
+.social-icons{
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    color: #515769;
+    background: #fff;
+    border-radius: 50%;
+    padding: 11px;
+}
+.r{
+    display: flex;
+    justify-content: flex-start;
+}
