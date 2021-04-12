@@ -10,6 +10,10 @@ img{
     border: 1px solid  #fff;
     background: #fff;
     height: 90px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 1013;
 }
 .right{
     display: flex;
@@ -54,20 +58,20 @@ img{
     background: #17bed2;
 }
 .q{
-    position: absolute;
+    position: relative;
     top: 48px;
-    left: 638px;
     width: 9px;
     height: 2px;
     background: #17bed2;
+    right: 15px;
 }
 .w{
-    position: absolute;
+    position: relative;
     top: 48px;
-    left: 810px;
     width: 9px;
     height: 2px;
     background: #17bed2;
+    right: 15px;
 }
 .e{
     position: relative;
@@ -144,5 +148,5 @@ img{
     width: 50%;
     float: right;
     position: relative;
-    bottom: 509px;
+    bottom: 420px;
 }
