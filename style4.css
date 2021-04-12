@@ -1,16 +1,19 @@
+body{
+    bottom: 0px;
+    background: #fff;
 
+}
 html{
     overflow: hidden;
+    padding: 5px;
 }
 img{
     color: #81848f;
 }
 .navebar{
-    border: 30px solid #fff;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
+    border: 1px solid  #fff;
+    background: #fff;
+    height: 90px;
 }
 .right{
     display: flex;
@@ -18,8 +21,6 @@ img{
     font-size: 13px;
     font-weight: 600;
     color: #515769;
-    position: relative;
-    bottom: 60px;
 }
 .header .nav-item-hover:after{
     position: absolute;
@@ -45,13 +46,15 @@ img{
     line-height: 55px;
     padding: 20px;
     position: relative;
-    left: 15px;
+    right: 25px;
+    top: 2px;
 }
 .item{
     position: relative;
+    
     bottom: 30px;
 }
-.navebar.hover::after{
+.navebar.hover{
     position: absolute;
     top: 45px;
     left: 0;
@@ -62,7 +65,7 @@ img{
 .q{
     position: absolute;
     top: 47px;
-    left: 600px;
+    left: 655px;
     width: 9px;
     height: 2px;
     background: #17bed2;
@@ -70,7 +73,7 @@ img{
 .w{
     position: absolute;
     top: 47px;
-    left: 685px;
+    left: 825px;
     width: 9px;
     height: 2px;
     background: #17bed2;
@@ -78,18 +81,18 @@ img{
 .e{
     position: relative;
     top: 47px;
-    left: 240px;
-    width: 10px;
+    right: 10px;
+    width: 9px;
     height: 2px;
     background: #17bed2;
 }
 .r{
     position: relative;
-    top: 47px;
+    top: 46px;
     width: 9px;
     height: 2px;
     background: #17bed2;
-    right: 105px;
+    right: 10px;
 }
 .t{
     position: relative;
@@ -97,9 +100,35 @@ img{
     width: 9px;
     height: 2px;
     background: #17bed2;
-    left: 20px;
+    right: 10px;
 }
 .container{
     position: relative;
-    top: 11px;
+    top: 35px;
+}
+.con{
+    position: relative;
+    bottom: 35px;
+}
+.another{
+    background: #fafafa;
+    padding-top: 220px;
+    width: 50%;
+}
+.b{
+    font-size: 32px;
+    position: relative;
+    bottom: 144px;
+    left: 15px;
+}
+.text{
+    font-weight: 400;
+    color: #a6a7aa;
+    position: relative;
+    bottom: 15px;
+}
+.title{
+    font-weight: 700;
+    color: #515769;
+    margin: auto;
 }
