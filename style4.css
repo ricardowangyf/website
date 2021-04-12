@@ -20,7 +20,7 @@ img{
     font-weight: 600;
     color: #515769;
     position: relative;
-    bottom: 35px;
+    bottom: 70px;
 }
 .header .nav-item-hover:after{
     position: absolute;
@@ -37,11 +37,58 @@ img{
     background: #17bed2;
     right: 40px;
     top: 8px;
-}.hover{
+}
+.hover{
     text-transform:uppercase; 
     font-size: 13px;
     font-weight: 600;
     color: #515769;
     line-height: 55px;
     padding: 20px;
+    position: relative;
+    left: 15px;
+}
+.item{
+    position: relative;
+    bottom: 30px;
+}
+.navebar.hover::after{
+    position: absolute;
+    top: 45px;
+    left: 0;
+    width: 9px;
+    height: 2px;
+    background: #17bed2;
+}
+.q{
+    position: absolute;
+    top: 47px;
+    left: 600px;
+    width: 9px;
+    height: 2px;
+    background: #17bed2;
+}
+.w{
+    position: absolute;
+    top: 47px;
+    left: 685px;
+    width: 9px;
+    height: 2px;
+    background: #17bed2;
+}
+.e{
+    position: relative;
+    top: 47px;
+    left: 765px;
+    width: 9px;
+    height: 2px;
+    background: #17bed2;
+}
+.r{
+    position: relative;
+    top: 47px;
+    width: 9px;
+    height: 2px;
+    background: #17bed2;
+    right: 105px;
 }
