@@ -1,7 +1,6 @@
 
 html{
     overflow: hidden;
-    padding: 10px;
 }
 img{
     color: #81848f;
@@ -20,7 +19,7 @@ img{
     font-weight: 600;
     color: #515769;
     position: relative;
-    bottom: 70px;
+    bottom: 60px;
 }
 .header .nav-item-hover:after{
     position: absolute;
@@ -99,4 +98,8 @@ img{
     height: 2px;
     background: #17bed2;
     left: 20px;
+}
+.container{
+    position: relative;
+    top: 11px;
 }
