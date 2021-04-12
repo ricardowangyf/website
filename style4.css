@@ -1,10 +1,7 @@
-body{
-    bottom: 0px;
-    background: #fff;
-    
-}
-html{
-    padding: 5px;
+
+.im{
+    position: relative;
+    left: 210px;
 }
 img{
     color: #81848f;
@@ -47,11 +44,6 @@ img{
     position: relative;
     right: 25px;
     top: 2px;
-}
-.item{
-    position: relative;
-    
-    bottom: 30px;
 }
 .navebar.hover{
     position: absolute;
@@ -103,11 +95,11 @@ img{
 }
 .container{
     position: relative;
-    top: 35px;
+    top: 21px;
 }
 .con{
     position: relative;
-    bottom: 52px;
+    bottom: 43px;
 }
 .another{
     background: #fafafa;
@@ -153,7 +145,4 @@ img{
     float: right;
     position: relative;
     bottom: 509px;
-}
-.img{
-    float: right;
 }
