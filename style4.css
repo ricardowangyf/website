@@ -79,8 +79,8 @@ img{
 .e{
     position: relative;
     top: 47px;
-    left: 765px;
-    width: 9px;
+    left: 240px;
+    width: 10px;
     height: 2px;
     background: #17bed2;
 }
@@ -91,4 +91,12 @@ img{
     height: 2px;
     background: #17bed2;
     right: 105px;
+}
+.t{
+    position: relative;
+    top: 47px;
+    width: 9px;
+    height: 2px;
+    background: #17bed2;
+    left: 20px;
 }
