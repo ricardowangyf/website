@@ -60,7 +60,18 @@ img{
     height: 2px;
     background: #17bed2;
 }
-.q{
+.hove{
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    color: #515769;
+    line-height: 55px;
+    padding: 20px;
+    position: relative;
+    right: 16px;
+    bottom: 11px;
+}
+.de{
     display: block;
     position: relative;
     top: 48px;
@@ -69,7 +80,12 @@ img{
     background: #17bed2;
     right: 15px;
 }
-
+.de{
+    display: none;
+}
+div:hover .de{
+    display: block;
+}
 .w{
     position: relative;
     top: 48px;
@@ -158,16 +174,12 @@ img{
 }
 .inline{
     height: 40px;
-    /* font-size: 26px; */
     color: #515769;
     background: #fff;
     border-radius: 50%;
     padding: 11px;
     width: 38px;
     position: relative;
-    /* font-family: 'simple-line-icons'; */
-    /* speak: none; */
-    /* font-style: normal; */
     bottom: 130px;
     left: 30px;
 }
@@ -177,19 +189,19 @@ img{
     top: 180px;
 }
 .wenz{
-    width: 460px;
+    width: 652px;
     display: flex;
     float: right;
     position: relative;
-    bottom: 550px;
-    right: 300px;
+    bottom: 532px;
+    right: 119px;
 }
-h2{
+h3{
     font-weight: 700;
     color: #515769;
     margin: 0 0 15px;
 }
-p{
+h3{
     font-size: 15px;
     font-weight: 400;
     color: #a6a7aa;
