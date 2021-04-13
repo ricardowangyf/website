@@ -176,3 +176,22 @@ img{
     left: 100px;
     top: 180px;
 }
+.wenz{
+    width: 460px;
+    display: flex;
+    float: right;
+    position: relative;
+    bottom: 550px;
+    right: 300px;
+}
+h2{
+    font-weight: 700;
+    color: #515769;
+    margin: 0 0 15px;
+}
+p{
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+    margin-bottom: 15px;
+}
