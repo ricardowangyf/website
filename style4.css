@@ -222,4 +222,28 @@ h3{
     font-weight: 400;
     color: #a6a7aa;
     margin-bottom: 15px;
+    position: relative;
+    left: 15px;
+}
+.margin-b-50{
+    position: relative;
+    left:125px ;
+}
+.wenz{
+    clear: both;
+}
+input{
+    float: right;
+    color: #515769;
+    background: #f3f4f5;
+    border-color: transparent;
+    border-width: 0;
+    position: relative;
+    left: 145px;
+    bottom: 250px;
+}
+.bottom{
+    font-size: 15px;
+    font-weight: 600;
+    padding: 20px 30px;
 }
