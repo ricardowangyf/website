@@ -3,8 +3,8 @@ body{
 }
 .im{
     position: relative;
-    left: 210px;
-    width: 350px;
+    left: 106px;
+    width: 351px;
 }
 img{
     color: #81848f;
@@ -141,8 +141,8 @@ img{
 .b{
     font-size: 32px;
     position: relative;
-    bottom: 144px;
-    left: 15px;
+    bottom: 90px;
+    left: 100px;
 }
 .text{
     font-weight: 400;
@@ -178,31 +178,29 @@ img{
 }
 .inline{
     height: 40px;
-    /* font-size: 26px; */
     color: #515769;
     background: #fff;
     border-radius: 50%;
     padding: 11px;
     width: 38px;
     position: relative;
-    /* font-family: 'simple-line-icons'; */
-    /* speak: none; */
-    /* font-style: normal; */
     bottom: 130px;
     left: 30px;
 }
 .ig{
-    position: relative;
-    left: 100px;
-    top: 180px;
+   position: relative;
+   left: 90px;
+   top: 180px;
+   width: 35%;
+   height: auto;
 }
 .wenz{
     width: 460px;
     display: flex;
     float: right;
     position: relative;
-    bottom: 550px;
-    right: 300px;
+    bottom: 400px;
+    right: 410px;
 }
 h2{
     position: relative;
@@ -217,13 +215,12 @@ h3{
     left: 15px;
 
 }
-h3{
-    font-size: 15px;
-    font-weight: 400;
+h4{
+    font-size: 30px;
+    font-weight: 700;
     color: #a6a7aa;
-    margin-bottom: 15px;
+    margin:0;
     position: relative;
-    left: 15px;
 }
 .margin-b-50{
     position: relative;
@@ -239,8 +236,8 @@ input{
     border-color: transparent;
     border-width: 0;
     position: relative;
-    left: 145px;
-    bottom: 250px;
+    left: 136px;
+    bottom: 150px;
 }
 .bottom{
     font-size: 15px;
@@ -252,4 +249,64 @@ input{
     left: 90px;
     top: 5px;
     overflow: hidden;
+}
+.skills{
+    font-weight: 700;
+    color: #515769;
+    float: right;
+    position: relative;
+    left: 265px;
+}
+span{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    left: 350px;
+    bottom: 45px;
+}
+.progress{
+    overflow: hidden;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    width: 376%;
+    position: relative;
+    bottom: 40px;
+}
+.m{
+    border-bottom: 1px solid #edf0f2;
+    width: 50%;
+    float: right;
+    position: relative;
+    left: 405px;
+    top: 20px;
+}
+.bar{
+    border-bottom: 1px solid;
+    width: 87%;
+}
+.bai{
+    position: relative;
+    right: 80px;
+    top: 60px;
+}
+.ba{
+    border-bottom: 1px solid;
+    width: 96%;
+}
+.progress-box{
+    position: relative;
+    bottom: 25px;
+}
+.a{
+    border-bottom: 1px solid;
+    width: 77%;
+}
+.progress{
+    position: relative;
+    bottom: 25px;
+}
+h7{
+    position: relative;
+    bottom: 20px;
+    font-size: 5px;
 }
