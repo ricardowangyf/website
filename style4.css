@@ -247,3 +247,9 @@ input{
     font-weight: 600;
     padding: 20px 30px;
 }
+.menu{
+    position: relative;
+    left: 90px;
+    top: 5px;
+    overflow: hidden;
+}
