@@ -310,3 +310,63 @@ h7{
     bottom: 20px;
     font-size: 5px;
 }
+.next{
+    background: #fafafa;
+    position: relative;
+    width: 1142px;
+    height: 475px;
+}
+.e{
+    background: #fff;
+    padding: 30px;
+    background: #fff;
+    padding: 30px;
+    width: 190px;
+    height: 184px;
+    overflow: hidden;
+    position: relative;
+    left: 88px;
+    top: 99px;
+}
+.margin{
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+    position: relative;
+    top: 60px;
+    width: 178px;
+    overflow: hidden;
+}
+
+h8{
+    font-weight: 700;
+    color: #515769;
+    position: relative;
+    top: 65px;
+}
+.box1{
+    background: #17bed2;
+    position: relative;
+    width: 250px;
+    height: 245px;
+    position: relative;
+    left: 350px;
+    bottom: 145px;
+}
+.colo{
+    font-weight: 700;
+    color: #515769;
+    position: relative;
+    top: 95px;
+    left: 10px;
+}
+.margin5{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    position: relative;
+    top: 88px;
+    width: 171px;
+    left: 15px;
+    overflow: hidden;
+}
