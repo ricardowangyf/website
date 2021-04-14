@@ -319,7 +319,6 @@ h7{
 .e{
     background: #fff;
     padding: 30px;
-    background: #fff;
     padding: 30px;
     width: 190px;
     height: 184px;
@@ -343,6 +342,7 @@ h8{
     color: #515769;
     position: relative;
     top: 65px;
+    font-size: 22px;
 }
 .box1{
     background: #17bed2;
@@ -355,10 +355,11 @@ h8{
 }
 .colo{
     font-weight: 700;
-    color: #515769;
+    color: #f5f5f5;
     position: relative;
     top: 95px;
     left: 10px;
+    font-size: 22px;
 }
 .margin5{
     color: #fff;
@@ -369,4 +370,17 @@ h8{
     width: 171px;
     left: 15px;
     overflow: hidden;
+}
+h10{
+    font-weight: 700;
+    color: #515769;
+    font-size: 22px;
+}
+.margin-6{
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+}
+.g-1{
+    background: #fafafa;
 }
