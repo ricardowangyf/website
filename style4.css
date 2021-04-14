@@ -61,6 +61,17 @@ img{
     background: #17bed2;
 }
 .hove{
+    text-transform:uppercase; 
+    font-size: 13px;
+    font-weight: 600;
+    color: #515769;
+    line-height: 55px;
+    padding: 20px;
+    position: relative;
+    right: 25px;
+    bottom: 11px;
+}
+.hov{
     text-transform: uppercase;
     font-size: 13px;
     font-weight: 600;
@@ -68,23 +79,16 @@ img{
     line-height: 55px;
     padding: 20px;
     position: relative;
-    right: 16px;
-    bottom: 11px;
+    right: 19px;
+    bottom: 6px;
 }
-.de{
-    display: block;
+.d{
     position: relative;
-    top: 48px;
+    top: 35px;
     width: 9px;
     height: 2px;
     background: #17bed2;
     right: 15px;
-}
-.de{
-    display: none;
-}
-div:hover .de{
-    display: block;
 }
 .w{
     position: relative;
@@ -174,12 +178,16 @@ div:hover .de{
 }
 .inline{
     height: 40px;
+    /* font-size: 26px; */
     color: #515769;
     background: #fff;
     border-radius: 50%;
     padding: 11px;
     width: 38px;
     position: relative;
+    /* font-family: 'simple-line-icons'; */
+    /* speak: none; */
+    /* font-style: normal; */
     bottom: 130px;
     left: 30px;
 }
@@ -189,17 +197,25 @@ div:hover .de{
     top: 180px;
 }
 .wenz{
-    width: 652px;
+    width: 460px;
     display: flex;
     float: right;
     position: relative;
-    bottom: 532px;
-    right: 119px;
+    bottom: 550px;
+    right: 300px;
+}
+h2{
+    position: relative;
+    left: 15px;
 }
 h3{
-    font-weight: 700;
-    color: #515769;
-    margin: 0 0 15px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+    margin-bottom: 15px;
+    position: relative;
+    left: 15px;
+
 }
 h3{
     font-size: 15px;
