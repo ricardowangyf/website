@@ -398,3 +398,30 @@ h10{
     width: 178px;
     overflow: hidden;
 }
+.g-2{
+    width: 230px;
+    height: 245px;
+    position: relative;
+    bottom: 635px;
+    left: 855px;
+    background: #fff;
+    overflow: hidden;
+}
+.margin-8{
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+    position: relative;
+    top: 90px;
+    left: 10px;
+    width: 178px;
+    overflow: hidden;
+}
+h11{
+    font-weight: 700;
+    color: #515769;
+    font-size: 22px;
+    position: relative;
+    top: 100px;
+    left: 10px;
+}
