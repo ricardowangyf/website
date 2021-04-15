@@ -235,11 +235,18 @@ img {
     width: 450px;
     bottom: 180px;
     left: 800px;
-    bottom: 620px;
+    bottom: 635px;
 }
 
  h2 {
     font-weight: 700;
     color: #515769;
     font-size: 35px;
+}
+P{
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+    margin-bottom: 15px;
+}
 }
