@@ -376,12 +376,25 @@ h10{
     font-weight: 700;
     color: #515769;
     font-size: 22px;
+    position: relative;
+    top: 100px;
+    left: 10px;
 }
-.margin-6{
+.g-1{
+    width: 230px;
+    height: 245px;
+    position: relative;
+    bottom: 390px;
+    left: 615px;
+    background: #fff;
+    overflow: hidden;
+}
+.pad-6{
     font-size: 15px;
     font-weight: 400;
     color: #a6a7aa;
-}
-.g-1{
-    background: #fafafa;
+    position: relative;
+    top: 130px;
+    width: 178px;
+    overflow: hidden;
 }
