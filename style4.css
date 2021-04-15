@@ -274,10 +274,10 @@ span{
 }
 .m{
     border-bottom: 1px solid #edf0f2;
-    width: 50%;
+    width: 45%;
     float: right;
     position: relative;
-    left: 405px;
+    left: 360px;
     top: 20px;
 }
 .bar{
@@ -315,6 +315,7 @@ h7{
     position: relative;
     width: 1142px;
     height: 475px;
+    top: 385px;
 }
 .e{
     background: #fff;
