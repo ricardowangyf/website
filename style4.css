@@ -3,7 +3,9 @@ body {
     padding: 0;
     font-size: 12px;
 }
-
+.clear{
+    clear: both;
+}
 .im {
     position: relative;
     left: 106px;
@@ -32,7 +34,7 @@ img {
     color: #515769;
 }
 
-.header .nav-item-hover:after {
+.header .nav-item-hover {
     position: absolute;
     top: 45px;
     left: 0;
@@ -221,4 +223,23 @@ img {
     top: 180px;
     width: 35%;
     height: auto;
+}
+
+.img {
+    position: relative;
+    top: 99px;
+    left: 261px;
+}
+.margin-1{
+    position: relative;
+    width: 450px;
+    bottom: 180px;
+    left: 800px;
+    bottom: 620px;
+}
+
+ h2 {
+    font-weight: 700;
+    color: #515769;
+    font-size: 35px;
 }
