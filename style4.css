@@ -146,7 +146,7 @@ img {
 .container {
     position: relative;
     top: 28px;
-    left: 255px;
+    left: 150px;
     overflow: hidden;
 }
 
@@ -232,13 +232,13 @@ img {
 .img {
     position: relative;
     top: 99px;
-    left: 261px;
+    left: 150px;
 }
 .margin-1{
     position: relative;
     width: 450px;
     bottom: 180px;
-    left: 800px;
+    left: 710px;
     bottom: 765px;
 }
 
@@ -279,7 +279,7 @@ P{
 }
 .box-1{
     position: relative;
-    left: 800px;
+    left: 710px;
     bottom: 660px;
 }
 .colos{
@@ -349,7 +349,7 @@ h3{
     width: 278px;
     height: 229px;
     position: relative;
-    left: 260px;
+    left: 150px;
     top: 99px;
 }
 .margin-b-5{
@@ -367,7 +367,7 @@ h3{
     width: 278px;
     height: 229px;
     position: relative;
-    left: 610px;
+    left: 510px;
     bottom: 190px;
 }
 .color-1{
@@ -385,7 +385,7 @@ h3{
     width: 278px;
     height: 229px;
     position: relative;
-    left: 965px;
+    left: 870px;
     bottom: 480px;
 }
 .stat-4{
@@ -394,7 +394,7 @@ h3{
     width: 278px;
     height: 229px;
     position: relative;
-    left: 1315px;
+    left: 1225px;
     bottom: 770px;
 }
 .nike{
@@ -404,14 +404,14 @@ h3{
 }
 .nike-1{
     position: relative;
-    left: 264px;
+    left: 150px;
     top: 110px;
 }
 .macbook{
     width: 381px;
     height: 293px;
     position: relative;
-    left: 260px;
+    left: 150px;
     bottom: 450px;
 }
 .cam{
@@ -419,7 +419,7 @@ h3{
     margin: 0 0 0 0;
     position: relative;
     bottom: 472px;
-    left: 260px;
+    left: 150px;
 }
 h6{
     color: #515769;
@@ -448,10 +448,13 @@ p1{
     font-size: 13px;
     font-weight: 600;
     color: #81848f;
+    position: relative;
+    bottom: 430px;
+    left: 150px;
 }
 .A{
     height: 1px;
-background-color: black;
+    background-color: black;
 }
 .nook{
     overflow: hidden;
@@ -463,14 +466,14 @@ background-color: black;
     width: 381px;
     height: 293px;
     position: relative;
-    left: 650px;
+    left: 600px;
     bottom: 880px;
 }
 .bok{
     width: 389px;
     height: 293px;
     position: relative;
-    left: 656px;
+    left: 600px;
     bottom: 880px;
 }
 .te{
@@ -501,7 +504,7 @@ h4{
     width: 381px;
     height: 293px;
     position: relative;
-    left: 1040px;
+    left: 1030px;
     bottom: 1470px;
 }
 .upper{
@@ -526,7 +529,7 @@ h4{
     width: 370px;
     position: relative;
     bottom: 1450px;
-    left: 1050px;
+    left: 1030px;
 }
 .upper11{
     position: relative;
@@ -541,15 +544,49 @@ h4{
 }
 .zhaopian{
     position: relative;
-    left: 275px;
-    top: 95px;
+    left: 150px;
+    top: 110px;
+    width: 10%;
 }
 .zhaopian2{
     position: relative;
-    left: 500px;
+    left: 390px;
+    top: 55px;
+    width: 10%;
 }
 .zhaopian3{
     position: relative;
-    left: 700px;
-    bottom: 70px;
+    left: 620px;
+    bottom: 5px;
+    width: 10%;
+}
+.zhaopian4{
+    position: relative;
+    left: 800px;
+    bottom: 55px;
+    width: 10%;
+}
+.zhaopian5{
+    position: relative;
+    left: 1000px;
+    bottom: 110px;
+    width: 10%;
+}
+.red{
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    color: #81848f;
+    position: relative;
+    top: 20px;
+    left: 2px;
+}
+.mnore{
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    color: #81848f;
+    position: relative;
+    left: 2px;
+    bottom: 30px;
 }
