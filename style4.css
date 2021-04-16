@@ -288,14 +288,46 @@ P{
     bottom: 33px;
 }
 .xian{
-    margin-bottom: 20px;
     overflow: hidden;
     background-color: #f5f5f5;
     border: 1px solid#f5f5f5  ;
     width: 465px;
+    position: relative;
+    bottom: 15px;
 }
 .xian-1{
     border: 1px solid #17bed2 ;
     background: #17bed2;
     width: 87%;
+}
+.xian-2{
+    overflow: hidden;
+    background-color: #f5f5f5;
+    border: 1px solid#f5f5f5  ;
+    width: 465px;
+    position: relative;
+    bottom: 15px;
+}
+.xian-3{
+    border: 1px solid #17bed2 ;
+    background: #17bed2;
+    width: 96%;
+}
+.box3{
+    position: relative;
+    bottom: 500px;
+    left: 800px;
+}
+.xian-4{
+    overflow: hidden;
+    background-color: #f5f5f5;
+    border: 1px solid#f5f5f5  ;
+    width: 465px;
+    position: relative;
+    bottom: 15px;
+}
+.xian-5{
+    border: 1px solid #17bed2 ;
+    background: #17bed2;
+    width: 77%;
 }
