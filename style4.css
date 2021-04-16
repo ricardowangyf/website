@@ -379,3 +379,21 @@ h3{
     top: 125px;
     width: 231px;
 }
+.stat-3{
+    background: #fff;
+    padding: 30px;
+    width: 278px;
+    height: 229px;
+    position: relative;
+    left: 965px;
+    bottom: 480px;
+}
+.stat-4{
+    background: #fff;
+    padding: 30px;
+    width: 278px;
+    height: 229px;
+    position: relative;
+    left: 1315px;
+    bottom: 770px;
+}
