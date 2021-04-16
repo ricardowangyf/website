@@ -532,3 +532,24 @@ h4{
     position: relative;
     bottom: 40px;
 }
+.second{
+    background: #fafafa;
+    width: 1295px;
+    height: 243px;
+    position: relative;
+    bottom: 1410px;
+}
+.zhaopian{
+    position: relative;
+    left: 275px;
+    top: 95px;
+}
+.zhaopian2{
+    position: relative;
+    left: 500px;
+}
+.zhaopian3{
+    position: relative;
+    left: 700px;
+    bottom: 70px;
+}
