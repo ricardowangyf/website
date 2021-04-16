@@ -327,7 +327,7 @@ P{
     width: 77%;
 }
 .stat{
-    width: 1618px;
+    width: 1700px;
     height: 465px;
     background: #fafafa;
 }
@@ -396,4 +396,104 @@ h3{
     position: relative;
     left: 1315px;
     bottom: 770px;
+}
+.nike{
+    background: #fff;
+    width: 1660px;
+    height: 692px;
+}
+.nike-1{
+    position: relative;
+    left: 264px;
+    top: 110px;
+}
+.macbook{
+    width: 381px;
+    height: 293px;
+    position: relative;
+    left: 260px;
+    bottom: 450px;
+}
+.cam{
+    width: 400px;
+    margin: 0 0 0 0;
+    position: relative;
+    bottom: 472px;
+    left: 260px;
+}
+h6{
+    color: #515769;
+    font-size: 22px;
+    margin: 0 0 0 0 ;
+    position: relative;
+    top: 20px;
+}
+.tex{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 135px;
+    color: #999caa;
+    font-size: 15px;
+}
+.p5{
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+    position: relative;
+    top: 20px;
+}
+p1{
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    color: #81848f;
+}
+.A{
+    height: 1px;
+background-color: black;
+}
+.nook{
+    overflow: hidden;
+}
+.p10{
+  width: 520px;
+}
+.macbook1{
+    width: 381px;
+    height: 293px;
+    position: relative;
+    left: 650px;
+    bottom: 880px;
+}
+.bok{
+    width: 389px;
+    height: 293px;
+    position: relative;
+    left: 656px;
+    bottom: 880px;
+}
+.te{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 24px;
+    right: 97px;
+    color: #999caa;
+    font-size: 15px;
+}
+h4{
+        color: #515769;
+    font-size: 22px;
+    margin: 0 0 0 0;
+    position: relative;
+    top:1px;;
+}
+.p10{
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+    margin-bottom: 15px;
+    position: relative;
+    bottom: 2px;
 }
