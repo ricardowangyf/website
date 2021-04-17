@@ -1,235 +1,322 @@
-    body {
-        margin: 0;
-        overflow-x: hidden;
-    }
-    
-    .nike {
-        background: #fff;
-        height: 96px;
-    }
-    
-    .nike-1 {
-        position: relative;
-        left: 70px;
-        top: 35px;
-        width: 244px;
-        display: flex;
-        justify-content: flex-end;
-    }
-    
-    .home {
-        display: flex;
-        justify-content: flex-end;
-        position: relative;
-        top: 15px
-    }
-    
-    .home1 {
-        position: relative;
-        right: 400px;
-    }
-    
-    .home2 {
-        position: relative;
-        right: 350px;
-    }
-    
-    .home3 {
-        position: relative;
-        right: 300px;
-    }
-    
-    .home4 {
-        position: relative;
-        right: 250px;
-    }
-    
-    .home5 {
-        position: relative;
-        right: 200px;
-    }
-    
-    .home-1 {
-        position: absolute;
-        top: 10px;
-        width: 9px;
-        right: 50px;
-        height: 2px;
-        background: #17bed2;
-    }
-    
-    .home-2 {
-        position: absolute;
-        top: 10px;
-        width: 9px;
-        right: 60px;
-        height: 2px;
-        background: #17bed2;
-    }
-    
-    .home-3 {
-        position: absolute;
-        top: 10px;
-        width: 9px;
-        right: 105px;
-        height: 2px;
-        background: #17bed2;
-    }
-    
-    .home-4 {
-        position: absolute;
-        top: 10px;
-        width: 9px;
-        right: 60px;
-        height: 2px;
-        background: #17bed2;
-    }
-    
-    .home-5 {
-        position: absolute;
-        top: 10px;
-        width: 9px;
-        right: 80px;
-        height: 2px;
-        background: #17bed2;
-    }
-    
-    .lemon {
-        width: 1655px;
-        height: 528px;
-        background-color: #fafafa;
-    }
-    
-    .lemon1 {
-        width: 695px;
-        display: flex;
-        justify-content: center;
-        margin: 0 0 0 0;
-    }
-    
-    .lemon2 {
-        position: relative;
-        top: 132px;
-    }
-    
-    .lemon-1 {
-        font-size: 70px;
-        margin: 0;
-        width: 285px;
-        color: #515769;
-    }
-    
-    .lemon-2 {
-        font-weight: 400;
-        color: #a6a7aa;
-        margin-bottom: 15px;
-        font-size: 25px;
-    }
-    
-    .emon1 {
-        display: flex;
-        justify-content: flex-end;
-        position: relative;
-        bottom: 233px;
-        right: 257px;
-    }
-    
-    .sheng {
-        width: 1625px;
-        height: 840px;
-        background: #fff;
-    }
-    
-    .sheng-1 {
-        position: relative;
-        left: 206px;
-        top: 68px;
-        width: 500px;
-        height: 640px;
-    }
-    
-    .shen {
-        margin: 0 0 0 0;
-        width: 625px;
-        height: 245px;
-        float: right;
-        position: relative;
-        bottom: 570px;
-        right: 265px;
-    }
-    
-    h2 {
-        font-weight: 700;
-        color: #515769;
-        margin: 0 0;
-        font-size: 30px;
-    }
-    
-    p {
-        font-size: 15px;
-        font-weight: 400;
-        color: #a6a7aa;
-        margin-bottom: 15px;
-    }
-    
-    .botton {
-        background: #f3f4f5;
-        font-size: 15px;
-        font-weight: 600;
-        padding: 20px 30px;
-        color: #515769;
-        position: relative;
-        top: 35px;
-    }
-    
-    .x {
-        border: 1px solid #edf0f2;
-        width: 37%;
-        margin: 0 0 0 0;
-        float: right;
-        position: relative;
-        left: 335px;
-        bottom: 235px;
-    }
-    
-    .clear {
-        clear: both;
-    }
-    
-    h3 {
-        font-weight: 700;
-        color: #515769;
-        margin: 0 0 0 0;
-        font-size: 33px;
-        display: flex;
-        justify-content: center;
-        position: relative;
-        bottom: 400px;
-    }
-    
-    h5 {
-        width: 1385px;
-        display: flex;
-        margin: 0 0 0 0;
-        justify-content: flex-end;
-        position: relative;
-        bottom: 400px;
-    }
-    
-    .color {
-        width: 535px;
-        display: flex;
-        justify-content: flex-end;
-        height: 22px;
-    }
-    
-    .box {
-        margin: 0 0 0;
-    }
-    
-    .m {
-        margin-bottom: 20px;
-        overflow: hidden;
-        border: 1px solid #f5f5f5;
-        border-radius: 4px;
-    }
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.nike {
+    background: #fff;
+    height: 96px;
+}
+
+.nike-1 {
+    position: relative;
+    left: 70px;
+    top: 35px;
+    width: 244px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.home {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top: 15px
+}
+
+.home1 {
+    position: relative;
+    right: 400px;
+}
+
+.home2 {
+    position: relative;
+    right: 350px;
+}
+
+.home3 {
+    position: relative;
+    right: 300px;
+}
+
+.home4 {
+    position: relative;
+    right: 250px;
+}
+
+.home5 {
+    position: relative;
+    right: 200px;
+}
+
+.home-1 {
+    position: absolute;
+    top: 10px;
+    width: 9px;
+    right: 50px;
+    height: 2px;
+    background: #17bed2;
+}
+
+.home-2 {
+    position: absolute;
+    top: 10px;
+    width: 9px;
+    right: 60px;
+    height: 2px;
+    background: #17bed2;
+}
+
+.home-3 {
+    position: absolute;
+    top: 10px;
+    width: 9px;
+    right: 105px;
+    height: 2px;
+    background: #17bed2;
+}
+
+.home-4 {
+    position: absolute;
+    top: 10px;
+    width: 9px;
+    right: 60px;
+    height: 2px;
+    background: #17bed2;
+}
+
+.home-5 {
+    position: absolute;
+    top: 10px;
+    width: 9px;
+    right: 80px;
+    height: 2px;
+    background: #17bed2;
+}
+
+.lemon {
+    width: 1665px;
+    height: 528px;
+    background-color: #fafafa;
+}
+
+.lemon1 {
+    width: 695px;
+    display: flex;
+    justify-content: center;
+    margin: 0 0 0 0;
+}
+
+.lemon2 {
+    position: relative;
+    top: 132px;
+}
+
+.lemon-1 {
+    font-size: 70px;
+    margin: 0;
+    width: 285px;
+    color: #515769;
+}
+
+.lemon-2 {
+    font-weight: 400;
+    color: #a6a7aa;
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+
+.emon1 {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 233px;
+    right: 257px;
+}
+
+.sheng {
+    width: 1625px;
+    height: 840px;
+    background: #fff;
+}
+
+.sheng-1 {
+    position: relative;
+    left: 206px;
+    top: 68px;
+    width: 500px;
+    height: 640px;
+}
+
+.shen {
+    margin: 0 0 0 0;
+    width: 625px;
+    height: 245px;
+    float: right;
+    position: relative;
+    bottom: 570px;
+    right: 265px;
+}
+
+h2 {
+    font-weight: 700;
+    color: #515769;
+    margin: 0 0;
+    font-size: 30px;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+    margin-bottom: 15px;
+}
+
+.botton {
+    background: #f3f4f5;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 20px 30px;
+    color: #515769;
+    position: relative;
+    top: 55px;
+}
+
+.x {
+    border: 1px solid #edf0f2;
+    width: 37%;
+    margin: 0 0 0 0;
+    float: right;
+    position: relative;
+    left: 345px;
+    bottom: 210px;
+}
+
+.clear {
+    clear: both;
+}
+
+h3 {
+    font-weight: 700;
+    color: #515769;
+    margin: 0 0 0 0;
+    font-size: 33px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 400px;
+    width: 478px;
+    left: 575px;
+}
+
+h5 {
+    width: 1385px;
+    display: flex;
+    margin: 0 0 0 0;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 370px;
+}
+
+.color {
+    width: 535px;
+    display: flex;
+    justify-content: flex-end;
+    height: 22px;
+}
+
+.box {
+    margin: 0 0 0;
+}
+
+.m {
+    margin-bottom: 20px;
+    overflow: hidden;
+    border: 1px solid #f5f5f5;
+    border-radius: 4px;
+}
+
+.progress {
+    border: 1px solid #f5f5f5;
+    position: relative;
+    bottom: 350px;
+    width: 635px;
+    left: 740px;
+    margin: 0 0 0 0;
+}
+
+.progress-bar {
+    width: 87%;
+    border: 1px solid #17beb2;
+}
+
+h6 {
+    width: 1385px;
+    display: flex;
+    margin: 0 0 0 0;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 308px;
+    right: 5px;
+}
+
+.color-1 {
+    width: 535px;
+    display: flex;
+    justify-content: flex-end;
+    height: 22px;
+}
+
+.progress-1 {
+    border: 1px solid #f5f5f5;
+    position: relative;
+    bottom: 280px;
+    width: 635px;
+    left: 740px;
+    margin: 0 0 0 0;
+}
+
+.progress-bar-1 {
+    width: 96%;
+    border: 1px solid #17beb2;
+}
+
+.color-2 {
+    width: 535px;
+    display: flex;
+    justify-content: flex-end;
+    height: 22px;
+    position: relative;
+    left: 11px;
+}
+
+.h7 {
+    width: 1385px;
+    display: flex;
+    margin: 0 0 0 0;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 240px;
+    right: 15px;
+    font-size: 13px;
+}
+
+.progress-2 {
+    border: 1px solid #f5f5f5;
+    position: relative;
+    bottom: 220px;
+    width: 635px;
+    left: 740px;
+    margin: 0 0 0 0;
+}
+
+.progress-bar-2 {
+    border: 1px solid #17beb2;
+    width: 77%;
+}
+
+.aa {
+    width: 1663px;
+    height: 435px;
+    background: #fafafa;
+}
