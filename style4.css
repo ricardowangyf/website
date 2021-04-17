@@ -568,3 +568,29 @@ h6 {
     left: 1245px;
     bottom: 90px;
 }
+
+.qing {
+    width: 1665px;
+    height: 384px;
+}
+
+.qing1 {
+    width: 940px;
+    height: 95px;
+    text-align: center;
+    position: relative;
+    bottom: 500px;
+    left: 360px;
+    color: #fff;
+}
+
+.qing-1 {
+    width: 940px;
+    font-size: 50px;
+    color: #fff;
+}
+
+.qing2 {
+    font-size: 20px;
+    color: #fff;
+}
