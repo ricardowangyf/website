@@ -521,3 +521,50 @@ h6 {
     font-weight: 600;
     color: #a6a7aa;
 }
+
+.nei {
+    width: 1665px;
+    height: 250px;
+    background: #fafafa;
+}
+
+.nei1 {
+    width: 130px;
+    height: 49;
+    height: 49px;
+    position: relative;
+    top: 100px;
+    left: 290px;
+    margin: 0 0 0 0;
+}
+
+.nei2 {
+    width: 130px;
+    height: 49px;
+    position: relative;
+    left: 540px;
+    top: 48px;
+}
+
+.nei3 {
+    width: 130px;
+    height: 49px;
+    position: relative;
+    left: 780px;
+}
+
+.nei4 {
+    width: 130px;
+    height: 49px;
+    position: relative;
+    left: 1020px;
+    bottom: 40px;
+}
+
+.nei5 {
+    width: 130px;
+    height: 49px;
+    position: relative;
+    left: 1245px;
+    bottom: 90px;
+}
