@@ -434,3 +434,90 @@ h6 {
     top: 130px;
     left: 34px;
 }
+
+.baise {
+    width: 1665px;
+    height: 757px;
+    background: #fff;
+}
+
+.col-6 {
+    width: 585px;
+    height: 114px;
+    position: relative;
+    top: 110px;
+    left: 265px;
+    margin: 0 0 0 0;
+}
+
+.col-4 {
+    width: 360px;
+    height: 105px;
+    position: relative;
+    left: 264px;
+    top: 150px;
+}
+
+.p1 {
+    color: #515769;
+    font-size: 20px;
+}
+
+.col-3 {
+    font-size: 14px;
+    font-weight: 400;
+    color: #bfc1c7;
+    text-transform: uppercase;
+    position: relative;
+    left: 15px;
+}
+
+.col-1 {
+    width: 360px;
+    height: 105px;
+    position: relative;
+    left: 660px;
+    bottom: 202px;
+}
+
+.px {
+    color: #515769;
+    font-size: 20px;
+}
+
+.col1 {
+    font-size: 14px;
+    font-weight: 400;
+    color: #bfc1c7;
+    text-transform: uppercase;
+    position: relative;
+    left: 15px;
+}
+
+.col-8 {
+    width: 360px;
+    height: 105px;
+    position: relative;
+    left: 1064px;
+    bottom: 555px;
+}
+
+.col-7 {
+    font-size: 14px;
+    font-weight: 400;
+    color: #bfc1c7;
+    text-transform: uppercase;
+    position: relative;
+    left: 15px;
+}
+
+.px1 {
+    color: #515769;
+    font-size: 20px;
+}
+
+.p10 {
+    font-size: 13px;
+    font-weight: 600;
+    color: #a6a7aa;
+}
