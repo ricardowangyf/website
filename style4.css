@@ -371,8 +371,62 @@ h6 {
 .service-3 {
     margin: 0 0 0 0px;
     color: #fff;
-    position: relative;
     top: 133px;
+    width: 222px;
+    height: 63px;
+    position: relative;
+    top: 130px;
+    left: 34px;
+}
+
+.service3 {
+    width: 286px;
+    height: 233px;
+    background: #fff;
+    position: relative;
+    left: 879px;
+    bottom: 385px;
+}
+
+.service4 {
+    width: 222px;
+    height: 63px;
+    margin: 0 0 0 0;
+    position: relative;
+    top: 130px;
+    left: 34px;
+}
+
+.service5 {
+    color: #515769;
+    font-weight: 700;
+    margin: 0 0 0 0px;
+    font-size: 22px;
+    position: relative;
+    top: 100px;
+    left: 35px;
+}
+
+.service6 {
+    width: 286px;
+    height: 233px;
+    background: #fff;
+    position: relative;
+    left: 1170px;
+    bottom: 618px;
+}
+
+.service8 {
+    color: #515769;
+    font-weight: 700;
+    margin: 0 0 0 0px;
+    font-size: 22px;
+    position: relative;
+    top: 100px;
+    left: 35px
+}
+
+.service9 {
     width: 222px;
     height: 63px;
     margin: 0 0 0 0;
