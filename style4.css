@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    overflow-x: hidden;
 }
 
 .nike {
@@ -319,4 +318,65 @@ h6 {
     width: 1663px;
     height: 435px;
     background: #fafafa;
+}
+
+.service {
+    width: 286px;
+    height: 233px;
+    background: #fff;
+    position: relative;
+    top: 76px;
+    left: 286px;
+}
+
+.service2 {
+    width: 222px;
+    height: 63px;
+    margin: 0 0 0 0;
+    position: relative;
+    top: 130px;
+    left: 34px;
+}
+
+.h0 {
+    font-weight: 700;
+    color: #515769;
+    margin: 0 0 0 0px;
+    font-size: 22px;
+    position: relative;
+    top: 100px;
+    left: 35px;
+}
+
+.service-1 {
+    width: 286px;
+    height: 233px;
+    background: #17bed2;
+    position: relative;
+    left: 580px;
+    bottom: 155px;
+}
+
+.service-2 {
+    color: #fff;
+    position: relative;
+    font-weight: 700;
+    margin: 0 0 0 0px;
+    font-size: 22px;
+    position: relative;
+    top: 100px;
+    left: 35px;
+}
+
+.service-3 {
+    margin: 0 0 0 0px;
+    color: #fff;
+    position: relative;
+    top: 133px;
+    width: 222px;
+    height: 63px;
+    margin: 0 0 0 0;
+    position: relative;
+    top: 130px;
+    left: 34px;
 }
