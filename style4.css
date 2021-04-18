@@ -3,6 +3,11 @@ body {
     overflow-x: hidden;
 }
 
+.kpl {
+    color: #81848f;
+    font-size: 14px;
+}
+
 .nike {
     background: #fff;
     height: 96px;
