@@ -1,6 +1,7 @@
 body {
     margin: 0;
     overflow-x: hidden;
+    user-select: none;
 }
 
 .kpl {
@@ -14,6 +15,7 @@ body {
     position: fixed;
     width: 1665px;
     border-bottom-color: #f0f0f0;
+    z-index: 1;
 }
 
 .nike-1 {
