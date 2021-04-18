@@ -11,6 +11,8 @@ body {
 .nike {
     background: #fff;
     height: 96px;
+    position: fixed;
+    width: 1665px;
 }
 
 .nike-1 {
@@ -101,7 +103,7 @@ body {
 
 .lemon {
     width: 1665px;
-    height: 528px;
+    height: 600px;
     background-color: #fafafa;
 }
 
@@ -135,7 +137,7 @@ body {
     display: flex;
     justify-content: flex-end;
     position: relative;
-    bottom: 233px;
+    bottom: 150px;
     right: 257px;
 }
 
