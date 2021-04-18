@@ -376,7 +376,7 @@ h6 {
     width: 222px;
     height: 63px;
     position: relative;
-    left: 820px;
+    left: 40px;
     bottom: 390px;
 }
 
@@ -394,8 +394,8 @@ h6 {
     height: 63px;
     margin: 0 0 0 0;
     position: relative;
-    left: 820px;
-    bottom: 392px;
+    top: 130px;
+    left: 40px;
 }
 
 .service5 {
