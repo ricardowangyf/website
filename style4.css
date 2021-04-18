@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    overflow-x: hidden;
 }
 
 .nike {
@@ -326,7 +327,7 @@ h6 {
     background: #fff;
     position: relative;
     top: 76px;
-    left: 286px;
+    left: 195px;
 }
 
 .service2 {
@@ -353,8 +354,8 @@ h6 {
     height: 233px;
     background: #17bed2;
     position: relative;
-    left: 580px;
-    bottom: 155px;
+    left: 505px;
+    bottom: 157px;
 }
 
 .service-2 {
@@ -375,8 +376,8 @@ h6 {
     width: 222px;
     height: 63px;
     position: relative;
-    top: 130px;
-    left: 34px;
+    left: 820px;
+    bottom: 390px;
 }
 
 .service3 {
@@ -393,8 +394,8 @@ h6 {
     height: 63px;
     margin: 0 0 0 0;
     position: relative;
-    top: 130px;
-    left: 34px;
+    left: 820px;
+    bottom: 392px;
 }
 
 .service5 {
@@ -412,8 +413,8 @@ h6 {
     height: 233px;
     background: #fff;
     position: relative;
-    left: 1170px;
-    bottom: 618px;
+    left: 1140px;
+    bottom: 625px;
 }
 
 .service8 {
@@ -593,4 +594,60 @@ h6 {
 .qing2 {
     font-size: 20px;
     color: #fff;
+}
+
+.rng {
+    width: 1665px;
+    height: 419px;
+    background: #fafafa;
+    position: relative;
+    top: 556px;
+}
+
+.rng-1 {
+    width: 555px;
+    height: 42px;
+    position: relative;
+    left: 264px;
+    top: 108px;
+}
+
+.row1 {
+    width: 292px;
+    height: 65px;
+    margin: 0 0 0 0;
+    position: relative;
+    left: 264px;
+    top: 190px;
+}
+
+.row2 {
+    width: 292px;
+    height: 65px;
+    margin: 0 0 0 0;
+    position: relative;
+    left: 555px;
+    top: 95px;
+}
+
+.row3 {
+    width: 292px;
+    height: 65px;
+    margin: 0 0 0 0;
+    position: relative;
+    left: 850px;
+}
+
+.row4 {
+    width: 292px;
+    height: 65px;
+    margin: 0 0 0 0;
+    position: relative;
+    left: 1140px;
+    bottom: 95px;
+}
+
+a {
+    color: #81848f;
+    text-decoration: none;
 }
