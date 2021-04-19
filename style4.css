@@ -106,9 +106,11 @@ body {
 }
 
 .lemon {
-    width: 1665px;
+    width: 1560px;
     height: 600px;
     background-color: #fafafa;
+    position: relative;
+    left: 49px;
 }
 
 .lemon1 {
@@ -179,7 +181,7 @@ h2 {
 p {
     font-size: 15px;
     font-weight: 400;
-    color: #a6a7aa;
+    color: #a6a7;
     margin-bottom: 15px;
 }
 
@@ -327,8 +329,10 @@ h6 {
 }
 
 .aa {
-    width: 1663px;
+    width: 1560px;
     height: 435px;
+    position: relative;
+    left: 49px;
     background: #fafafa;
 }
 
@@ -535,9 +539,11 @@ h6 {
 }
 
 .nei {
-    width: 1665px;
+    width: 1560px;
     height: 250px;
     background: #fafafa;
+    position: relative;
+    left: 50px;
 }
 
 .nei1 {
@@ -608,11 +614,12 @@ h6 {
 }
 
 .rng {
-    width: 1665px;
+    width: 1560px;
     height: 419px;
     background: #fafafa;
     position: relative;
     top: 556px;
+    left: 50px;
 }
 
 .rng-1 {
