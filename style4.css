@@ -284,8 +284,8 @@ span {
 }
 
 .kpl-3 {
-    width: 835px;
-    margin-top: -415px;
+    width: 834px;
+    margin-top: -404px;
     display: flex;
     justify-content: flex-end;
 }
@@ -298,7 +298,7 @@ span {
 .kpl-5 {
     display: flex;
     justify-content: flex-end;
-    margin-top: -415px;
+    margin-top: -402px;
     width: 1210px;
 }
 
@@ -437,4 +437,11 @@ a {
     display: flex;
     justify-content: flex-end;
     margin-top: -72px;
+    padding-right: 183px;
+}
+
+.href {
+    color: #515769;
+    text-decoration: none;
+    font-size: 23px;
 }
