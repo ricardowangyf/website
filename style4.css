@@ -283,7 +283,7 @@ span {
 }
 
 .kpl-3 {
-    width: 940px;
+    width: 835px;
     margin-top: -415px;
     display: flex;
     justify-content: flex-end;
@@ -291,5 +291,60 @@ span {
 
 .kpl-4 {
     width: 360px;
-    padding-left: 580px;
+    padding-left: 480px;
+}
+
+.kpl-5 {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -415px;
+    width: 1210px;
+}
+
+.kpl-6 {
+    padding-left: 855px;
+}
+
+.wu {
+    height: 759px;
+}
+
+.rng {
+    background: #fafafa;
+    height: 250px;
+}
+
+.lu1 {
+    width: 225px;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 99px;
+}
+
+.lu2 {
+    width: 460px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -49px;
+}
+
+.lu3 {
+    width: 700px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -49px;
+}
+
+.lu4 {
+    width: 940px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -49px;
+}
+
+.lu5 {
+    width: 1165px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -49px;
 }
