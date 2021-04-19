@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    overflow-x: hidden;
 }
 
 .juzhong {
@@ -15,7 +16,7 @@ body {
     position: fixed;
     z-index: 1;
     margin: 0;
-    width: 1480px;
+    width: 1505px;
 }
 
 .png {
@@ -347,4 +348,93 @@ span {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
+}
+
+.kgb1 {
+    width: 790px;
+    margin: 0 0 0 0;
+    text-align: center;
+    margin-top: -270px;
+    color: #fff;
+    font-size: 70px;
+    padding-left: 309px;
+}
+
+.kgb2 {
+    font-size: 20px;
+    color: #fff;
+    opacity: .8;
+    width: 940px;
+    padding-left: 230px;
+    text-align: center;
+}
+
+.fbi {
+    background: #fafafa;
+    height: 540px;
+    width: 1540px;
+}
+
+.fbi1 {
+    padding-top: 200px;
+    padding-left: 150px;
+    width: 582px;
+}
+
+.p1 {
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+    margin-bottom: 15px;
+}
+
+.xxs {
+    width: 1300px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 70px;
+}
+
+h4 {
+    font-weight: 700;
+    color: #515769;
+    margin: 0 0 15px;
+    font-size: 23px;
+}
+
+a {
+    color: #81848f;
+    font-size: 10px;
+}
+
+.xxs2 {
+    padding-left: 200px;
+}
+
+.xx3 {
+    padding-left: 200px;
+}
+
+.xxs4 {
+    padding-left: 200px;
+}
+
+.finally {
+    height: 101px;
+    width: 1505px;
+    background: #fff;
+}
+
+.finally-1 {
+    padding: 39px 0px;
+    width: 205px;
+    display: flex;
+    justify-content: flex-end;
+    height: 15px;
+}
+
+.margin-b {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -72px;
 }
