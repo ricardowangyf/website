@@ -1,8 +1,12 @@
+body {
+    margin: 0;
+}
+
 .juzhong {
     margin-left: auto;
     margin-right: auto;
     height: 1024px;
-    width: 1440px;
+    width: 1485px;
 }
 
 .logo {
@@ -11,6 +15,7 @@
     position: fixed;
     z-index: 1;
     margin: 0;
+    width: 1480px;
 }
 
 .png {
@@ -128,6 +133,10 @@ h4 {
     font-size: 30px;
 }
 
+.san {
+    height: 840px;
+}
+
 .sani {
     display: flex;
     justify-content: flex-end;
@@ -157,4 +166,95 @@ h5 {
 .x3 {
     border: 1px solid #17bed2;
     width: 77%;
+}
+
+.si {
+    background: #fafafa;
+    height: 390px;
+}
+
+.in {
+    display: flex;
+    width: 1320px;
+    height: 233px;
+    position: relative;
+    left: 127px;
+    margin: 0 0 0 0;
+    overflow: hidden;
+    padding: 4px;
+}
+
+.white {
+    color: #fff;
+    font-size: 22px;
+}
+
+.col {
+    color: #fff;
+}
+
+.sol {
+    width: 25%;
+    background: #fff;
+    margin-right: 20px;
+}
+
+.nfo {
+    width: 25%;
+    background: #fff;
+    margin-right: 20px;
+}
+
+.info {
+    width: 25%;
+    background: #17bed2;
+    margin-right: 20px;
+}
+
+.ser {
+    width: 25%;
+    background: #fff;
+    margin-right: 20px;
+}
+
+.los {
+    padding: 15px;
+    padding-top: 88px;
+    width: 245px;
+    margin-left: 25px;
+}
+
+.kl {
+    font-size: 22px;
+}
+
+.kla {
+    font-size: 22px;
+    color: #fff;
+}
+
+.col-sm-6 {
+    width: 585px;
+    height: 114px;
+}
+
+.clas {
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+    margin-bottom: 15px;
+}
+
+.sol-1 {
+    font-weight: 700;
+    color: #515769;
+    margin: 0 0 15px;
+    font-size: 30px;
+}
+
+.col-6 {
+    width: 585px;
+    height: 114px;
+    padding-left: 130px;
+    padding-top: 112px;
 }
