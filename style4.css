@@ -24,7 +24,7 @@
     }
     
     .png {
-        width: 180px;
+        width: 360px;
         display: flex;
         justify-content: flex-end;
         height: 15px;
@@ -41,8 +41,8 @@
     .neiron {
         display: flex;
         justify-content: flex-end;
-        width: 1150px;
-        margin-top: -44px;
+        width: 1210px;
+        margin-top: -45px;
     }
     
     .avatar {
