@@ -1,13 +1,12 @@
 body {
     margin: 0;
-    overflow-x: hidden;
 }
 
 .juzhong {
     margin-left: auto;
     margin-right: auto;
     height: 1024px;
-    width: 1485px;
+    width: 1630px;
 }
 
 .logo {
@@ -16,7 +15,7 @@ body {
     position: fixed;
     z-index: 1;
     margin: 0;
-    width: 1505px;
+    width: 1665px;
 }
 
 .png {
@@ -37,19 +36,23 @@ h1 {
 .neiron {
     display: flex;
     justify-content: flex-end;
-    margin-top: -83px;
+    margin-top: -75px;
+    width: 1140px;
+    width: 1445px;
 }
 
 .wen {
     background: #fafafa;
-    height: 510px;
+    height: 580px;
+    width: 1665px;
 }
 
 .avatar {
     display: flex;
     justify-content: flex-end;
     margin: 0 0 0 0;
-    padding: 31px;
+    padding-right: 237px;
+    padding-top: 102px;
 }
 
 .web {
@@ -167,6 +170,7 @@ h5 {
 .si {
     background: #fafafa;
     height: 390px;
+    width: 1665px;
 }
 
 .in {
@@ -307,6 +311,7 @@ span {
 .rng {
     background: #fafafa;
     height: 250px;
+    width: 1665px;
 }
 
 .lu1 {
@@ -366,7 +371,7 @@ span {
 .fbi {
     background: #fafafa;
     height: 540px;
-    width: 1540px;
+    width: 1665px;
 }
 
 .fbi1 {
