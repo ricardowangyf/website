@@ -14,7 +14,6 @@
         height: 93px;
         position: fixed;
         z-index: 1;
-        margin: 0;
         left: 0;
         right: 0;
         top: 0;
@@ -22,16 +21,15 @@
     }
     
     .logo-1 {
-        width: 1450px;
-        text-align: center;
+        width: auto;
     }
     
     .png {
-        padding: 30px 0px;
         width: 180px;
         display: flex;
         justify-content: flex-end;
         height: 15px;
+        padding-top: 40px;
     }
     
     h1 {
@@ -44,9 +42,8 @@
     .neiron {
         display: flex;
         justify-content: flex-end;
-        margin-top: -75px;
-        width: 1140px;
-        width: 1445px;
+        width: 1150px;
+        margin-top: -44px;
     }
     
     .avatar {
