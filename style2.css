@@ -1,0 +1,399 @@
+/* 设置整个页面背景颜色 */
+body {
+    background-color: #eee;
+    font-size: 14px;
+}
+
+.juzhong {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+.wleft {
+    float: left;
+}
+.wright {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.yibanwidth {
+    width: 50%;
+}
+.baise  {
+    background-color: #fff;
+}
+
+
+/* 标题 start */
+
+.biaoti .sub {
+    width: 72px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 32px;
+    padding: 4px 10px;
+    font-weight: 700;
+    background-color: #eee;
+}
+.biaoti .wleft, .biaoti .wright {
+    width: 149px;
+    border-bottom: 1px solid #ededed;
+    margin-top: 13px;
+}
+/* 标题 end */
+
+
+/* 标题2 start >>>>>>>>>>>>>>>>>>>> */
+.title {
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    height: 28px;
+    margin: 10px auto 5px;
+}
+
+.title .sub {   
+    border-radius: 32px;
+    font-weight: 700;
+    padding: 6px 10px 30px 10px;
+    background-color: #eee;
+    text-align: center;
+    width: 93px;
+    position: relative;
+    left: 14px;
+    margin: 0 auto;
+    font-size: 17px;
+}
+.xian-right {
+    position: absolute;
+    top: 51%;
+    left: 310px;
+    display: inline-block;
+    width: 35%;
+    height: 0;
+    vertical-align: middle;
+    border-top: 1px solid #ededed;
+}
+
+.xian-left {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    display: inline-block;
+    width: 35%;
+    height: 0;
+    vertical-align: middle;
+    border-top: 1px solid #ededed;;
+}
+/* 标题2 end <<<<<<<<<<<<<<<<<<<< */
+
+.dingbu {
+    margin-top: 33px;
+    color: #bbb;
+    font-size: 12px;
+}
+.dingbu div {
+    padding-left: 10px; padding-right: 10px;
+}
+
+
+.wang{
+    padding: 30px 50px;
+}
+.yu{
+    border-top: 2px solid #00a982;
+    padding-top: 10px;
+}
+.name {
+    float: left;
+    font-size: 52px;
+    padding-bottom: 21px;
+    margin-top: 5px;
+}
+
+.yu{
+    font-size: 16px;
+}
+.boke{
+    font-weight: 100;
+    margin-top: -66px;
+    font-size: 16px;
+}
+.rangkai {
+    color: rgb(248, 245, 245);
+    background-color: #00b38a;
+    border-radius: 5px 5px 0px 0px;
+    margin-top: 5px;
+    font-size: 11px;
+    height: 252px
+}
+.juzhong .job-h div {
+    font-weight: 100;
+}
+
+.juzhong .job-h {
+    font-size: 24px;
+    float: right;
+    position: relative;
+    top: 49px;
+}
+.boke{
+    float: right;
+}
+.content-hd{
+     background-color: #eee;   
+}
+.jobnameclear{
+    clear: both;
+}
+.job-left{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    margin: 0 auto;
+}
+.clear{
+    clear: both;
+}
+.cctv{
+    margin-left: 119px;
+    width: 21%;
+    font-size: 5px;
+}
+.jobjingli{
+    z-index: 1;
+    width: 24%;
+    min-width: 100px;
+    margin: 0 auto;
+    padding: 4px 10px;
+    border-radius: 32px;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    background-color: #eee;
+}
+.job-left.job-l{
+    left: 0;
+}
+.job-left.job-l{
+    position: absolute;
+    top: 50%;
+    display: inline-block;
+    width: 35%;
+    vertical-align: middle;
+    border-top: 1px solid #ededed;
+}
+
+.item-name{
+    font-size: 15px;
+}
+.item-time{
+    font-size: 10px;
+    position: relative;
+    overflow: hidden;
+}
+.item-job{
+    font-size: 10px;
+}
+.item-des{
+    font-size: 13px;
+    position: relative;
+    padding: 10px 0 10px;
+    font-weight: 300;
+    margin-bottom: 5px;
+}
+.job-name{
+    margin-left: 20px;
+}
+.meituan{
+    margin-top: 20px;
+}
+.cctv{
+    margin-left: 219px;
+    width: 23%;
+    font-size: 5px;
+}
+
+.cctvjobjingli{
+    border-radius: 32px;
+    font-weight: 700;
+    padding: 4px 10px;
+    background-color: #eee;
+    text-align: center;
+    width: 249px;
+    margin: 0 10px;
+}
+.cctv .job-l {
+    border-bottom: 1px solid #ededed;
+    width: 100%;
+    height: 14px;
+}
+.cctv .job-rrr {
+    border-bottom: 1px solid #ededed;
+    width: 100%;
+    height: 14px;
+}
+.item{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.tenctqq{
+    margin-left: 15px;
+    margin-top:20px;
+}
+.ill{
+    display: flex;
+    justify-content: space-between;
+}
+.ill-l{
+    border-bottom: 1px solid #ededed;
+    position: relative;
+    height: 11px;
+    width: 300px;
+}
+.ill-r{
+    border-bottom: 1px solid #ededed;
+    position: relative;
+    height: 12px;
+    width: 34%;
+    right: 70px;
+}
+.ill-w{
+    border-radius: 32px;
+    font-weight: 700;
+    padding: 4px 10px;
+    background-color: #eee;
+    text-align: center;
+    width: 15%;
+    position: relative;
+    right: 30px;
+}
+.last{
+    text-align: center;
+    margin-top: 42px;
+}
+.kill{
+    width: 100%;
+    padding: 3px;
+    overflow: hidden;
+}
+.foot-link{
+    display: inline-block;
+    color: #d1d1d1;
+    margin-bottom: 25px;
+    text-decoration: none;
+}
+.zhifubao{
+    text-decoration: none;
+    color: #00b38a;
+    margin-top: -47px;
+}
+.link{
+    float: right;
+    margin-top: -47px;
+}
+/*.link{
+    position: relative;
+    width: 53px;
+    left: 30px;
+}*/
+.link-icon{
+    float: right;
+    margin-top:-20px
+}
+.react{
+    margin-top: 40px;
+}
+.webpack{
+    margin-top: 18px;
+    font-size: 10px;
+    position: relative;
+    padding: 10px 0 10px;
+    padding: 10px 0 10px;
+    right: 7px;
+}
+.nodejs{
+    margin-top: 40px;
+}
+.qq{
+    position: relative;
+    left: 33px;
+}
+.job-nam{
+    position: relative;
+    left: 38px;
+}
+.left{    
+    padding: 10px 15px;
+    overflow: hidden;
+    line-height: 24px;
+}
+.fight{
+    padding: 10px  15px;
+    overflow: hidden;
+    line-height: 24px;
+}
+.xiamian{
+    overflow: hidden;
+    padding: 10px 15px;
+}
+.waimian{
+    line-height: 25px;
+    position: relative;
+    right: 30px;
+    padding: 10px 15px;
+}
+.jos{
+    padding-top: 40px;
+}
+.zhongjian{
+    padding:9px;
+    line-height: 26px;
+}
+.react{
+    padding-top: 15px;
+}
+.mao{   
+    width: 97%;
+    padding: 10px;
+    overflow: hidden;
+    position: relative;
+    bottom: 20px;
+}
+.des{
+    font-weight: 300;
+}
+.webpck{
+    margin-top: 40px;
+    font-size: 10px;
+    position: relative;
+    padding: 10px 0 10px;
+}
+.linkicon{
+    float: right;
+    margin-top: -20px;
+}
+.tencqq{
+    margin-left: 15px;
+    padding-top: 50px;
+}
+.name-job{
+    position: relative;
+    padding: 10px 0 5px;
+    line-height: 20px;
+    overflow: hidden;
+    font-weight: 500;
+    min-height: 30px;
+}
+.pol{
+    position: relative;
+    padding: 5px 10px;
+    line-height: 20px;
+    overflow: hidden;
+    font-weight: 500;
+}
