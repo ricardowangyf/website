@@ -73,11 +73,11 @@ h2 {
 
 .san1 {
     float: left;
-    width: 33%;
+    width: 31%;
     height: auto;
     margin: 0 0 0 0;
-    padding-left: 260px;
-    padding-top: 74px;
+    padding-left: 290px;
+    padding-top: 75px;
 }
 
 .san {
@@ -87,9 +87,9 @@ h2 {
 .san2 {
     height: 210px;
     float: right;
-    width: 40%;
+    width: 490px;
     padding-top: 70px;
-    padding-right: 155px;
+    padding-right: 323px;
 }
 
 h3 {
@@ -169,8 +169,6 @@ h5 {
 
 .in {
     display: flex;
-    height: 233px;
-    overflow: hidden;
     padding-top: 99px;
     padding-left: 280px;
 }
@@ -185,25 +183,25 @@ h5 {
 }
 
 .sol {
-    width: 280px;
+    width: 255px;
     background: #fff;
     margin-right: 20px;
 }
 
 .nfo {
-    width: 280px;
+    width: 255px;
     background: #fff;
     margin-right: 20px;
 }
 
 .info {
-    width: 280px;
+    width: 255px;
     background: #17bed2;
     margin-right: 20px;
 }
 
 .ser {
-    width: 280px;
+    width: 255px;
     background: #fff;
     margin-right: 20px;
 }
@@ -250,7 +248,7 @@ h5 {
 }
 
 .kpl-1 {
-    width: 455px;
+    width: 405px;
     display: flex;
     justify-content: flex-end;
     padding-left: 195px;
@@ -274,27 +272,27 @@ span {
 }
 
 .kpl-3 {
-    width: 875px;
-    margin-top: -405px;
+    width: 770px;
+    margin-top: -374px;
     display: flex;
     justify-content: flex-end;
-    padding-left: 180px;
+    padding-left: 200px;
 }
 
 .kpl-4 {
     width: 360px;
-    padding-left: 695px;
+    padding-left: 632px;
 }
 
 .kpl-5 {
     display: flex;
     justify-content: flex-end;
-    margin-top: -405px;
-    padding-right: 155px;
+    margin-top: -375px;
+    padding-right: 300px;
 }
 
 .kpl-6 {
-    padding-left: 1114px;
+    padding-left: 990px;
 }
 
 .wu {
@@ -343,13 +341,11 @@ span {
 }
 
 .kgb1 {
-    width: 790px;
     margin: 0 0 0 0;
     text-align: center;
     margin-top: -270px;
     color: #fff;
     font-size: 70px;
-    padding-left: 360px
 }
 
 .kgb2 {
@@ -357,7 +353,7 @@ span {
     color: #fff;
     opacity: .8;
     width: 940px;
-    padding-left: 300px;
+    padding-left: 400px;
     text-align: center;
 }
 
