@@ -80,13 +80,14 @@ h2 {
     padding-top: 74px;
 }
 
+.san {
+    height: 840px;
+}
+
 .san2 {
     height: 210px;
     float: right;
     width: 40%;
-    /* padding-right: 10px; */
-    /* margin-top: -716px; */
-    /* padding-left: 19px; */
     padding-top: 70px;
     padding-right: 155px;
 }
