@@ -1,3 +1,8 @@
+body {
+    font-size: 14px;
+    background-color: #eee;
+}
+
 .zhong {
     margin-left: auto;
     margin-right: auto;
@@ -62,4 +67,117 @@ p {
     margin-top: -73px;
     font-size: 17px;
     font-weight: 100;
+}
+
+.two {
+    background-color: #fff;
+    height: 1024px;
+}
+
+.two1 {
+    width: 50%;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.two2 {
+    padding-top: 30px;
+}
+
+.sub {
+    border-radius: 32px;
+    font-weight: 700;
+    background-color: #eee;
+    width: 93px;
+    margin: 0 auto;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    padding: 5px 10px 5px;
+    position: relative;
+    bottom: 15px;
+    left: 20px;
+}
+
+.x-l {
+    width: 35%;
+    border-top: 1px solid #ededed;
+    position: relative;
+    left: 25px;
+}
+
+.x-r {
+    position: relative;
+    left: 346px;
+    bottom: 33px;
+    border-top: 1px solid #ededed;
+    width: 130px;
+}
+
+.zhifubao {
+    text-decoration: none;
+    color: #00b38a;
+    margin-top: -47px;
+}
+
+.kg-name {
+    font-size: 17px;
+}
+
+.kg {
+    padding: 20px;
+}
+
+.item-jo {
+    line-height: 24px;
+}
+
+.link {
+    padding-left: 455px;
+}
+
+.k3-name {
+    margin-top: -30px;
+    font-weight: 300;
+}
+
+.k4-name {
+    font-weight: 300;
+}
+
+.item-des {
+    font-weight: 300;
+}
+
+.meituan {
+    padding-left: 23px;
+}
+
+.kg-time {
+    font-size: 13px;
+}
+
+.k2-time {
+    font-size: 13px;
+}
+
+.k1-name {
+    font-size: 17px;
+}
+
+.k-name {
+    padding-top: 50px;
+}
+
+.p-job {
+    margin-top: -35px;
+}
+
+.tenctqq {
+    padding-left: 20px;
+    padding-top: 50px
+}
+
+.p-di {
+    font-size: 17px;
 }
