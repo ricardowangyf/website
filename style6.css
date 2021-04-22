@@ -162,3 +162,42 @@ a {
     color: #2d7788;
     text-decoration: none;
 }
+
+.org3 {
+    color: #2d7788;
+    width: 600px;
+}
+
+.org-1 {
+    padding-top: 100px;
+}
+
+.exx {
+    margin: 0 0 0 0;
+    width: 200px;
+    padding-left: 50px;
+    margin-top: -31px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    color: #2d7788;
+}
+
+.row {
+    color: #3F4650;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+
+.tim {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -40px;
+    color: #97AAC3;
+}
+
+.pad {
+    color: #97AAC3;
+}
