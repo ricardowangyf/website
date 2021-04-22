@@ -126,3 +126,39 @@ body {
 .lang {
     color: rgba(255, 255, 255, 0.6);
 }
+
+.org {
+    background: #fff;
+    padding: 65px;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    background: #2d7788;
+    border-radius: 87%;
+    display: flex;
+    justify-content: center;
+}
+
+.carer {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    color: #2d7788;
+    margin: 0 0 0 0;
+    width: 270px;
+    padding-left: 49px;
+    margin-top: -35px;
+}
+
+.org2 {
+    color: #2d7788;
+    width: 600px;
+}
+
+a {
+    color: #2d7788;
+    text-decoration: none;
+}
