@@ -47,3 +47,57 @@ body {
 .next {
     width: 17px;
 }
+
+.email {
+    margin-bottom: 20px;
+}
+
+.pohone {
+    margin-bottom: 20px;
+}
+
+.web {
+    margin-bottom: 20px;
+}
+
+.link {
+    margin-bottom: 20px;
+}
+
+.ron {
+    padding: 30px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.degree {
+    font-size: 13px;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.meta {
+    color: rgba(255, 255, 255, 0.6);
+    margin: 0 0 0 0;
+}
+
+.time {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.i {
+    padding-left: 25px;
+}
+
+.languages {
+    padding-top: 100px;
+}
+
+.itle {
+    margin: 0 0 0 0;
+    padding-left: 20px;
+}
