@@ -71,7 +71,7 @@ p {
 
 .two {
     background-color: #fff;
-    height: 1024px;
+    height: 1550px;
 }
 
 .two1 {
@@ -223,4 +223,138 @@ p {
 
 .neiron {
     line-height: 19px;
+}
+
+.kill {
+    position: relative;
+    top: 130px;
+}
+
+.golang {
+    margin-top: -570px;
+    width: 970px;
+    display: flex;
+    justify-content: flex-end;
+    line-height: 30px;
+}
+
+.x-1 {
+    border-radius: 32px;
+    background-color: #eee;
+    width: 39%;
+    position: relative;
+    left: 20px;
+    height: 1px;
+    top: 12px;
+}
+
+.ill {
+    display: flex;
+    justify-content: end;
+}
+
+.ill-w {
+    border-radius: 32px;
+    font-weight: 700;
+    padding: 4px 10px;
+    background-color: #eee;
+    width: 15%;
+    position: relative;
+    left: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.x-2 {
+    border-radius: 32px;
+    background-color: #eee;
+    width: 35%;
+    position: relative;
+    left: 60px;
+    height: 1px;
+    top: 12px;
+}
+
+.xia {
+    padding-top: 30px;
+    width: 50%;
+    padding-left: 25px;
+}
+
+.Web {
+    font-size: 17px;
+}
+
+.a-1 {
+    padding-top: 51px;
+}
+
+.webpck {
+    padding-top: 50px;
+}
+
+.nodejs {
+    padding-top: 50px;
+}
+
+.xiamian {
+    width: 470px;
+    padding-left: 25px;
+    line-height: 30px;
+    width: 470px;
+    padding-left: 25px;
+    line-height: 30px;
+}
+
+.o-1 {
+    font-size: 17px;
+}
+
+.chin-1 {
+    font-size: 17px;
+}
+
+.tem {
+    font-size: 17px;
+}
+
+.qq {
+    padding-top: 50px;
+}
+
+.webpack {
+    padding-top: 50px;
+}
+
+.lan-2 {
+    font-size: 17px;
+}
+
+.qq-2 {
+    font-size: 17px;
+}
+
+.pack-2 {
+    font-size: 17px;
+}
+
+.na-2 {
+    font-size: 17px;
+}
+
+.i-des {
+    font-weight: 300;
+}
+
+.finally-1 {
+    display: inline-block;
+    color: #d1d1d1;
+    margin-bottom: 25px;
+    text-decoration: none;
+}
+
+.finally {
+    display: flex;
+    justify-content: center;
+    margin-top: 42px;
 }
