@@ -133,7 +133,7 @@ p {
 }
 
 .link {
-    padding-left: 455px;
+    padding-left: 440px;
 }
 
 .k3-name {
@@ -185,8 +185,6 @@ p {
 .right-1 {
     padding-left: 540px;
     margin-top: -665px;
-    width: 40%;
-    line-height: 25px;
 }
 
 .ite-des {
@@ -226,8 +224,7 @@ p {
 }
 
 .kill {
-    position: relative;
-    top: 130px;
+    padding-top: 130px;
 }
 
 .golang {
