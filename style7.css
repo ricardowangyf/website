@@ -94,24 +94,39 @@ p {
     display: flex;
     justify-content: center;
     padding: 5px 10px 5px;
-    position: relative;
-    bottom: 15px;
-    left: 20px;
+    margin-top: -16px;
+}
+
+.su {
+    border-radius: 32px;
+    font-weight: 700;
+    background-color: #eee;
+    width: 93px;
+    margin: 0 auto;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    padding: 5px 10px 5px;
 }
 
 .x-l {
     width: 35%;
     border-top: 1px solid #ededed;
+}
+
+.x-le {
+    width: 35%;
+    border-top: 1px solid #ededed;
     position: relative;
-    left: 25px;
+    top: 15px
 }
 
 .x-r {
     position: relative;
-    left: 346px;
-    bottom: 33px;
+    left: 315px;
     border-top: 1px solid #ededed;
-    width: 130px;
+    width: 180px;
+    bottom: 17px;
 }
 
 .zhifubao {
@@ -221,6 +236,7 @@ p {
 
 .neiron {
     line-height: 19px;
+    padding-top: 20px;
 }
 
 .kill {
