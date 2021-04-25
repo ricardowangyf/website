@@ -1,18 +1,20 @@
-body{
+body {
     font-family: 'Roboto', sans-serif;
     color: #545E6C;
     background: #f5f5f5;
     font-size: 14px;
     -webkit-font-smoothing: antialiased;
 }
-.wraper{
+
+.wraper {
     background: #42A8c0;
     max-width: 960px;
     margin: 0 auto;
     margin-top: 30px;
     position: relative
 }
-.sid-wraper{
+
+.sid-wraper {
     background: #42A8C0;
     position: absolute;
     right: 0;
@@ -21,79 +23,93 @@ body{
     min-height: 1915px;
     color: #fff;
 }
-.pro-contanin{
+
+.pro-contanin {
     padding: 30px;
     background: rgba(0, 0, 0, 0.2);
-  text-align: center;
+    text-align: center;
     color: #fff;
 }
-.name{
+
+.name {
     font-size: 32px;
     font-weight: 900;
     margin-top: 0;
     margin-bottom: 10px;
 }
-.dis{
+
+.dis {
     color: rgba(255, 255, 255, 0.6);
     font-size: 16px;
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 0;
 }
-.contact{
+
+.contact {
     width: 17px;
 }
-.phone{
+
+.phone {
     position: relative;
     left: 21px;
 }
-.web{
+
+.web {
     position: relative;
     left: 23px;
 }
-.jus{
+
+.jus {
     text-decoration: none;
     color: white;
     position: relative;
     left: 30px;
     bottom: 25px;
 }
-.ed{
+
+.ed {
     padding: 30px;
     position: relative;
     bottom: 90px;
     right: 0px;
 }
-.title{
+
+.title {
     text-transform: uppercase;
     font-size: 16px;
     font-weight: 700;
 }
-.degree{
+
+.degree {
     font-size: 13px;
     margin-top: 0;
     margin-bottom: 5px;
 }
-.meta{
+
+.meta {
     color: rgba(255, 255, 255, 0.6);
     font-weight: 500;
     margin-bottom: 0px;
     position: relative;
     bottom: 20px;
 }
-.time{
+
+.time {
     color: rgba(255, 255, 255, 0.6);
     font-weight: 500;
     margin-bottom: 0px;
     position: relative;
     bottom: 20px;
 }
-.languages{
+
+.languages {
     padding: 15px;
     position: relative;
     bottom: 85px;
 }
-.itle{
+
+.itle {
     text-transform: uppercase;
     font-size: 16px;
     font-weight: 700;
@@ -102,42 +118,50 @@ body{
     position: relative;
     left: 18px;
 }
-.lang-desc{
+
+.lang-desc {
     color: rgba(255, 255, 255, 0.6);
 }
-.block{
+
+.block {
     padding: 30px;
     position: relative;
     bottom: 95px;
 }
-.cont{
+
+.cont {
     text-transform: uppercase;
     font-size: 16px;
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 15px;
 }
-.unstyled{
+
+.unstyled {
     position: relative;
     right: 1px;
     padding: 0px;
 }
-.main{
+
+.main {
     background: #fff;
     padding: 65px;
     padding-right: 300px;
 }
-.sectionsummary-section{
+
+.sectionsummary-section {
     width: 10px;
 }
-.tit{
+
+.tit {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 500;
     color: #2d7788;
     position: relative;
 }
-.icon{
+
+.icon {
     width: 40px;
     height: 40px;
     margin-right: 20px;
@@ -150,116 +174,140 @@ body{
     display: flex;
     justify-content: center;
 }
-.carer{
+
+.carer {
     position: relative;
     left: 50px;
     bottom: 56px;
 }
-p{
+
+p {
     line-height: 22.5px;
 }
-a{
+
+a {
     color: #2d7788;
     text-decoration: none;
 }
-.summer{
+
+.summer {
     position: relative;
     bottom: 60px;
     color: #2d7788;
 }
-.mo{
+
+.mo {
     position: relative;
     left: 50px;
     bottom: 60px;
 }
-.tim{
+
+.tim {
     position: absolute;
     right: 0;
     top: 20px;
     color: #97AAC3;
 }
-.company{
+
+.company {
     color: #97AAC3;
     position: relative;
-    bottom: 25px;
+    bottom: 18px;
 }
-.upper-row{
+
+.upper-row {
     position: relative;
     overflow: hidden;
     margin-bottom: 2px;
 }
-.details{
+
+.details {
     position: relative;
     bottom: 20px;
 }
-.ite{
+
+.ite {
     position: relative;
     bottom: 80px;
 }
-.upper-row{
+
+.upper-row {
     color: #3F4650;
     font-size: 16px;
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
 }
-.tiem{
+
+.tiem {
     position: absolute;
     right: 0;
     top: 20px;
     color: #97AAC3;
 }
-.project-title{
+
+.project-title {
     font-size: 16px;
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 5px;
 }
-.intro{
+
+.intro {
     position: relative;
     bottom: 50px;
 }
-.itm{
+
+.itm {
     position: relative;
     top: 20px;
 }
-.em{
+
+.em {
     position: relative;
     top: 35px;
 }
-.tem{
+
+.tem {
     position: relative;
     top: 50px;
 }
-.ios{
+
+.ios {
     position: relative;
     top: 20px;
 }
-.ti{
+
+.ti {
     position: relative;
     top: 60px;
 }
-.amp{
+
+.amp {
     position: relative;
     left: 50px;
     bottom: 60px;
     text-transform: uppercase;
 }
-.bar{
+
+.bar {
     background: #68bacd;
 }
-.ol{
+
+.ol {
     margin-bottom: 15px;
     overflow: hidden;
 }
-.level-title{
+
+.level-title {
     display: flex;
     justify-content: flex-start;
     width: 30%;
     margin-bottom: 0;
     font-size: 14px;
 }
-.bar{
+
+.bar {
     height: 10px;
     background: #f5f5f5;
     border-radius: 2px;
@@ -267,53 +315,66 @@ a{
     left: 140px;
     bottom: 5px;
 }
-.footer{
+
+.footer {
     padding: 30px;
     padding-top: 60px;
 }
-.copyright{
+
+.copyright {
     line-height: 1.6;
     color: #545E6C;
     font-size: 13px;
     display: flex;
     justify-content: center;
 }
-.the{
+
+.the {
     width: 60%;
-    border: 5px  solid #68bacd;
+    border: 5px solid #68bacd;
 }
-.skills{
+
+.skills {
     line-height: 0.5px;
     overflow: hidden;
 }
-.theme-progress-bar{
+
+.theme-progress-bar {
     width: 74%;
-    border: 5px  solid #68bacd;
-}.te{
-    width: 73%;
-    border: 5px  solid #68bacd;
+    border: 5px solid #68bacd;
 }
-.me{
+
+.te {
     width: 73%;
-    border: 5px  solid #68bacd;
+    border: 5px solid #68bacd;
 }
-.pro{
+
+.me {
+    width: 73%;
+    border: 5px solid #68bacd;
+}
+
+.pro {
     width: 70%;
-    border: 5px  solid #68bacd;
+    border: 5px solid #68bacd;
 }
-.arr{
+
+.arr {
     width: 65%;
-    border: 5px  solid #68bacd;
+    border: 5px solid #68bacd;
 }
-.ths{
+
+.ths {
     width: 50%;
-    border: 5px  solid #68bacd;
+    border: 5px solid #68bacd;
 }
-.item{
+
+.item {
     position: relative;
     bottom: 110px;
 }
-.summay{
+
+.summay {
     position: relative;
     bottom: 85px;
 }

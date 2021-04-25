@@ -46,27 +46,20 @@ body {
 
 .next {
     width: 17px;
+    padding-top: 10px;
 }
 
 .email {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .pohone {
-    margin-bottom: 20px;
-}
-
-.web {
-    margin-bottom: 20px;
-}
-
-.link {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .ron {
-    padding-left: 25px;
-    padding-top: 100px;
+    padding-left: 30px;
+    padding-top: 50px;
 }
 
 .title {
@@ -77,7 +70,6 @@ body {
 
 .degree {
     font-size: 13px;
-    margin-top: 0;
     margin-bottom: 5px;
 }
 
@@ -91,11 +83,12 @@ body {
 }
 
 .i {
-    padding-left: 25px;
+    padding-left: 30px;
 }
 
 .languages {
-    padding-top: 100px;
+    padding-top: 50px;
+    padding-left: 15px;
 }
 
 .itle {
@@ -107,7 +100,12 @@ body {
 }
 
 .block {
-    padding-top: 100px;
+    padding-top: 50px;
+    padding-left: 15px;
+}
+
+.twitter {
+    margin: 0 0 0;
 }
 
 .cont {
@@ -169,7 +167,7 @@ a {
 }
 
 .org-1 {
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .exx {
@@ -203,7 +201,7 @@ a {
 }
 
 .ite {
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .tiem {
@@ -231,7 +229,7 @@ a {
 }
 
 .just {
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .rng-2 {
