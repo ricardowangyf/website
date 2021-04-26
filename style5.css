@@ -61,7 +61,7 @@ h2 {
     font-size: 70px;
     font-weight: 700;
     color: #515769;
-    width: 50%;
+    width: 41%;
     float: left;
     padding-top: 122px;
     padding-left: 297px;
@@ -307,7 +307,7 @@ span {
 
 .ngr {
     padding-top: 99px;
-    width: 99%;
+    width: 100%;
 }
 
 .lu1 {
@@ -369,15 +369,15 @@ span {
 .fbi {
     background: #fafafa;
     height: 419px;
-    width: auto;
+    width: 102%;
     position: relative;
-    top: 100px;
+    top: 96px;
 }
 
 .fbi1 {
     padding-top: 100px;
     padding-left: 305px;
-    width: 30%;
+    width: 33%;
 }
 
 .p1 {
@@ -391,7 +391,7 @@ span {
     display: flex;
     justify-content: flex-end;
     margin-top: 70px;
-    padding-right: 320px;
+    padding-right: 350px;
 }
 
 h4 {
