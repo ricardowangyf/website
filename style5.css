@@ -170,7 +170,7 @@ h5 {
 .in {
     display: flex;
     padding-top: 99px;
-    padding-left: 305px;
+    justify-content: center;
 }
 
 .white {
@@ -203,7 +203,6 @@ h5 {
 .ser {
     width: 255px;
     background: #fff;
-    margin-right: 20px;
 }
 
 .los {
@@ -296,7 +295,7 @@ span {
 }
 
 .wu {
-    height: 759px;
+    height: 757px;
 }
 
 .rng {
