@@ -148,7 +148,11 @@ p {
 }
 
 .link {
-    padding-left: 440px;
+    position: relative;
+    bottom: 15px;
+    right: 20px;
+    display: flex;
+    justify-content: flex-end
 }
 
 .k3-name {
@@ -199,7 +203,8 @@ p {
 
 .right-1 {
     padding-left: 540px;
-    margin-top: -665px;
+    margin-top: -647px;
+    line-height: 22px;
 }
 
 .ite-des {
