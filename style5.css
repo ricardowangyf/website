@@ -313,6 +313,7 @@ span {
 
 .ngr {
     padding-top: 99px;
+    width: 1070px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -320,35 +321,35 @@ span {
 .lu1 {
     display: flex;
     justify-content: flex-end;
-    width: 440px;
+    width: 110px;
 }
 
 .lu2 {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
-    width: 640px;
+    width: 350px;
 }
 
 .lu3 {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
-    width: 840px;
+    width: 590px;
 }
 
 .lu4 {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
-    width: 1070px;
+    width: 850px;
 }
 
 .lu5 {
     display: flex;
     justify-content: flex-end;
     margin-top: -50px;
-    width: 1370px;
+    width: 1070px;
 }
 
 .kgb1 {
@@ -442,7 +443,9 @@ a {
 
 .finally-1 {
     padding: 40px;
-    padding-left: 305px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1060px;
 }
 
 .margin-b {
