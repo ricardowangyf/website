@@ -249,15 +249,15 @@ h5 {
 .col-6 {
     width: 585px;
     height: 114px;
-    padding-left: 290px;
+    padding-left: 285px;
     padding-top: 112px;
 }
 
 .kpl-1 {
-    width: 405px;
+    width: 380px;
     display: flex;
     justify-content: flex-end;
-    padding-left: 225px;
+    padding-left: 240px;
 }
 
 a {
@@ -274,7 +274,7 @@ span {
 
 .kpl-2 {
     width: 385px;
-    padding-left: 290px;
+    padding-left: 270px;
 }
 
 .kpl-3 {
@@ -282,7 +282,7 @@ span {
     margin-top: -374px;
     display: flex;
     justify-content: flex-end;
-    padding-left: 217px;
+    padding-left: 220px;
 }
 
 .kpl-4 {
@@ -294,11 +294,11 @@ span {
     display: flex;
     justify-content: flex-end;
     margin-top: -375px;
-    padding-right: 283px;
+    padding-right: 260px;
 }
 
 .kpl-6 {
-    padding-left: 1010px;
+    padding-left: 1030px;
 }
 
 .wu {
