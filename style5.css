@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    width: auto;
+    height: auto;
 }
 
 .juzhong {
@@ -45,8 +47,11 @@ h1 {
 }
 
 .avatar {
-    padding-top: 114px;
-    width: auto;
+    padding-top: 150px;
+    margin-right: auto;
+    display: flex;
+    justify-content: flex-end;
+    width: 35%
 }
 
 .web {
@@ -57,14 +62,15 @@ h1 {
     margin: 0 0 0 0;
 }
 
-h2 {
-    font-size: 70px;
+.left {
+    font-size: 50px;
     font-weight: 700;
-    color: #515769;
-    width: 41%;
+    color: black;
+    width: 48%;
     float: left;
-    padding-top: 122px;
-    padding-left: 297px;
+    padding-top: 175px;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .clear {
@@ -302,46 +308,47 @@ span {
 .rng {
     background: #fafafa;
     height: 250px;
-    width: auto;
+    width: 103%;
 }
 
 .ngr {
     padding-top: 99px;
-    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .lu1 {
     display: flex;
-    padding-right: 1220px;
     justify-content: flex-end;
+    width: 440px;
 }
 
 .lu2 {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
-    padding-right: 970px;
+    width: 640px;
 }
 
 .lu3 {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
-    padding-right: 730px;
+    width: 840px;
 }
 
 .lu4 {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
-    padding-right: 510px;
+    width: 1070px;
 }
 
 .lu5 {
     display: flex;
     justify-content: flex-end;
     margin-top: -50px;
-    padding-right: 285px;
+    width: 1370px;
 }
 
 .kgb1 {
@@ -369,15 +376,20 @@ span {
 .fbi {
     background: #fafafa;
     height: 419px;
-    width: 102%;
+    width: 100%;
     position: relative;
     top: 96px;
 }
 
-.fbi1 {
+.kplo {
     padding-top: 100px;
-    padding-left: 305px;
-    width: 32%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1070px;
+}
+
+.contct {
+    width: 500px;
 }
 
 .p1 {
@@ -392,6 +404,9 @@ span {
     justify-content: flex-end;
     margin-top: 70px;
     padding-right: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1343px;
 }
 
 h4 {
@@ -445,4 +460,5 @@ a {
 
 .wen {
     background: #fafafa;
+    width: 103%;
 }
