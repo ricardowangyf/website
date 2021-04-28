@@ -2,6 +2,7 @@ body {
     margin: 0;
     width: auto;
     height: auto;
+    overflow-x: hidden;
 }
 
 .bottom1 {
@@ -66,7 +67,7 @@ h1 {
     margin-right: auto;
     display: flex;
     justify-content: flex-end;
-    width: 35%
+    width: 34%;
 }
 
 .web {
@@ -81,7 +82,7 @@ h1 {
     font-size: 50px;
     font-weight: 700;
     color: black;
-    width: 45%;
+    width: 49%;
     float: left;
     padding-top: 175px;
     display: flex;
@@ -94,10 +95,10 @@ h1 {
 
 .san1 {
     float: left;
-    width: 31%;
+    width: 28%;
     height: auto;
     margin: 0 0 0 0;
-    padding-left: 290px;
+    padding-left: 380px;
     padding-top: 75px;
 }
 
@@ -108,9 +109,9 @@ h1 {
 .san2 {
     height: 210px;
     float: right;
-    width: 490px;
+    width: 630px;
     padding-top: 70px;
-    padding-right: 323px;
+    padding-right: 140px;
 }
 
 h3 {
@@ -185,7 +186,7 @@ h5 {
 .si {
     background: #fafafa;
     height: 390px;
-    width: 103%;
+    width: 106%;
 }
 
 .in {
@@ -264,15 +265,15 @@ h5 {
 .col-6 {
     width: 585px;
     height: 114px;
-    padding-left: 285px;
+    padding-left: 385px;
     padding-top: 112px;
 }
 
 .kpl-1 {
-    width: 380px;
+    width: 387px;
     display: flex;
     justify-content: flex-end;
-    padding-left: 240px;
+    padding-left: 325px;
 }
 
 a {
@@ -289,31 +290,31 @@ span {
 
 .kpl-2 {
     width: 385px;
-    padding-left: 270px;
+    padding-left: 385px;
 }
 
 .kpl-3 {
     width: 770px;
-    margin-top: -374px;
+    margin-top: -365px;
     display: flex;
     justify-content: flex-end;
-    padding-left: 220px;
+    padding-left: 295px;
 }
 
 .kpl-4 {
     width: 360px;
-    padding-left: 650px;
+    padding-left: 735px;
 }
 
 .kpl-5 {
     display: flex;
     justify-content: flex-end;
-    margin-top: -375px;
-    padding-right: 260px;
+    margin-top: -365px;
+    padding-right: 210px;
 }
 
 .kpl-6 {
-    padding-left: 1030px;
+    padding-left: 1090px;
 }
 
 .wu {
@@ -392,7 +393,7 @@ span {
 .fbi {
     background: #fafafa;
     height: 419px;
-    width: 100%;
+    width: 106%;
     position: relative;
     top: 96px;
 }
@@ -478,7 +479,7 @@ a {
 
 .wen {
     background: #fafafa;
-    width: 103%;
+    width: 106%;
 }
 
 li {
