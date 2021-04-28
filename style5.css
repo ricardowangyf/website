@@ -82,7 +82,7 @@ h1 {
     font-size: 50px;
     font-weight: 700;
     color: black;
-    width: 50%;
+    width: 40%;
     float: left;
     padding-top: 175px;
     display: flex;
@@ -98,7 +98,7 @@ h1 {
     width: 28%;
     height: auto;
     margin: 0 0 0 0;
-    padding-left: 490px;
+    padding-left: 300px;
     padding-top: 75px;
 }
 
@@ -109,8 +109,9 @@ h1 {
 .san2 {
     height: 720px;
     float: right;
-    width: 630px;
+    width: 590px;
     padding-top: 70px;
+    padding-right: 260px;
 }
 
 h3 {
@@ -185,14 +186,14 @@ h5 {
 .si {
     background: #fafafa;
     height: 390px;
-    width: 110%;
+    width: 101%;
 }
 
 .in {
     display: flex;
     padding-top: 99px;
     justify-content: center;
-    width: 107%;
+    width: 100%;
 }
 
 .white {
@@ -264,7 +265,7 @@ h5 {
 .col-6 {
     width: 585px;
     height: 114px;
-    padding-left: 490px;
+    padding-left: 290px;
     padding-top: 112px;
 }
 
@@ -300,12 +301,12 @@ span {
     display: flex;
     justify-content: flex-end;
     margin-top: -365px;
-    width: 1065px;
+    width: 1075px;
 }
 
 .kpl-6 {
-    padding-left: 733px;
-    width: 500px;
+    padding-left: 745px;
+    width: 330px;
 }
 
 .wu {
@@ -323,7 +324,7 @@ span {
     width: 1088px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 135px;
+    padding-left: 5px;
 }
 
 .lu1 {
@@ -388,7 +389,7 @@ span {
 .fbi {
     background: #fafafa;
     height: 419px;
-    width: 120%;
+    width: 101%;
     position: relative;
     top: 96px;
 }
@@ -397,7 +398,7 @@ span {
     padding-top: 100px;
     margin-left: auto;
     margin-right: auto;
-    width: 970px;
+    width: 1070px;
 }
 
 .contct {
@@ -415,10 +416,10 @@ span {
     display: flex;
     justify-content: flex-end;
     margin-top: 70px;
-    padding-right: 250px;
     margin-left: auto;
     margin-right: auto;
-    width: 1343px;
+    width: 1070px;
+    padding-right: 55px;
 }
 
 h4 {
@@ -456,7 +457,7 @@ a {
     padding: 40px;
     margin-left: auto;
     margin-right: auto;
-    width: 650px;
+    width: 1070px;
 }
 
 .margin-b {
