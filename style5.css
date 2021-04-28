@@ -264,15 +264,8 @@ h5 {
 .col-6 {
     width: 585px;
     height: 114px;
-    padding-left: 385px;
+    padding-left: 490px;
     padding-top: 112px;
-}
-
-.kpl-1 {
-    width: 387px;
-    display: flex;
-    justify-content: flex-end;
-    padding-left: 325px;
 }
 
 a {
@@ -289,31 +282,30 @@ span {
 
 .kpl-2 {
     width: 385px;
-    padding-left: 385px;
 }
 
 .kpl-3 {
-    width: 770px;
-    margin-top: -365px;
+    width: 698px;
+    margin-top: -368px;
     display: flex;
     justify-content: flex-end;
-    padding-left: 295px;
 }
 
 .kpl-4 {
     width: 360px;
-    padding-left: 735px;
+    padding-left: 370px;
 }
 
 .kpl-5 {
     display: flex;
     justify-content: flex-end;
     margin-top: -365px;
-    padding-right: 210px;
+    width: 1065px;
 }
 
 .kpl-6 {
-    padding-left: 1090px;
+    padding-left: 733px;
+    width: 500px;
 }
 
 .wu {
@@ -381,7 +373,9 @@ span {
     margin-left: auto;
     margin-right: auto;
     width: 970px;
-    padding-left: 180px;
+    position: pos;
+    position: relative;
+    left: 200px;
 }
 
 .kgb2 {
@@ -462,7 +456,7 @@ a {
     padding: 40px;
     margin-left: auto;
     margin-right: auto;
-    width: 900px;
+    width: 650px;
 }
 
 .margin-b {
