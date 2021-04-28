@@ -193,7 +193,7 @@ h5 {
     display: flex;
     padding-top: 99px;
     justify-content: center;
-    width: 100%;
+    width: 107%;
 }
 
 .white {
@@ -324,20 +324,21 @@ span {
 .rng {
     background: #fafafa;
     height: 250px;
-    width: 103%;
+    width: 106%;
 }
 
 .ngr {
     padding-top: 99px;
-    width: 1070px;
+    width: 1088px;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 135px;
 }
 
 .lu1 {
     display: flex;
     justify-content: flex-end;
-    width: 110px;
+    width: 130px;
 }
 
 .lu2 {
@@ -381,6 +382,7 @@ span {
     margin-left: auto;
     margin-right: auto;
     width: 970px;
+    padding-left: 180px;
 }
 
 .kgb2 {
@@ -402,7 +404,7 @@ span {
     padding-top: 100px;
     margin-left: auto;
     margin-right: auto;
-    width: 1070px;
+    width: 970px;
 }
 
 .contct {
@@ -420,7 +422,7 @@ span {
     display: flex;
     justify-content: flex-end;
     margin-top: 70px;
-    padding-right: 350px;
+    padding-right: 250px;
     margin-left: auto;
     margin-right: auto;
     width: 1343px;
@@ -461,7 +463,7 @@ a {
     padding: 40px;
     margin-left: auto;
     margin-right: auto;
-    width: 1060px;
+    width: 900px;
 }
 
 .margin-b {
