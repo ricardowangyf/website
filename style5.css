@@ -10,10 +10,9 @@ body {
     font-weight: 600;
     padding: 20px 30px;
     background: #f3f4f5;
-    position: relative;
-    top: 80px;
     text-transform: uppercase;
     width: 124px;
+    margin-top: 25px;
 }
 
 .bottom1:hover {
@@ -135,11 +134,12 @@ p {
     padding: 20px 30px;
     text-decoration: none;
     background: #f3f4f5;
+    margin-top: 24px;
 }
 
 .san3 {
     border: 1px solid #edf0f2;
-    margin-top: 150px;
+    margin-top: 70px;
 }
 
 .san4 {
@@ -265,7 +265,7 @@ h5 {
 .col-6 {
     width: 585px;
     height: 114px;
-    padding-left: 290px;
+    padding-left: 200px;
     padding-top: 112px;
 }
 
@@ -311,6 +311,7 @@ span {
 
 .wu {
     height: 757px;
+    width: 1440px;
 }
 
 .rng {
@@ -377,18 +378,18 @@ span {
 }
 
 .kgb2 {
-    text-align: center;
     font-size: 20px;
     color: #fff;
     opacity: .8;
+    display: flex;
+    justify-content: center;
 }
 
 .fbi {
     background: #fafafa;
     height: 419px;
     width: 101%;
-    position: relative;
-    top: 96px;
+    padding-top: 100px;
 }
 
 .kplo {
@@ -446,8 +447,6 @@ a {
 .finally {
     height: 101px;
     background: #fff;
-    position: relative;
-    top: 100px;
 }
 
 .finally-1 {
