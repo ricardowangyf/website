@@ -186,14 +186,16 @@ h5 {
 .si {
     background: #fafafa;
     height: 390px;
-    width: 101%;
+    width: 110%;
 }
 
 .in {
     display: flex;
     padding-top: 99px;
     justify-content: center;
-    width: 114%;
+    width: 1315px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .white {
@@ -264,12 +266,14 @@ h5 {
 
 .col-1 {
     width: 500px;
+    width: 500px;
+    margin-bottom: 60px;
 }
 
 .col-6 {
     width: 1070px;
     height: 500px;
-    padding-left: 190px;
+    padding-left: 120px;
     padding-top: 112px;
     margin-left: auto;
     margin-right: auto;
@@ -306,13 +310,13 @@ span {
 .kpl-5 {
     display: flex;
     justify-content: flex-end;
-    margin-top: -365px;
-    width: 1075px;
+    margin-top: -369px;
+    width: 1190px;
 }
 
 .kpl-6 {
-    padding-left: 745px;
-    width: 330px;
+    padding-left: 830px;
+    width: 360px;
 }
 
 .wu {
