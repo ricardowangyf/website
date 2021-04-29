@@ -376,11 +376,12 @@ span {
     width: 109%;
     padding-top: 95px;
 }
-.kplo {
+.mosha {
     padding-top: 100px;
     margin-left: auto;
     margin-right: auto;
     width: 1240px;
+    padding-bottom: 100px;
 }
 .contct {
     width: 500px;
@@ -393,12 +394,8 @@ span {
 }
 .xxs {
     display: flex;
-    justify-content: flex-end;
-    margin-top: 70px;
-    margin-left: auto;
-    margin-right: auto;
     width: 1070px;
-    padding-right: 55px;
+    padding-top: 70px;
 }
 h4 {
     font-weight: 700;
