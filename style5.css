@@ -41,10 +41,10 @@ body {
 }
 
 .png {
-    width: 360px;
+    width: 200px;
+    padding-top: 40px;
     display: flex;
     justify-content: flex-end;
-    padding-top: 40px;
 }
 
 h1 {
@@ -58,7 +58,7 @@ h1 {
     display: flex;
     justify-content: flex-end;
     margin-top: -45px;
-    padding-right: 265px;
+    padding-right: 300px;
 }
 
 .avatar {
@@ -66,7 +66,7 @@ h1 {
     margin-right: auto;
     display: flex;
     justify-content: flex-end;
-    width: 36%;
+    width: 45%;
 }
 
 .web {
@@ -81,7 +81,7 @@ h1 {
     font-size: 50px;
     font-weight: 700;
     color: black;
-    width: 46%;
+    width: 43%;
     float: left;
     padding-top: 175px;
     display: flex;
@@ -98,7 +98,7 @@ h1 {
     width: 452px;
     height: auto;
     margin: 0 0 0 0;
-    padding-left: 500px;
+    padding-left: 245px;
     padding-top: 75px;
 }
 
@@ -109,9 +109,8 @@ h1 {
 .san2 {
     height: 720px;
     float: right;
-    width: 590px;
+    width: 706px;
     padding-top: 70px;
-    padding-right: 70px;
 }
 
 h3 {
@@ -194,7 +193,7 @@ h5 {
     display: flex;
     padding-top: 99px;
     justify-content: center;
-    width: 100%;
+    width: 114%;
 }
 
 .white {
@@ -263,11 +262,17 @@ h5 {
     font-size: 30px;
 }
 
+.col-1 {
+    width: 500px;
+}
+
 .col-6 {
-    width: 585px;
-    height: 114px;
-    padding-left: 200px;
+    width: 1070px;
+    height: 500px;
+    padding-left: 190px;
     padding-top: 112px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a {
