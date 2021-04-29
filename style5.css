@@ -97,7 +97,7 @@ h1 {
     width: 452px;
     height: auto;
     margin: 0 0 0 0;
-    padding-left: 340px;
+    padding-left: 155px;
     padding-top: 75px;
 }
 
@@ -113,7 +113,7 @@ h1 {
     float: right;
     width: 706px;
     padding-top: 70px;
-    padding-right: 115px;
+    padding-right: 293px;
 }
 
 h3 {
@@ -266,9 +266,7 @@ h5 {
     margin-bottom: 60px;
 }
 .col-6 {
-    width: 1070px;
-    height: 500px;
-    padding-left: 120px;
+    width: 1135px;
     padding-top: 112px;
     margin-left: auto;
     margin-right: auto;
@@ -317,10 +315,10 @@ span {
 }
 .ngr {
     padding-top: 99px;
-    width: 1088px;
+    width: 1097px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 70px;
+    padding-right: 150px;
 }
 .lu1 {
     display: flex;
@@ -331,25 +329,25 @@ span {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
-    width: 350px;
+    width: 360px;
 }
 .lu3 {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
-    width: 590px;
+    width: 580px;
 }
 .lu4 {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
-    width: 850px;
+    width: 830px;
 }
 .lu5 {
     display: flex;
     justify-content: flex-end;
     margin-top: -50px;
-    width: 1070px;
+    width: 1100px;
 }
 .kgb1 {
     margin: 0 0 0 0;
@@ -362,8 +360,7 @@ span {
 .mov {
     margin-left: auto;
     margin-right: auto;
-    width: 970px;
-    padding-left: 255px;
+    width: 1018px;
     text-align: center;
 }
 .kgb2 {
@@ -377,13 +374,13 @@ span {
     background: #fafafa;
     height: 419px;
     width: 109%;
-    padding-top: 100px;
+    padding-top: 95px;
 }
 .kplo {
     padding-top: 100px;
     margin-left: auto;
     margin-right: auto;
-    width: 1070px;
+    width: 1240px;
 }
 .contct {
     width: 500px;
