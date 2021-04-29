@@ -195,6 +195,7 @@ h5 {
     font-weight: 700;
     color: #515769;
     margin: 0 0 15px;
+    width: 360px;
 }
 
 .two4 {
@@ -381,4 +382,43 @@ h4 {
     font-size: 15px;
     font-weight: 400;
     color: #a6a7aa;
+}
+
+p2 {
+    float: left;
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+    margin-bottom: 15px;
+    width: 360px;
+}
+
+.work-1 {
+    height: 363px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.work-11 {
+    margin-left: 35px;
+}
+
+.work-13 {
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    color: #bfc1c7;
+}
+
+.work-21 {
+    margin-left: 35px;
+}
+
+.work-23 {
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    color: #bfc1c7;
 }
