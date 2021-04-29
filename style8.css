@@ -260,3 +260,125 @@ h5 {
     border: 1px solid #17bed2;
     width: 77%
 }
+
+.work {
+    background: #fff;
+}
+
+.work1 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.work2 {
+    margin-bottom: 40px;
+}
+
+p1 {
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+    margin-bottom: 15px;
+}
+
+.work3 {
+    width: 555px;
+}
+
+a {
+    color: #515769;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.work-4 {
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    color: #bfc1c7;
+}
+
+.three1 {
+    background: #fafafa;
+}
+
+.three2 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.three3 {
+    background: #fff;
+    padding: 30px;
+    width: 24%;
+    height: 233px;
+    margin-right: 10px;
+}
+
+h4 {
+    font-weight: 700;
+    color: #515769;
+    margin: 0px 15px 15px;
+    font-size: 22px;
+    padding-top: 100px;
+}
+
+.three5 {
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+}
+
+.three10 {
+    background: #17bed2;
+    padding: 30px;
+    width: 24%;
+    height: 233px;
+}
+
+.three16 {
+    font-weight: 700;
+    color: #f5f5f5;
+    margin: 0px 15px 15px;
+    font-size: 22px;
+    padding-top: 100px;
+}
+
+.three19 {
+    font-size: 15px;
+    font-weight: 400;
+    color: #f5f5f5;
+    display: block;
+    padding: 20px;
+}
+
+.three20 {
+    background: #fff;
+    padding: 30px;
+    width: 24%;
+    height: 233px;
+    margin-left: 30px;
+}
+
+.three30 {
+    background: #fff;
+    padding: 30px;
+    width: 24%;
+    height: 233px;
+    margin-left: 15px;
+}
+
+.three32 {
+    font-size: 15px;
+    font-weight: 400;
+    color: #a6a7aa;
+}
