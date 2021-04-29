@@ -1,0 +1,46 @@
+.first {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.first-1 {
+    background: #fff;
+    border-bottom: 1px solid #fafafa;
+}
+
+.first-2 {
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding: 15px 0;
+}
+
+.logo {
+    width: 100px;
+    height: 55px;
+    float: left;
+    max-height: 95px;
+    line-height: 95px;
+}
+
+.first1 {
+    width: 520px;
+    float: right;
+}
+
+.first4 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+p {
+    font-size: 13px;
+    font-weight: 600;
+    color: #515769;
+    padding: 20px
+}
