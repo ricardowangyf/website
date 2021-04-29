@@ -94,16 +94,18 @@ h1 {
 
 .san1 {
     float: left;
-    width: 38%;
     width: 452px;
     height: auto;
     margin: 0 0 0 0;
-    padding-left: 245px;
+    padding-left: 340px;
     padding-top: 75px;
 }
 
 .san {
     height: 840px;
+    width: 1640px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .san2 {
@@ -111,6 +113,7 @@ h1 {
     float: right;
     width: 706px;
     padding-top: 70px;
+    padding-right: 115px;
 }
 
 h3 {
@@ -185,91 +188,83 @@ h5 {
 
 .si {
     background: #fafafa;
-    height: 390px;
-    width: 110%;
+    width: 10 0%;
 }
 
 .in {
     display: flex;
-    padding-top: 99px;
     justify-content: center;
-    width: 1315px;
-    margin-left: auto;
+    width: 1170px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 15px;
+    padding-left: 15px;
     margin-right: auto;
+    margin-left: auto;
 }
 
+
+}
 .white {
     color: #fff;
     font-size: 22px;
 }
-
 .col {
     color: #fff;
 }
-
 .sol {
-    width: 255px;
+    width: 286px;
     background: #fff;
-    margin-right: 20px;
+    margin-right: 5px;
+    height: 233px;
 }
-
 .nfo {
     width: 255px;
     background: #fff;
-    margin-right: 20px;
+    margin-right: 5px;
 }
-
 .info {
     width: 255px;
     background: #17bed2;
-    margin-right: 20px;
+    margin-right: 5px;
 }
-
 .ser {
     width: 255px;
     background: #fff;
 }
-
 .los {
     padding: 15px;
     padding-top: 88px;
     margin-left: 25px;
 }
-
 .kl {
     font-size: 22px;
 }
-
 .kla {
     font-size: 22px;
     color: #fff;
 }
-
 .col-sm-6 {
     width: 585px;
     height: 114px;
 }
-
 .clas {
     font-size: 15px;
     font-weight: 400;
     color: #a6a7aa;
     margin-bottom: 15px;
 }
-
 .sol-1 {
     font-weight: 700;
     color: #515769;
     margin: 0 0 15px;
     font-size: 30px;
 }
-
 .col-1 {
     width: 500px;
     width: 500px;
     margin-bottom: 60px;
 }
-
 .col-6 {
     width: 1070px;
     height: 500px;
@@ -278,100 +273,84 @@ h5 {
     margin-left: auto;
     margin-right: auto;
 }
-
 a {
     color: #515769;
     text-decoration: none;
     font-size: 23px;
 }
-
 span {
     font-size: 14px;
     font-weight: 400;
     color: #bfc1c7;
 }
-
 .kpl-2 {
     width: 385px;
 }
-
 .kpl-3 {
     width: 770px;
     margin-top: -410px;
     display: flex;
     justify-content: flex-end;
 }
-
 .kpl-4 {
     width: 360px;
     padding-left: 410px;
 }
-
 .kpl-5 {
     display: flex;
     justify-content: flex-end;
     margin-top: -405px;
     width: 1190px;
 }
-
 .kpl-6 {
     padding-left: 830px;
     width: 360px;
 }
-
 .wu {
     height: 757px;
     width: 1440px;
 }
-
 .rng {
     background: #fafafa;
     height: 250px;
-    width: 103%;
+    width: 115%;
 }
-
 .ngr {
     padding-top: 99px;
     width: 1088px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 5px;
+    padding-left: 70px;
 }
-
 .lu1 {
     display: flex;
     justify-content: flex-end;
     width: 130px;
 }
-
 .lu2 {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
     width: 350px;
 }
-
 .lu3 {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
     width: 590px;
 }
-
 .lu4 {
     display: flex;
     justify-content: flex-end;
     margin-top: -49px;
     width: 850px;
 }
-
 .lu5 {
     display: flex;
     justify-content: flex-end;
     margin-top: -50px;
     width: 1070px;
 }
-
 .kgb1 {
     margin: 0 0 0 0;
     margin-top: -270px;
@@ -380,13 +359,13 @@ span {
     display: flex;
     justify-content: center;
 }
-
 .mov {
     margin-left: auto;
     margin-right: auto;
     width: 970px;
+    padding-left: 255px;
+    text-align: center;
 }
-
 .kgb2 {
     font-size: 20px;
     color: #fff;
@@ -394,32 +373,27 @@ span {
     display: flex;
     justify-content: center;
 }
-
 .fbi {
     background: #fafafa;
     height: 419px;
-    width: 101%;
+    width: 109%;
     padding-top: 100px;
 }
-
 .kplo {
     padding-top: 100px;
     margin-left: auto;
     margin-right: auto;
     width: 1070px;
 }
-
 .contct {
     width: 500px;
 }
-
 .p1 {
     font-size: 15px;
     font-weight: 400;
     color: #a6a7aa;
     margin-bottom: 15px;
 }
-
 .xxs {
     display: flex;
     justify-content: flex-end;
@@ -429,61 +403,49 @@ span {
     width: 1070px;
     padding-right: 55px;
 }
-
 h4 {
     font-weight: 700;
     color: #515769;
     margin: 0 0 15px;
     font-size: 23px;
 }
-
 a {
     color: #81848f;
     font-size: 10px;
 }
-
 .xxs2 {
     padding-left: 200px;
 }
-
 .xx3 {
     padding-left: 200px;
 }
-
 .xxs4 {
     padding-left: 200px;
 }
-
 .finally {
     height: 101px;
     background: #fff;
 }
-
 .finally-1 {
     padding: 40px;
     margin-left: auto;
     margin-right: auto;
-    width: 1070px;
+    width: 950px;
 }
-
 .margin-b {
     display: flex;
     justify-content: flex-end;
-    margin-top: -72px;
-    padding-right: 183px;
+    margin-top: -77px;
 }
-
 .href {
     color: #515769;
     text-decoration: none;
     font-size: 23px;
 }
-
 .wen {
     background: #fafafa;
     width: 115%;
 }
-
 li {
     color: #fff;
     width: 40px;
@@ -494,7 +456,6 @@ li {
     border-radius: 50%;
     padding: 11px;
 }
-
 li:hover {
     background: #515769;
 }
