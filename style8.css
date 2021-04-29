@@ -463,3 +463,36 @@ p2 {
     margin-left: 50px;
     margin-right: 50px;
 }
+
+.five {
+    text-align: center;
+}
+
+.five1 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 970px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+}
+
+.five-2 {
+    background-image: url(mybo.jpg);
+    width: 1425px;
+    height: 384px;
+}
+
+.five4 {
+    margin-top: 15px;
+    font-size: 20px;
+    color: #fff;
+    opacity: .8;
+    padding: 0;
+    font-weight: 300;
+    width: 940px;
+}
