@@ -422,3 +422,44 @@ p2 {
     font-weight: 400;
     color: #bfc1c7;
 }
+
+.four {
+    background: #fafafa;
+}
+
+.four1 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 1170px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.four4 {
+    display: flex;
+}
+
+.four5 {
+    width: 188px;
+    margin-right: 50px;
+}
+
+.four7 {
+    width: 188px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.four6 {
+    width: 188px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.four8 {
+    width: 188px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
