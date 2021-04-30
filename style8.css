@@ -335,6 +335,11 @@ a {
     margin-right: 10px;
 }
 
+.three4:hover {
+    cursor: pointer;
+    transform: translate(0, -10px)
+}
+
 h4 {
     font-weight: 700;
     color: #515769;
@@ -354,6 +359,11 @@ h4 {
     padding: 30px;
     width: 24%;
     height: 233px;
+}
+
+.three14:hover {
+    cursor: pointer;
+    transform: translate(0, -10px)
 }
 
 .three16 {
@@ -380,12 +390,22 @@ h4 {
     margin-left: 30px;
 }
 
+.three21:hover {
+    cursor: pointer;
+    transform: translate(0, -10px)
+}
+
 .three30 {
     background: #fff;
     padding: 30px;
     width: 24%;
     height: 233px;
     margin-left: 15px;
+}
+
+.three31:hover {
+    cursor: pointer;
+    transform: translate(0, -10px)
 }
 
 .three32 {
