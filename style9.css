@@ -299,12 +299,57 @@ p {
     padding: 0;
     font-size: 1.2em;
     line-height: 28px;
+    color: #696969;
 }
 
 .two-5 {
     padding: 12px 35px;
     font-size: 18px;
     line-height: 100px;
+    text-transform: capitalize;
+    font-weight: 400;
+    text-decoration: auto;
+    background-color: #8e43e7;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.three {
+    background: #fafafa;
+    height: 465px;
+    padding-top: 50px;
+}
+
+.three2 {
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 55px;
+}
+
+.three3 {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2em;
+    letter-spacing: 1px;
+    color: #8c89a2;
+}
+
+.three4 {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    color: #3F3A64;
+}
+
+.three6 {
+    padding: 12px 35px;
+    font-size: 18px;
+    line-height: 175px;
     text-transform: capitalize;
     font-weight: 400;
     text-decoration: auto;
