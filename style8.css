@@ -370,15 +370,17 @@ a {
 h4 {
     font-weight: 700;
     color: #515769;
-    margin: 0px 15px 15px;
     font-size: 22px;
-    padding-top: 100px;
+    padding-top: 20px;
+    margin-bottom: 20px;
 }
 
 .three5 {
     font-size: 15px;
     font-weight: 400;
     color: #a6a7aa;
+    margin: 0;
+    padding: 0;
 }
 
 .three10 {
@@ -396,9 +398,8 @@ h4 {
 .three16 {
     font-weight: 700;
     color: #f5f5f5;
-    margin: 0px 15px 15px;
     font-size: 22px;
-    padding-top: 100px;
+    padding-top: 43px;
 }
 
 .three19 {
@@ -406,7 +407,7 @@ h4 {
     font-weight: 400;
     color: #f5f5f5;
     display: block;
-    padding: 20px;
+    padding-top: 10px;
 }
 
 .three20 {
@@ -439,6 +440,7 @@ h4 {
     font-size: 15px;
     font-weight: 400;
     color: #a6a7aa;
+    padding: 0;
 }
 
 p2 {
