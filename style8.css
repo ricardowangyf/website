@@ -392,7 +392,10 @@ h4 {
 
 .three14:hover {
     cursor: pointer;
-    transform: translate(0, -10px)
+    transform: translate(0, -10px);
+    position: relative;
+    transition: top .3s;
+    top: 0;
 }
 
 .three16 {
