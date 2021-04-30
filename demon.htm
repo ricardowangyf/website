@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    body {
+        margin: 0;
+    }
+    
+    div {
+        width: 150px;
+        height: 150px;
+        background: #ffb568;
+        font: 30px/202px 'Arial';
+        color: red;
+        text-align: center;
+        margin: 0 auto;
+        border-radius: 50%;
+    }
+    
+    .yuan3 {
+        display: none;
+        /*transition指的是变换，参数有变换时间，延迟时间，变化曲线，宽度高度颜色变化等*/
+        transition: 1s;
+    }
+    
+    .yuan2:hover~.yuan3 {
+        display: block;
+        background: #3fb8ff;
+    }
+    
+    .yuan3:hover {
+        display: block;
+    }
+    
+    .yuan5 {
+        /*opacity是不透明度*/
+        opacity: 0;
+        width: 0;
+        height: 0;
+        /*transition写在这里才是.yuan5常有的属性，无论出现还是消失都会有动画的效果*/
+        transition: 1s;
+        overflow: hidden;
+        /*如果圆圈中的数字超过区域就隐藏*/
+    }
+    
+    .yuan4:hover~.yuan5 {
+        /*如果将transition写在这里的话，只有当鼠标悬停在.yuan4上的时候才会有效果，
+        当鼠标移出.yuan2的区域时，因为不出发hover的条件，所以消失的时候就没有变化效果了，
+        结果就是瞬间消失*/
+        opacity: 1;
+        width: 150px;
+        height: 150px;
+        background: #43ff0b;
+    }
+    
+    .yuan5:hover {
+        opacity: 1;
+        width: 150px;
+        height: 150px;
+        background: #43ff0b;
+    }
+</style>
+
+<body>
+    <div class="yuan1">1</div>
+    <div class="yuan2">2</div>
+    <div class="yuan3">3</div>
+    <div class="yuan4">4</div>
+    <div class="yuan5">5</div>
+    <div class="yuan6">6</div>
+
+</body>
+
+</html>

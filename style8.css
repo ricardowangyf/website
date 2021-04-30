@@ -362,6 +362,16 @@ a {
     margin-right: 10px;
 }
 
+.three4 {
+    position: relative;
+    transition: top .3s;
+    top: 0;
+}
+
+.three4:hover {
+    top: -10px;
+}
+
 .three4:hover {
     cursor: pointer;
     transform: translate(0, -20px)
@@ -390,12 +400,14 @@ h4 {
     height: 233px;
 }
 
-.three14:hover {
-    cursor: pointer;
-    transform: translate(0, -10px);
+.three14 {
     position: relative;
     transition: top .3s;
     top: 0;
+}
+
+.three14:hover {
+    top: -20px;
 }
 
 .three16 {
@@ -421,9 +433,14 @@ h4 {
     margin-left: 30px;
 }
 
+.three21 {
+    position: relative;
+    transition: top .3s;
+    top: 0;
+}
+
 .three21:hover {
-    cursor: pointer;
-    transform: translate(0, -10px)
+    top: -10px;
 }
 
 .three30 {
@@ -432,6 +449,16 @@ h4 {
     width: 24%;
     height: 233px;
     margin-left: 15px;
+}
+
+.three31 {
+    position: relative;
+    transition: top .3s;
+    top: 0;
+}
+
+.three31:hover {
+    top: -10px;
 }
 
 .three31:hover {
