@@ -217,8 +217,8 @@ body {
 }
 
 .one11:hover {
-    background-color: #8e43e7;
     color: #fff;
+    background-color: #8e43e7;
 }
 
 span {
@@ -239,4 +239,76 @@ P {
 .photo {
     width: 570px;
     height: 570px;
+}
+
+.two {
+    padding-top: 50px;
+    background: #fff;
+}
+
+.two2 {
+    height: 490px;
+    width: 100%;
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+}
+
+.two3 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.two5 {
+    width: 398px;
+    float: left;
+}
+
+.photo1 {
+    width: 370px;
+    height: 422px;
+    border-radius: 10px;
+}
+
+.two-1 {
+    width: 800px;
+    float: right;
+}
+
+.two-2 {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2em;
+    letter-spacing: 1px;
+    color: #8c89a2;
+}
+
+.two-3 {
+    font-size: 37px;
+    font-weight: 400;
+    line-height: 48px;
+    color: #3F3A64;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    font-size: 1.2em;
+    line-height: 28px;
+}
+
+.two-5 {
+    padding: 12px 35px;
+    font-size: 18px;
+    line-height: 100px;
+    text-transform: capitalize;
+    font-weight: 400;
+    text-decoration: auto;
+    background-color: #8e43e7;
+    color: #fff;
+    border-radius: 10px;
 }
