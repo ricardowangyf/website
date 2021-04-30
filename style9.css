@@ -21,33 +21,30 @@
     width: 100%;
     padding-right: 15px;
     padding-left: 15px;
+    height: 93px;
 }
 
 .first-2 {
-    padding: 0;
-    color: #8e43e7;
-    text-decoration: none;
-    margin: 0;
-    padding: 0;
     font-size: 34px;
     font-weight: 400;
-    text-transform: capitalize;
+    padding-top: 25px;
+}
+
+span {
+    position: relative;
+    bottom: 9px;
 }
 
 .fa {
-    font: normal normal normal 14px/1 FontAwesome;
     font-size: inherit;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
+    text-decoration: none;
 }
 
-*,
-*::before,
-*::after {
-    box-sizing: border-box;
+img {
+    width: 40px;
+    height: 40px;
 }
 
-.fa-lap {
-    display: inline-block;
-    color: var(--primary-color);
+.first12 {
+    text-decoration: auto;
 }
