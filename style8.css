@@ -6,6 +6,10 @@
     top: 0;
 }
 
+.first3 {
+    padding: 10px;
+}
+
 .first-1 {
     background: #fff;
     border-bottom: 1px solid #fafafa;
@@ -57,6 +61,29 @@ p {
     font-weight: 600;
     color: #515769;
     padding: 20px
+}
+
+.continer {
+    height: 2px;
+}
+
+.continer {
+    display: block;
+    padding-top: 24PX;
+    padding: 20PX;
+    /*默认隐藏*/
+}
+
+.continer:hover {
+    display: none;
+    /*当鼠标hover时展示*/
+}
+
+.move {
+    padding: 0;
+    margin: 0;
+    height: 19px;
+    padding-top: 24px;
 }
 
 .clear {
