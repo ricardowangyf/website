@@ -135,7 +135,7 @@ p {
 .one1 {
     width: 50%;
     float: right;
-    margin-top: -268px;
+    margin-top: -345px;
 }
 
 .one2 {
@@ -364,7 +364,7 @@ a {
 
 .three4:hover {
     cursor: pointer;
-    transform: translate(0, -10px)
+    transform: translate(0, -20px)
 }
 
 h4 {
@@ -655,4 +655,28 @@ p2 {
     font-size: 15px;
     font-weight: 400;
     color: #a6a7aa;
+}
+
+.icon-2 {
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    color: #515769;
+    background: #fff;
+    border-radius: 50%;
+    padding: 11px;
+}
+
+.icon-2:hover {
+    background: #515769;
+}
+
+.icon {
+    margin: 0;
+    padding: 0;
+}
+
+.icon-1 {
+    margin-bottom: 15px;
+    display: flex;
 }
