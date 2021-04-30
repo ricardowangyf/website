@@ -52,16 +52,6 @@
     color: #515769;
 }
 
-.first5 {
-    display: none;
-    /*默认隐藏*/
-}
-
-.first5:hover {
-    display: initial;
-    /*当鼠标hover时展示*/
-}
-
 p {
     font-size: 13px;
     font-weight: 600;
