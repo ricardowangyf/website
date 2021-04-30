@@ -41,6 +41,27 @@
     justify-content: flex-end;
 }
 
+.first-5 {
+    background: #17bed2;
+}
+
+.first5 {
+    padding: 0;
+    margin: 0;
+    height: 2px;
+    color: #515769;
+}
+
+.first5 {
+    display: none;
+    /*默认隐藏*/
+}
+
+.first5:hover {
+    display: initial;
+    /*当鼠标hover时展示*/
+}
+
 p {
     font-size: 13px;
     font-weight: 600;
