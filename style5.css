@@ -465,7 +465,11 @@ a {
     padding: 40px;
     margin-left: auto;
     margin-right: auto;
-    width: 950px;
+    width: 1170px;
+}
+
+.finally-2 {
+    padding-right: 115px;
 }
 
 .margin-b {
