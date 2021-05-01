@@ -791,3 +791,170 @@ h3 {
     padding: 40px 30px;
     margin-left: 20px;
 }
+
+.seven {
+    background: #fafafa;
+    height: 845px;
+}
+
+.seven1 {
+    padding-top: 50px;
+    height: 795px;
+}
+
+.seven2 {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    height: 784px;
+}
+
+.seven3 {
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+.seven6 {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: center;
+}
+
+.seven7 {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.seven-1 {
+    max-width: 700px;
+    margin: 0 auto;
+    margin-top: 3rem;
+}
+
+.eight {
+    text-align: center;
+    background: #fff;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+.eight1 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h6 {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2em;
+    letter-spacing: 1px;
+    color: #8c89a2;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    margin-bottom: 3rem;
+    counter-reset: #3F3A64;
+}
+
+.eight4 {
+    padding: 12px 35px;
+    font-size: 18px;
+    line-height: 28px;
+    text-transform: capitalize;
+    font-weight: 400;
+    background: #8E43E7;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.eight5 {
+    padding: 12px 35px;
+    font-size: 18px;
+    line-height: 28px;
+    text-transform: capitalize;
+    font-weight: 400;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+.eight5:hover {
+    background: #8E43E7;
+    color: #fff;
+}
+
+.nine {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    border-top: 1px solid #696969;
+}
+
+.nine1 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nine-3 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+a {
+    color: #8E43E7;
+    text-decoration: none;
+}
+
+.face {
+    width: 20px;
+    height: 20px;
+    float: right;
+    position: relative;
+    right: 125px;
+}
+
+.face:hover {
+    background: #8E43E7;
+}
+
+.book {
+    width: 20px;
+    height: 20px;
+    float: right;
+    position: relative;
+    right: 60px;
+}
+
+.book:hover {
+    background: #8E43E7;
+}
+
+.ins {
+    width: 20px;
+    height: 20px;
+    float: right;
+}
+
+.ins:hover {
+    background: #8E43E7;
+}
+
+.twit {
+    width: 20px;
+    height: 20px;
+    float: right;
+    position: relative;
+    left: 70px
+}
+
+.twit:hover {
+    background: #8E43E7;
+}
