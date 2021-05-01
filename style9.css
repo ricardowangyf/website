@@ -367,7 +367,7 @@ p {
     max-width: 1200px;
     margin-right: auto;
     margin-left: auto;
-    height: 750px;
+    height: 635px;
     width: 100%;
 }
 
@@ -388,12 +388,13 @@ p {
     line-height: 48px;
     text-align: center;
     color: #3F3A64;
+    margin-bottom: 30px;
     margin: 0;
 }
 
 .four-1 {
     display: flex;
-    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .four-2 {
@@ -401,7 +402,7 @@ p {
     margin-right: -15px;
     margin-left: -15px;
     width: 372px;
-    height: 314px;
+    height: 350px;
     background: #fafafa;
     border-radius: 10px;
     transition: 0.3s;
@@ -468,4 +469,223 @@ p {
 
 .box-wrap p {
     padding: 20px;
+}
+
+.four-12 {
+    margin-left: auto;
+    margin-right: -15px;
+    margin-left: -15px;
+    width: 372px;
+    height: 350px;
+    background: #fafafa;
+    border-radius: 10px;
+    transition: 0.3s;
+    border: 1px solid #f8f9fa;
+    margin-left: 74px;
+}
+
+.four-12:hover {
+    background: #fff;
+}
+
+.number {
+    color: #3F3A64;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 60px;
+    line-height: 60px;
+    opacity: .07;
+    transition: 0.3s;
+    margin: 0;
+    padding-right: 20px;
+    margin-top: -53px;
+}
+
+.duan {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    color: #3F3A64;
+    text-decoration: none;
+    padding-left: 29px;
+    transition: 0.3s;
+}
+
+.duan:hover {
+    color: #8E43E7;
+}
+
+.ps {
+    color: #696969;
+    padding: 0;
+    font-size: 1.2em;
+    line-height: 28px;
+}
+
+.photo2 {
+    padding-top: 39px;
+    padding-left: 25px;
+}
+
+.read {
+    font-size: 17px;
+    transition: 0.3s;
+    font-weight: 600;
+    border-radius: 0;
+    margin-top: 20px;
+    color: #273c66;
+    padding-left: 20px;
+}
+
+.read:hover {
+    color: #8E43E7;
+}
+
+.box-wrap p {
+    padding: 20px;
+}
+
+.four-22 {
+    margin-left: auto;
+    margin-right: -15px;
+    margin-left: -15px;
+    width: 372px;
+    height: 350px;
+    background: #fafafa;
+    border-radius: 10px;
+    transition: 0.3s;
+    border: 1px solid #f8f9fa;
+    margin-left: 74px;
+}
+
+.four-22:hover {
+    background: #fff;
+}
+
+.number {
+    color: #3F3A64;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 60px;
+    line-height: 60px;
+    opacity: .07;
+    transition: 0.3s;
+    margin: 0;
+    padding-right: 20px;
+    margin-top: -53px;
+}
+
+.duan {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    color: #3F3A64;
+    text-decoration: none;
+    padding-left: 29px;
+    transition: 0.3s;
+}
+
+.duan:hover {
+    color: #8E43E7;
+}
+
+.ps {
+    color: #696969;
+    padding: 0;
+    font-size: 1.2em;
+    line-height: 28px;
+}
+
+.photo2 {
+    padding-top: 39px;
+    padding-left: 25px;
+}
+
+.read {
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 0;
+    margin-top: 20px;
+    color: #273c66;
+    padding-left: 20px;
+}
+
+.read:hover {
+    color: #8E43E7;
+}
+
+.box-wrap p {
+    padding: 20px;
+}
+
+.four-25 {
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
+
+a {
+    color: #3F3A64;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #8E43E7;
+}
+
+.photo3 {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 8px;
+    left: 13px;
+}
+
+.five {
+    background: #fafafa;
+    height: 218px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.five1 {
+    max-width: 1125px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    height: 262px;
+}
+
+.five2 {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.five3 {
+    width: 300px;
+    height: 166px;
+    text-align: center;
+}
+
+.five4 {
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 0;
+    color: #3F3A64;
+}
+
+h4 {
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: capitalize;
+    color: #696969;
+    margin-top: 10px;
 }
