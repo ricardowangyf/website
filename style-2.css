@@ -38,6 +38,7 @@
     position: relative;
     bottom: 9px;
     color: #8E43E7;
+    font-weight: 400;
 }
 
 .fa {
@@ -78,18 +79,18 @@ img {
 .first5 {
     padding: 0 10px;
     font-weight: 400;
-    font-size: 23px;
+    font-size: 19px;
 }
 
 .first6 {
     padding: 0 10px;
-    font-size: 23px;
+    font-size: 19px;
     font-weight: 400;
 }
 
 .first7 {
     padding: 0 10px;
-    font-size: 23px;
+    font-size: 19px;
     font-weight: 400;
 }
 
