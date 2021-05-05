@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            height: 100vh;
+            transition: all 0.3s;
+        }
+        
+        .kaiguan {
+            position: absolute;
+            top: 20px;
+            right: 50px;
+            width: 40px;
+            height: 20px;
+            border: 2px solid black;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .bai {
+            position: absolute;
+            top: 1.5px;
+            left: 2px;
+            height: 13px;
+            width: 13px;
+            background-color: rgb(0, 0, 0);
+            border-radius: 50%;
+            transition: all 0.3s;
+        }
+        
+        .hei {
+            position: absolute;
+            top: 1.5px;
+            right: 2px;
+            height: 13px;
+            width: 13px;
+            background-color: rgb(11, 243, 81);
+            border-radius: 50%;
+            transition: all 0.3s;
+        }
+        
+        h1 {
+            margin: 100px auto;
+            width: 1000px;
+            text-align: center;
+        }
+        
+        p {
+            margin: -60px auto;
+            width: 1100px;
+            text-align-last: center;
+        }
+    </style>
+</head>
+
+<body id="body">
+    <div class="kaiguan">
+        <div class="bai" id="anniu"></div>
+    </div>
+    <h1>Life of Pi</h1>
+    <p>
+        &emsp;&emsp;&emsp; He lives in Scarborough. He's a small, slim man – nomore than five foot five. Dark hair, dark eyes. Hair greyingat the temples. Can't be older than forty. leasingcoffee-coloured complexion1. Mild fall weather, yet puts on abig winter
+        parka with fur-lined hood2 for the walk to thediner. He lives in Scarborough. He's a small, slim man – nomore than five foot five. Dark hair, dark eyes. Hair greyingat the temples. Can't be older than forty. leasingcoffee-coloured complexion1.
+        Mild fall weather, yet puts on abig winter parka with fur-lined hood2 for the walk to thediner. He lives in Scarborough. He's a small, slim man – nomore than five foot five. Dark hair, dark eyes. Hair greyingat the temples. Can't be older than
+        forty. leasingcoffee-coloured complexion1. Mild fall weather, yet puts on abig winter parka with fur-lined hood2 for the walk to thediner. He lives in Scarborough. He's a small, slim man – nomore than five foot five. Dark hair, dark eyes. Hair
+        greyingat the temples. Can't be older than forty. leasingcoffee-coloured complexion1. Mild fall weather, yet puts on abig winter parka with fur-lined hood2 for the walk to thediner. He lives in Scarborough. He's a small, slim man – nomore than
+        five foot five. Dark hair, dark eyes. Hair greyingat the temples. Can't be older than forty. leasingcoffee-coloured complexion1. Mild fall weather, yet puts on abig winter parka with fur-lined hood2 for the walk to thediner. He lives in Scarborough.
+        He's a small, slim man – nomore than five foot five. Dark hair, dark eyes. Hair greyingat the temples. Can't be older than forty. leasingcoffee-coloured complexion1. Mild fall weather, yet puts on abig winter parka with fur-lined hood2 for the
+        walk to thediner.
+    </p>
+
+    <script>
+        var anniu = document.getElementById('anniu');
+        var kaiguan = document.querySelector('.kaiguan');
+        var body = document.getElementById('body');
+        var temp = 1;
+        anniu.addEventListener('click', function() {
+            if (temp == 1) {
+                this.className = 'hei';
+                temp = 0;
+                kaiguan.style.border = '2px solid  rgb(11, 243, 81)';
+                body.style.backgroundColor = 'rgb(7, 7, 29)';
+                body.style.color = 'white';
+            } else {
+                this.className = 'bai';
+                temp = 1;
+                kaiguan.style.border = '2px solid black';
+                body.style.backgroundColor = 'white';
+                body.style.color = 'black';
+            }
+
+        })
+    </script>
+</body>
+
+</html>

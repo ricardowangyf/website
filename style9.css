@@ -2,83 +2,50 @@
     clear: both;
 }
 
-.btn,
-.ios-switch::before,
-.ios-switch {
-    border-radius: 31px;
-    width: 102px;
-    height: 62px;
-    background-color: #e9e9eb;
+:root {
+    --nav-color: #292922;
 }
 
-.ios-switch {
-    position: relative;
-    appearance: none;
+[data-theme="dark"] {
+    --nav-color: #fff;
+    --bg-color: #131617;
+}
+
+.theme-switch {
+    display: inline-block;
     cursor: pointer;
-    transition: all 100ms;
 }
 
-.ios-switch::before {
-    position: absolute;
-    content: "";
-    transition: all 300ms cubic-bezier(0.45, 1, 0.4, 1);
+.theme-switch .mode-container {
+    display: flex;
 }
 
-.ios-switch::after {
-    position: absolute;
-    left: 4px;
-    top: 4px;
-    border-radius: 27px;
-    width: 54px;
-    height: 54px;
-    background-color: #fff;
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
-    content: "";
-    transition: all 300ms cubic-bezier(0.4, 0.4, 0.25, 1.35);
+#checkbox {
+    display: none;
 }
 
-.ios-switch:checked {
-    background-color: #5eb662;
+#checkbox:checked+.mode-container .light {
+    display: inline-block;
 }
 
-.ios-switch:checked::before {
-    transform: scale(0);
+#checkbox+.mode-container .light {
+    display: none;
 }
 
-.ios-switch:checked::after {
-    transform: translateX(40px);
+#checkbox:checked+.mode-container .dark {
+    display: none;
 }
 
-.ios-switch:checked~header,
-.ios-switch:checked~div {
-    filter: invert(1) hue-rotate(180deg);
+#checkbox+.mode-container .dark {
+    display: inline-block;
 }
 
-.ios-switch:checked~header img,
-.ios-switch:checked~header video,
-.ios-switch:checked~header .logo,
-.ios-switch:checked~header .icon,
-.ios-switch:checked~header .jubao-con,
-.ios-switch:checked~div img,
-.ios-switch:checked~div video,
-.ios-switch:checked~div .logo,
-.ios-switch:checked~div .icon,
-.ios-switch:checked~div .jubao-con {
-    filter: invert(1) hue-rotate(180deg);
+body {
+    background-color: var(--bg-color);
 }
 
-.ios-switch~header,
-.ios-switch~div {
-    background-color: black;
-    transition: all 300ms;
-}
-
-.ios-switch {
-    position: absolute;
-    right: 0;
-    top: 0;
-    z-index: 99999;
-    outline: none;
+.theme-switch svg {
+    fill: var(--nav-color)
 }
 
 .first {
@@ -87,14 +54,6 @@
     right: 0;
     left: 0;
     z-index: 1030;
-}
-
-.firs {
-    background-color: var(--bg-color);
-    padding: 0px;
-    height: 90px;
-    display: grid;
-    align-items: center;
 }
 
 .first-1 {
