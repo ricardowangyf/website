@@ -61,7 +61,6 @@ body {
 }
 
 .firs {
-    background-color: var(--bg-color);
     padding: 0px;
     height: 90px;
     display: grid;
