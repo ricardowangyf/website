@@ -61,6 +61,7 @@ body {
     height: 90px;
     display: grid;
     align-items: center;
+    background: #fff;
 }
 
 .first-1 {
@@ -265,8 +266,6 @@ a {
     margin-right: auto;
     margin-left: auto;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
 }
 
 .three3 {
