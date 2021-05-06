@@ -802,3 +802,7 @@ a {
 .twit:hover {
     background: #8E43E7;
 }
+
+.active {
+    color: #696969;
+}
