@@ -44,6 +44,7 @@
 body {
     background-color: var(--bg-color);
     margin: 0;
+    transition: all 0.4s;
 }
 
 .theme-switch svg {
