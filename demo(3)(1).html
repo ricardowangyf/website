@@ -1,50 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <style>
-  :root {
-    --nav-color: #292922;
-    --bg-color: #fff;
-  }
-  [data-theme="dark"] {
-    --nav-color: #fff;
-    --bg-color: #131617;
-  }
-  .theme-switch {
-    border: 1px solid red;
-    display: inline-block;
-    cursor: pointer;
-  }
-  .theme-switch .mode-container { display: flex; }
-
-  #checkbox { display: none; }
-  #checkbox:checked + .mode-container .light {
-    display: inline-block;
-  }
-  #checkbox + .mode-container .light {
-    display: none;
-  }
-  #checkbox:checked + .mode-container .dark {
-    display: none;
-  }
-  #checkbox + .mode-container .dark {
-    display: inline-block;
-  }
-
-  body {
-    background-color: var(--bg-color);
-  }
-  .theme-switch svg {
-    fill: var(--nav-color)
-  }
-  </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+         :root {
+            --nav-color: #292922;
+            --bg-color: #fff;
+        }
+        
+        [data-theme="dark"] {
+            --nav-color: #fff;
+            --bg-color: #131617;
+        }
+        
+        .theme-switch {
+            border: 1px solid red;
+            display: inline-block;
+            cursor: pointer;
+        }
+        
+        .theme-switch .mode-container {
+            display: flex;
+        }
+        
+        #checkbox {
+            display: none;
+        }
+        
+        #checkbox:checked+.mode-container .light {
+            display: inline-block;
+        }
+        
+        #checkbox+.mode-container .light {
+            display: none;
+        }
+        
+        #checkbox:checked+.mode-container .dark {
+            display: none;
+        }
+        
+        #checkbox+.mode-container .dark {
+            display: inline-block;
+        }
+        
+        body {
+            background-color: var(--bg-color);
+        }
+        
+        .theme-switch svg {
+            fill: var(--nav-color)
+        }
+    </style>
 </head>
+
 <body>
-  <label class="theme-switch" for="checkbox">
+    <label class="theme-switch" for="checkbox">
     <input type="checkbox" id="checkbox">
     <span class="mode-container">
         <svg class="dark" viewBox="0 0 1024 1024" width="23">
@@ -61,18 +75,19 @@
           <path d="M785.656125 287.174512c-12.497639 12.496615-32.758078 12.496615-45.255717 0l0 0c-12.497639-12.496615-12.497639-32.758078 0-45.255717l45.25367-45.25367c12.497639-12.496615 32.760125-12.496615 45.255717 0l0 0c12.497639 12.496615 12.497639 32.758078 0 45.254693L785.656125 287.174512z"></path>
           <path d="M242.582409 830.217529c-12.495592 12.496615-32.758078 12.496615-45.255717 0l0 0c-12.495592-12.496615-12.495592-32.759101 0-45.255717l45.255717-45.254693c12.495592-12.496615 32.758078-12.496615 45.255717 0l0 0c12.495592 12.497639 12.495592 32.759101 0 45.255717L242.582409 830.217529z"></path>
         </svg>
-    </span>
+      </span>
   </label>
 
-  <script>
-    var btn = document.getElementById("checkbox")
-    btn.onchange = function(evn) {
-      if (evn.target.checked) {
-        document.documentElement.setAttribute("data-theme", "dark")
-      } else {
-        document.documentElement.setAttribute("data-theme", "light")
-      }
-    }
-  </script>
+    <script>
+        var btn = document.getElementById("checkbox")
+        btn.onchange = function(evn) {
+            if (evn.target.checked) {
+                document.documentElement.setAttribute("data-theme", "dark")
+            } else {
+                document.documentElement.setAttribute("data-theme", "light")
+            }
+        }
+    </script>
 </body>
+
 </html>
