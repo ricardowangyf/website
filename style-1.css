@@ -65,6 +65,7 @@ body {
     height: 90px;
     display: grid;
     align-items: center;
+    background: #fff;
 }
 
 .first-1 {
