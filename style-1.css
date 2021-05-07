@@ -432,7 +432,8 @@ p {
 
 .fi16 {
     border: 1px solid rgba(147, 107, 232, 0.05);
-    width: 300%;
+    width: 250%;
+    border-radius: 10px;
 }
 
 .fi5 {
