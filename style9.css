@@ -4,6 +4,7 @@
 
 :root {
     --nav-color: #292922;
+    --bg-color: #fff;
 }
 
 [data-theme="dark"] {
