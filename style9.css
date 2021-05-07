@@ -56,6 +56,10 @@ body {
     right: 0;
     left: 0;
     z-index: 1030;
+    box-shadow: 0 3px 9px rgb(0 0 0 / 5%);
+}
+
+.first div {
     background: #fff;
 }
 

@@ -66,7 +66,8 @@ body {
     height: 90px;
     display: grid;
     align-items: center;
-    background: #fff;
+    background-color: var(--bg-color);
+    transition: all 0.4s ease 0s;
 }
 
 .first-1 {
