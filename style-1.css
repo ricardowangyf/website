@@ -561,14 +561,14 @@ p {
     border-radius: 10px;
     background: rgba(147, 107, 232, 0.05);
     border: 1px solid rgba(147, 107, 232, 0.05);
-    transition: 0.3s
+    transition: 0.3s;
 }
 
 .rng4:hover {
     background: #fff;
 }
 
-.mov {
+.move {
     font-weight: 500;
     display: inline-block;
     margin-bottom: 10px;
@@ -578,7 +578,7 @@ p {
     transition: 0.3s;
 }
 
-.mov :hover {
+.move:hover {
     color: #8e43e7;
 }
 
