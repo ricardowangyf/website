@@ -59,12 +59,7 @@ body {
     z-index: 1030;
     box-shadow: 0 3px 9px rgb(0 0 0 / 5%);
     border-bottom: none;
-    transition: all 1s ease 0s;
     background: #fff;
-}
-
-.first:hover {
-    background-color: black;
 }
 
 .first-1 {
