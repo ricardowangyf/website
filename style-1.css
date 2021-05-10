@@ -76,9 +76,9 @@ body {
     max-width: 1200px;
     margin-right: auto;
     margin-left: auto;
+    padding-right: 30px;
+    padding-left: 30px;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
     height: 93px;
 }
 
@@ -89,15 +89,15 @@ body {
 }
 
 .first-3 {
-    position: relative;
-    bottom: 9px;
     color: #8E43E7;
     font-weight: 400;
+    position: relative;
+    bottom: 9px;
 }
 
 .fa {
-    font-size: inherit;
     text-decoration: none;
+    font-size: inherit;
 }
 
 img {
@@ -126,8 +126,8 @@ img {
 }
 
 .nav-lin {
-    color: #8E43E7;
     text-decoration: auto;
+    color: #8E43E7;
 }
 
 .first5 {
