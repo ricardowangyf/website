@@ -58,10 +58,13 @@ body {
     left: 0;
     z-index: 1030;
     box-shadow: 0 3px 9px rgb(0 0 0 / 5%);
+    border-bottom: none;
+    transition: all 1s ease 0s;
+    background: #fff;
 }
 
-.first div {
-    background: #fff;
+.first:hover {
+    background-color: black;
 }
 
 .first-1 {
@@ -213,11 +216,11 @@ img {
     text-transform: capitalize;
     font-weight: 400;
     text-decoration: auto;
-    background-color: #fff;
     color: #8e43e7;
     border-radius: 10px;
     transition: 0.3s;
     margin-left: 27px;
+    border: 1px solid #8e43e7;
 }
 
 .one11:hover {
@@ -465,6 +468,11 @@ p {
     padding-left: 20px;
 }
 
+.read h7 {
+    display: flex;
+    margin-left: 20px;
+}
+
 .read:hover {
     color: #8E43E7;
 }
@@ -633,10 +641,6 @@ a {
     transition: 0.3s;
 }
 
-a:hover {
-    color: #8E43E7;
-}
-
 .photo3 {
     width: 30px;
     height: 30px;
@@ -781,7 +785,22 @@ h3 {
 
 .six-9 {
     margin-left: 20px;
-    margin-top: 15px;
+    margin-top: 2px;
+}
+
+.six-9 p {
+    color: #777;
+    font-size: 17px;
+    font-style: normal;
+    margin-bottom: 0;
+    text-align: left;
+    opacity: 0.8;
+}
+
+.six-9 h3 {
+    margin: 0;
+    font-weight: 600;
+    font-size: 20px;
 }
 
 .six1-6 {
@@ -885,7 +904,7 @@ h3 {
     font-weight: 400;
     text-decoration: none;
     border-radius: 10px;
-    border: 1px solid;
+    border: 1px solid #8E43E7;
 }
 
 .eight5:hover {

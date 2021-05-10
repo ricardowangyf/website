@@ -63,7 +63,6 @@ body {
 }
 
 .firs {
-    background-color: var(--bg-color);
     padding: 0px;
     transition: all 0.4s ease 0s;
     height: 90px;
@@ -544,8 +543,6 @@ p {
 .rng {
     display: flex;
     flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
 }
 
 .rng3 {
@@ -585,8 +582,6 @@ p {
 .rng {
     display: flex;
     flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
 }
 
 .rng-3 {
@@ -625,8 +620,6 @@ p {
 .rng {
     display: flex;
     flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
 }
 
 .rng-4 {
@@ -758,7 +751,8 @@ a {
     height: 20px;
     float: right;
     position: relative;
-    right: 125px;
+    right: 150px;
+    transition: 1s;
 }
 
 .face:hover {
@@ -770,7 +764,8 @@ a {
     height: 20px;
     float: right;
     position: relative;
-    right: 60px;
+    right: 80px;
+    transition: 1s;
 }
 
 .book:hover {
@@ -781,6 +776,9 @@ a {
     width: 20px;
     height: 20px;
     float: right;
+    position: relative;
+    right: 20px;
+    transition: 1s;
 }
 
 .ins:hover {
@@ -792,7 +790,8 @@ a {
     height: 20px;
     float: right;
     position: relative;
-    left: 70px
+    left: 40px;
+    transition: 1s;
 }
 
 .twit:hover {
