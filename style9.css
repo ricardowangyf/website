@@ -450,3 +450,117 @@ p {
 .thr-2:hover {
     background: #6610f2;
 }
+
+.fo1 {
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+.fo2 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.fo3 {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #8c89a2;
+    display: flex;
+    justify-content: center;
+    appearance: 0;
+    margin: 0;
+}
+
+.fo4 {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    margin: 0;
+    display: flex;
+    margin-bottom: 3rem;
+    margin-bottom: 3rem;
+    justify-content: center;
+    counter-reset: #3f3a64;
+}
+
+.ro {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ro1 {
+    margin-left: auto;
+    padding-right: 0.5rem;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.ro3 {
+    max-width: 1200px;
+}
+
+.ro4 {
+    width: 372.333px;
+    margin-right: 30px;
+}
+
+.ro5 {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    border: none;
+    background: none;
+}
+
+.ro6 {
+    padding: 40px 30px;
+    transition: all 0.5s ease 0s;
+    border-radius: 10px;
+    background: rgba(147, 107, 232, 0.05);
+    border: 1px solid rgba(147, 107, 232, 0.05);
+}
+
+.ro6:hover {
+    background: #fff;
+}
+
+.number {
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 500;
+    font-size: 60px;
+    margin-top: -55px;
+}
+
+h4 {
+    color: #ddd;
+    margin-top: 0;
+}
+
+.ro6 a {
+    font-weight: 500;
+    line-height: 1.2;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #3f3a64;
+}
+
+.read {
+    border-bottom: 2px solid #8e43e7;
+    font-size: 17px;
+    padding: 0;
+    transition: 0.3s ease-in-out;
+    font-weight: 600;
+    border-radius: 0;
+    margin-top: 20px;
+    display: inline-block;
+    text-transform: capitalize;
+    color: #3f3a64;
+}
