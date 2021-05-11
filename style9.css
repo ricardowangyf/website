@@ -562,8 +562,23 @@ h4 {
 
 a {
     transition: 1s;
+    text-decoration: none;
 }
 
 a:hover {
+    color: #8E43E7;
+}
+
+.ro-1 {
+    margin-top: 3rem;
+    text-decoration: none;
+    text-align: center;
+}
+
+.ro-1 a {
+    color: #3f3a64;
+}
+
+.ro-1 a:hover {
     color: #8E43E7;
 }
