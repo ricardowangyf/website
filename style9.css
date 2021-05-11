@@ -564,3 +564,7 @@ h4 {
     text-transform: capitalize;
     color: #3f3a64;
 }
+
+.read:hover {
+    color: #8e43e7;
+}
