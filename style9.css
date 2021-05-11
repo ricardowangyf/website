@@ -473,7 +473,6 @@ p {
     color: #8c89a2;
     display: flex;
     justify-content: center;
-    appearance: 0;
     margin: 0;
 }
 
@@ -491,18 +490,10 @@ p {
 
 .ro {
     display: flex;
-    flex-wrap: wrap;
 }
 
 .ro1 {
-    margin-left: auto;
-    padding-right: 0.5rem;
-    flex: 0 0 100%;
     max-width: 100%;
-}
-
-.ro3 {
-    max-width: 1200px;
 }
 
 .ro4 {
@@ -567,4 +558,12 @@ h4 {
 
 .read:hover {
     color: #8e43e7;
+}
+
+a {
+    transition: 1s;
+}
+
+a:hover {
+    color: #8E43E7;
 }
