@@ -306,3 +306,81 @@ p {
     width: 570px;
     height: 570px;
 }
+
+.two1 {
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+.two2 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row1 {
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
+}
+
+.row2 img {
+    width: 370px;
+    height: 420px;
+    border-radius: 10px;
+}
+
+.row-1 {
+    margin-top: 0;
+    width: 800px;
+    height: 422px;
+    margin-bottom: 0.5rem;
+}
+
+.row-2 {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2em;
+    letter-spacing: 1px;
+    color: #8c89a2;
+    margin: 0;
+}
+
+.row-3 {
+    font-weight: 400;
+    line-height: 48px;
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+    color: #3f3a64;
+    margin-top: 1.5rem;
+}
+
+.mt-4 {
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.row a {
+    padding: 12px 35px;
+    font-size: 18px;
+    line-height: 28px;
+    text-transform: capitalize;
+    font-weight: 400;
+    transition: 0.3s ease-in;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #8e43e7;
+    border-color: #8e43e7;
+    text-decoration: none;
+}
