@@ -52,16 +52,6 @@
                                         </svg>
                                     </span>
                                 </label>
-                                <script>
-                                    var btn = document.getElementById("checkbox")
-                                    btn.onchange = function(evn) {
-                                        if (evn.target.checked) {
-                                            document.documentElement.setAttribute("data-theme", "dark")
-                                        } else {
-                                            document.documentElement.setAttribute("data-theme", "light")
-                                        }
-                                    }
-                                </script>
                             </div>
                         </div>
                     </div>
@@ -69,6 +59,7 @@
             </div>
         </div>
     </div>
+
     <!--  无辜的分割线  -->
     <!--  无辜的分割线  -->
 
@@ -358,7 +349,16 @@
         </div>
     </div>
     <!--  无辜的分割线  -->
-
+    <script>
+        var btn = document.getElementById("checkbox")
+        btn.onchange = function(evn) {
+            if (evn.target.checked) {
+                document.documentElement.setAttribute("data-theme", "dark")
+            } else {
+                document.documentElement.setAttribute("data-theme", "light")
+            }
+        }
+    </script>
 </body>
 
 </html>
