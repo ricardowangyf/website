@@ -197,3 +197,136 @@ ul {
     font-size: 19.2px;
     color: #8e43e7;
 }
+
+.thre1 {
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+.thre2 {
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pic {
+    flex: 0 0 33.33333%;
+    max-width: 31.33333%;
+    padding-right: 15px;
+}
+
+.pic img {
+    width: 370px;
+    height: 433px;
+    border-radius: 10px;
+}
+
+.mt-1 {
+    flex: 0 0 66.66667%;
+    max-width: 66.66667%;
+}
+
+.mt-22 {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2em;
+    letter-spacing: 1px;
+    color: #8c89a2;
+    margin: 0;
+}
+
+.mt-3 {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    color: #3f3a64;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    color: #696969;
+    padding: 0;
+    font-size: 1.2em;
+    line-height: 28px;
+    margin-top: 1.5rem;
+}
+
+.mt-5 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5px;
+    border-top: 1px solid #ddd;
+    margin-top: 1.5rem;
+    padding-top: 30px;
+}
+
+.mt-6 {
+    display: flex;
+}
+
+.mt-6 span {
+    margin-right: 10px;
+    font-weight: 600;
+    font-size: 1.2em;
+    min-width: 60px;
+    color: #3f3a64;
+}
+
+p1 {
+    margin: 0;
+    padding: 0;
+    font-size: 1.2em;
+    line-height: 28px;
+    color: #696969;
+    text-decoration: none;
+}
+
+.mt-6 a {
+    color: #8e43e7;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.mt1 {
+    margin-top: 3rem;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    grid-gap: 50px;
+}
+
+.button {
+    padding: 12px 35px;
+    font-size: 18px;
+    line-height: 28px;
+    text-transform: capitalize;
+    font-weight: 400;
+    transition: 0.3s;
+    cursor: pointer;
+    color: #fff;
+    background-color: #8e43e7;
+    border-color: #8e43e7;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-color: #8E43E7;
+}
+
+.p-0 {
+    margin: 0;
+}
+
+.icon {
+    padding-right: 30px;
+}
