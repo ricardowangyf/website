@@ -11,6 +11,11 @@
     --bg-color: #131617;
 }
 
+[data-theme="light"] {
+    --bg-light: #FFFFFF;
+    --bg-color: #131617;
+}
+
 .theme-switch {
     display: inline-block;
     cursor: pointer;
@@ -64,11 +69,10 @@ body {
 
 .firs {
     padding: 0px;
-    transition: all 0.4s ease 0s;
     height: 90px;
-    display: grid;
-    align-items: center;
+    transition: all 0.5s;
     box-shadow: 0 3px 9px rgb(0 0 0 / 5%);
+    background: var(--bg-light);
 }
 
 .first-1 {
