@@ -70,7 +70,7 @@ body {
 }
 
 .first-1 {
-    max-width: 1170px;
+    max-width: 1200px;
     margin-right: auto;
     margin-left: auto;
     padding-right: 15px;
@@ -205,7 +205,7 @@ body {
 }
 
 .one1 {
-    max-width: 1230px;
+    max-width: 1200px;
     margin-right: auto;
     margin-left: auto;
     width: 100%;
@@ -318,7 +318,7 @@ p {
 }
 
 .two2 {
-    max-width: 1230px;
+    max-width: 1200px;
     margin-right: auto;
     margin-left: auto;
     width: 100%;
@@ -399,7 +399,7 @@ p {
 }
 
 .thr1 {
-    max-width: 1230px;
+    max-width: 1200px;
     margin-right: auto;
     margin-left: auto;
     width: 100%;
@@ -454,7 +454,7 @@ p {
 }
 
 .fo2 {
-    max-width: 1230px;
+    max-width: 1200px;
     margin-right: auto;
     margin-left: auto;
     width: 100%;
@@ -585,7 +585,7 @@ a {
 }
 
 .fiv1 {
-    max-width: 1230px;
+    max-width: 1200px;
     margin-right: auto;
     margin-left: auto;
     width: 100%;
@@ -625,7 +625,7 @@ a {
 }
 
 .six1 {
-    max-width: 1230px;
+    max-width: 1200px;
     margin-right: auto;
     margin-left: auto;
     width: 100%;
@@ -894,4 +894,23 @@ ul {
 
 .nin-9:hover {
     background: #8E43E7;
+}
+
+.me {
+    position: fixed;
+    bottom: 40px;
+    right: 15px;
+    z-index: 99;
+    font-size: 24px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+    width: 48px;
+    height: 48px;
+    background: #8e43e7;
+    padding: 0;
+    line-height: 36px;
+    border-radius: 50px;
+    transition: 0.1s;
 }
