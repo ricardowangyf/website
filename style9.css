@@ -4,6 +4,11 @@
 
 :root {
     --nav-color: #292922;
+    --bg-color: #fff;
+}
+
+.theme-switch svg {
+    fill: var(--nav-color)
 }
 
 [data-theme="dark"] {
@@ -24,34 +29,26 @@
     display: none;
 }
 
-#checkbox:checked+.mode-container .light {
+#checkbox:checked+.mode-container.firs .light {
     display: inline-block;
 }
 
-#checkbox+.mode-container .light {
+#checkbox+.mode-container.firs .light {
     display: none;
 }
 
-#checkbox:checked+.mode-container .dark {
+#checkbox:checked+.mode-container.firs .dark {
     display: none;
 }
 
-#checkbox+.mode-container .dark {
+#checkbox+.mode-container.firs .dark {
     display: inline-block;
-}
-
-body {
-    background-color: var(--bg-color);
-}
-
-.theme-switch svg {
-    fill: var(--nav-color)
 }
 
 body {
     overflow-x: hidden;
     margin: 0;
-    transition: all 0.4s;
+    transition: all 0.4s ease 0s;
 }
 
 .first {
@@ -62,10 +59,16 @@ body {
     z-index: 1030;
 }
 
-div.firs {
+.firs {
     height: 90px;
     background-color: var(--bg-color);
     box-shadow: 0 3px 9px rgb(0 0 0 / 5%);
+    cursor: pointer;
+    transition: all 0.4s ease 0s;
+}
+
+div:checked {
+    background: #131617;
 }
 
 .first-1 {
