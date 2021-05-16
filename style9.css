@@ -70,12 +70,13 @@ body {
 }
 
 .first-1 {
-    max-width: 1200px;
+    max-width: 1170px;
     margin-right: auto;
     margin-left: auto;
     padding-right: 15px;
     padding-left: 15px;
     width: 100%;
+    height: 93px;
 }
 
 .first-2 {
@@ -204,12 +205,10 @@ body {
 }
 
 .one1 {
-    max-width: 1200px;
-    margin-left: auto;
+    max-width: 1230px;
     margin-right: auto;
+    margin-left: auto;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
 }
 
 .one2 {
@@ -319,12 +318,10 @@ p {
 }
 
 .two2 {
-    max-width: 1200px;
-    margin-left: auto;
+    max-width: 1230px;
     margin-right: auto;
+    margin-left: auto;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
     padding-bottom: 3rem;
     padding-top: 3rem;
 }
@@ -402,12 +399,10 @@ p {
 }
 
 .thr1 {
-    max-width: 1200px;
-    margin-left: auto;
+    max-width: 1230px;
     margin-right: auto;
+    margin-left: auto;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
 }
 
 .thr2 {
@@ -459,12 +454,10 @@ p {
 }
 
 .fo2 {
-    max-width: 1200px;
-    margin-left: auto;
+    max-width: 1230px;
     margin-right: auto;
+    margin-left: auto;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
 }
 
 .fo3 {
@@ -592,12 +585,10 @@ a {
 }
 
 .fiv1 {
-    max-width: 1200px;
+    max-width: 1230px;
     margin-right: auto;
     margin-left: auto;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
 }
 
 .fiv2 {
@@ -634,12 +625,10 @@ a {
 }
 
 .six1 {
-    margin-left: auto;
+    max-width: 1230px;
     margin-right: auto;
+    margin-left: auto;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    max-width: 1200px;
 }
 
 .six2 {
