@@ -243,6 +243,12 @@ body {
     color: #3f3a64;
 }
 
+.one5 span {
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 1.2;
+}
+
 p {
     margin: 0;
     padding: 0;
@@ -266,6 +272,10 @@ p {
     color: #fff;
     margin-right: 0.5rem;
     border-radius: 10px;
+}
+
+.mon-2:hover {
+    background: #8e43e7;
 }
 
 .mon-3 {
