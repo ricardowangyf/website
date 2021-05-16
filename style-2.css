@@ -117,11 +117,13 @@ img {
 .nav-link {
     text-decoration: auto;
     color: #3F3A64;
+    border-bottom: 1px solid #8E43E7;
 }
 
 .nav-lin {
     color: #8E43E7;
     text-decoration: auto;
+    border-bottom: 1px solid #8E43E7;
 }
 
 .first5 {
