@@ -513,7 +513,7 @@ p {
 
 .ro6 {
     padding: 40px 30px;
-    transition: all 0.5s ease 0s;
+    transition: all 0.5s;
     border-radius: 10px;
     background: rgba(147, 107, 232, 0.05);
     border: 1px solid rgba(147, 107, 232, 0.05);
@@ -532,9 +532,8 @@ p {
     margin-top: -55px;
 }
 
-h4 {
-    color: #ddd;
-    margin-top: 0;
+.ro6 a:hover {
+    color: #8E43E7;
 }
 
 .ro6 a {
