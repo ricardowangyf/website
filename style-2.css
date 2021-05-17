@@ -320,3 +320,81 @@ p {
 .bouuon:hover {
     background-color: #8E43E7;
 }
+
+.nin {
+    border-top: 1px solid #ddd;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+.nin1 {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    padding-right: 15px;
+    max-width: 1200px;
+    padding-left: 15px;
+}
+
+.nin3 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nin4 {
+    flex: 0 0 66.66667%;
+    max-width: 66.66667%;
+}
+
+.nin-4 {
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    margin: 0;
+}
+
+.nin-5 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nin-6:hover {
+    background: #8E43E7;
+}
+
+.nin-7:hover {
+    background: #8E43E7;
+}
+
+.nin-8:hover {
+    background: #8E43E7;
+}
+
+.nin-9:hover {
+    background: #8E43E7;
+}
+
+.me {
+    position: fixed;
+    bottom: 40px;
+    right: 15px;
+    z-index: 99;
+    font-size: 24px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+    width: 48px;
+    height: 48px;
+    background: #8e43e7;
+    padding: 0;
+    line-height: 36px;
+    border-radius: 50px;
+    transition: 0.1s;
+}
