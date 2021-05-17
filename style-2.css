@@ -188,3 +188,135 @@ a {
     color: #8e43e7;
     text-decoration: none;
 }
+
+.thre {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.thre1 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.thre2 {
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thre3 {
+    display: grid;
+    grid-template-columns: 1fr 1.3fr;
+    grid-gap: 30px;
+}
+
+.thre5 {
+    display: flex;
+    grid-template-columns: 20px auto;
+    grid-column-gap: 35px;
+    margin-top: 3rem;
+}
+
+.thre51 {
+    display: flex;
+    grid-template-columns: 20px auto;
+    grid-column-gap: 35px;
+}
+
+h6 {
+    margin: 0;
+    color: cadetblue;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.cont-right a {
+    margin: 0;
+    color: cadetblue;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 0;
+}
+
+.cont-right p {
+    margin: 0;
+    color: cadetblue;
+    font-weight: 600;
+    padding: 0;
+}
+
+.form {
+    background: rgba(147, 107, 232, 0.05);
+    border: 1px solid transparent;
+    color: #696969;
+    font-size: 1.2em;
+    padding: 12px 15px;
+    width: 90%;
+    height: 55px;
+    border-radius: 10px;
+}
+
+.twice-two {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 20px;
+}
+
+.form-1 {
+    background: rgba(147, 107, 232, 0.05);
+    border: 1px solid transparent;
+    color: #696969;
+    font-size: 1.2em;
+    padding: 12px 15px;
+    width: 95%;
+    height: 55px;
+    border-radius: 10px;
+}
+
+.twice {
+    margin-bottom: 20px;
+}
+
+.form-2 {
+    background: rgba(147, 107, 232, 0.05);
+    border: 1px solid transparent;
+    color: #696969;
+    font-size: 1.2em;
+    padding: 12px 15px;
+    width: 95%;
+    height: 55px;
+    border-radius: 10px;
+    min-height: 140px;
+}
+
+.right {
+    text-align: right;
+}
+
+.bouuon {
+    padding: 12px 35px;
+    font-size: 18px;
+    line-height: 28px;
+    text-transform: capitalize;
+    font-weight: 400;
+    transition: 0.3s ease-in;
+    cursor: pointer;
+    margin-top: 1.5rem;
+    color: #fff;
+    background-color: #8e43e7;
+    border-color: #8e43e7;
+    border-radius: 10px;
+    border: 1px solid #8e43e7;
+}
+
+.bouuon:hover {
+    background-color: #8E43E7;
+}
