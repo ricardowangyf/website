@@ -221,12 +221,6 @@
         padding-right: 15px;
     }
     
-    .pic img {
-        width: 370px;
-        height: 433px;
-        border-radius: 10px;
-    }
-    
     .mt-1 {
         flex: 0 0 66.66667%;
         max-width: 66.66667%;
@@ -325,10 +319,6 @@
     
     .p-0 {
         margin: 0;
-    }
-    
-    .icon {
-        padding-right: 30px;
     }
     
     .for {
@@ -607,6 +597,10 @@
         height: 268px;
     }
     
+    .box:hover {
+        background-color: #fff;
+    }
+    
     .card a {
         font-size: 28px;
         line-height: 34px;
@@ -616,6 +610,10 @@
         margin-bottom: 10px;
         text-decoration: none;
         margin-top: 25px;
+    }
+    
+    .card a:hover {
+        color: #8e43e7;
     }
     
     .kun-2 {
@@ -638,6 +636,108 @@
         height: 26px;
     }
     
-    .kun-1:hover {
-        background-color: #fff;
+    .nine {
+        border-top: 1px solid #ddd;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+    
+    .nine2 {
+        width: 100%;
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .flex {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .zi1 {
+        flex: 0 0 66.66667%;
+        max-width: 66.66667%;
+    }
+    
+    .m-0 a {
+        color: #8e43e7;
+        text-decoration: none;
+    }
+    
+    .pic2 {
+        flex: 0 0 33.33333%;
+        max-width: 33.33333%;
+        text-align: right;
+    }
+    
+    .nin {
+        border-top: 1px solid #ddd;
+        padding-bottom: 3rem;
+        padding-top: 3rem;
+    }
+    
+    .nin1 {
+        margin-right: auto;
+        margin-left: auto;
+        width: 100%;
+        padding-right: 15px;
+        max-width: 1200px;
+        padding-left: 15px;
+    }
+    
+    .nin3 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .nin4 {
+        flex: 0 0 66.66667%;
+        max-width: 66.66667%;
+    }
+    
+    .nin-4 {
+        flex: 0 0 33.33333%;
+        max-width: 33.33333%;
+    }
+    
+    li {
+        list-style-type: none;
+    }
+    
+    ul {
+        margin: 0;
+    }
+    
+    .nin-5 {
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .nin-5 {
+        position: relative;
+        top: 25px;
+    }
+    
+    .nin5 a {
+        color: #8e43e7;
+        text-decoration: none;
+    }
+    
+    .me {
+        position: fixed;
+        bottom: 40px;
+        right: 15px;
+        z-index: 99;
+        font-size: 24px;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        color: #fff;
+        width: 48px;
+        height: 48px;
+        background: #8e43e7;
+        padding: 0;
+        line-height: 36px;
+        border-radius: 50px;
+        transition: 0.1s;
     }
