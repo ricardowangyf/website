@@ -398,3 +398,12 @@ ul {
     border-radius: 50px;
     transition: 0.1s;
 }
+
+.me1 {
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+    font-weight: 500;
+    color: #3f3a64;
+    text-align: center;
+}
