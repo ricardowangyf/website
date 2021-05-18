@@ -11,7 +11,6 @@
 }
 
 .firs {
-    width: 1425px;
     height: 90px;
     box-shadow: 0 3px 9px rgb(0 0 0 / 5%);
     background: var(--bg-light);
@@ -292,7 +291,6 @@ p {
     font-size: 1.2em;
     padding: 12px 15px;
     width: 95%;
-    height: 55px;
     border-radius: 10px;
     min-height: 140px;
 }
