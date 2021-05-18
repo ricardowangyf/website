@@ -104,10 +104,6 @@ img {
     --bg-light: #131617;
 }
 
-[data-theme="body"] {
-    --nav-color: #fff;
-}
-
 [data-theme="light"] {
     --bg-light: #FFFFFF;
 }
