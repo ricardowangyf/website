@@ -123,6 +123,15 @@ img {
 [data-theme="dark"] {
     --nav-color: #fff;
     --bg-light: #131617;
+    --primary-color: #8e43e7;
+    --secondary-color: #273c66;
+    --font-color: #afafaf;
+    --bg-color: #0b0d0e;
+    --heading-color: #ddd;
+    --border-color: #333;
+    --border-light: #444;
+    --nav-color: #fff;
+    --bg-light: #131617;
 }
 
 [data-theme="light"] {
@@ -210,7 +219,7 @@ body {
     margin-bottom: 0.5rem;
     margin: 0;
     padding: 0;
-    color: #3f3a64;
+    color: var( --heading-color);
 }
 
 .one5 span {
@@ -506,7 +515,7 @@ p {
     line-height: 1.2;
     text-decoration: none;
     font-size: 1.5rem;
-    color: #3f3a64;
+    color: var( --nav-color);
 }
 
 .read {
@@ -537,7 +546,7 @@ a {
 }
 
 .ro-1 a {
-    color: #3f3a64;
+    color: var( --nav-color);
 }
 
 .ro-1 a:hover {
@@ -573,7 +582,7 @@ a {
     font-size: 50px;
     line-height: 60px;
     font-weight: 600;
-    color: #3f3a64;
+    color: var( --heading-color);
     margin-top: 30px;
 }
 
@@ -581,7 +590,7 @@ a {
     font-size: 20px;
     line-height: 25px;
     text-transform: capitalize;
-    color: #696969;
+    color: var( --heading-color);
     margin-top: 10px;
 }
 
