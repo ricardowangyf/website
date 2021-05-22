@@ -691,3 +691,51 @@ h3 {
     text-align: left;
     opacity: 0.8;
 }
+
+.seve {
+    background: var(--bg-light);
+}
+
+.seve1 {
+    padding-top: 3rem;
+    padding-bottom: 3rem
+}
+
+.seve2 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+.seve3 {
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+.title-big {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    margin: 0;
+    padding: 0;
+    color: var(--heading-color);
+}
+
+.mt-3 {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.mon {
+    max-width: 700px;
+    margin: 0 auto;
+    margin-top: 3rem;
+}
+
+.mon1 img {
+    width: 700px;
+    height: 408px;
+    border-radius: var(--border-radius);
+}
