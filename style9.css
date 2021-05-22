@@ -163,7 +163,7 @@ body {
 }
 
 .one {
-    margin-top: 90px;
+    margin-top: 120px;
     padding-bottom: 3rem;
     padding-top: 3rem;
     background-color: var(--bg-light);
@@ -274,6 +274,7 @@ p {
 .two1 {
     padding-bottom: 3rem;
     padding-top: 3rem;
+    background: var(--bg-color);
 }
 
 .two2 {
@@ -346,4 +347,55 @@ p {
 
 .mk-5:hover {
     background-color: #8E43E7;
+}
+
+.thr {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: var(--bg-light);
+}
+
+.thr1 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.th {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2em;
+    letter-spacing: 1px;
+    color: #8c89a2;
+    margin: 0;
+    margin-bottom: 0.5rem;
+}
+
+.th-1 {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    margin: 0 0 1.5rem 0;
+    color: var(--heading-color);
+}
+
+.mt-5 {
+    margin-top: 3rem;
+}
+
+.btm {
+    padding: 12px 35px;
+    font-size: 18px;
+    line-height: 28px;
+    text-transform: capitalize;
+    font-weight: 400;
+    transition: 0.3s ease-in;
+    text-decoration: none;
+    border-radius: var( --border-radius);
+    color: #fff;
+    background-color: #8e43e7;
+    border-color: #8e43e7;
 }
