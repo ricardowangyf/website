@@ -156,6 +156,7 @@ img {
 
 body {
     background-color: var(--bg-light);
+    margin: 0;
 }
 
 .theme-switch svg {
@@ -163,7 +164,7 @@ body {
 }
 
 .one {
-    margin-top: 120px;
+    margin-top: 90px;
     padding-bottom: 3rem;
     padding-top: 3rem;
     background-color: var(--bg-light);
