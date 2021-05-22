@@ -532,3 +532,42 @@ a {
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
+
+.five1 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.rng {
+    text-align: center;
+    padding: 0;
+    border-top: none;
+    border-bottom: none;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+.counter {
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: 600;
+    color: var(--heading-color);
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.rng h4 {
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: capitalize;
+    color: var(--font-color);
+    margin-top: 10px;
+}
