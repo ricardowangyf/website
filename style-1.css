@@ -212,3 +212,138 @@ ul {
 .active {
     color: var(--font-color);
 }
+
+.two {
+    background: var(--bg-color);
+}
+
+.two1 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.two2 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.two3 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.two-img {
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
+}
+
+.mt-5 {
+    flex: 0 0 66.66667%;
+    max-width: 66.66667%;
+}
+
+.g img {
+    width: 370px;
+    height: 444px;
+    border-radius: var(--border-radius);
+}
+
+.mb-2 {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2em;
+    letter-spacing: 1px;
+    color: #8c89a2;
+    margin: 0 0 0.5rem 0;
+}
+
+.title-big {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    margin: 0;
+    padding: 0;
+    color: var(--heading-color);
+}
+
+.mt-3 {
+    margin: 1.5rem 0 0 0;
+    padding: 0;
+    font-size: 1.2em;
+    line-height: 28px;
+    color: var(--font-color);
+}
+
+.mt-4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5px;
+    border-top: 1px solid var(--border-color);
+    padding-top: 30px;
+    margin-top: 1.5rem;
+}
+
+span {
+    color: var(--heading-color);
+    font-weight: 400;
+    margin-right: 10px;
+    font-weight: 600;
+    font-size: 1.2em;
+    min-width: 60px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    font-size: 1.2em;
+    line-height: 28px;
+    color: var(--font-color);
+    font-family: 'Jost', sans-serif;
+}
+
+.single-info {
+    display: flex;
+    justify-content: flex-start;
+}
+
+a {
+    color: #8e43e7;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.mn1 {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    grid-gap: 50px;
+    margin-top: 1.5rem;
+}
+
+.bt {
+    padding: 12px 35px;
+    font-size: 18px;
+    line-height: 28px;
+    text-transform: capitalize;
+    font-weight: 400;
+    transition: 0.3s ease-in;
+    border-radius: var(--border-radius);
+    color: #fff;
+    background-color: #8e43e7;
+    border-color: #8e43e7;
+}
+
+.p-1 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.p1 {
+    padding-right: 30px;
+}
