@@ -212,6 +212,7 @@ ul {
 .thre {
     padding-top: 3rem;
     padding-bottom: 3rem;
+    background: var(--bg-color);
 }
 
 .thre1 {
@@ -262,4 +263,142 @@ a {
 .cont-right {
     position: relative;
     bottom: 5px;
+}
+
+.twice-two {
+    display: grid;
+    grid-gap: 70px;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 20px;
+}
+
+.form-1 {
+    background: var(--bg-light);
+    border: 1px solid transparent;
+    color: var(--font-color);
+    font-size: 1.2em;
+    padding: 12px 15px;
+    width: 100%;
+    border-radius: var(--border-radius);
+    height: 35px;
+}
+
+.form-2 {
+    background: var(--bg-light);
+    border: 1px solid transparent;
+    color: var(--font-color);
+    font-size: 1.2em;
+    padding: 12px 15px;
+    width: 10 0%;
+    border-radius: var(--border-radius);
+    height: 35px;
+}
+
+.form-3 {
+    background: var(--bg-light);
+    border: 1px solid transparent;
+    color: var(--font-color);
+    font-size: 1.2em;
+    padding: 12px 15px;
+    width: 95%;
+    border-radius: var(--border-radius);
+}
+
+.form-4 {
+    background: var(--bg-light);
+    border: 1px solid transparent;
+    color: var(--font-color);
+    font-size: 1.2em;
+    padding: 12px 15px;
+    width: 100%;
+    border-radius: var(--border-radius);
+    height: 55px;
+    resize: none;
+    min-height: 140px;
+}
+
+.twice {
+    margin-bottom: 20px;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.kl-1 {
+    padding: 12px 35px;
+    font-size: 18px;
+    line-height: 28px;
+    text-transform: capitalize;
+    font-weight: 400;
+    transition: 0.3s ease-in;
+    border-radius: var(--border-radius);
+    color: #fff;
+    background-color: #8e43e7;
+    border: #8e43e7;
+    margin-top: 1.5rem;
+}
+
+.final {
+    border-top: 1px solid var(--border-color);
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    background-color: var(--bg-color);
+}
+
+.final1 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.re {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.left {
+    flex: 0 0 66.66667%;
+    max-width: 66.66667%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.sp-0 li {
+    width: 30px;
+    height: 27px;
+    margin-right: 15px;
+}
+
+.right {
+    text-align: right;
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
+}
+
+.sp-0 {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+}
+
+#movetop {
+    position: fixed;
+    bottom: 40px;
+    right: 15px;
+    z-index: 99;
+    font-size: 24px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+    width: 48px;
+    height: 48px;
+    background: var(--primary-color);
+    padding: 0;
+    line-height: 36px;
+    border-radius: 50px;
+    transition: 0.3s ease-out;
 }
