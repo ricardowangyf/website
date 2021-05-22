@@ -119,15 +119,11 @@ img {
     --border-radius: 10px;
     --border-color: #ddd;
     --border-light: #ddd;
-    --nav-color: #292922;
+    --nav-color: #fff;
     --dropdown-color: #fff;
     --bg-light: rgba(147, 107, 232, 0.05);
     --iframe-filter: grayscale(0%);
     --widget-bg: #3f3a64;
-}
-
-[data-theme="light"] {
-    --bg-light: #FFFFFF;
 }
 
 .theme-switch {
