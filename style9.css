@@ -834,6 +834,7 @@ ul {
 .sp-0 li {
     width: 30px;
     height: 27px;
+    margin-right: 15px;
 }
 
 .right {
@@ -846,4 +847,23 @@ ul {
     display: flex;
     justify-content: flex-end;
     margin: 0;
+}
+
+button {
+    position: fixed;
+    bottom: 40px;
+    right: 15px;
+    z-index: 99;
+    font-size: 24px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+    width: 48px;
+    height: 48px;
+    background: var(--primary-color);
+    padding: 0;
+    line-height: 36px;
+    border-radius: 50px;
+    transition: 0.3s ease-out;
 }
