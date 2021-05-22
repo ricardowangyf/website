@@ -410,6 +410,8 @@ p {
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
 }
 
 .kl-1 {
@@ -495,6 +497,10 @@ a {
     color: #8e43e7;
 }
 
+.fou {
+    background-color: var(--dropdown-color);
+}
+
 .read {
     font-size: 17px;
     padding: 0;
@@ -506,4 +512,23 @@ a {
     margin-top: 20px;
     display: inline-block;
     text-transform: capitalize
+}
+
+.mt-6 {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.mt-7 {
+    padding-top: 1rem;
+}
+
+.mt-6 a {
+    color: var(--heading-color);
+}
+
+.five {
+    background: var(--bg-light);
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
