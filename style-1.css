@@ -561,3 +561,154 @@ input {
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;
 }
+
+.six {
+    background-color: var(--bg-color);
+}
+
+.six1 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.six2 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.sma {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2em;
+    letter-spacing: 1px;
+    color: #8c89a2;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.big1 {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: center;
+    margin: 0 0 3rem 0;
+}
+
+.felx {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.ne {
+    display: flex;
+    flex-direction: column;
+}
+
+.ron {
+    padding: 40px 30px;
+    transition: all 0.5s ease 0s;
+    border-radius: var(--border-radius);
+    background-color: var(--bg-light);
+    position: relative;
+    margin-bottom: 20px;
+    border: 1px solid var(--bg-light);
+    width: 490px;
+}
+
+.ron:hover {
+    background-color: #fff;
+}
+
+.ron h4 a {
+    font-size: 28px;
+    line-height: 34px;
+    color: var(--heading-color);
+    font-weight: 500;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+
+.ron h4 a:hover {
+    color: #8e43e7;
+}
+
+.final {
+    border-top: 1px solid var(--border-color);
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    background-color: var(--bg-color);
+}
+
+.final1 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.re {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.left {
+    flex: 0 0 66.66667%;
+    max-width: 66.66667%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.sp-0 li {
+    width: 30px;
+    height: 27px;
+    margin-right: 15px;
+}
+
+.right {
+    text-align: right;
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
+}
+
+.sp-0 {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+}
+
+#movetop {
+    position: fixed;
+    bottom: 40px;
+    right: 15px;
+    z-index: 99;
+    font-size: 24px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+    width: 48px;
+    height: 48px;
+    background: var(--primary-color);
+    padding: 0;
+    line-height: 36px;
+    border-radius: 50px;
+    transition: 0.3s ease-out;
+}
+
+.active {
+    position: relative;
+    top: 4px;
+    color: var(--font-color);
+}
