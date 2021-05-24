@@ -331,3 +331,39 @@ p {
     top: 23%;
     right: -210px;
 }
+
+.juzhong {
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mo-1 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.icon-1 {
+    display: flex;
+    position: relative;
+    bottom: 25px;
+    right: 35px;
+}
+
+.icon {
+    position: relative;
+    left: 11px;
+    top: 3px;
+}
+
+.icon-2 {
+    FONT-WEIGHT: 100;
+    color: #ccc;
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    margin-left: 13px;
+}
