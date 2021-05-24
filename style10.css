@@ -183,3 +183,19 @@ a {
     overflow: hidden;
     background-color: #fbfbfb;
 }
+
+.img2 {
+    position: relative;
+    left: 320px;
+    bottom: 155px;
+    width: 91px;
+    height: 87px;
+}
+
+.img3 {
+    width: 173px;
+    height: 140px;
+    position: relative;
+    left: 600px;
+    bottom: 215px;
+}
