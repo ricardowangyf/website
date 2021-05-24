@@ -19,16 +19,9 @@
     --warning: #ffc107;
     --danger: #dc3545;
     --light: #f8f9fa;
-    --dark: #343a40;
 }
 
-.top {
-    box-shadow: 0px 0px 29px 0px rgb(134 134 134 / 25%);
-    padding: 30px 0;
-    background-color: #fff;
-}
-
-.fixed {
+.first {
     position: fixed;
     top: 0;
     right: 0;
@@ -36,23 +29,123 @@
     z-index: 1030;
 }
 
-.juzhong {
+.firs {
+    height: 90px;
+    box-shadow: 0 3px 9px rgb(0 0 0 / 5%);
+    background: var(--bg-color);
+    transition: all 0.5s;
+}
+
+.first-1 {
     max-width: 1140px;
-    margin-left: auto;
     margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    height: 93px;
 }
 
-.flex {
+.first-2 {
+    font-size: 34px;
+    font-weight: 400;
+    padding-top: 25px;
+}
+
+.first-3 {
+    color: #8E43E7;
+    font-weight: 400;
+    position: relative;
+    bottom: 9px;
+    font-size: 34px;
+}
+
+.fa {
+    text-decoration: none;
+    font-size: inherit;
+}
+
+.first12 {
+    text-decoration: auto;
+}
+
+.first4 {
     display: flex;
-    flex-wrap: wrap;
+    justify-content: flex-end;
 }
 
-.lo-g {
-    flex: 0 0 100%;
-    max-width: 100%;
+.first1 {
+    list-style: none;
+    text-decoration: none;
+    margin-top: -45px;
 }
 
-.navbar {
-    flex-flow: row nowrap;
-    justify-content: flex-start;
+.nav-link {
+    text-decoration: auto;
+    color: var(--nav-color);
+    border-bottom: 1px solid #8E43E7;
+}
+
+.nav-lin {
+    text-decoration: auto;
+    color: #8E43E7;
+    border-bottom: 1px solid #8E43E7;
+}
+
+.first5 {
+    padding: 0 10px;
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.first6 {
+    padding: 0 10px;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.first7 {
+    padding: 0 10px;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.nav-item {
+    font-size: 16px;
+    margin-right: 30px;
+}
+
+a {
+    color: #8A8FA3;
+    transition: all .3s;
+}
+
+a:hover {
+    color: #8E43E7;
+}
+
+a {
+    text-decoration: none;
+}
+
+.wwws {
+    position: relative;
+    background-color: #754ef9;
+    height: 45px;
+    width: 3px;
+    margin-top: 0px;
+    transition: all .3s;
+    left: 50%;
+    top: -50px;
+}
+
+.wwws:hover {
+    margin-top: 80px;
+    height: 20px;
+}
+
+div .wwws {
+    display: none;
+}
+
+div.wwws:hover {
+    display: inline-block;
 }
