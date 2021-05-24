@@ -346,14 +346,18 @@ p {
 .icon-1 {
     display: flex;
     position: relative;
+}
+
+.hea {
+    position: relative;
     bottom: 35px;
     right: 40px;
 }
 
 .icon {
     position: relative;
-    left: 11px;
     top: 3px;
+    left: 10px;
 }
 
 .icon-2 {
