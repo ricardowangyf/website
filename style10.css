@@ -524,3 +524,81 @@ h6 {
 .bar4 {
     border: 2px solid #8E43E7;
 }
+
+.serv {
+    background: #fbfbfb;
+    padding-bottom: 130px;
+    padding-top: 125px;
+}
+
+.just {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.col-lg-8 {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+
+.pa-1 {
+    padding-bottom: 30px;
+}
+
+.tit1 {
+    font-weight: 700;
+    font-size: 45px;
+    color: #000;
+    padding-bottom: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.pa-1 p {
+    text-align: center;
+}
+
+.next {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.col8 {
+    flex: 0 0 33.333333%;
+    max-width: 30.333333%;
+}
+
+.single-30 {
+    background-color: #fff;
+    border: 1px solid #eceff8;
+    border-radius: 5px;
+    padding: 22px;
+    transition: all 0.3s ease-out 0s;
+    margin-top: 30px;
+    text-align: center;
+    margin-right: 30px;
+}
+
+.service-content {
+    margin-top: 11px;
+}
+
+h4 {
+    font-size: 22px;
+    font-weight: 600;
+    color: #32333c;
+    margin: 0px;
+}
+
+.single-service .service-content .service-title a {
+    font-size: 22px;
+    font-weight: 600;
+    color: #32333c;
+    margin-bottom: 20px;
+}
+
+h4 a {
+    color: #343a40;
+}
