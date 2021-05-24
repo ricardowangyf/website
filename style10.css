@@ -199,3 +199,11 @@ a {
     left: 600px;
     bottom: 215px;
 }
+
+.img4 {
+    width: 91px;
+    float: right;
+    position: relative;
+    bottom: 306px;
+    right: 70px;
+}
