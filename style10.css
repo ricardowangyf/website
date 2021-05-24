@@ -21,6 +21,10 @@
     --light: #f8f9fa;
 }
 
+.clear {
+    clear: both;
+}
+
 .first {
     position: fixed;
     top: 0;
@@ -31,9 +35,10 @@
 
 .firs {
     height: 90px;
-    box-shadow: 0 3px 9px rgb(0 0 0 / 5%);
+    box-shadow: 0 3px 9px rgb(0 0 0 / 25%);
     background: var(--bg-color);
     transition: all 0.5s;
+    background-color: #fff;
 }
 
 .first-1 {
