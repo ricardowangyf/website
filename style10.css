@@ -567,7 +567,7 @@ h6 {
 
 .col8 {
     flex: 0 0 33.333333%;
-    max-width: 30.333333%;
+    max-width: 34.333333%;
 }
 
 .single-30 {
@@ -601,4 +601,68 @@ h4 {
 
 h4 a {
     color: #343a40;
+}
+
+.call {
+    background-image: url(./图片/call-to-action.jpg);
+    padding-bottom: 130px;
+    padding-top: 125px;
+    background-color: #754EF9B3;
+}
+
+.fl {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.co-12 {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+
+.center {
+    text-align: center
+}
+
+.action {
+    margin: 0;
+    font-size: 45px;
+    font-weight: 700;
+    color: #fff;
+    padding-bottom: 30px;
+}
+
+.center p {
+    color: #fff;
+    padding-bottom: 25px;
+}
+
+.center ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.center ul li {
+    margin: 10px 15px 0;
+}
+
+.main-btn {
+    box-shadow: none;
+    background-color: #fff;
+    color: #754ef9;
+    border-color: #fff;
+    border-radius: 50px;
+    font-weight: 500;
+    text-align: center;
+    padding: 15px 35px;
+    white-space: nowrap;
+    border: 1px solid #754ef9;
+}
+
+.main-btn:hover {
+    background-color: #754ef9;
+    color: #fff;
 }
