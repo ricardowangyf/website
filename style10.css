@@ -370,6 +370,11 @@ p {
     border-radius: 50%;
     border: 1px solid #ccc;
     margin-left: 13px;
+    transition: all 0.3s ease-out 0s;
+}
+
+.icon-2:hover {
+    background: #8E43E7;
 }
 
 .icon-1::before {
