@@ -21,6 +21,10 @@
     --light: #f8f9fa;
 }
 
+body {
+    margin: 0;
+}
+
 .clear {
     clear: both;
 }
@@ -211,4 +215,119 @@ a {
     position: relative;
     bottom: 306px;
     right: 70px;
+}
+
+.img5 {
+    width: 173px;
+    height: 140px;
+    position: relative;
+    left: 110px;
+}
+
+.img6 {
+    width: 173px;
+    height: 140px;
+    position: relative;
+    left: 110px;
+    top: 100px;
+}
+
+.cont {
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 360px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.sub {
+    font-size: 30px;
+    color: #754ef9;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    margin: 0;
+}
+
+.title {
+    font-size: 60px;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    margin: 0;
+    font-weight: 600;
+    color: #32333c;
+}
+
+.left p {
+    padding-bottom: 40px;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #8a8fa3;
+    margin: 0px;
+}
+
+.main {
+    border: 1px solid #754ef9;
+    padding: 15px 40px;
+    font-size: 15px;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 500;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    box-shadow: 0px 5px 8px 0px rgb(118 78 249 / 55%);
+    background-color: #754ef9;
+    text-transform: uppercase;
+    transition: all 0.3s ease-out 0s;
+}
+
+.main:hover {
+    background-color: #fff;
+}
+
+.co-2 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-left: 8.333333%;
+    position: relative;
+    left: 600px;
+    bottom: 444px;
+}
+
+.pic {
+    max-width: 430px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.pic::after {
+    position: absolute;
+    content: '';
+    width: 192%;
+    height: 22px;
+    background-color: #754ef9;
+    left: 0;
+    bottom: 55px;
+    z-index: 11;
+}
+
+.none::before {
+    position: absolute;
+    content: '';
+    height: 68%;
+    border: 3px solid #754ef9;
+    border-bottom: 0;
+    top: 23%;
+    right: -210px;
 }
