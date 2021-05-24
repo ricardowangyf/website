@@ -314,7 +314,7 @@ p {
 .pic::after {
     position: absolute;
     content: '';
-    width: 192%;
+    width: 113%;
     height: 22px;
     background-color: #754ef9;
     left: 0;
@@ -329,7 +329,7 @@ p {
     border: 3px solid #754ef9;
     border-bottom: 0;
     top: 23%;
-    right: -210px;
+    right: -50px;
 }
 
 .juzhong {
