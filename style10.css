@@ -346,8 +346,8 @@ p {
 .icon-1 {
     display: flex;
     position: relative;
-    bottom: 25px;
-    right: 35px;
+    bottom: 35px;
+    right: 40px;
 }
 
 .icon {
@@ -366,4 +366,14 @@ p {
     border-radius: 50%;
     border: 1px solid #ccc;
     margin-left: 13px;
+}
+
+.icon-1::before {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 2px;
+    background-color: #754ef9;
+    left: -102.5%;
+    top: 50%;
 }
