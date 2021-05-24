@@ -174,3 +174,12 @@ a {
     position: relative;
     bottom: 45px;
 }
+
+.content {
+    height: 730px;
+    width: 100%;
+    margin-top: 90px;
+    position: relative;
+    overflow: hidden;
+    background-color: #fbfbfb;
+}
