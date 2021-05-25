@@ -762,6 +762,10 @@ ul {
     transition: all 0.3s ease-out 0s;
 }
 
+.none1 ul li a:hover {
+    background-color: #fff;
+}
+
 .icon1 {
     position: relative;
     top: 5px;
@@ -792,18 +796,18 @@ ul::before {
     height: 350px;
 }
 
-.none1 {
-    position: relative;
-    top: 120px;
-    height: 111px;
-}
-
 .nongee {
     opacity: 1;
     display: none;
     width: 350px;
     height: 350px;
     transition: all 0.3s ease-out 0s;
+}
+
+.none1 {
+    position: relative;
+    top: 120px;
+    height: 111px;
 }
 
 .ui :hover~.nongee {
@@ -1063,12 +1067,12 @@ h2 {
     transition: all 0.3s ease-out 0s;
 }
 
-.kul-img:hover~.blog-content {
-    background-color: #754ef9;
-    color: #fff;
+.kul-img:hover {
+    transform: scale(1.02);
 }
 
-.kul-img:hover~.blog-title h4 a {
+.kul-img:hover~.blog-content {
+    background-color: #754ef9;
     color: #fff;
 }
 
@@ -1085,4 +1089,8 @@ h2 {
 .cent-op {
     margin-top: 50px;
     text-align: center;
+}
+
+.kul-img:hover~.blog-title a {
+    color: #fff;
 }
