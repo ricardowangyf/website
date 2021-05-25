@@ -1131,7 +1131,8 @@ h2 {
 
 .ku-1 {
     flex: 0 0 33.333333%;
-    max-width: 33.333333%;
+    max-width: 30.333333%;
+    padding-right: 30px;
 }
 
 .box {
