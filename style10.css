@@ -1070,12 +1070,12 @@ h2 {
     transition: all 0.3s ease-out 0s;
 }
 
-.blog-content:hover {
+.kul-img:hover~.blog-content {
     background-color: #754ef9;
     color: #fff;
 }
 
-.blog-title a:hover {
+.kul-img:hover~.blog-title h4 a {
     color: #fff;
 }
 
