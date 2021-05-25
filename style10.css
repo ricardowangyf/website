@@ -802,7 +802,7 @@ ul::before {
     height: 350px;
 }
 
-.nongee {
+.ui .nongee {
     opacity: 1;
     display: none;
     width: 350px;
@@ -1263,5 +1263,58 @@ h2 {
 }
 
 .center112 li a:hover {
+    background-color: #754ef9;
+}
+
+.final {
+    background-color: #1c2940;
+    padding-bottom: 20px;
+}
+
+.final2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-lg {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.copy1 {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.copy1 p {
+    color: #fff;
+}
+
+.copy1 p a {
+    color: #007bff;
+}
+
+.back-to-top {
+    font-size: 20px;
+    color: #fff;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 50px;
+    height: 50px;
+    line-height: 46px;
+    border-radius: 50%;
+    border: 2px solid #586376;
+    background-color: #152136;
+    text-align: center;
+    z-index: 99;
+}
+
+.icon7 {
+    position: relative;
+    top: 4px;
+}
+
+.back-to-top:hover {
     background-color: #754ef9;
 }
