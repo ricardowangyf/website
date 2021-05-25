@@ -1012,3 +1012,90 @@ h2 {
     background: #fff;
     color: #754ef9;
 }
+
+.blog {
+    padding-bottom: 130px;
+    padding-top: 125px;
+}
+
+.op {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.opl {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+
+.pol {
+    padding-bottom: 25px;
+}
+
+.oui {
+    font-weight: 700;
+    font-size: 45px;
+    color: #000;
+    padding-bottom: 20px;
+}
+
+.kul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.kui-op {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+    height: 389px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.blog-content {
+    width: 60%;
+    position: relative;
+    bottom: 117px;
+    background-color: #fff;
+    padding: 14px;
+    border: 1px solid #fff;
+    transition: all 0.3s ease-out 0s;
+    float: left;
+    box-shadow: 0px 0px 15px 0px rgb(152 152 152 / 25%);
+}
+
+.blog-content:hover {
+    background: #754ef9;
+}
+
+.blog-title a:hover {
+    color: #fff;
+}
+
+.blog-content span {
+    transition: all 0.3s ease-out 0s;
+}
+
+.blog-content span:hover {
+    color: #fff;
+}
+
+.op-ro {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.co-op {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.cent-op {
+    margin-top: 50px;
+    text-align: center;
+}
