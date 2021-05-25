@@ -1057,7 +1057,7 @@ h2 {
 }
 
 .mt-30 {
-    blog-content margin-top: 30px;
+    margin-top: 30px;
     width: 360px;
     height: 360px;
 }
@@ -1086,10 +1086,6 @@ h2 {
 
 .kul-img:hover~.blog-content {
     background-color: #754ef9;
-    color: #fff;
-}
-
-.kul-img:hover~.blog-title {
     color: #fff;
 }
 
@@ -1329,4 +1325,8 @@ h2 {
 
 .back-to-top:hover {
     background-color: #754ef9;
+}
+
+.sect p {
+    text-align: center;
 }
