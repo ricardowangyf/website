@@ -137,10 +137,6 @@ a {
     transition: all .3s;
 }
 
-a:hover {
-    color: #8E43E7;
-}
-
 a {
     text-decoration: none;
 }
@@ -687,6 +683,7 @@ h4 a {
 
 .main-2:hover {
     background: #f8f9fa;
+    color: #754ef9;
 }
 
 .work {
@@ -783,10 +780,6 @@ ul::before {
     background-color: #fff;
     left: 40%;
     top: 35px;
-}
-
-li:hover {
-    background: #754ef9;
 }
 
 .work-1 img {
@@ -909,4 +902,113 @@ li:hover {
 
 h2 {
     margin: 0;
+}
+
+.not {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.one {
+    flex: 0 0 33.333333%;
+    max-width: 32.333333%;
+}
+
+.lp {
+    margin-top: 30px;
+}
+
+.prici {
+    background-color: #754ef9;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.package-title {
+    font-size: 22px;
+    color: #fff;
+    padding: 25px;
+    text-align: center;
+}
+
+.two {
+    border: 1px solid #ddd;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+}
+
+.prici-text {
+    border-bottom: 1px solid #ddd;
+    padding: 20px 25px;
+}
+
+.price {
+    font-size: 30px;
+    font-weight: 600;
+    color: #754ef9;
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.priciing-list {
+    padding-top: 30px;
+}
+
+.nav-item1 a:hover {
+    color: #754ef9;
+}
+
+.pricing-list ul {
+    padding-top: 30px;
+}
+
+.pricing-list li {
+    line-height: 36px;
+    color: #32333c;
+    font-size: 16px;
+}
+
+.pricing-btn {
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+.pricing-btn1 {
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+.biao {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.klo {
+    padding-left: 15px;
+}
+
+.main-b1 {
+    border: 1px solid #754ef9;
+    padding: 0 40px;
+    font-size: 15px;
+    line-height: 48px;
+    border-radius: 50px;
+    color: #fff;
+    box-shadow: 0px 5px 8px 0px rgb(118 78 249 / 55%);
+    background-color: #754ef9;
+    cursor: pointer;
+    display: inline-block;
+    transition: all 0.3s ease-out 0s;
+    font-weight: 500;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.main-b1:hover {
+    background: #fff;
+    color: #754ef9;
 }
