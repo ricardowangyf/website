@@ -1067,21 +1067,15 @@ h2 {
     transition: all 0.3s ease-out 0s;
     float: left;
     box-shadow: 0px 0px 15px 0px rgb(152 152 152 / 25%);
-}
-
-.blog-content:hover {
-    background: #754ef9;
-}
-
-.blog-title a:hover {
-    color: #fff;
-}
-
-.blog-content span {
     transition: all 0.3s ease-out 0s;
 }
 
-.blog-content span:hover {
+.blog-content:hover {
+    background-color: #754ef9;
+    color: #fff;
+}
+
+.blog-title a:hover {
     color: #fff;
 }
 
