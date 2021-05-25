@@ -877,3 +877,36 @@ li:hover {
     background: #fff;
     color: #754ef9;
 }
+
+.pric {
+    background: #fbfbfb;
+    padding-bottom: 130px;
+    padding-top: 125px;
+}
+
+.kol {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.jk {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+
+.ju-i {
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.big {
+    font-weight: 700;
+    font-size: 45px;
+    color: #000;
+    padding-bottom: 20px;
+}
+
+h2 {
+    margin: 0;
+}
