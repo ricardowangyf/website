@@ -694,6 +694,7 @@ h4 a {
 .fle1 {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .zi {
@@ -711,6 +712,11 @@ h4 a {
     color: #000;
     padding-bottom: 20px;
     margin: 0;
+    text-align: center;
+}
+
+.ol p {
+    text-align: center;
 }
 
 .qa {
@@ -1092,4 +1098,65 @@ h2 {
 
 .kul-img:hover~.blog-title {
     color: #ffffff;
+}
+
+.contact {
+    background: #fbfbfb;
+    padding-bottom: 130px;
+    padding-top: 125px;
+}
+
+.ol-p {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.kol12 {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+
+.center-1 {
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.titls {
+    font-weight: 700;
+    font-size: 45px;
+    color: #000;
+    padding-bottom: 20px;
+}
+
+.ku-1 {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+.box {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 30px 35px;
+}
+
+.dingwei {
+    text-align: center;
+}
+
+.contact-title {
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 15px;
+    color: #32333c;
+    margin: 0px;
+    text-align: center;
+}
+
+.contact-content {
+    margin-top: 15px;
+}
+
+.contact-content p {
+    text-align: center;
 }
