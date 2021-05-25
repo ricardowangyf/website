@@ -1057,7 +1057,15 @@ h2 {
 }
 
 .mt-30 {
+    blog-content margin-top: 30px;
+    width: 360px;
+    height: 360px;
+}
+
+.kui-op .mt-30 {
     margin-top: 30px;
+    width: 360px;
+    height: 360px;
 }
 
 .blog-content {
@@ -1078,6 +1086,10 @@ h2 {
 
 .kul-img:hover~.blog-content {
     background-color: #754ef9;
+    color: #fff;
+}
+
+.kul-img:hover~.blog-title {
     color: #fff;
 }
 
