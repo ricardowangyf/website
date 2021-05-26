@@ -165,14 +165,17 @@ a {
     margin-top: 0px;
     transition: all .3s;
     left: 50%;
-    display: none;
     top: -50px;
 }
 
 .wwws1:hover {
     margin-bottom: 40px;
     height: 10px;
-    display: initial;
+}
+
+.page-scroll {
+    position: relative;
+    bottom: 45px;
 }
 
 .nav-item2 a {
@@ -462,7 +465,7 @@ ul {
 }
 
 .co-6 {
-    margin-left: 8.333333%;
+    margin-left: 5.333333%;
     flex: 0 0 41.666667%;
     max-width: 41.666667%;
 }
@@ -827,8 +830,6 @@ ul::before {
 .row {
     display: flex;
     flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
 }
 
 .co-lg-12— {
@@ -1282,6 +1283,7 @@ h2 {
 .final2 {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .col-lg {
