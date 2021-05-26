@@ -47,8 +47,7 @@ body {
 
 .first-1 {
     max-width: 1140px;
-    margin-right: auto;
-    margin-left: auto;
+    margin: 0 auto;
     width: 100%;
     height: 93px;
 }
@@ -130,6 +129,9 @@ body {
 
 .nav-item2 a {
     color: #8E43E7;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 45px;
 }
 
 a {
@@ -146,15 +148,16 @@ a {
     background-color: #754ef9;
     height: 45px;
     width: 3px;
-    margin-top: 0px;
     transition: all .3s;
     left: 50%;
     top: -50px;
+    opacity: 0;
 }
 
-.wwws:hover {
+.nav-item2 a:hover~.wwws {
     margin-bottom: 40px;
     height: 10px;
+    opacity: 1;
 }
 
 .wwws1 {
@@ -163,24 +166,20 @@ a {
     height: 45px;
     width: 3px;
     margin-top: 0px;
+    display: none;
     transition: all .3s;
     left: 50%;
     top: -50px;
 }
 
-.wwws1:hover {
+.page-scroll:hover~.wwws1 {
     margin-bottom: 40px;
     height: 10px;
+    display: inline-block;
 }
 
 .page-scroll {
-    position: relative;
-    bottom: 45px;
-}
-
-.nav-item2 a {
-    position: relative;
-    bottom: 45px;
+    text-transform: uppercase;
 }
 
 .content {
@@ -219,15 +218,12 @@ a {
 .img5 {
     width: 173px;
     height: 140px;
-    position: relative;
-    left: 110px;
 }
 
 .img6 {
     width: 173px;
     height: 140px;
     position: relative;
-    left: 110px;
     top: 100px;
 }
 
@@ -333,8 +329,7 @@ p {
 
 .juzhong {
     max-width: 1140px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 
 .mo-1 {
