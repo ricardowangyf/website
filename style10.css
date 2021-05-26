@@ -151,13 +151,6 @@ a {
     transition: all .3s;
     left: 50%;
     top: -50px;
-    opacity: 0;
-}
-
-.nav-item2 a:hover~.wwws {
-    margin-bottom: 40px;
-    height: 10px;
-    opacity: 1;
 }
 
 .wwws1 {
@@ -166,20 +159,16 @@ a {
     height: 45px;
     width: 3px;
     margin-top: 0px;
-    display: none;
     transition: all .3s;
     left: 50%;
     top: -50px;
-}
-
-.page-scroll:hover~.wwws1 {
-    margin-bottom: 40px;
-    height: 10px;
-    display: inline-block;
+    opacity: 0;
 }
 
 .page-scroll {
     text-transform: uppercase;
+    position: relative;
+    bottom: 45px;
 }
 
 .content {
@@ -1277,7 +1266,6 @@ h2 {
 
 .final2 {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
 }
 
