@@ -564,6 +564,10 @@ h6 {
     margin-right: 30px;
 }
 
+.single-30:hover {
+    box-shadow: 0 0 3px 3px rgb(152 152 152 / 23%);
+}
+
 .service-content {
     margin-top: 11px;
 }
