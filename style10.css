@@ -1321,6 +1321,7 @@ h2 {
     background-color: #152136;
     text-align: center;
     z-index: 99;
+    transition: all 0.3s;
 }
 
 .icon7 {
