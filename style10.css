@@ -134,9 +134,12 @@ body {
     bottom: 45px;
 }
 
-a {
+.page-scroll {
     color: #8A8FA3;
     transition: all .3s;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 45px;
 }
 
 a {
@@ -165,10 +168,15 @@ a {
     opacity: 0;
 }
 
-.page-scroll {
-    text-transform: uppercase;
-    position: relative;
-    bottom: 45px;
+.wwws1:hover {
+    height: 10px;
+    margin-bottom: 10px;
+    opacity: 20;
+}
+
+.wwws:hover {
+    height: 10px;
+    margin-bottom: 10px;
 }
 
 .content {
