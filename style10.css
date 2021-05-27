@@ -564,6 +564,10 @@ h6 {
     margin-right: 30px;
 }
 
+.ui {
+    transition: 0.3s;
+}
+
 .single-30:hover {
     box-shadow: 0 0 3px 3px rgb(152 152 152 / 23%);
 }
