@@ -660,6 +660,7 @@ h4 a {
     font-size: 15px;
     cursor: pointer;
     padding: 16px 45px;
+    transition: all 0.3s;
     border-radius: 50px;
     z-index: 5;
     white-space: nowrap;
