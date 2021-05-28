@@ -680,6 +680,7 @@ h4 a {
     border-radius: 50px;
     z-index: 5;
     white-space: nowrap;
+    transition: all 0.3s;
 }
 
 .main-2:hover {
