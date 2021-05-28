@@ -1,0 +1,34 @@
+body {
+    width: 1873px;
+    height: 1617px;
+    margin: 0;
+}
+
+.first {
+    background-color: blueviolet;
+}
+
+.nei {
+    display: flex;
+}
+
+.juzhong {
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.bi {
+    color: #fff;
+}
+
+.next {
+    display: flex;
+    justify-content: space-around;
+}
