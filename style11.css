@@ -1,6 +1,4 @@
 body {
-    width: 1873px;
-    height: 1617px;
     margin: 0;
 }
 
@@ -14,10 +12,12 @@ body {
 
 .juzhong {
     margin: 0 auto;
+    max-width: 1140px;
 }
 
-.flex {
+.ex {
     display: flex;
+    justify-content: space-around;
 }
 
 ul {
@@ -28,7 +28,61 @@ ul {
     color: #fff;
 }
 
-.next {
+a {
+    text-decoration: none;
+}
+
+.mary {
+    color: #fff;
+    background-color: #D8D8D8;
+    border-radius: 20%;
+    padding: 7px;
+}
+
+.another {
+    position: relative;
+    top: 14px;
+}
+
+.tu {
+    position: relative;
+    left: 75px;
+    bottom: 20px;
+    padding-left: 20px;
+}
+
+.icon {
+    padding-left: 22px;
+}
+
+.icon1 {
+    padding-left: 22px;
+}
+
+.tu span {
+    padding-left: 20px;
+    position: relative;
+    bottom: 3px;
+    color: #fff;
+}
+
+.second {
+    padding-top: 100px;
+    background-color: blueviolet;
+}
+
+.row {
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.what {
+    margin: 0;
+    font-size: 15px;
+    color: #fff;
+}
+
+.max {
+    flex: 0 0 33.33333%;
+    max-width: 60.33333%;
 }
