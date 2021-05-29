@@ -199,3 +199,23 @@ h1 h2 {
     margin-right: 10px;
     box-shadow: 0 0 3px 3px rgb(152 152 152 / 23%);
 }
+
+.ko {
+    background: rgb(71, 98, 226);
+    padding: 33px;
+    width: 24%;
+    height: 248px;
+    margin-right: 10px;
+    box-shadow: 0 0 3px 3px rgb(152 152 152 / 23%);
+    position: relative;
+    bottom: 12px;
+}
+
+h5 {
+    color: #fff;
+    font-size: 16px;
+}
+
+.thr {
+    color: #fff;
+}
