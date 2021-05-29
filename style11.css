@@ -24,6 +24,10 @@ ul {
     list-style-type: none;
 }
 
+.li {
+    padding: 25px;
+}
+
 .bi {
     color: #fff;
 }
@@ -35,20 +39,20 @@ a {
 .mary {
     color: #fff;
     background-color: #D8D8D8;
-    border-radius: 20%;
-    padding: 7px;
+    border-radius: 7%;
+    padding: 20px 25px;
 }
 
 .another {
     position: relative;
     top: 14px;
+    padding: 25px;
 }
 
 .tu {
     position: relative;
     left: 75px;
     bottom: 20px;
-    padding-left: 20px;
 }
 
 .icon {
