@@ -83,7 +83,8 @@ a {
 }
 
 .gary {
-    background-color: gray;
+    background-color: #EDFEFA;
+    border-bottom-right-radius: 65%;
 }
 
 .row {
@@ -172,4 +173,29 @@ h1 h2 {
     float: left;
     position: relative;
     right: 70px;
+}
+
+.op {
+    float: right;
+    position: relative;
+    bottom: 153px;
+    right: 120px;
+}
+
+.thre {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.display {
+    display: flex;
+}
+
+.three3 {
+    background: #fff;
+    padding: 30px;
+    width: 24%;
+    height: 233px;
+    margin-right: 10px;
+    box-shadow: 0 0 3px 3px rgb(152 152 152 / 23%);
 }
