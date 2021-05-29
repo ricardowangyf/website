@@ -16,12 +16,12 @@ body {
 
 .juzhong {
     margin: 0 auto;
-    max-width: 1020px;
+    max-width: 1160px;
 }
 
 .ex {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 ul {
@@ -56,7 +56,8 @@ a {
 .tu {
     float: left;
     position: relative;
-    right: 56px;
+    bottom: 15px;
+    left: 100px;
 }
 
 .icon {
@@ -153,7 +154,8 @@ h1 h2 {
 .shubiao {
     float: right;
     position: relative;
-    right: 260px;
+    right: 495px;
+    top: 80px;
 }
 
 .diannao {
@@ -164,4 +166,10 @@ h1 h2 {
 
 .beijing {
     padding-top: 72px;
+}
+
+.tu2 {
+    float: left;
+    position: relative;
+    right: 70px;
 }
