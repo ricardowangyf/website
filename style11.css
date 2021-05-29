@@ -72,6 +72,7 @@ a {
 
 .second {
     padding-top: 100px;
+    padding-bottom: 100px;
     background-color: blueviolet;
 }
 
@@ -107,7 +108,31 @@ h1 h2 {
     font-size: 40px;
 }
 
-.row p {
+.row1 p {
     color: #fff;
     font-size: 14px;
+}
+
+.may {
+    background-color: #fff;
+    padding: 25px 50px;
+    border-radius: 20px;
+}
+
+.juzhong1 {
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.row1 {
+    flex: 0 0 33.33333%;
+    max-width: 60.33333%;
+    margin-bottom: 50px;
+}
+
+.icon2 {
+    position: relative;
+    top: 5px;
+    left: 15px;
 }
