@@ -240,6 +240,8 @@ h5 {
 }
 
 .jiao {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #EDFEFA;
+    border-top-left-radius: 100%;
 }
