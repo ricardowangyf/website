@@ -219,3 +219,27 @@ h5 {
 .thr {
     color: #fff;
 }
+
+.ro {
+    flex: 0 0 33.33333%;
+    max-width: 30.33333%;
+}
+
+.cus {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.ol {
+    color: rgb(71, 98, 226);
+    margin: 0;
+}
+
+.jiao {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
