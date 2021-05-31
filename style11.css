@@ -156,7 +156,7 @@ h1 h2 {
     float: right;
     position: relative;
     right: 495px;
-    top: 80px;
+    top: 210px;
 }
 
 .diannao {
@@ -178,8 +178,8 @@ h1 h2 {
 .op {
     float: right;
     position: relative;
-    bottom: 153px;
-    right: 120px;
+    bottom: 210px;
+    left: 25px;
 }
 
 .thre {
