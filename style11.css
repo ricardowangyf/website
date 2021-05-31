@@ -77,8 +77,6 @@ a {
 
 .second {
     border-bottom-right-radius: 100%;
-    padding-top: 20px;
-    padding-bottom: 20px;
     background-color: rgb(71, 98, 226);
 }
 
@@ -156,7 +154,7 @@ h1 h2 {
     float: right;
     position: relative;
     right: 495px;
-    top: 210px;
+    top: 80px;
 }
 
 .diannao {
