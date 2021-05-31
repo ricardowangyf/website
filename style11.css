@@ -6,6 +6,11 @@ body {
     clear: both;
 }
 
+.t-p {
+    background-image: url(./图片/Mask.png);
+    border-bottom-right-radius: 50%;
+}
+
 .first {
     background-color: rgb(71, 98, 226);
     border-bottom-right-radius: 100%;
@@ -59,7 +64,8 @@ a {
 }
 
 .p-t {
-    padding-top: 125px;
+    padding-top: 120px;
+    padding-bottom: 140px;
 }
 
 .p-20 {
