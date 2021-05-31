@@ -1,5 +1,6 @@
     body {
         margin: 0;
+        width: 1285px;
     }
     
     .clear {
@@ -81,7 +82,7 @@
     }
     
     .gary {
-        background-color: #EDFEFA;
+        background-image: url(./图片/Mask.png);
         border-bottom-right-radius: 65%;
     }
     
