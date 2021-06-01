@@ -12,7 +12,7 @@ body {
 }
 
 .first {
-    background-color: rgb(71, 98, 226);
+    background-color: #2B1ECD;
     border-bottom-right-radius: 100%;
 }
 
@@ -205,7 +205,7 @@ h6 {
 }
 
 .k-1 {
-    background-color: rgb(71, 98, 226);
+    background-color: #2B1ECD;
     max-width: 30%;
     border-radius: 10px;
 }
