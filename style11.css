@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    width: 1250px;
 }
 
 .clear {
@@ -27,7 +28,12 @@ body {
 
 .juzhong {
     margin: 0 auto;
-    max-width: 1140px;
+    max-width: 1040px;
+}
+
+.juzhong1 {
+    margin: 0 auto;
+    max-width: 1040px;
 }
 
 .ex {
@@ -211,4 +217,46 @@ h6 {
 
 .k-1 .contact-title {
     color: #fff;
+}
+
+.more {
+    border: 1px solid rgb(71, 98, 226);
+    padding: 20px 35px;
+}
+
+.more1 {
+    border: 1px solid rgb(71, 98, 226);
+    padding: 20px 35px;
+    background-color: #fff;
+}
+
+.finally {
+    text-align: center;
+    width: 1273px;
+}
+
+h4 {
+    font-size: 30px;
+    color: rgb(71, 98, 226);
+    margin: 0 0 20px;
+}
+
+p1 {
+    font-size: 25px;
+    color: rgb(71, 98, 226);
+}
+
+.disa {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.gary {
+    background-image: url(./图片/Mask.png);
+    border-top-left-radius: 100%;
+}
+
+.pos {
+    position: relative;
+    bottom: 10px;
 }
