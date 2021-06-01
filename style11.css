@@ -95,6 +95,8 @@ a {
 
 .icon1 {
     padding-left: 10px;
+    position: relative;
+    top: 5px;
 }
 
 .max {
@@ -246,8 +248,8 @@ p1 {
 .gary {
     background-image: url(./图片/Mask.png);
     border-top-left-radius: 100%;
-    padding-bottom: 115px;
-    padding-top: 15px;
+    padding-bottom: 90px;
+    padding-top: 6px;
 }
 
 .pos {
