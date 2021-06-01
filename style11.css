@@ -88,9 +88,10 @@ a {
 }
 
 .tu span {
-    padding-left: 10px;
+    padding-left: 14px;
     position: relative;
-    bottom: 3px;
+    bottom: 5px;
+    color: #fff;
 }
 
 .icon1 {
@@ -131,12 +132,6 @@ p {
     border: 1px solid rgb(71, 98, 226);
     padding: 20px 20px 20px 20px;
     width: 135px;
-}
-
-.icon1 {
-    position: relative;
-    top: 4px;
-    left: 4px;
 }
 
 .tubiao {
@@ -252,6 +247,8 @@ p1 {
 .gary {
     background-image: url(./图片/Mask.png);
     border-top-left-radius: 100%;
+    padding-bottom: 200px;
+    padding-top: 166px;
 }
 
 .pos {
