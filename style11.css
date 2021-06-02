@@ -27,7 +27,7 @@ body {
 
 .juzhong {
     margin: 0 auto;
-    max-width: 1040px;
+    max-width: 1195px;
 }
 
 .juzhong1 {
@@ -154,7 +154,6 @@ p {
     float: right;
     position: relative;
     bottom: 300px;
-    left: 20px;
 }
 
 .p-100 {
