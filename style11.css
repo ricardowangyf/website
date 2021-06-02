@@ -78,6 +78,15 @@
         padding-top: 15px;
     }
     
+    .s-b {
+        position: relative;
+        right: 51px;
+    }
+    
+    .img {
+        padding-bottom: 100px;
+    }
+    
     .mary {
         color: #fff;
         background-color: #D8D8D8;
@@ -161,7 +170,7 @@
     .h-x {
         float: right;
         position: relative;
-        bottom: 300px;
+        bottom: 400px;
     }
     
     .p-100 {
@@ -247,6 +256,7 @@
         font-size: 30px;
         color: rgb(71, 98, 226);
         margin: 0 0 20px;
+        text-align: center;
     }
     
     p1 {
@@ -262,11 +272,7 @@
     .gary {
         background-image: url(./图片/Mask.png);
         border-top-left-radius: 100%;
-        padding-bottom: 90px;
-        padding-top: 6px;
-    }
-    
-    .pos {
-        position: relative;
-        bottom: 10px;
+        padding-top: 175px;
+        margin-left: 490px;
+        margin-top: -145px;
     }
