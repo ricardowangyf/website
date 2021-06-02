@@ -111,9 +111,14 @@
     }
     
     .icon1 {
-        padding-left: 10px;
+        padding-left: 14px;
         position: relative;
         top: 5px;
+    }
+    
+    .icon {
+        position: relative;
+        top: 7px;
     }
     
     .max {
