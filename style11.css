@@ -75,7 +75,7 @@ a {
 }
 
 .p-20 {
-    padding-top: 20px;
+    padding-top: 15px;
 }
 
 .mary {
@@ -84,15 +84,21 @@ a {
     padding: 14px 25px;
 }
 
-.p-35 {
-    padding-left: 35px;
-}
-
-.tu span {
+.tu h {
     padding-left: 14px;
     position: relative;
-    bottom: 5px;
     color: #fff;
+    top: 2px;
+}
+
+.icon11 {
+    position: relative;
+    top: 6px;
+}
+
+.tu {
+    position: relative;
+    right: 20px;
 }
 
 .icon1 {
@@ -179,6 +185,13 @@ p {
 
 .contact-content p {
     color: #696969;
+}
+
+.another span {
+    color: #fff;
+    position: relative;
+    right: 70px;
+    bottom: 15px;
 }
 
 .box {
