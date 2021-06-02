@@ -27,7 +27,9 @@ body {
 
 .juzhong {
     margin: 0 auto;
-    max-width: 1195px;
+    max-width: 1260px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .juzhong1 {
@@ -100,7 +102,7 @@ a {
 }
 
 .max {
-    max-width: 50%;
+    max-width: 41%;
 }
 
 .max h2 {
