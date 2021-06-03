@@ -1,6 +1,5 @@
     body {
-        width: 1269px;
-        margin: 0 auto;
+        margin: 0;
     }
     
     .clear {
@@ -8,8 +7,8 @@
     }
     
     .juzhong1 {
-        margin-left: auto;
-        margin-right: auto;
+        margin: 0 auto;
+        width: 1269px;
     }
     
     .t-p {
