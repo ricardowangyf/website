@@ -121,6 +121,11 @@
         top: 7px;
     }
     
+    .juzhon {
+        margin: 0 auto;
+        max-width: 1260px;
+    }
+    
     .max {
         max-width: 41%;
     }
@@ -272,6 +277,8 @@
     .disa {
         display: flex;
         justify-content: space-evenly;
+        position: relative;
+        bottom: 34px;
     }
     
     .gary {
@@ -279,5 +286,5 @@
         border-top-left-radius: 100%;
         padding-top: 300px;
         margin-left: 490px;
-        margin-top: -145px;
+        margin-top: -220px;
     }
