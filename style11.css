@@ -80,7 +80,8 @@
     
     .s-b {
         position: relative;
-        right: 51px;
+        right: 520px;
+        float: right;
     }
     
     .img {
@@ -281,7 +282,7 @@
         background-image: url(./图片/Mask.png);
         border-top-left-radius: 100%;
         margin-top: -216px;
-        width: 740px;
+        width: 55%;
         float: right;
         height: 224px;
     }
