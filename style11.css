@@ -1,5 +1,4 @@
     body {
-        margin: 0 auto;
         width: 1269px;
     }
     
@@ -15,6 +14,8 @@
     .first {
         background-color: #2B1ECD;
         border-bottom-right-radius: 100%;
+        padding-left: 50px;
+        padding-right: 50px;
     }
     
     .p-m {
@@ -28,14 +29,8 @@
     
     .juzhong {
         margin: 0 auto;
-        max-width: 1150px;
-        padding-left: 20px;
+        max-width: 1230px;
         padding-right: 20px;
-    }
-    
-    .juzhong1 {
-        margin: 0 auto;
-        max-width: 1040px;
     }
     
     .ex {
