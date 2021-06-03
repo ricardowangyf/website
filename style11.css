@@ -8,7 +8,7 @@
     
     .t-p {
         background-image: url(./图片/Mask.png);
-        border-bottom-right-radius: 65%;
+        border-bottom-right-radius: 70%;
     }
     
     .first {
@@ -27,7 +27,7 @@
     
     .juzhong {
         margin: 0 auto;
-        max-width: 1260px;
+        max-width: 1150px;
         padding-left: 20px;
         padding-right: 20px;
     }
@@ -121,11 +121,6 @@
         top: 7px;
     }
     
-    .juzhon {
-        margin: 0 auto;
-        max-width: 1260px;
-    }
-    
     .max {
         max-width: 41%;
     }
@@ -180,7 +175,8 @@
     .h-x {
         float: right;
         position: relative;
-        bottom: 400px;
+        bottom: 300px;
+        left: 22px;
     }
     
     .p-100 {
@@ -284,7 +280,8 @@
     .gary {
         background-image: url(./图片/Mask.png);
         border-top-left-radius: 100%;
-        padding-top: 300px;
-        margin-left: 490px;
-        margin-top: -220px;
+        margin-top: -216px;
+        width: 740px;
+        float: right;
+        height: 224px;
     }
