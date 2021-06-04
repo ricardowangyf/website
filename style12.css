@@ -193,6 +193,7 @@ a {
 
 .desk {
     padding-top: 55px;
+    padding-bottom: 55px;
 }
 
 .p-1 {
@@ -214,4 +215,100 @@ a {
 
 .desk p {
     color: #fff;
+}
+
+.felx {
+    display: flex;
+    justify-content: space-between;
+}
+
+.max {
+    max-width: 50%;
+}
+
+.nei {
+    height: 165px;
+    background-color: #1890A4;
+}
+
+.for {
+    color: #fff;
+    padding: 20px;
+    font-weight: 300;
+}
+
+.nei p {
+    color: #fff;
+    padding: 18px;
+}
+
+.nei p1 {
+    color: #fff;
+    padding: 18px;
+}
+
+.e-l p {
+    padding: 30px;
+    color: #4e4444;
+}
+
+.other {
+    width: 521px;
+    height: 461px;
+    background-color: #fff;
+}
+
+.o-p {
+    width: 521px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F5F9FC;
+}
+
+.to-p {
+    display: flex;
+    padding: 22px;
+}
+
+#y-u {
+    width: 51px;
+    height: 32px;
+    color: #fff;
+    margin-left: 15px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: #20BBEF;
+}
+
+#y {
+    top: 15px;
+    width: 90px;
+    height: 40px;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    margin-right: 20px;
+    background-color: #20BBEF;
+}
+
+.sx {
+    position: relative;
+    top: 4px;
+}
+
+.six {
+    position: relative;
+    top: 6px;
+}
+
+.to-p h4 {
+    font-weight: 500;
+}
+
+.pic-1 {
+    position: relative;
+    left: 25px;
+    top: 25px;
 }
