@@ -119,9 +119,9 @@ h1 {
 }
 
 .san {
-    height: 105px;
     padding-left: 100px;
     padding-right: 100px;
+    padding-bottom: 33px;
     background-color: #EEEEEE;
 }
 
@@ -135,7 +135,6 @@ h1 {
 }
 
 .four {
-    height: 350px;
     background-color: #fff;
 }
 
@@ -192,8 +191,11 @@ a {
 }
 
 .five {
-    height: 825px;
     background-color: #3DBDB6;
+}
+
+.p-b1 {
+    padding-bottom: 100px;
 }
 
 .desk {
@@ -279,7 +281,7 @@ a {
 
 .to-p {
     display: flex;
-    padding: 22px;
+    padding: 19px;
 }
 
 #y-u {
@@ -316,6 +318,7 @@ a {
 
 .to-p h4 {
     font-weight: 500;
+    padding-top: 5px;
 }
 
 .pic-1 {
@@ -325,7 +328,6 @@ a {
 }
 
 .six1 {
-    height: 480px;
     background-color: #fff;
 }
 
@@ -369,7 +371,6 @@ a {
 }
 
 .seven {
-    height: 180px;
     background-color: #1172D0;
 }
 
@@ -402,7 +403,7 @@ a {
 .j-k {
     position: relative;
     right: 80px;
-    height: 720px;
+    height: 670px;
 }
 
 .E-F {
@@ -422,7 +423,6 @@ a {
 }
 
 .nine {
-    height: 145px;
     background-color: #fff;
 }
 
@@ -441,7 +441,6 @@ a {
 }
 
 .ten {
-    height: 307px;
     background-color: #3DBDB6;
 }
 
@@ -477,12 +476,12 @@ a {
 }
 
 .eleven {
-    height: 285px;
     background-color: #3E3E58;
 }
 
 .t-p {
     padding-top: 75px;
+    padding-bottom: 25px;
 }
 
 .diyi {
