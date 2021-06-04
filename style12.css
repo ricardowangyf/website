@@ -240,7 +240,7 @@ a {
 }
 
 .nei {
-    height: 165px;
+    border-radius: 10px;
     background-color: #1890A4;
 }
 
