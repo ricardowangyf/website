@@ -410,3 +410,22 @@ a {
 .E-F p {
     color: #fff;
 }
+
+.nine {
+    height: 75px;
+    background-color: #fff;
+}
+
+.d-s {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pi-1 {
+    display: flex;
+}
+
+.p-l {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
