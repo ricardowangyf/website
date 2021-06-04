@@ -511,3 +511,12 @@ a {
     bottom: 6px;
     color: #fff;
 }
+
+.t-z img {
+    padding-top: 10px;
+}
+
+.t-z {
+    padding-left: 15px;
+    padding-top: 10px;
+}
