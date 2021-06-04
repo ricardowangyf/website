@@ -314,7 +314,7 @@ a {
 }
 
 .six1 {
-    height: 440px;
+    height: 480px;
     background-color: #fff;
 }
 
@@ -350,11 +350,14 @@ a {
 
 .max-w a {
     padding-left: 120px;
-    position: relative;
-    top: 20px;
 }
 
 .icon {
     position: relative;
     top: 5px;
+}
+
+.seven {
+    height: 180px;
+    background-color: #1172D0;
 }
