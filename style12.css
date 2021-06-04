@@ -34,7 +34,7 @@ body {
     bottom: 5px;
 }
 
-.t-p h {
+.t-a h {
     position: relative;
     bottom: 5px;
     color: #fff;
@@ -50,7 +50,8 @@ ul {
 }
 
 .x {
-    padding-left: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
     border-bottom: 4px solid #3DBDB6;
 }
 
@@ -60,12 +61,16 @@ li {
 }
 
 .kun {
-    position: relative;
-    bottom: 14px;
-    padding: 14px;
     font-size: 7px;
+    width: 90px;
+    height: 38px;
+    text-align: center;
     border-radius: 10px;
     border: 1px solid #979797;
+}
+
+.kun h1 {
+    padding-top: 8px;
 }
 
 h1 {
@@ -390,7 +395,6 @@ a {
 
 .j-k {
     position: relative;
-    width: 1440px;
     right: 80px;
     height: 720px;
 }
@@ -464,4 +468,30 @@ a {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     border: 1px solid #E1E1E1;
+}
+
+.eleven {
+    height: 285px;
+    background-color: #3E3E58;
+}
+
+.t-p {
+    padding-top: 75px;
+}
+
+.diyi {
+    width: 300px;
+}
+
+.icon-1 {
+    display: flex;
+}
+
+.betwteen {
+    display: flex;
+    justify-content: space-between;
+}
+
+.op li {
+    padding: 10px;
 }
