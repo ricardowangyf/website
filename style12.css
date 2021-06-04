@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    background-color: #3E3E58;
+}
+
+.p-5 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.juzhong {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img2 {
+    position: relative;
+    right: 23px;
+    bottom: 5px;
+}
+
+.ron {
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    color: #D8D8D8;
+}
