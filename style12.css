@@ -312,3 +312,49 @@ a {
     left: 25px;
     top: 25px;
 }
+
+.six1 {
+    height: 440px;
+    background-color: #fff;
+}
+
+.zi {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.p-o {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.more {
+    font-weight: 500;
+    font-size: 30px;
+    width: 265px;
+    text-align: center;
+}
+
+.picture {
+    display: flex;
+    justify-content: space-between;
+}
+
+.max-w p {
+    width: 250px;
+    padding-top: 20px;
+    text-align: center;
+    padding-left: 45px;
+}
+
+.max-w a {
+    padding-left: 120px;
+    position: relative;
+    top: 20px;
+}
+
+.icon {
+    position: relative;
+    top: 5px;
+}
