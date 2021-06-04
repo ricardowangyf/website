@@ -137,7 +137,7 @@ h1 {
 
 .let {
     max-width: 34%;
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
 }
 
@@ -171,7 +171,11 @@ h1 {
 
 .fe {
     display: flex;
-    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.p-t {
+    padding-top: 30px;
 }
 
 .m-w {
@@ -181,4 +185,34 @@ h1 {
 
 a {
     text-decoration: none;
+}
+
+.five {
+    height: 825px;
+    background-color: #3DBDB6;
+}
+
+.desk {
+    padding-top: 55px;
+}
+
+.p-1 {
+    padding-top: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+}
+
+.wht {
+    color: #fff;
+    font-size: 37px;
+    text-align: center;
+}
+
+.tnerr {
+    text-align: center;
+}
+
+.desk p {
+    color: #fff;
 }
