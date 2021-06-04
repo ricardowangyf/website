@@ -116,6 +116,8 @@ h1 {
 
 .san {
     height: 105px;
+    padding-left: 100px;
+    padding-right: 100px;
     background-color: #EEEEEE;
 }
 
@@ -126,4 +128,20 @@ h1 {
 
 .p-4 {
     padding-top: 40px;
+}
+
+.four {
+    height: 350px;
+    background-color: #fff;
+}
+
+.let {
+    max-width: 34%;
+    font-size: 18px;
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
 }
