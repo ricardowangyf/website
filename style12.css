@@ -361,3 +361,29 @@ a {
     height: 180px;
     background-color: #1172D0;
 }
+
+.p-tb {
+    padding-top: 56px;
+    padding-bottom: 56px;
+}
+
+.f-p h4 {
+    font-weight: 400;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.f-p {
+    display: flex;
+    justify-content: space-between;
+}
+
+.is {
+    width: 500px;
+}
+
+.is p {
+    width: 100px;
+    color: #fff;
+    border-bottom: 1px solid#fafafa;
+}
