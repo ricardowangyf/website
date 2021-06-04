@@ -71,3 +71,45 @@ li {
 h1 {
     color: #D8D8D8;
 }
+
+.width {
+    width: 343px;
+    height: 190px;
+}
+
+.p-10 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.build {
+    color: #fff;
+    font-size: 44px;
+    font-weight: 500;
+}
+
+.form-1 {
+    width: 260px;
+    height: 52px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #D8D8D8;
+}
+
+.flex1 {
+    display: flex;
+}
+
+.S {
+    width: 150px;
+    height: 55px;
+    color: #fff;
+    text-align: center;
+    background-color: #3DBDB6;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.sign {
+    margin-top: 10px;
+}
