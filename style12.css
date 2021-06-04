@@ -210,8 +210,14 @@ a {
 
 .wht {
     color: #fff;
-    font-size: 37px;
+    font-size: 35px;
     text-align: center;
+    width: 198px;
+}
+
+.bet {
+    display: flex;
+    justify-content: center;
 }
 
 .tnerr {
@@ -494,4 +500,8 @@ a {
 
 .op li {
     padding: 10px;
+}
+
+.icon2 {
+    padding-left: 20px;
 }
