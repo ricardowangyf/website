@@ -113,3 +113,17 @@ h1 {
 .sign {
     margin-top: 10px;
 }
+
+.san {
+    height: 105px;
+    background-color: #EEEEEE;
+}
+
+.juzhon {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.p-4 {
+    padding-top: 40px;
+}
