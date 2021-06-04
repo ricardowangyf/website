@@ -239,6 +239,10 @@ a {
     max-width: 50%;
 }
 
+.sup {
+    padding-top: 10px;
+}
+
 .nei {
     border-radius: 10px;
     background-color: #1890A4;
