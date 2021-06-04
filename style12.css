@@ -387,3 +387,26 @@ a {
     color: #fff;
     border-bottom: 1px solid#fafafa;
 }
+
+.j-k {
+    position: relative;
+    width: 1440px;
+    right: 80px;
+    height: 720px;
+}
+
+.E-F {
+    width: 835px;
+    text-align: center;
+    position: relative;
+    bottom: 235px;
+    left: 260px;
+}
+
+.E-F h1 {
+    color: #fff;
+}
+
+.E-F p {
+    color: #fff;
+}
