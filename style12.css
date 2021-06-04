@@ -79,7 +79,6 @@ h1 {
 
 .p-10 {
     padding-top: 100px;
-    padding-bottom: 100px;
 }
 
 .build {
@@ -93,7 +92,9 @@ h1 {
     height: 52px;
     font-size: 20px;
     border-radius: 5px;
-    background-color: #D8D8D8;
+    background-color: #3E3E58;
+    border: 1px solid #3E3E58;
+    box-shadow: 0px 0px 1px #b1b1b1;
 }
 
 .flex1 {
@@ -101,16 +102,15 @@ h1 {
 }
 
 .btn {
-    top: 2px;
     width: 150px;
     height: 53px;
     color: #fff;
     text-align: center;
-    position: relative;
     border: 1px solid #3DBDB6;
     background-color: #3DBDB6;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
+    box-shadow: 1px -1px 5px #4449a2;
 }
 
 .san {
@@ -412,7 +412,7 @@ a {
 }
 
 .nine {
-    height: 75px;
+    height: 145px;
     background-color: #fff;
 }
 
@@ -428,4 +428,40 @@ a {
 .p-l {
     padding-top: 30px;
     padding-bottom: 30px;
+}
+
+.ten {
+    height: 307px;
+    background-color: #3DBDB6;
+}
+
+.o-l {
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+}
+
+.an {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.tex {
+    width: 300px;
+    height: 52px;
+    background: #3DBDB6;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 1px solid #E1E1E1;
+}
+
+.bn {
+    width: 120px;
+    height: 55px;
+    position: relative;
+    right: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid #E1E1E1;
 }
