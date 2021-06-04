@@ -153,8 +153,20 @@ h1 {
 
 .noun {
     position: relative;
-    right: 55px;
-    bottom: 25px;
+    right: 50px;
+    bottom: 30px;
+}
+
+.noun1 {
+    position: relative;
+    right: 50px;
+    bottom: 30px;
+}
+
+.noun2 {
+    position: relative;
+    right: 50px;
+    bottom: 30px;
 }
 
 .fe {
