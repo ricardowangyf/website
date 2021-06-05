@@ -42,7 +42,7 @@ body {
 }
 
 .t-a {
-    padding-left: 21px;
+    padding-left: 38px;
 }
 
 .img2 {
@@ -53,9 +53,19 @@ body {
 
 .t-a h {
     position: relative;
-    bottom: 5px;
+    bottom: 8px;
+    right: 15px;
     color: #fff;
-    font-size: 20px;
+    font-size: 16px;
+}
+
+.fle {
+    display: flex;
+    justify-content: center;
+}
+
+.ther {
+    padding-right: 40px;
 }
 
 .ron {
@@ -116,31 +126,35 @@ h1 {
     padding-bottom: 40px;
 }
 
-.form-1 {
-    width: 260px;
-    height: 52px;
-    opacity: 0.2;
-    background: #FFFFFF;
-    border: 1px solid #F0E5DE;
-    box-shadow: 0 0 8px 0 rgb(177 177 177 / 50%);
-    font-size: 20px;
-    border-radius: 5px;
-    background-color: #3E3E58;
+.p-25 {
+    padding-left: 25px;
 }
 
 .flex1 {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.form-1 {
+    height: 52px;
+    width: 340px;
+    opacity: 0.2;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid #F0E5DE;
+    background-color: #F0E5DE;
+    box-shadow: 0 0 8px 0 rgb(177 177 177 / 50%);
 }
 
 .btn {
-    width: 150px;
+    width: 100px;
     height: 53px;
     color: #fff;
     text-align: center;
     border: 1px solid #3DBDB6;
     background-color: #3DBDB6;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
     box-shadow: 1px -1px 5px #4449a2;
 }
 
@@ -255,6 +269,14 @@ a {
 .desk {
     padding-top: 55px;
     padding-left: 73px;
+    padding-right: 73px;
+    padding-bottom: 55px;
+}
+
+.dessk {
+    padding-top: 55px;
+    padding-left: 75px;
+    padding-right: 75px;
     padding-bottom: 55px;
 }
 
@@ -471,7 +493,7 @@ a {
 
 .j-k {
     position: relative;
-    right: 95px;
+    right: 120px;
     height: 670px;
 }
 
