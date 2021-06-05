@@ -28,8 +28,8 @@ body {
 }
 
 .pic1 {
-    padding-right: 18px;
-    padding-left: 38px;
+    padding-right: 27px;
+    padding-left: 27px;
 }
 
 .pic2 {
@@ -306,6 +306,7 @@ a {
 
 .desk p {
     color: #fff;
+    font-size: 17px;
 }
 
 .p-30 {
