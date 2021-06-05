@@ -23,9 +23,26 @@ body {
     max-width: 1200px;
 }
 
+.p-12 {
+    padding-left: 100px;
+}
+
+.pic1 {
+    padding-right: 18px;
+    padding-left: 38px;
+}
+
+.pic2 {
+    padding-left: 24px;
+}
+
 .flex {
     display: flex;
     justify-content: space-between;
+}
+
+.t-a {
+    padding-left: 21px;
 }
 
 .img2 {
@@ -50,6 +67,8 @@ ul {
 }
 
 .x {
+    color: #fff;
+    opacity: 2;
     padding-left: 20px;
     padding-right: 20px;
     border-bottom: 4px solid #3DBDB6;
@@ -58,15 +77,19 @@ ul {
 li {
     color: #D8D8D8;
     padding-right: 30px;
+    opacity: 0.3;
 }
 
 .kun {
     font-size: 7px;
+    opacity: 0.5;
     width: 90px;
     height: 38px;
     text-align: center;
     border-radius: 10px;
     border: 1px solid #979797;
+    position: relative;
+    bottom: 10px;
 }
 
 .kun h1 {
@@ -90,16 +113,19 @@ h1 {
     color: #fff;
     font-size: 44px;
     font-weight: 500;
+    padding-bottom: 40px;
 }
 
 .form-1 {
     width: 260px;
     height: 52px;
+    opacity: 0.2;
+    background: #FFFFFF;
+    border: 1px solid #F0E5DE;
+    box-shadow: 0 0 8px 0 rgb(177 177 177 / 50%);
     font-size: 20px;
     border-radius: 5px;
     background-color: #3E3E58;
-    border: 1px solid #3E3E58;
-    box-shadow: 0px 0px 1px #b1b1b1;
 }
 
 .flex1 {
@@ -122,7 +148,8 @@ h1 {
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 33px;
-    background-color: #EEEEEE;
+    background-color: #ffffff;
+    border-bottom: 1px solid #E1E1E1E1;
 }
 
 .juzhon {
@@ -139,9 +166,33 @@ h1 {
 }
 
 .let {
-    max-width: 34%;
-    font-size: 20px;
+    max-width: 55%;
+    font-size: 32px;
+    color: #333333;
+    font-weight: 400;
     text-align: center;
+}
+
+.sup h4 {
+    font-size: 16px;
+    color: #333333;
+    font-weight: 400;
+}
+
+.sup a {
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #2D8CFF;
+    letter-spacing: 0;
+}
+
+.sup p {
+    font-family: Helvetica;
+    font-size: 15px;
+    color: #72808E;
+    letter-spacing: 0.2px;
+    text-align: center;
+    line-height: 25px;
 }
 
 .center {
@@ -174,15 +225,18 @@ h1 {
 
 .fe {
     display: flex;
-    justify-content: space-between;
+    max-width: 100%;
+    justify-content: center;
 }
 
 .p-t {
     padding-top: 30px;
+    padding-left: 130px;
 }
 
 .m-w {
     max-width: 15%;
+    margin-right: 120px;
     text-align: center;
 }
 
@@ -191,7 +245,7 @@ a {
 }
 
 .five {
-    background-color: #3DBDB6;
+    background-image: linear-gradient(131deg, #3DBDB6 0%, #0089CE 100%);
 }
 
 .p-b1 {
@@ -200,6 +254,7 @@ a {
 
 .desk {
     padding-top: 55px;
+    padding-left: 73px;
     padding-bottom: 55px;
 }
 
@@ -211,10 +266,11 @@ a {
 }
 
 .wht {
-    color: #fff;
-    font-size: 35px;
+    font-family: Helvetica;
+    font-size: 40px;
+    color: #FFFFFF;
+    letter-spacing: 0;
     text-align: center;
-    width: 198px;
 }
 
 .bet {
@@ -230,13 +286,20 @@ a {
     color: #fff;
 }
 
+.p-30 {
+    padding-left: 50px;
+    padding-right: 45px;
+}
+
 .felx {
     display: flex;
-    justify-content: space-between;
+    padding-left: 38px;
 }
 
 .max {
-    max-width: 50%;
+    max-width: 45%;
+    padding-top: 40px;
+    padding-right: 75px;
 }
 
 .sup {
@@ -375,12 +438,14 @@ a {
 }
 
 .seven {
-    background-color: #1172D0;
+    background-image: linear-gradient( 138deg, #1172D0 0%, #1D98D6 100%);
 }
 
 .p-tb {
     padding-top: 56px;
     padding-bottom: 37px;
+    padding-left: 170px;
+    padding-right: 150px;
 }
 
 .f-p h4 {
@@ -406,7 +471,7 @@ a {
 
 .j-k {
     position: relative;
-    right: 80px;
+    right: 95px;
     height: 670px;
 }
 
@@ -414,20 +479,31 @@ a {
     width: 835px;
     text-align: center;
     position: relative;
-    bottom: 235px;
-    left: 260px;
+    bottom: 310px;
+    left: 260px
+}
+
+.p-e {
+    padding-right: 20px;
 }
 
 .E-F h1 {
     color: #fff;
+    font-weight: 400;
 }
 
 .E-F p {
     color: #fff;
+    padding: 30px;
 }
 
 .nine {
     background-color: #fff;
+}
+
+.p-tbl {
+    padding-left: 150px;
+    padding-right: 145px;
 }
 
 .d-s {
@@ -448,25 +524,31 @@ a {
     background-color: #3DBDB6;
 }
 
-.o-l {
+.o-l h4 {
     color: #fff;
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
+    font-weight: 400;
 }
 
 .an {
     text-align: center;
     padding-top: 40px;
     padding-bottom: 40px;
+    padding-right: 50px;
 }
 
 .tex {
     width: 300px;
     height: 52px;
     background: #3DBDB6;
-    border-top-left-radius: 10px;
-    border-bottom-left-radius: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
     border: 1px solid #E1E1E1;
+    padding-left: 14px;
+    font-family: Helvetica;
+    font-size: 16px;
+    color: #E1E1E1E1;
 }
 
 .bn {
@@ -477,10 +559,14 @@ a {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     border: 1px solid #E1E1E1;
+    font-family: Helvetica;
+    font-size: 16px;
+    color: #3DBDB6;
 }
 
 .eleven {
     background-color: #3E3E58;
+    background: #1F2532;
 }
 
 .t-p {
@@ -490,10 +576,13 @@ a {
 
 .diyi {
     width: 300px;
+    padding-left: 152px;
 }
 
 .icon-1 {
     display: flex;
+    position: relative;
+    right: 155px;
 }
 
 .betwteen {
@@ -503,10 +592,11 @@ a {
 
 .op li {
     padding: 10px;
+    opacity: 0.8;
 }
 
 .icon2 {
-    padding-left: 20px;
+    padding-left: 5px;
 }
 
 .diyi h {
@@ -523,4 +613,45 @@ a {
 .t-z {
     padding-left: 15px;
     padding-top: 10px;
+}
+
+.diyi p {
+    opacity: 0.6;
+    font-family: Helvetica;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: left;
+    line-height: 19px;
+    width: 190px;
+}
+
+.u-l {
+    position: relative;
+    right: 110px;
+}
+
+.u-ll {
+    position: relative;
+    right: 170px;
+}
+
+.u-l li {
+    opacity: 0.6;
+    font-family: Helvetica;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.op h1 {
+    font-family: Helvetica;
+    font-size: 13px;
+    text-align: left;
+    line-height: 14px;
+    color: #ffff;
+    padding: 10px;
+    font-weight: 200;
+}
+
+.diyi a {
+    color: #FFFFFF;
 }
