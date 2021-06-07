@@ -149,17 +149,15 @@ h1 {
     font-size: 20px;
     border-radius: 5px;
     border: 1px solid #F0E5DE;
-    background-color: #F0E5DE;
+    background-color: #FFFFFF;
     box-shadow: 0 0 8px 0 rgb(177 177 177 / 50%);
 }
 
-.width input::-webkit-input-placeholder {
+input::-webkit-input-placeholder {
     padding-left: 20px;
     font-size: 14px;
     font-weight: 300;
-    opacity: 30;
     color: #9B9B9B;
-    font-family: Helvetica;
     line-height: 20px;
 }
 
@@ -215,6 +213,7 @@ h1 {
     font-size: 14px;
     color: #2D8CFF;
     letter-spacing: 0;
+    text-decoration: none;
 }
 
 .sup p {
@@ -269,10 +268,6 @@ h1 {
     max-width: 15%;
     margin-right: 120px;
     text-align: center;
-}
-
-.max-w a {
-    text-decoration: none;
 }
 
 .five {
