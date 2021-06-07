@@ -153,12 +153,16 @@ h1 {
     box-shadow: 0 0 8px 0 rgb(177 177 177 / 50%);
 }
 
-input::-webkit-input-placeholder {
+.with input::-webkit-input-placeholder {
     padding-left: 20px;
     font-size: 14px;
     font-weight: 300;
     color: #9B9B9B;
     line-height: 20px;
+}
+
+.an input::-webkit-input-placeholder {
+    color: #ffffff;
 }
 
 .btn {
