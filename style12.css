@@ -1,15 +1,5 @@
 body {
     margin: 0;
-    overflow-x: hidden;
-}
-
-.body {
-    width: 1447px;
-    margin: 0 auto;
-}
-
-.clear {
-    clear: both;
 }
 
 * {
@@ -121,11 +111,8 @@ h1 {
 }
 
 .width {
-    max-width: 50%;
-}
-
-.pic-t {
-    max-width: 54%;
+    width: 343px;
+    height: 190px;
 }
 
 .p-10 {
@@ -150,22 +137,17 @@ h1 {
 
 .form-1 {
     height: 52px;
-    width: 300px;
-    font-size: 16px;
-    padding-left: 25px;
-    opacity: 0.3;
-    background: cadetblue;
-    border: 1px solid cadetblue;
-    box-shadow: 0 0 8px 0 rgb(177 177 177 / 50%);
+    width: 340px;
+    opacity: 0.2;
+    font-size: 20px;
     border-radius: 5px;
-}
-
-input::-webkit-input-placeholder {
-    color: #ffffff;
+    border: 1px solid #F0E5DE;
+    background-color: #F0E5DE;
+    box-shadow: 0 0 8px 0 rgb(177 177 177 / 50%);
 }
 
 .btn {
-    width: 115px;
+    width: 100px;
     height: 53px;
     color: #fff;
     text-align: center;
@@ -176,191 +158,523 @@ input::-webkit-input-placeholder {
     box-shadow: 1px -1px 5px #4449a2;
 }
 
-.first {
+.san {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 33px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #E1E1E1E1;
+}
+
+.juzhon {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.p-4 {
     padding-top: 40px;
-    padding-bottom: 40px;
-    border: 1px solid #EEEEEE;
 }
 
-.picture {
-    display: flex;
-    justify-content: center;
+.four {
+    background-color: #fff;
 }
 
-.p-20 {
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-.p-45 {
-    padding-right: 60px;
-}
-
-.p-200 {
-    padding-left: 280px;
-    padding-right: 230px;
-}
-
-.second {
-    padding-bottom: 40px;
-}
-
-.make {
-    display: flex;
-    justify-content: center;
-}
-
-.support h2 {
-    width: 577px;
-    font-size: 30px;
+.let {
+    max-width: 55%;
+    font-size: 32px;
+    color: #333333;
     font-weight: 400;
-    padding-top: 75px;
     text-align: center;
 }
 
-.another {
-    padding-top: 35px;
+.sup h4 {
+    font-size: 16px;
+    color: #333333;
+    font-weight: 400;
 }
 
-.quam {
-    display: flex;
-    justify-content: center;
-}
-
-.max {
-    max-width: 20%;
-    padding-right: 20px;
-    padding-left: 20px;
-    text-align: center;
-}
-
-.noun {
-    position: relative;
-    right: 55px;
-    bottom: 25px;
-}
-
-.oval {
-    position: relative;
-    left: 20px;
-}
-
-.noun1 {
-    position: relative;
-    right: 55px;
-    bottom: 30px;
-}
-
-.icon {
-    position: relative;
-    top: 2px;
-    left: 2px;
-}
-
-.rutrum a {
-    text-decoration: none;
+.sup a {
     font-family: Helvetica;
     font-size: 14px;
     color: #2D8CFF;
     letter-spacing: 0;
-    font-weight: 200;
 }
 
-.rutrum h3 {
+.sup p {
     font-family: Helvetica;
-    font-size: 16px;
-    color: #333333;
-    font-weight: 300;
-    letter-spacing: 0.4px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-.rutrum p {
-    font-family: Helvetica;
-    font-size: 16px;
+    font-size: 15px;
     color: #72808E;
     letter-spacing: 0.2px;
     text-align: center;
     line-height: 25px;
-    font-weight: 300;
 }
 
-.three {
-    padding-top: 40px;
-    padding-bottom: 40px;
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.nou {
+    position: relative;
+    left: 25px;
+}
+
+.noun {
+    position: relative;
+    right: 50px;
+    bottom: 30px;
+}
+
+.noun1 {
+    position: relative;
+    right: 50px;
+    bottom: 30px;
+}
+
+.noun2 {
+    position: relative;
+    right: 50px;
+    bottom: 30px;
+}
+
+.fe {
+    display: flex;
+    max-width: 100%;
+    justify-content: center;
+}
+
+.p-t {
+    padding-top: 30px;
+    padding-left: 130px;
+}
+
+.m-w {
+    max-width: 15%;
+    margin-right: 120px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.five {
     background-image: linear-gradient(131deg, #3DBDB6 0%, #0089CE 100%);
 }
 
-.wenzi {
-    padding-top: 30px;
-    padding-bottom: 40px;
+.p-b1 {
+    padding-bottom: 100px;
 }
 
-.wenzi h3 {
+.desk {
+    padding-top: 55px;
+    padding-left: 73px;
+    padding-right: 73px;
+    padding-bottom: 55px;
+}
+
+.dessk {
+    padding-top: 55px;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-bottom: 55px;
+}
+
+.p-1 {
+    padding-top: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+}
+
+.wht {
     font-family: Helvetica;
     font-size: 40px;
     color: #FFFFFF;
     letter-spacing: 0;
     text-align: center;
-    font-weight: 400;
 }
 
-.wenzi p {
-    font-family: Helvetica;
-    font-size: 18px;
-    color: #FFFFFF;
-    letter-spacing: 0;
-    text-align: center;
-    line-height: 28px;
-}
-
-.row-1 {
+.bet {
     display: flex;
     justify-content: center;
 }
 
-.wen {
-    padding-left: 20px;
+.tnerr {
+    text-align: center;
 }
 
-.picture-1 {
-    padding-left: 95px;
+.desk p {
+    color: #fff;
+    font-size: 17px;
 }
 
-.ro {
-    width: 502px;
-    height: 164px;
-    background: rgba(24, 144, 164, 0.50);
-    box-shadow: 1px 2px 3px 0 rgba(0, 0, 0, 0.10);
-    border-radius: 3px;
+.p-30 {
+    padding-left: 50px;
+    padding-right: 45px;
 }
 
-.ro h2 {
-    font-family: PingFangSC-Medium;
-    font-size: 20px;
-    color: #FFFFFF;
-    letter-spacing: 0;
-    line-height: 56px;
-    padding: 15px 30px;
+.felx {
+    display: flex;
+    padding-left: 38px;
 }
 
-.ro p {
-    padding: 15px 30px;
-    font-family: Helvetica;
-    font-size: 14px;
-    color: #FFFFFF;
-    line-height: 20px;
+.max {
+    max-width: 45%;
+    padding-top: 40px;
+    padding-right: 75px;
 }
 
-.o-l {
-    width: 520px;
+.sup {
+    padding-top: 10px;
+}
+
+.nei {
+    border-radius: 10px;
+    background-color: #1890A4;
+}
+
+.for {
+    color: #fff;
+    padding: 20px;
+    font-weight: 300;
+}
+
+.nei p {
+    color: #fff;
+    padding: 18px;
+}
+
+.nei p1 {
+    color: #fff;
+    padding: 18px;
+}
+
+.e-l p {
+    padding: 30px;
+    color: #4e4444;
+}
+
+.other {
+    width: 521px;
+    height: 461px;
+    background-color: #fff;
+}
+
+.o-p {
+    width: 521px;
     height: 70px;
+    display: flex;
+    justify-content: space-between;
     background-color: #F5F9FC;
 }
 
-.background {
-    width: 520px;
-    height: 403px;
+.to-p {
+    display: flex;
+    padding: 19px;
+}
+
+#y-u {
+    width: 51px;
+    height: 32px;
+    color: #fff;
+    margin-left: 15px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: #20BBEF;
+}
+
+#y {
+    top: 15px;
+    width: 90px;
+    height: 40px;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    margin-right: 20px;
+    background-color: #20BBEF;
+}
+
+.sx {
+    position: relative;
+    top: 4px;
+}
+
+.six {
+    position: relative;
+    top: 6px;
+}
+
+.to-p h4 {
+    font-weight: 500;
+    padding-top: 5px;
+}
+
+.pic-1 {
+    position: relative;
+    left: 25px;
+    top: 25px;
+}
+
+.six1 {
     background-color: #fff;
+}
+
+.zi {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.p-o {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.more {
+    font-weight: 500;
+    font-size: 30px;
+    width: 265px;
+    text-align: center;
+}
+
+.picture {
+    display: flex;
+    justify-content: space-between;
+}
+
+.max-w p {
+    width: 250px;
+    padding-top: 20px;
+    text-align: center;
+    padding-left: 45px;
+}
+
+.max-w a {
+    padding-left: 120px;
+}
+
+.icon {
+    position: relative;
+    top: 5px;
+}
+
+.seven {
+    background-image: linear-gradient( 138deg, #1172D0 0%, #1D98D6 100%);
+}
+
+.p-tb {
+    padding-top: 56px;
+    padding-bottom: 37px;
+    padding-left: 170px;
+    padding-right: 150px;
+}
+
+.f-p h4 {
+    font-weight: 400;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.f-p {
+    display: flex;
+    justify-content: space-between;
+}
+
+.is {
+    width: 500px;
+}
+
+.is p {
+    width: 100px;
+    color: #fff;
+    border-bottom: 1px solid#fafafa;
+}
+
+.j-k {
+    position: relative;
+    right: 120px;
+    height: 670px;
+}
+
+.E-F {
+    width: 835px;
+    text-align: center;
+    position: relative;
+    bottom: 310px;
+    left: 260px
+}
+
+.p-e {
+    padding-right: 20px;
+}
+
+.E-F h1 {
+    color: #fff;
+    font-weight: 400;
+}
+
+.E-F p {
+    color: #fff;
+    padding: 30px;
+}
+
+.nine {
+    background-color: #fff;
+}
+
+.p-tbl {
+    padding-left: 150px;
+    padding-right: 145px;
+}
+
+.d-s {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pi-1 {
+    display: flex;
+}
+
+.p-l {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.ten {
+    background-color: #3DBDB6;
+}
+
+.o-l h4 {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.an {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 50px;
+}
+
+.tex {
+    width: 300px;
+    height: 52px;
+    background: #3DBDB6;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 1px solid #E1E1E1;
+    padding-left: 14px;
+    font-family: Helvetica;
+    font-size: 16px;
+    color: #E1E1E1E1;
+}
+
+.bn {
+    width: 120px;
+    height: 55px;
+    position: relative;
+    right: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid #E1E1E1;
+    font-family: Helvetica;
+    font-size: 16px;
+    color: #3DBDB6;
+}
+
+.eleven {
+    background-color: #3E3E58;
+    background: #1F2532;
+}
+
+.t-p {
+    padding-top: 75px;
+    padding-bottom: 25px;
+}
+
+.diyi {
+    width: 300px;
+    padding-left: 152px;
+}
+
+.icon-1 {
+    display: flex;
+    position: relative;
+    right: 155px;
+}
+
+.betwteen {
+    display: flex;
+    justify-content: space-between;
+}
+
+.op li {
+    padding: 10px;
+    opacity: 0.8;
+}
+
+.icon2 {
+    padding-left: 5px;
+}
+
+.diyi h {
+    position: relative;
+    right: 8px;
+    bottom: 6px;
+    color: #fff;
+}
+
+.t-z img {
+    padding-top: 10px;
+}
+
+.t-z {
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.diyi p {
+    opacity: 0.6;
+    font-family: Helvetica;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: left;
+    line-height: 19px;
+    width: 190px;
+}
+
+.u-l {
+    position: relative;
+    right: 110px;
+}
+
+.u-ll {
+    position: relative;
+    right: 170px;
+}
+
+.u-l li {
+    opacity: 0.6;
+    font-family: Helvetica;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.op h1 {
+    font-family: Helvetica;
+    font-size: 13px;
+    text-align: left;
+    line-height: 14px;
+    color: #ffff;
+    padding: 10px;
+    font-weight: 200;
+}
+
+.diyi a {
+    color: #FFFFFF;
 }
