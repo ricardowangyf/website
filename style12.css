@@ -254,7 +254,7 @@ h1 {
     text-align: center;
 }
 
-a {
+.max-w a {
     text-decoration: none;
 }
 
@@ -322,7 +322,7 @@ a {
 .max {
     max-width: 45%;
     padding-top: 40px;
-    padding-right: 75px;
+    padding-right: 85px;
 }
 
 .sup {
@@ -412,9 +412,7 @@ a {
 }
 
 .pic-1 {
-    position: relative;
-    left: 25px;
-    top: 25px;
+    padding: 45px 0 17px 47px;
 }
 
 .six1 {
@@ -503,7 +501,7 @@ a {
     text-align: center;
     position: relative;
     bottom: 310px;
-    left: 260px
+    left: 260px;
 }
 
 .p-e {
@@ -524,9 +522,13 @@ a {
     background-color: #fff;
 }
 
+.eight {
+    height: 725px;
+}
+
 .p-tbl {
     padding-left: 150px;
-    padding-right: 145px;
+    padding-right: 71px;
 }
 
 .d-s {
@@ -558,7 +560,7 @@ a {
     text-align: center;
     padding-top: 40px;
     padding-bottom: 40px;
-    padding-right: 50px;
+    padding-left: 30px;
 }
 
 .tex {
@@ -571,7 +573,11 @@ a {
     padding-left: 14px;
     font-family: Helvetica;
     font-size: 16px;
-    color: #E1E1E1E1;
+}
+
+input::-webkit-input-placeholder {
+    color: #FFFFFF;
+    font-size: 14px;
 }
 
 .bn {
@@ -598,7 +604,6 @@ a {
 }
 
 .diyi {
-    width: 300px;
     padding-left: 152px;
 }
 
@@ -615,6 +620,7 @@ a {
 
 .op li {
     padding: 10px;
+    font-size: 12px;
     opacity: 0.8;
 }
 
@@ -650,7 +656,7 @@ a {
 
 .u-l {
     position: relative;
-    right: 110px;
+    right: 155px;
 }
 
 .u-ll {
@@ -677,4 +683,14 @@ a {
 
 .diyi a {
     color: #FFFFFF;
+}
+
+.u-l1 {
+    position: relative;
+    right: 10px;
+}
+
+.u-l2 {
+    position: relative;
+    right: 70px;
 }
