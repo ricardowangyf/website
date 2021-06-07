@@ -115,8 +115,12 @@ h1 {
     width: 343px;
 }
 
+.with {
+    width: 445px;
+}
+
 .pic-t {
-    max-width: 54%;
+    max-width: 51%;
 }
 
 .p-10 {
@@ -140,9 +144,8 @@ h1 {
 }
 
 .form-1 {
-    height: 52px;
     width: 340px;
-    opacity: 0.2;
+    opacity: 0.1;
     font-size: 20px;
     border-radius: 5px;
     border: 1px solid #F0E5DE;
@@ -150,12 +153,14 @@ h1 {
     box-shadow: 0 0 8px 0 rgb(177 177 177 / 50%);
 }
 
-input::-webkit-input-placeholder {
-    color: #fff;
-    opacity: 9;
+.width input::-webkit-input-placeholder {
     padding-left: 20px;
     font-size: 14px;
     font-weight: 300;
+    opacity: 30;
+    color: #9B9B9B;
+    font-family: Helvetica;
+    line-height: 20px;
 }
 
 .btn {
