@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    overflow-x: hidden;
 }
 
 * {
@@ -112,7 +113,10 @@ h1 {
 
 .width {
     width: 343px;
-    height: 190px;
+}
+
+.pic-t {
+    max-width: 54%;
 }
 
 .p-10 {
@@ -352,6 +356,7 @@ h1 {
 
 .e-l p {
     padding: 30px;
+    font-size: 20px;
     color: #4e4444;
 }
 
@@ -431,9 +436,9 @@ h1 {
 }
 
 .more {
-    font-weight: 500;
-    font-size: 30px;
+    font-size: 31px;
     width: 265px;
+    font-weight: 400;
     text-align: center;
 }
 
@@ -443,7 +448,8 @@ h1 {
 }
 
 .max-w p {
-    width: 250px;
+    width: 260px;
+    font-size: 20px;
     padding-top: 20px;
     text-align: center;
     padding-left: 45px;
@@ -656,7 +662,7 @@ input::-webkit-input-placeholder {
 
 .u-l {
     position: relative;
-    right: 155px;
+    right: 135px;
 }
 
 .u-ll {
@@ -692,5 +698,5 @@ input::-webkit-input-placeholder {
 
 .u-l2 {
     position: relative;
-    right: 70px;
+    right: 60px;
 }
