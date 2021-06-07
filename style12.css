@@ -146,19 +146,16 @@ h1 {
 .form-1 {
     width: 340px;
     opacity: 0.1;
-    font-size: 20px;
     border-radius: 5px;
     border: 1px solid #F0E5DE;
-    background-color: #FFFFFF;
     box-shadow: 0 0 8px 0 rgb(177 177 177 / 50%);
 }
 
 .with input::-webkit-input-placeholder {
-    padding-left: 20px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 300;
     color: #9B9B9B;
-    line-height: 20px;
+    padding-left: 20px;
 }
 
 .an input::-webkit-input-placeholder {
@@ -213,20 +210,19 @@ h1 {
 }
 
 .sup a {
-    font-family: Helvetica;
     font-size: 14px;
     color: #2D8CFF;
     letter-spacing: 0;
-    text-decoration: none;
+    font-family: Helvetica;
 }
 
 .sup p {
-    font-family: Helvetica;
     font-size: 15px;
     color: #72808E;
-    letter-spacing: 0.2px;
-    text-align: center;
     line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    font-family: Helvetica;
 }
 
 .center {
@@ -270,8 +266,8 @@ h1 {
 
 .m-w {
     max-width: 15%;
-    margin-right: 120px;
     text-align: center;
+    margin-right: 120px;
 }
 
 .five {
@@ -327,7 +323,6 @@ h1 {
 
 .p-30 {
     padding-left: 50px;
-    padding-right: 45px;
 }
 
 .felx {
@@ -382,8 +377,8 @@ h1 {
     width: 521px;
     height: 70px;
     display: flex;
-    justify-content: space-between;
     background-color: #F5F9FC;
+    justify-content: space-between;
 }
 
 .to-p {
@@ -437,8 +432,8 @@ h1 {
 }
 
 .zi {
-    padding-top: 40px;
     display: flex;
+    padding-top: 40px;
     justify-content: center;
 }
 
@@ -448,8 +443,8 @@ h1 {
 }
 
 .more {
-    font-size: 31px;
     width: 265px;
+    font-size: 31px;
     font-weight: 400;
     text-align: center;
 }
@@ -457,6 +452,10 @@ h1 {
 .picture {
     display: flex;
     justify-content: space-between;
+}
+
+.max-w {
+    padding-right: 33px;
 }
 
 .max-w p {
@@ -482,14 +481,14 @@ h1 {
 
 .p-tb {
     padding-top: 56px;
-    padding-bottom: 37px;
     padding-left: 170px;
     padding-right: 150px;
+    padding-bottom: 37px;
 }
 
 .f-p h4 {
-    font-weight: 400;
     color: #fff;
+    font-weight: 400;
     padding-bottom: 20px;
 }
 
@@ -510,16 +509,16 @@ h1 {
 
 .j-k {
     position: relative;
-    right: 120px;
     height: 670px;
+    right: 120px;
 }
 
 .E-F {
-    width: 835px;
-    text-align: center;
     position: relative;
-    bottom: 310px;
     left: 260px;
+    width: 835px;
+    bottom: 310px;
+    text-align: center;
 }
 
 .p-e {
@@ -532,8 +531,8 @@ h1 {
 }
 
 .E-F p {
-    color: #fff;
     padding: 30px;
+    color: #fff;
 }
 
 .nine {
@@ -570,27 +569,27 @@ h1 {
 .o-l h4 {
     color: #fff;
     font-size: 40px;
-    text-align: center;
     font-weight: 400;
+    text-align: center;
 }
 
 .an {
-    text-align: center;
     padding-top: 40px;
-    padding-bottom: 40px;
     padding-left: 30px;
+    text-align: center;
+    padding-bottom: 40px;
 }
 
 .tex {
     width: 300px;
     height: 52px;
+    font-size: 16px;
+    padding-left: 14px;
     background: #3DBDB6;
+    font-family: Helvetica;
+    border: 1px solid #E1E1E1;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-    border: 1px solid #E1E1E1;
-    padding-left: 14px;
-    font-family: Helvetica;
-    font-size: 16px;
 }
 
 .bn {
@@ -598,16 +597,15 @@ h1 {
     height: 55px;
     position: relative;
     right: 5px;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-    border: 1px solid #E1E1E1;
-    font-family: Helvetica;
     font-size: 16px;
     color: #3DBDB6;
+    font-family: Helvetica;
+    border: 1px solid #E1E1E1;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 .eleven {
-    background-color: #3E3E58;
     background: #1F2532;
 }
 
@@ -621,8 +619,8 @@ h1 {
 }
 
 .icon-1 {
-    display: flex;
     position: relative;
+    display: flex;
     right: 155px;
 }
 
@@ -632,9 +630,9 @@ h1 {
 }
 
 .op li {
+    opacity: 0.8;
     padding: 10px;
     font-size: 12px;
-    opacity: 0.8;
 }
 
 .icon2 {
@@ -658,13 +656,13 @@ h1 {
 }
 
 .diyi p {
+    width: 190px;
     opacity: 0.6;
-    font-family: Helvetica;
     font-size: 12px;
     color: #FFFFFF;
     text-align: left;
     line-height: 19px;
-    width: 190px;
+    font-family: Helvetica;
 }
 
 .u-l {
@@ -679,19 +677,19 @@ h1 {
 
 .u-l li {
     opacity: 0.6;
-    font-family: Helvetica;
     font-size: 12px;
     color: #FFFFFF;
+    font-family: Helvetica;
 }
 
 .op h1 {
-    font-family: Helvetica;
-    font-size: 13px;
-    text-align: left;
-    line-height: 14px;
     color: #ffff;
     padding: 10px;
+    font-size: 13px;
     font-weight: 200;
+    text-align: left;
+    line-height: 14px;
+    font-family: Helvetica;
 }
 
 .diyi a {
@@ -706,4 +704,16 @@ h1 {
 .u-l2 {
     position: relative;
     right: 60px;
+}
+
+.sup a {
+    text-decoration: none;
+}
+
+.max-w a {
+    text-decoration: none;
+}
+
+.p-40 {
+    padding-left: 40px;
 }
