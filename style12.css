@@ -149,7 +149,8 @@ h1 {
     background: #FFFFFF;
     border: 1px solid #F0E5DE;
     box-shadow: 0 0 8px 0 rgba(177, 177, 177, 0.50);
-    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 
 .with input::-webkit-input-placeholder {
