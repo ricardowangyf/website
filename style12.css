@@ -153,7 +153,6 @@ h1 {
 
 .with input::-webkit-input-placeholder {
     font-size: 16px;
-    font-weight: 300;
     color: #9B9B9B;
     padding-left: 20px;
 }
