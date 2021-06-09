@@ -3,6 +3,11 @@ body {
     overflow-x: hidden;
 }
 
+.body {
+    width: 1440px;
+    margin: 0 auto;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -120,7 +125,7 @@ h1 {
 }
 
 .pic-t {
-    max-width: 51%;
+    max-width: 54%;
 }
 
 .p-10 {
