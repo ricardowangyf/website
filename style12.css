@@ -148,21 +148,20 @@ h1 {
     grid-template-columns: 1fr 1fr;
 }
 
-.form-1 {
+.flex1 input {
     width: 340px;
-    opacity: 0.2;
-    background: #FFFFFF;
+    background-color: #F0E5DE;
     border: 1px solid #F0E5DE;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
     box-shadow: 0 0 8px 0 rgba(177, 177, 177, 0.50);
-    border-radius: 5px;
 }
 
-.with input::-webkit-input-placeholder {
-    font-family: Helvetica;
+.form-1 input::-webkit-input-placeholder {
     font-size: 16px;
     color: #9B9B9B;
-    letter-spacing: 0;
-    line-height: 20px;
+    opacity: 1;
+    font-family: Helvetica;
 }
 
 .an input::-webkit-input-placeholder {
