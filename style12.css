@@ -150,7 +150,8 @@ h1 {
 
 .flex1 input {
     width: 340px;
-    background-color: #F0E5DE;
+    opacity: 0.2;
+    background-color: #ffffff;
     border: 1px solid #F0E5DE;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
@@ -160,12 +161,36 @@ h1 {
 .form-1 input::-webkit-input-placeholder {
     font-size: 16px;
     color: #9B9B9B;
-    opacity: 1;
+    opacity: 0.2;
     font-family: Helvetica;
 }
 
-.an input::-webkit-input-placeholder {
-    color: #ffffff;
+.form-1 input::-webkit-input-placeholder {
+    font-size: 16px;
+    color: #9B9B9B;
+    opacity: 0.2;
+    font-family: Helvetica;
+}
+
+.form-1 input::-moz-placeholder {
+    font-size: 16px;
+    color: #9B9B9B;
+    opacity: 0.2;
+    font-family: Helvetica;
+}
+
+.form-1 input:-moz-placeholder {
+    font-size: 16px;
+    color: #9B9B9B;
+    opacity: 0.2;
+    font-family: Helvetica;
+}
+
+.form-1 input:-ms-input-placeholder {
+    font-size: 16px;
+    color: #9B9B9B;
+    opacity: 0.2;
+    font-family: Helvetica;
 }
 
 .btn {
