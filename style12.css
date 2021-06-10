@@ -20,7 +20,7 @@ body {
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 200px;
-    padding-right: 100px;
+    padding-right: 101px;
 }
 
 .juzhong {
@@ -276,7 +276,7 @@ h1 {
 
 .p-t {
     padding-top: 30px;
-    padding-left: 60px;
+    padding-left: 90px;
 }
 
 .m-w {
@@ -313,7 +313,9 @@ h1 {
 }
 
 .wht {
+    width: 227px;
     font-size: 40px;
+    font-weight: 200;
     color: #FFFFFF;
     letter-spacing: 0;
     text-align: center;
@@ -340,14 +342,13 @@ h1 {
 
 .felx {
     display: flex;
-    padding-left: 38px;
     justify-content: space-around;
 }
 
 .max {
     max-width: 45%;
     padding-top: 40px;
-    padding-right: 85px;
+    padding-right: 31px;
 }
 
 .sup {
@@ -369,11 +370,15 @@ h1 {
     color: #fff;
     padding: 20px;
     font-weight: 300;
+    padding-left: 30px;
 }
 
 .nei p {
     color: #fff;
     padding: 18px;
+    font-size: 15px;
+    font-weight: 300;
+    padding-left: 30px;
 }
 
 .nei p1 {
