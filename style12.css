@@ -160,37 +160,38 @@ h1 {
 
 .form-1 input::-webkit-input-placeholder {
     font-size: 16px;
-    color: #9B9B9B;
-    opacity: 0.2;
+    color: #fff;
     font-family: Helvetica;
+    padding-left: 10px;
 }
 
-.form-1 input::-webkit-input-placeholder {
+input::-webkit-input-placeholder {
     font-size: 16px;
-    color: #9B9B9B;
-    opacity: 0.2;
+    color: #887d7d;
     font-family: Helvetica;
+    padding-left: 10px;
 }
 
-.form-1 input::-moz-placeholder {
+input::-moz-placeholder {
     font-size: 16px;
-    color: #9B9B9B;
-    opacity: 0.2;
+    color: #887d7d;
     font-family: Helvetica;
+    padding-left: 10px;
 }
 
-.form-1 input:-moz-placeholder {
+input:-moz-placeholder {
     font-size: 16px;
-    color: #9B9B9B;
-    opacity: 0.2;
+    color: #887d7d;
     font-family: Helvetica;
+    padding-left: 10px;
 }
 
-.form-1 input:-ms-input-placeholder {
+input:-ms-input-placeholder {
+    opacity: 2;
     font-size: 16px;
-    color: #9B9B9B;
-    opacity: 0.2;
+    color: #887d7d;
     font-family: Helvetica;
+    padding-left: 10px;
 }
 
 .btn {
@@ -292,7 +293,7 @@ h1 {
 
 .p-t {
     padding-top: 30px;
-    padding-left: 130px;
+    padding-left: 60px;
 }
 
 .m-w {
