@@ -7,6 +7,11 @@ body {
     margin: 0 auto;
 }
 
+.ron a {
+    text-decoration: none;
+    color: #D8D8D8;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -18,7 +23,6 @@ body {
 
 .p-5 {
     padding-top: 50px;
-    padding-bottom: 50px;
     padding-left: 200px;
     padding-right: 101px;
 }
@@ -66,7 +70,7 @@ body {
 }
 
 .ther {
-    padding-right: 40px;
+    padding-right: 65px;
 }
 
 .ron {
@@ -91,14 +95,24 @@ li {
     opacity: 0.3;
 }
 
+.sign {
+    width: 31px;
+    opacity: 0.3;
+    color: #D8D8D8;
+    text-align: right;
+    padding-right: 30px;
+}
+
 .kun {
-    font-size: 7px;
-    opacity: 0.5;
     width: 90px;
     height: 38px;
+    opacity: 0.5;
+    font-size: 7px;
+    color: #D8D8D8;
     text-align: center;
     border-radius: 5px;
     border: 1px solid #979797;
+    background-color: #3d988a14;
 }
 
 .kun h1 {
