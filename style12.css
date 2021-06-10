@@ -149,48 +149,38 @@ h1 {
 }
 
 .flex1 input {
-    width: 340px;
-    opacity: 0.2;
-    background-color: #ffffff;
-    border: 1px solid #F0E5DE;
-    border-top-left-radius: 5px;
+    width: 320px;
+    height: 50px;
+    background-color: #3E3E58;
+    border: 1px solid #3E3E58;
+    box-shadow: 0 0 8px 0 rgb(177 177 177 / 50%);
     border-bottom-left-radius: 5px;
-    box-shadow: 0 0 8px 0 rgba(177, 177, 177, 0.50);
-}
-
-.form-1 input::-webkit-input-placeholder {
-    font-size: 16px;
-    color: #fff;
-    font-family: Helvetica;
-    padding-left: 10px;
+    border-top-left-radius: 5px;
+    font-size: 18px;
 }
 
 input::-webkit-input-placeholder {
+    opacity: 2;
+    color: #9B9B9B;
     font-size: 16px;
-    color: #887d7d;
-    font-family: Helvetica;
-    padding-left: 10px;
-}
-
-input::-moz-placeholder {
-    font-size: 16px;
-    color: #887d7d;
-    font-family: Helvetica;
-    padding-left: 10px;
 }
 
 input:-moz-placeholder {
+    opacity: 2;
+    color: #9B9B9B;
     font-size: 16px;
-    color: #887d7d;
-    font-family: Helvetica;
-    padding-left: 10px;
+}
+
+input::-moz-placeholder {
+    opacity: 2;
+    color: #9B9B9B;
+    font-size: 16px;
 }
 
 input:-ms-input-placeholder {
+    opacity: 2;
+    color: #9B9B9B;
     font-size: 16px;
-    color: #887d7d;
-    font-family: Helvetica;
-    padding-left: 10px;
 }
 
 .btn {
