@@ -160,26 +160,22 @@ h1 {
 }
 
 input::-webkit-input-placeholder {
-    opacity: 2;
-    color: #9B9B9B;
+    color: #ffff;
     font-size: 16px;
 }
 
 input:-moz-placeholder {
-    opacity: 2;
-    color: #9B9B9B;
+    color: #fff;
     font-size: 16px;
 }
 
 input::-moz-placeholder {
-    opacity: 2;
-    color: #9B9B9B;
+    color: #fff;
     font-size: 16px;
 }
 
 input:-ms-input-placeholder {
-    opacity: 2;
-    color: #9B9B9B;
+    color: #fff;
     font-size: 16px;
 }
 
