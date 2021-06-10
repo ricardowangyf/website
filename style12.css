@@ -187,7 +187,6 @@ input:-moz-placeholder {
 }
 
 input:-ms-input-placeholder {
-    opacity: 2;
     font-size: 16px;
     color: #887d7d;
     font-family: Helvetica;
