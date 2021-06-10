@@ -47,7 +47,7 @@ body {
 }
 
 .t-a {
-    padding-left: 38px;
+    padding-left: 30px;
 }
 
 .img2 {
@@ -166,25 +166,25 @@ h1 {
 }
 
 .flex1 input::-webkit-input-placeholder {
-    color: #9B9B9B;
+    color: #fff;
     font-size: 16px;
     padding-left: 20px;
 }
 
 .flex1 input:-moz-placeholder {
-    color: #9B9B9B;
+    color: #fff;
     font-size: 16px;
     padding-left: 20px;
 }
 
 .flex1 input::-moz-placeholder {
-    color: #9B9B9B;
+    color: #fff;
     font-size: 16px;
     padding-left: 20px;
 }
 
 .flex1 input:-ms-input-placeholder {
-    color: #9B9B9B;
+    color: #fff;
     font-size: 16px;
     padding-left: 20px;
 }
