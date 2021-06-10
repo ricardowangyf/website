@@ -4,7 +4,6 @@ body {
 }
 
 .body {
-    width: 1440px;
     margin: 0 auto;
 }
 
@@ -20,17 +19,13 @@ body {
 .p-5 {
     padding-top: 50px;
     padding-bottom: 50px;
-    padding-left: 100px;
+    padding-left: 200px;
     padding-right: 100px;
 }
 
 .juzhong {
     margin: 0 auto;
     max-width: 1200px;
-}
-
-.p-12 {
-    padding-left: 100px;
 }
 
 .pic1 {
@@ -102,10 +97,8 @@ li {
     width: 90px;
     height: 38px;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 5px;
     border: 1px solid #979797;
-    position: relative;
-    bottom: 10px;
 }
 
 .kun h1 {
@@ -149,49 +142,51 @@ h1 {
 }
 
 .flex1 input {
-    width: 320px;
     height: 53px;
+    width: 310px;
     font-size: 18px;
-    background-color: #ffffff59;
     border: 1px solid #3E3E58;
     border-top-left-radius: 5px;
+    background-color: #ffffff26;
     border-bottom-left-radius: 5px;
 }
 
-input::-webkit-input-placeholder {
-    color: #ffff;
+.flex1 input::-webkit-input-placeholder {
+    color: #9B9B9B;
     font-size: 16px;
     padding-left: 20px;
 }
 
-input:-moz-placeholder {
-    color: #fff;
+.flex1 input:-moz-placeholder {
+    color: #9B9B9B;
     font-size: 16px;
     padding-left: 20px;
 }
 
-input::-moz-placeholder {
-    color: #fff;
+.flex1 input::-moz-placeholder {
+    color: #9B9B9B;
     font-size: 16px;
     padding-left: 20px;
 }
 
-input:-ms-input-placeholder {
-    color: #fff;
+.flex1 input:-ms-input-placeholder {
+    color: #9B9B9B;
     font-size: 16px;
     padding-left: 20px;
 }
 
 .btn {
-    width: 100px;
+    top: 1px;
+    right: 1px;
     height: 53px;
+    width: 115px;
     color: #fff;
+    position: relative;
     text-align: center;
     border: 1px solid #3DBDB6;
     background-color: #3DBDB6;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    box-shadow: 1px -1px 5px #4449a2;
 }
 
 .san {
@@ -274,8 +269,8 @@ input:-ms-input-placeholder {
 }
 
 .fe {
-    display: flex;
     max-width: 100%;
+    display: flex;
     justify-content: center;
 }
 
@@ -307,8 +302,6 @@ input:-ms-input-placeholder {
 
 .dessk {
     padding-top: 55px;
-    padding-left: 75px;
-    padding-right: 75px;
     padding-bottom: 55px;
 }
 
@@ -320,11 +313,11 @@ input:-ms-input-placeholder {
 }
 
 .wht {
-    font-family: Helvetica;
     font-size: 40px;
     color: #FFFFFF;
     letter-spacing: 0;
     text-align: center;
+    font-family: Helvetica;
 }
 
 .bet {
@@ -342,12 +335,13 @@ input:-ms-input-placeholder {
 }
 
 .p-30 {
-    padding-left: 50px;
+    padding-left: 30px;
 }
 
 .felx {
     display: flex;
     padding-left: 38px;
+    justify-content: space-around;
 }
 
 .max {
@@ -360,8 +354,14 @@ input:-ms-input-placeholder {
     padding-top: 10px;
 }
 
+.sup a {
+    text-decoration: none;
+}
+
 .nei {
-    border-radius: 10px;
+    width: 502px;
+    height: 165px;
+    border-radius: 5px;
     background-color: #1890A4;
 }
 
@@ -388,13 +388,15 @@ input:-ms-input-placeholder {
 }
 
 .other {
-    width: 521px;
+    right: 20px;
+    width: 520px;
     height: 461px;
+    position: relative;
     background-color: #fff;
 }
 
 .o-p {
-    width: 521px;
+    width: 520px;
     height: 70px;
     display: flex;
     background-color: #F5F9FC;
@@ -444,7 +446,7 @@ input:-ms-input-placeholder {
 }
 
 .pic-1 {
-    padding: 45px 0 17px 47px;
+    padding: 45px 0 17px 35px;
 }
 
 .six1 {
@@ -484,15 +486,23 @@ input:-ms-input-placeholder {
     padding-top: 20px;
     text-align: center;
     padding-left: 45px;
+    padding-bottom: 25px;
 }
 
 .max-w a {
-    padding-left: 120px;
+    text-decoration: none;
+}
+
+.max-w a {
+    font-size: 14px;
+    color: #2D8CFF;
+    padding-left: 135px;
 }
 
 .icon {
     position: relative;
-    top: 5px;
+    left: 2px;
+    top: 1px;
 }
 
 .seven {
@@ -508,6 +518,7 @@ input:-ms-input-placeholder {
 
 .f-p h4 {
     color: #fff;
+    font-size: 23px;
     font-weight: 400;
     padding-bottom: 20px;
 }
@@ -534,25 +545,26 @@ input:-ms-input-placeholder {
 }
 
 .E-F {
-    position: relative;
-    left: 260px;
-    width: 835px;
-    bottom: 310px;
     text-align: center;
+    position: relative;
+    left: 290px;
+    width: 820px;
+    bottom: 342px;
 }
 
 .p-e {
-    padding-right: 20px;
+    padding-right: 25px;
 }
 
 .E-F h1 {
     color: #fff;
+    font-size: 40px;
     font-weight: 400;
 }
 
 .E-F p {
-    padding: 30px;
     color: #fff;
+    padding: 30px;
 }
 
 .nine {
@@ -564,8 +576,7 @@ input:-ms-input-placeholder {
 }
 
 .p-tbl {
-    padding-left: 150px;
-    padding-right: 71px;
+    padding-left: 95px;
 }
 
 .d-s {
@@ -594,9 +605,9 @@ input:-ms-input-placeholder {
 }
 
 .an {
-    padding-top: 40px;
-    padding-left: 30px;
     text-align: center;
+    padding-top: 40px;
+    padding-left: 35px;
     padding-bottom: 40px;
 }
 
@@ -612,13 +623,37 @@ input:-ms-input-placeholder {
     border-bottom-left-radius: 5px;
 }
 
+.an input::-webkit-input-placeholder {
+    color: #fff;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+.an input:-moz-placeholder {
+    color: #fff;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+.an input::-moz-placeholder {
+    color: #fff;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+.an input:-ms-input-placeholder {
+    color: #fff;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
 .bn {
     width: 120px;
     height: 55px;
-    position: relative;
     right: 5px;
     font-size: 16px;
     color: #3DBDB6;
+    position: relative;
     font-family: Helvetica;
     border: 1px solid #E1E1E1;
     border-top-right-radius: 5px;
@@ -631,7 +666,7 @@ input:-ms-input-placeholder {
 
 .t-p {
     padding-top: 75px;
-    padding-bottom: 25px;
+    padding-bottom: 75px;
 }
 
 .diyi {
@@ -642,6 +677,7 @@ input:-ms-input-placeholder {
     position: relative;
     display: flex;
     right: 155px;
+    height: 20px;
 }
 
 .betwteen {
@@ -660,10 +696,10 @@ input:-ms-input-placeholder {
 }
 
 .diyi h {
+    color: #fff;
     position: relative;
     right: 8px;
     bottom: 6px;
-    color: #fff;
 }
 
 .t-z img {
@@ -671,8 +707,8 @@ input:-ms-input-placeholder {
 }
 
 .t-z {
-    padding-left: 15px;
     padding-top: 10px;
+    padding-left: 15px;
 }
 
 .diyi p {
@@ -703,8 +739,8 @@ input:-ms-input-placeholder {
 }
 
 .op h1 {
-    color: #ffff;
     padding: 10px;
+    color: #ffff;
     font-size: 13px;
     font-weight: 200;
     text-align: left;
@@ -724,14 +760,6 @@ input:-ms-input-placeholder {
 .u-l2 {
     position: relative;
     right: 60px;
-}
-
-.sup a {
-    text-decoration: none;
-}
-
-.max-w a {
-    text-decoration: none;
 }
 
 .p-40 {
