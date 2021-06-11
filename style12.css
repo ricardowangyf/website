@@ -33,12 +33,12 @@ body {
 }
 
 .pic1 {
-    padding-right: 27px;
-    padding-left: 27px;
+    padding-right: 37px;
+    padding-left: 25px;
 }
 
 .pic2 {
-    padding-left: 24px;
+    padding-right: 40px;
 }
 
 .flex {
@@ -195,6 +195,7 @@ h1 {
     height: 53px;
     width: 115px;
     color: #fff;
+    font-size: 17px;
     position: relative;
     text-align: center;
     border: 1px solid #3DBDB6;
@@ -226,7 +227,7 @@ h1 {
 
 .let {
     max-width: 55%;
-    font-size: 32px;
+    font-size: 31px;
     color: #333333;
     font-weight: 400;
     text-align: center;
@@ -294,9 +295,18 @@ h1 {
 }
 
 .m-w {
-    max-width: 15%;
+    max-width: 16%;
     text-align: center;
-    margin-right: 120px;
+}
+
+.m-d {
+    max-width: 16%;
+    text-align: center;
+}
+
+.m-s {
+    max-width: 16%;
+    text-align: center;
 }
 
 .five {
