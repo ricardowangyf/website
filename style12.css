@@ -326,7 +326,9 @@ h1 {
 
 .dessk {
     padding-top: 55px;
+    padding-left: 169px;
     padding-bottom: 55px;
+    padding-right: 65px;
 }
 
 .p-1 {
@@ -511,7 +513,7 @@ h1 {
 
 .max-w p {
     width: 260px;
-    font-size: 20px;
+    font-size: 19px;
     padding-top: 20px;
     text-align: center;
     padding-left: 45px;
@@ -540,8 +542,8 @@ h1 {
 
 .p-tb {
     padding-top: 56px;
-    padding-left: 170px;
-    padding-right: 150px;
+    padding-left: 197px;
+    padding-right: 115px;
     padding-bottom: 37px;
 }
 
@@ -605,7 +607,7 @@ h1 {
 }
 
 .p-tbl {
-    padding-left: 15px;
+    padding-left: 70px;
 }
 
 .d-s {
@@ -635,6 +637,7 @@ h1 {
 
 .an {
     text-align: center;
+    padding-right: 47px;
     padding-top: 40px;
     padding-bottom: 40px;
 }
@@ -699,13 +702,13 @@ h1 {
 }
 
 .diyi {
-    padding-left: 152px;
+    padding-left: 180px;
 }
 
 .icon-1 {
     position: relative;
     display: flex;
-    right: 170px;
+    right: 125px;
     height: 20px;
 }
 
@@ -767,7 +770,7 @@ h1 {
 
 .u-l {
     position: relative;
-    right: 160px;
+    right: 125px;
 }
 
 .u-ll {
@@ -796,14 +799,9 @@ h1 {
     color: #FFFFFF;
 }
 
-.u-l1 {
-    position: relative;
-    right: 30px;
-}
-
 .u-l2 {
     position: relative;
-    right: 85px;
+    right: 65px;
 }
 
 .p-40 {
