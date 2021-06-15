@@ -26,9 +26,18 @@
         text-align: center;
     }
     
-    li:hover~.xian {
+    .ron a:hover~.xian1 {
         width: 80px;
         opacity: 1;
+        border: 2px solid #3DBDB6;
+        position: relative;
+        top: 25px;
+    }
+    
+    .xian {
+        width: 80px;
+        opacity: 1;
+        text-align: center;
         border: 2px solid #3DBDB6;
         position: relative;
         top: 25px;
