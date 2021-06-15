@@ -7,15 +7,6 @@
         margin: 0 auto;
     }
     
-    .ron a {
-        transition: 0.3s;
-        text-decoration: none;
-        color: #D8D8D8;
-        font-size: 14px;
-        text-align: center;
-        line-height: 14px;
-    }
-    
     * {
         margin: 0;
         padding: 0;
@@ -30,20 +21,21 @@
     }
     
     .ron a:hover~.xian1 {
+        display: block;
         width: 80px;
         opacity: 1;
         border: 2px solid #3DBDB6;
         position: relative;
         top: 25px;
+        transition: 0.1s;
     }
     
-    .xian {
-        width: 80px;
-        opacity: 1;
+    .ron a {
+        text-decoration: none;
+        color: #D8D8D8;
+        font-size: 14px;
         text-align: center;
-        border: 2px solid #3DBDB6;
-        position: relative;
-        top: 25px;
+        line-height: 14px;
     }
     
     .p-5 {
