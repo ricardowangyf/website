@@ -207,7 +207,7 @@ h1 {
 
 .san {
     padding-left: 100px;
-    padding-right: 100px;
+    padding-right: 45px;
     padding-bottom: 33px;
     background-color: #ffffff;
     border-bottom: 1px solid #E1E1E1E1;
@@ -292,22 +292,26 @@ h1 {
 
 .p-t {
     padding-top: 30px;
-    padding-left: 90px;
 }
 
 .m-w {
     max-width: 16%;
+    position: relative;
+    right: 90px;
     text-align: center;
 }
 
 .m-d {
     max-width: 16%;
+    position: relative;
     text-align: center;
 }
 
 .m-s {
     max-width: 16%;
     text-align: center;
+    position: relative;
+    left: 95px;
 }
 
 .five {
@@ -375,7 +379,8 @@ h1 {
 .max {
     max-width: 45%;
     padding-top: 40px;
-    padding-right: 31px;
+    position: relative;
+    left: 15px;
 }
 
 .sup {
@@ -401,16 +406,20 @@ h1 {
 }
 
 .nei p {
-    color: #fff;
-    padding: 18px;
-    font-size: 15px;
-    font-weight: 300;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #FFFFFF;
+    line-height: 20px;
     padding-left: 30px;
 }
 
 .nei p1 {
     color: #fff;
     padding: 18px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #FFFFFF;
+    line-height: 20px;
 }
 
 .e-l p {
@@ -420,7 +429,7 @@ h1 {
 }
 
 .other {
-    right: 20px;
+    right: -20px;
     width: 520px;
     height: 461px;
     position: relative;
