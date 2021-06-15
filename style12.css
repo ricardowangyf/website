@@ -20,6 +20,8 @@
         text-align: center;
         width: 90px;
         padding-right: 15px;
+        position: relative;
+        right: 5px
     }
     
     .x {
@@ -35,10 +37,19 @@
         width: 72px;
         opacity: 1;
         border: 2px solid #3DBDB6;
-        position: relative;
         text-align: center;
-        top: 25px;
         transition: 0.1s;
+        position: relative;
+        top: 20px;
+    }
+    
+    .x .ron a {
+        text-align: center;
+        text-decoration: none;
+        color: #D8D8D8;
+        font-size: 14px;
+        line-height: 14px;
+        width: 80px;
     }
     
     .ron a {
@@ -48,6 +59,8 @@
         font-size: 14px;
         line-height: 14px;
         width: 80px;
+        position: relative;
+        right: 7px;
     }
     
     .sign {
