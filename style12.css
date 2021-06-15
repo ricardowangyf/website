@@ -8,9 +8,12 @@
     }
     
     .ron a {
-        text-align: center;
+        transition: 0.3s;
         text-decoration: none;
         color: #D8D8D8;
+        font-size: 14px;
+        text-align: center;
+        line-height: 14px;
     }
     
     * {
@@ -124,6 +127,8 @@
         color: #D8D8D8;
         font-size: 14px;
         padding-right: 30px;
+        text-align: center;
+        transition: 1s;
     }
     
     .kun {
