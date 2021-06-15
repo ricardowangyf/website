@@ -18,24 +18,51 @@
     
     .demo {
         text-align: center;
+        width: 90px;
+        padding-right: 15px;
+    }
+    
+    .x {
+        color: #fff;
+        opacity: 2;
+        font-size: 14px;
+        text-align: center;
+        width: 80px;
     }
     
     .ron a:hover~.xian1 {
         display: block;
-        width: 80px;
+        width: 72px;
         opacity: 1;
         border: 2px solid #3DBDB6;
         position: relative;
+        text-align: center;
         top: 25px;
         transition: 0.1s;
     }
     
     .ron a {
+        text-align: center;
         text-decoration: none;
         color: #D8D8D8;
         font-size: 14px;
-        text-align: center;
         line-height: 14px;
+        width: 80px;
+    }
+    
+    .sign {
+        opacity: 0.3;
+        color: #D8D8D8;
+        font-size: 14px;
+        padding-right: 30px;
+        text-align: center;
+        width: 80px;
+    }
+    
+    li {
+        color: #D8D8D8;
+        font-size: 14px;
+        opacity: 0.3;
     }
     
     .p-5 {
@@ -96,31 +123,6 @@
     
     ul {
         list-style-type: none;
-    }
-    
-    .x {
-        color: #fff;
-        opacity: 2;
-        font-size: 14px;
-        text-align: center;
-        padding-left: 20px;
-        padding-right: 20px;
-    }
-    
-    li {
-        color: #D8D8D8;
-        padding-right: 30px;
-        font-size: 14px;
-        opacity: 0.3;
-    }
-    
-    .sign {
-        opacity: 0.3;
-        color: #D8D8D8;
-        font-size: 14px;
-        padding-right: 30px;
-        text-align: center;
-        transition: 1s;
     }
     
     .kun {
