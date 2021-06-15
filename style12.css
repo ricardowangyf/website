@@ -8,6 +8,7 @@
     }
     
     .ron a {
+        text-align: center;
         text-decoration: none;
         color: #D8D8D8;
     }
@@ -19,6 +20,18 @@
     
     .top {
         background-color: #3E3E58;
+    }
+    
+    .demo {
+        text-align: center;
+    }
+    
+    li:hover~.xian {
+        width: 80px;
+        opacity: 1;
+        border: 2px solid #3DBDB6;
+        position: relative;
+        top: 25px;
     }
     
     .p-5 {
@@ -88,13 +101,6 @@
         text-align: center;
         padding-left: 20px;
         padding-right: 20px;
-    }
-    
-    .xian {
-        width: 60px;
-        border: 2px solid #3DBDB6;
-        position: relative;
-        top: 25px;
     }
     
     li {
