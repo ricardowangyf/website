@@ -16,29 +16,23 @@
         background-color: #3E3E58;
     }
     
-    .demo {
-        width: 90px;
-        text-align: center;
-    }
-    
     .ron a:hover~.xian1 {
         top: 20px;
         opacity: 1;
         width: 72px;
         display: block;
-        transition: 0.1s;
+        transition: 0.3s;
         text-align: center;
         position: relative;
-        border-bottom: 2px solid #3DBDB6;
+        border-bottom: 4px solid #3DBDB6;
     }
     
     .ron a {
-        right: 7px;
+        right: 10px;
         opacity: 0.3;
         font-size: 14px;
         color: #D8D8D8;
         position: relative;
-        text-align: center;
         text-decoration: none;
     }
     
@@ -688,9 +682,9 @@
     }
     
     .bn {
+        right: 7px;
         width: 120px;
         height: 55px;
-        right: 6px;
         font-size: 16px;
         color: #3DBDB6;
         position: relative;
