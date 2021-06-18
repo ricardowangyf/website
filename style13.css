@@ -88,14 +88,16 @@ li {
     font-size: 50px;
     color: #202020;
     font-weight: 400;
+    padding-bottom: 30px;
+    padding-bottom: 30px;
 }
 
 .picture-1 {
     float: right;
-    position: relative;
     right: 115px;
     bottom: 105px;
     width: 1000px;
+    position: relative;
 }
 
 .picture-2 {
@@ -123,11 +125,11 @@ li {
 }
 
 .nei a {
-    background: #F60000;
-    border-radius: 100px;
-    padding: 20px 69px;
-    font-size: 20px;
     color: #fff;
+    font-size: 20px;
+    padding: 20px 69px;
+    border-radius: 100px;
+    background: #F60000;
     text-decoration: none;
     box-shadow: -2px 4px 10px 0px #f60000;
 }
@@ -139,63 +141,69 @@ li {
 }
 
 .s1 {
+    right: 120px;
     width: 1455px;
     height: 350px;
-    background-color: #59CCE5;
-    transform: rotate( 355deg);
     position: relative;
-    right: 172px;
+    transform: rotate( 355deg);
+    background-color: #59CCE5;
 }
 
 .blue {
-    width: 1575px;
-    height: 740px;
-    background-color: #0000ffbf;
-    transform: rotate( 11deg);
-    position: relative;
-    bottom: 305px;
     right: 213px;
+    bottom: 305px;
+    width: 1614px;
+    height: 740px;
+    position: relative;
+    transform: rotate( 11deg);
+    background-color: #034ffa;
 }
 
 .works {
-    position: relative;
+    right: 10px;
     bottom: 980px;
-    right: 36px;
+    position: relative;
     text-align: center;
 }
 
 .sanjiao {
+    left: 60px;
     width: 130px;
     height: 252px;
     float: right;
-    position: relative;
     bottom: 930px;
-    left: 60px;
+    position: relative;
 }
 
 .second {
     height: 1030px;
 }
 
+.third {
+    position: relative;
+    bottom: 460px;
+}
+
 .wenzi h2 {
-    font-weight: 300;
     font-size: 48px;
+    font-weight: 300;
     color: #1E77E1;
     letter-spacing: 0;
     text-align: center;
 }
 
 .felx {
-    display: flex;
-    flex-wrap: wrap;
-    position: relative;
     left: 80px;
+    padding-top: 50px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 30px;
 }
 
 .card {
     width: 500px;
     background: #fff;
-    margin-right: 50px;
     border-radius: 10px;
     margin-bottom: 67px;
     box-shadow: 0 2px 20px 0 rgb(30 119 225 / 15%);
@@ -203,8 +211,8 @@ li {
 
 .card1 {
     width: 500px;
-    background: #fff;
     margin-left: 50px;
+    background: #fff;
     border-radius: 10px;
     margin-bottom: 67px;
     box-shadow: 0 2px 20px 0 rgb(30 119 225 / 15%);
@@ -220,6 +228,7 @@ li {
 
 .card3 {
     width: 500px;
+    margin-left: 65px;
     background: #fff;
     border-radius: 10px;
     margin-bottom: 67px;
@@ -227,46 +236,199 @@ li {
 }
 
 .ron img {
-    position: relative;
     right: 70px;
+    position: relative;
 }
 
 .ron p {
+    left: 70px;
+    float: left;
     width: 390px;
     height: 84px;
-    position: relative;
-    left: 70px;
     bottom: 105px;
-    overflow: hidden;
     font-size: 18px;
     color: #959595;
     font-weight: 400;
+    overflow: hidden;
     line-height: 28px;
-    float: left;
+    position: relative;
 }
 
 .boye {
-    float: left;
-    position: relative;
     left: 65px;
     bottom: 75px;
+    float: left;
+    position: relative;
 }
 
 .boye h3 {
     font-size: 22px;
     color: #009EF6;
     font-weight: 400;
-    letter-spacing: 0;
 }
 
 .boye p {
     font-size: 14px;
     color: #AEAEAE;
     font-weight: 400;
+}
+
+.four {
+    bottom: 292px;
+    height: 690px;
+    position: relative;
+    background-image: url(./图片/长方形.png);
+}
+
+.tupian {
+    top: 200px;
+    left: 115px;
+    display: flex;
+    position: relative;
+    justify-content: flex-end;
+}
+
+.gi {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.gi h3 {
+    font-size: 33px;
+    font-weight: 300;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: center;
+    padding-right: 350px;
+}
+
+.emai {
+    padding-top: 40px;
+}
+
+.nam {
+    padding-top: 40px;
+    padding-right: 325px;
+}
+
+.sub {
+    padding-top: 40px;
+}
+
+.name {
+    width: 460px;
+    height: 75px;
+    text-align: left;
+    padding-left: 20px;
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.26);
+    border: 1px solid rgba(255, 255, 255, 100);
+}
+
+.email {
+    width: 460px;
+    height: 75px;
+    text-align: left;
+    padding-left: 20px;
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.26);
+    border: 1px solid rgba(255, 255, 255, 100);
+}
+
+.mit {
+    width: 280px;
+    height: 70px;
+    font-size: 21px;
+    color: #009EF6;
+    text-align: center;
+    border-radius: 50px;
+    background: #FFFFFF;
+    border: 3px solid #FFFFFF;
+    box-shadow: 0 2px 40px 0 rgb(255 255 255 / 73%);
+}
+
+.zheng {
+    float: left;
+    right: 190px;
+    bottom: 45px;
+    position: relative;
+}
+
+.eng {
+    float: right;
+    position: relative;
+    left: 202px;
+    bottom: 45px;
+}
+
+.betwteen {
+    display: flex;
+    justify-content: space-between;
+}
+
+.op h1 {
+    font-size: 18px;
+    color: #1E77E1;
+}
+
+.op li {
+    font-size: 16px;
+    color: #1E77E1;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.u-l p {
+    width: 210.92px;
+    font-size: 16px;
+    color: #A9A9A9;
     letter-spacing: 0;
 }
 
-.jz1 {
+.u-l1 {
+    position: relative;
+    left: 120px;
+}
+
+.u-l {
+    position: relative;
+    left: 155px;
+    width: 300px;
+    height: 110px;
+}
+
+.u-l22 {
+    position: relative;
+    left: 180px;
+}
+
+.u-l11 {
+    position: relative;
+    left: 155px;
+}
+
+.u-l2 {
+    position: relative;
+    left: 140px;
+}
+
+.five {
+    height: 460px;
+}
+
+.zhaopian {
+    height: 230px;
+}
+
+.jz3 {
+    height: 240px;
     margin: 0 auto;
-    max-width: 1285px;
+    max-width: 1460px;
+}
+
+.tupian1 {
+    text-align: right;
+    position: relative;
+    top: 370px;
+    left: 130px;
 }
