@@ -9,7 +9,6 @@ body {
 }
 
 .body {
-    width: 1500px;
     margin: 0 auto;
 }
 
@@ -196,10 +195,35 @@ li {
 .card {
     width: 500px;
     background: #fff;
-    box-shadow: 0 2px 20px 0 rgb(30 119 225 / 15%);
+    margin-right: 50px;
     border-radius: 10px;
     margin-bottom: 67px;
-    margin-right: 35px;
+    box-shadow: 0 2px 20px 0 rgb(30 119 225 / 15%);
+}
+
+.card1 {
+    width: 500px;
+    background: #fff;
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-bottom: 67px;
+    box-shadow: 0 2px 20px 0 rgb(30 119 225 / 15%);
+}
+
+.card2 {
+    width: 500px;
+    background: #fff;
+    border-radius: 10px;
+    margin-bottom: 67px;
+    box-shadow: 0 2px 20px 0 rgb(30 119 225 / 15%);
+}
+
+.card3 {
+    width: 500px;
+    background: #fff;
+    border-radius: 10px;
+    margin-bottom: 67px;
+    box-shadow: 0 2px 20px 0 rgb(30 119 225 / 15%);
 }
 
 .ron img {
