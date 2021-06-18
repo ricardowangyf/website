@@ -149,9 +149,9 @@
     }
     
     .blue {
-        width: 1551px;
-        height: 500px;
-        background-color: blue;
+        width: 1575px;
+        height: 740px;
+        background-color: #0000ffbf;
         transform: rotate( 11deg);
         position: relative;
         bottom: 305px;
@@ -163,4 +163,13 @@
         bottom: 980px;
         right: 36px;
         text-align: center;
+    }
+    
+    .sanjiao {
+        width: 130px;
+        height: 252px;
+        float: right;
+        position: relative;
+        bottom: 930px;
+        left: 60px;
     }
