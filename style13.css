@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.jz {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.display {
+    display: flex;
+    flex-wrap: wrap;
+}
