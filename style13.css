@@ -146,6 +146,6 @@ li {
 .blue {
     width: 1525px;
     height: 500px;
-    background-color: blue;
+    background-color: linear gradient(10deg, transparen 50% rgbs(0.98.244.1)50%, rgba(0.98, 244, 1)75%, transparent75);
     transform: rotate( 11deg);
 }
