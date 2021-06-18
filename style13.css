@@ -138,14 +138,14 @@ li {
     width: 1504px;
     height: 350px;
     background-color: green;
-    transform: rotate( 9deg);
+    transform: rotate( 355deg);
+    position: relative;
+    left: 97px;
 }
 
-.green {
+.bule {
     width: 1525px;
     height: 350px;
-    position: relative;
     background-color: blue;
-    transform: rotate( 357deg);
-    right: 15px;
+    transform: rotate( 11deg);
 }
