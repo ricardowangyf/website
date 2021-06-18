@@ -149,8 +149,3 @@ li {
     background-color: blue;
     transform: rotate( 11deg);
 }
-
-.biaoti {
-    transform: rotate( 355deg);
-    text-align: center;
-}
