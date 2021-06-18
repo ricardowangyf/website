@@ -1,175 +1,195 @@
-    * {
-        padding: 0;
-        margin: 0;
-    }
-    
-    body {
-        margin: 0 auto;
-        overflow-x: hidden;
-    }
-    
-    .body {
-        width: 1500px;
-        margin: 0 auto;
-    }
-    
-    .clear {
-        clear: both;
-    }
-    
-    .first {
-        height: 946px;
-        background-image: url(./图片/Rectangle7.png);
-    }
-    
-    .jz {
-        margin: 0 auto;
-        max-width: 1200px;
-    }
-    
-    .display {
-        display: flex;
-        justify-content: space-between;
-    }
-    
-    .p40 {
-        padding-top: 40px;
-    }
-    
-    li {
-        list-style-type: none;
-    }
-    
-    .zi {
-        display: flex;
-    }
-    
-    .position-t {
-        position: relative;
-        top: 20px
-    }
-    
-    .zi a {
-        font-size: 18px;
-        color: #0043C7;
-        text-decoration: none;
-        font-family: Helvetica;
-    }
-    
-    .tran {
-        left: 745px;
-        opacity: 0.1;
-        bottom: -206px;
-        color: white;
-        width: 390.23px;
-        height: 1073.86px;
-        position: absolute;
-        transform: rotate( 30deg);
-        background-image: radial-gradient(39% 70%, #1E77E1 0%, #B4D2F5 60%, #BFD8F6 64%, #FFFFFF 90%);
-    }
-    
-    .tran2 {
-        left: 908px;
-        opacity: 0.3;
-        color: white;
-        bottom: -265px;
-        width: 269.23px;
-        height: 1156.86px;
-        position: absolute;
-        transform: rotate( 30deg);
-        background-image: radial-gradient(39% 70%, #1E77E1 0%, #B4D2F5 60%, #BFD8F6 64%, #FFFFFF 90%);
-    }
-    
-    .display-1 {
-        display: flex;
-    }
-    
-    .start {
-        width: 665px;
-        font-size: 50px;
-        color: #202020;
-        font-weight: 400;
-    }
-    
-    .picture-1 {
-        float: right;
-        position: relative;
-        right: 115px;
-        bottom: 105px;
-        width: 1000px;
-    }
-    
-    .picture-2 {
-        float: right;
-        position: relative;
-        left: 245px;
-        bottom: 1080px;
-    }
-    
-    .zi li {
-        padding-right: 43px;
-    }
-    
-    .another-1 {
-        padding-top: 6rem;
-    }
-    
-    .nei p {
-        width: 476px;
-        font-size: 22px;
-        color: #2A2A2A;
-        letter-spacing: 0;
-        font-weight: 300;
-        padding-bottom: 65px;
-    }
-    
-    .nei a {
-        background: #F60000;
-        border-radius: 100px;
-        padding: 20px 69px;
-        font-size: 20px;
-        color: #fff;
-        text-decoration: none;
-        box-shadow: -2px 4px 10px 0px #f60000;
-    }
-    
-    .picture-3 {
-        position: relative;
-        right: 195px;
-        top: 140px;
-    }
-    
-    .second {
-        width: 1455px;
-        height: 350px;
-        background-color: #59CCE5;
-        transform: rotate( 355deg);
-        position: relative;
-        right: 172px;
-    }
-    
-    .blue {
-        width: 1575px;
-        height: 740px;
-        background-color: #0000ffbf;
-        transform: rotate( 11deg);
-        position: relative;
-        bottom: 305px;
-        right: 213px;
-    }
-    
-    .works {
-        position: relative;
-        bottom: 980px;
-        right: 36px;
-        text-align: center;
-    }
-    
-    .sanjiao {
-        width: 130px;
-        height: 252px;
-        float: right;
-        position: relative;
-        bottom: 930px;
-        left: 60px;
-    }
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+
+.body {
+    width: 1500px;
+    margin: 0 auto;
+}
+
+.clear {
+    clear: both;
+}
+
+.first {
+    height: 946px;
+    background-image: url(./图片/Rectangle7.png);
+}
+
+.jz {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.display {
+    display: flex;
+    justify-content: space-between;
+}
+
+.p40 {
+    padding-top: 40px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.zi {
+    display: flex;
+}
+
+.position-t {
+    position: relative;
+    top: 20px
+}
+
+.zi a {
+    font-size: 18px;
+    color: #0043C7;
+    text-decoration: none;
+    font-family: Helvetica;
+}
+
+.tran {
+    left: 745px;
+    opacity: 0.1;
+    bottom: -206px;
+    color: white;
+    width: 390.23px;
+    height: 1073.86px;
+    position: absolute;
+    transform: rotate( 30deg);
+    background-image: radial-gradient(39% 70%, #1E77E1 0%, #B4D2F5 60%, #BFD8F6 64%, #FFFFFF 90%);
+}
+
+.tran2 {
+    left: 908px;
+    opacity: 0.3;
+    color: white;
+    bottom: -265px;
+    width: 269.23px;
+    height: 1156.86px;
+    position: absolute;
+    transform: rotate( 30deg);
+    background-image: radial-gradient(39% 70%, #1E77E1 0%, #B4D2F5 60%, #BFD8F6 64%, #FFFFFF 90%);
+}
+
+.display-1 {
+    display: flex;
+}
+
+.start {
+    width: 665px;
+    font-size: 50px;
+    color: #202020;
+    font-weight: 400;
+}
+
+.picture-1 {
+    float: right;
+    position: relative;
+    right: 115px;
+    bottom: 105px;
+    width: 1000px;
+}
+
+.picture-2 {
+    float: right;
+    position: relative;
+    left: 245px;
+    bottom: 1080px;
+}
+
+.zi li {
+    padding-right: 43px;
+}
+
+.another-1 {
+    padding-top: 6rem;
+}
+
+.nei p {
+    width: 476px;
+    font-size: 22px;
+    color: #2A2A2A;
+    letter-spacing: 0;
+    font-weight: 300;
+    padding-bottom: 65px;
+}
+
+.nei a {
+    background: #F60000;
+    border-radius: 100px;
+    padding: 20px 69px;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    box-shadow: -2px 4px 10px 0px #f60000;
+}
+
+.picture-3 {
+    position: relative;
+    right: 195px;
+    top: 140px;
+}
+
+.s1 {
+    width: 1455px;
+    height: 350px;
+    background-color: #59CCE5;
+    transform: rotate( 355deg);
+    position: relative;
+    right: 172px;
+}
+
+.blue {
+    width: 1575px;
+    height: 740px;
+    background-color: #0000ffbf;
+    transform: rotate( 11deg);
+    position: relative;
+    bottom: 305px;
+    right: 213px;
+}
+
+.works {
+    position: relative;
+    bottom: 980px;
+    right: 36px;
+    text-align: center;
+}
+
+.sanjiao {
+    width: 130px;
+    height: 252px;
+    float: right;
+    position: relative;
+    bottom: 930px;
+    left: 60px;
+}
+
+.second {
+    height: 1030px;
+}
+
+.wenzi h2 {
+    font-weight: 300;
+    font-size: 48px;
+    color: #1E77E1;
+    letter-spacing: 0;
+    text-align: center;
+}
+
+.card {
+    width: 500px;
+    height: 240px;
+    background: #fff;
+    box-shadow: 0 2px 20px 0 rgba(30, 119, 225, 0.15);
+    border-radius: 10px;
+}
