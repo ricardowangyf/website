@@ -140,12 +140,17 @@ li {
     background-color: #59CCE5;
     transform: rotate( 355deg);
     position: relative;
-    left: 97px;
+    right: 40px;
 }
 
-.bule {
+.blue {
     width: 1525px;
-    height: 350px;
+    height: 500px;
     background-color: blue;
     transform: rotate( 11deg);
+}
+
+.biaoti {
+    transform: rotate( 355deg);
+    text-align: center;
 }
