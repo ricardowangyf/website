@@ -23,7 +23,7 @@ body {
 
 .jz {
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: 1160px;
 }
 
 .display {
@@ -181,7 +181,7 @@ li {
 
 .third {
     position: relative;
-    bottom: 460px;
+    bottom: 350px;
 }
 
 .wenzi h2 {
@@ -274,8 +274,6 @@ li {
 }
 
 .four {
-    border-bottom: 2px solid #000000;
-    filter: progid: DXImageTransform.Microsoft.BasicImage(Rotation=0.45);
     bottom: 292px;
     height: 690px;
     position: relative;
@@ -353,7 +351,7 @@ li {
 
 .zheng {
     float: left;
-    right: 190px;
+    right: 215px;
     bottom: 45px;
     position: relative;
 }
@@ -361,8 +359,8 @@ li {
 .eng {
     float: right;
     position: relative;
-    left: 202px;
-    bottom: 45px;
+    left: 215px;
+    top: 100px;
 }
 
 .betwteen {
@@ -391,29 +389,29 @@ li {
 
 .u-l1 {
     position: relative;
-    left: 120px;
+    left: 90px;
 }
 
 .u-l {
     position: relative;
-    left: 155px;
+    right: 40px;
     width: 300px;
     height: 110px;
 }
 
 .u-l22 {
     position: relative;
-    left: 180px;
+    left: 35px;
 }
 
 .u-l11 {
     position: relative;
-    left: 155px;
+    left: 50px;
 }
 
 .u-l2 {
     position: relative;
-    left: 140px;
+    left: 70px;
 }
 
 .five {
