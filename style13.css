@@ -23,7 +23,7 @@ body {
 
 .jz {
     margin: 0 auto;
-    max-width: 1160px;
+    max-width: 1185px;
 }
 
 .display {
@@ -89,7 +89,6 @@ li {
     color: #202020;
     font-weight: 400;
     padding-bottom: 30px;
-    padding-bottom: 30px;
 }
 
 .picture-1 {
@@ -150,7 +149,7 @@ li {
 }
 
 .blue {
-    right: 213px;
+    right: 225px;
     bottom: 305px;
     width: 1614px;
     height: 740px;
@@ -161,7 +160,7 @@ li {
 
 .works {
     right: 10px;
-    bottom: 980px;
+    bottom: 890px;
     position: relative;
     text-align: center;
 }
