@@ -360,7 +360,7 @@ li {
     float: right;
     position: relative;
     left: 215px;
-    top: 100px;
+    top: 140px;
 }
 
 .betwteen {
@@ -437,7 +437,8 @@ li {
 
 input::-webkit-input-placeholder {
     color: #fff;
-    font-size: 20px;
+    font-size: 25px;
+    line-height: 30px;
 }
 
 .sub input::-webkit-input-placeholder {
