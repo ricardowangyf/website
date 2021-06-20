@@ -7,15 +7,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        * {
+            margin: 0;
+        }
+        
         ul {
             list-style: decimal outside none;
+        }
+        
+        li {
+            color: #754ef9;
+            padding-bottom: 20px;
+            list-style: decimal outside none;
+        }
+        
+        h1 {
+            font-size: 30px;
+            padding-left: 20px;
+        }
+        
+        .jianli {
+            width: 25%;
+            transition: all 0.3s;
+            border-radius: 10px;
+            border: 1px solid #754ef9;
+            background-color: #fafafa;
+        }
+        
+        .jianli:hover {
+            background-color: burlywood;
         }
     </style>
 </head>
 
 <body>
     <div class="jianli">
-        <h>简历</h>
+        <h1>简历</h1>
         <ul>
             <li>
                 <a href="./index2.html">简历2float布局</a>
