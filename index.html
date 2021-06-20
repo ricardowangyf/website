@@ -20,7 +20,7 @@
         }
         
         li {
-            color: #754ef9;
+            color: (--border-color);
             padding-bottom: 20px;
             list-style: decimal outside none;
         }
@@ -39,11 +39,44 @@
             border-radius: 10px;
             transition: all 0.3s;
             border: 1px solid #754ef9;
-            background-color: #fafafa;
+            background-color: (--nav-color);
         }
         
-        .jianli:hover {
-            background-color: burlywood;
+        .theme-switch {
+            display: inline-block;
+            cursor: pointer;
+        }
+        
+        .theme-switch .mode-container {
+            display: flex;
+        }
+        
+        #checkbox {
+            display: none;
+        }
+        
+        #checkbox:checked+.mode-container .light {
+            display: inline-block;
+        }
+        
+        #checkbox+.mode-container .light {
+            display: none;
+        }
+        
+        #checkbox:checked+.mode-container .dark {
+            display: none;
+        }
+        
+        #checkbox+.mode-container .dark {
+            display: inline-block;
+        }
+        
+        body {
+            background-color: var(--bg-color);
+        }
+        
+        .theme-switch svg {
+            fill: var(--nav-color)
         }
     </style>
 </head>
