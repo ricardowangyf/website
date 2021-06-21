@@ -8,6 +8,7 @@ body {
 }
 
 .body {
+    width: 1430px;
     margin: 0 auto;
 }
 
@@ -148,12 +149,12 @@ li {
 }
 
 .blue {
-    right: 225px;
-    bottom: 305px;
-    width: 1551px;
-    height: 740px;
+    right: 412px;
+    bottom: 306px;
+    width: 1737px;
+    height: 745px;
     position: relative;
-    transform: rotate( 11deg);
+    transform: rotate( 5deg);
     background-color: #034ffa;
 }
 
@@ -165,12 +166,12 @@ li {
 }
 
 .sanjiao {
-    left: 60px;
+    left: 116px;
     width: 130px;
     height: 252px;
     float: right;
-    bottom: 930px;
-    position: relative;
+    bottom: 980px;
+    position: relative
 }
 
 .second {
@@ -272,6 +273,7 @@ li {
 }
 
 .four {
+    width: 1475px;
     bottom: 292px;
     height: 690px;
     position: relative;
@@ -358,8 +360,9 @@ li {
 .eng {
     float: right;
     position: relative;
-    left: 215px;
+    left: 120px;
     top: 140px;
+    width: 129px;
 }
 
 .betwteen {
@@ -457,5 +460,5 @@ input::-webkit-input-placeholder {
 .fanzhuan1 {
     position: relative;
     bottom: 1660px;
-    left: 315px;
+    left: 115px;
 }
