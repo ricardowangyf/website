@@ -7,10 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        * {
-            margin: 0;
-        }
-        
         a {
             text-decoration: none;
         }
@@ -20,7 +16,6 @@
         }
         
         li {
-            color: (--border-color);
             padding-bottom: 20px;
             list-style: decimal outside none;
         }
@@ -31,11 +26,8 @@
         }
         
         .jianli {
-            top: 60px;
             width: 25%;
-            left: 100px;
             float: left;
-            position: absolute;
             border-radius: 10px;
             transition: all 0.3s;
             border: 1px solid #754ef9;
@@ -77,6 +69,22 @@
         
         .theme-switch svg {
             fill: var(--nav-color)
+        }
+        
+        .jianli:hover li {
+            color: #fafafa;
+        }
+        
+        .jianli:hover a {
+            color: #fafafa;
+        }
+        
+        .jianli:hover h1 {
+            color: #fafafa;
+        }
+        
+        .jianli:hover {
+            background-color: cadetblue;
         }
     </style>
 </head>
