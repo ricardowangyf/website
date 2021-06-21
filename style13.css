@@ -9,6 +9,7 @@ body {
 }
 
 .body {
+    width: 1440px;
     margin: 0 auto;
 }
 
@@ -307,7 +308,6 @@ li {
 
 .nam {
     padding-top: 40px;
-    padding-right: 325px;
 }
 
 .sub {
@@ -315,11 +315,13 @@ li {
 }
 
 .name {
-    width: 460px;
+    width: 455px;
+    right: 170px;
     color: #fff;
     height: 75px;
     text-align: left;
-    padding-left: 20px;
+    position: relative;
+    padding-left: 10px;
     border-radius: 37.5px;
     border: 1px solid #009EF6;
     background: rgba(255, 255, 255, 0.26);
@@ -327,10 +329,10 @@ li {
 
 .email {
     height: 75px;
-    width: 460px;
+    width: 455px;
     color: #fff;
     text-align: left;
-    padding-left: 20px;
+    padding-left: 10px;
     border-radius: 37.5px;
     border: 1px solid #009EF6;
     background: rgba(255, 255, 255, 0.26);
@@ -457,5 +459,5 @@ input::-webkit-input-placeholder {
 .fanzhuan1 {
     position: relative;
     bottom: 1660px;
-    left: 314px;
+    left: 315spx;
 }
