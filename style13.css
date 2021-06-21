@@ -5,7 +5,6 @@
 
 body {
     margin: 0 auto;
-    overflow-x: hidden;
 }
 
 .body {
@@ -152,7 +151,7 @@ li {
 .blue {
     right: 225px;
     bottom: 305px;
-    width: 1614px;
+    width: 1510px;
     height: 740px;
     position: relative;
     transform: rotate( 11deg);
