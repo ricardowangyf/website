@@ -8,7 +8,6 @@ body {
 }
 
 .body {
-    width: 1440px;
     margin: 0 auto;
 }
 
@@ -141,7 +140,7 @@ li {
 
 .s1 {
     right: 120px;
-    width: 1455px;
+    width: 1440px;
     height: 350px;
     position: relative;
     transform: rotate( 355deg);
@@ -151,7 +150,7 @@ li {
 .blue {
     right: 225px;
     bottom: 305px;
-    width: 1510px;
+    width: 1551px;
     height: 740px;
     position: relative;
     transform: rotate( 11deg);
@@ -452,11 +451,11 @@ input::-webkit-input-placeholder {
 .fanzhuan {
     position: relative;
     bottom: 1000px;
-    left: 270px;
+    left: 115px;
 }
 
 .fanzhuan1 {
     position: relative;
     bottom: 1660px;
-    left: 315spx;
+    left: 315px;
 }
