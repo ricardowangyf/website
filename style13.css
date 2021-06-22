@@ -414,12 +414,7 @@ li {
     left: 70px;
 }
 
-.five {
-    height: 460px;
-}
-
 .zhaopian {
-    height: 230px;
     position: absolute;
     left: -1px;
 }
@@ -455,4 +450,23 @@ input::-webkit-input-placeholder {
     position: relative;
     bottom: 1660px;
     left: 115px;
+}
+
+.jz1 {
+    height: 250px;
+    margin: 0 auto;
+}
+
+.zhaopian {
+    margin: 0 auto;
+    position: relative;
+    top: 180px;
+}
+
+.zop {
+    position: relative;
+    top: 83px;
+    height: 100px;
+    background: #1E77E1;
+    border-top-left-radius: 100%;
 }
