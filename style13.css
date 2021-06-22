@@ -22,7 +22,7 @@ body {
 
 .jz {
     margin: 0 auto;
-    max-width: 1185px;
+    max-width: 1200px;
 }
 
 .display {
@@ -272,11 +272,10 @@ li {
 }
 
 .four {
-    width: 1475px;
     bottom: 292px;
     height: 690px;
     position: relative;
-    background-image: url(./图片/长方形.png);
+    background-color: #034ffaad;
 }
 
 .tupian {
@@ -421,12 +420,8 @@ li {
 
 .zhaopian {
     height: 230px;
-}
-
-.jz3 {
-    height: 240px;
-    margin: 0 auto;
-    max-width: 1460px;
+    position: absolute;
+    left: -1px;
 }
 
 .tupian1 {
