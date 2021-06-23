@@ -22,7 +22,7 @@ body {
 
 .jz {
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: 1190px;
 }
 
 .display {
@@ -40,6 +40,7 @@ li {
 
 .zi {
     display: flex;
+    justify-content: flex-end;
 }
 
 .position-t {
@@ -106,7 +107,7 @@ li {
 }
 
 .zi li {
-    padding-right: 43px;
+    padding-right: 50px;
 }
 
 .another-1 {
@@ -275,7 +276,7 @@ li {
     bottom: 292px;
     height: 690px;
     position: relative;
-    background-color: #034ffaad;
+    background-color: #034ffa99;
 }
 
 .tupian {
@@ -319,7 +320,7 @@ li {
     height: 75px;
     text-align: left;
     position: relative;
-    padding-left: 10px;
+    padding-left: 30px;
     border-radius: 37.5px;
     border: 1px solid #009EF6;
     background: rgba(255, 255, 255, 0.26);
@@ -330,7 +331,7 @@ li {
     width: 455px;
     color: #fff;
     text-align: left;
-    padding-left: 10px;
+    padding-left: 30px;
     border-radius: 37.5px;
     border: 1px solid #009EF6;
     background: rgba(255, 255, 255, 0.26);
@@ -389,29 +390,29 @@ li {
 
 .u-l1 {
     position: relative;
-    left: 90px;
+    left: 110px;
 }
 
 .u-l {
     position: relative;
-    right: 40px;
+    left: 110px;
     width: 300px;
     height: 110px;
 }
 
 .u-l22 {
     position: relative;
-    left: 35px;
+    left: 120px;
 }
 
 .u-l11 {
     position: relative;
-    left: 50px;
+    left: 110px;
 }
 
 .u-l2 {
     position: relative;
-    left: 70px;
+    left: 110px;
 }
 
 .zhaopian {
@@ -429,15 +430,22 @@ li {
 input::-webkit-input-placeholder {
     color: #fff;
     font-size: 25px;
-    line-height: 30px;
+    position: relative;
+    top: 3px;
+}
+
+.nam input::-webkit-input-placeholder {
+    color: #fff;
+    font-size: 30px;
+    position: relative;
+    top: 3px;
 }
 
 .sub input::-webkit-input-placeholder {
     font-size: 30px;
     color: #009EF6;
-    letter-spacing: 0;
     text-align: center;
-    line-height: 30px;
+    line-height: 3rem;
 }
 
 .fanzhuan {
@@ -469,4 +477,8 @@ input::-webkit-input-placeholder {
     height: 100px;
     background: #1E77E1;
     border-top-left-radius: 100%;
+}
+
+.another {
+    width: 600px;
 }
