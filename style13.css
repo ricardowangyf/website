@@ -156,7 +156,7 @@ li {
 
 .works {
     right: 15px;
-    bottom: 1535px;
+    bottom: 1425px;
     position: relative;
 }
 
@@ -181,26 +181,28 @@ li {
 }
 
 .felx {
-    padding-top: 50px;
+    right: 20px;
     bottom: 920px;
-    position: relative;
     display: grid;
-    grid-template-columns: 1fr 1fr;
     grid-gap: 30px;
+    padding-top: 50px;
+    position: relative;
+    grid-template-columns: 1fr 1fr;
 }
 
 .wenzi {
-    position: relative;
+    right: 20px;
     bottom: 910px;
+    position: relative;
 }
 
 .card {
+    left: 85px;
     width: 500px;
     background: #fff;
     border-radius: 10px;
     margin-bottom: 67px;
     position: relative;
-    left: 85px;
     box-shadow: 0 2px 20px 0 rgb(30 119 225 / 15%);
 }
 
@@ -280,13 +282,13 @@ li {
 }
 
 .tupian {
-    left: 990px;
+    left: 985px;
     bottom: 775px;
     position: relative;
 }
 
 .tupian1 {
-    left: 1130px;
+    left: 1125px;
     width: 181px;
     bottom: 720px;
     position: relative;
@@ -492,8 +494,8 @@ html {
 }
 
 .group {
-    left: 1140px;
-    bottom: 1629px;
+    left: 1175px;
+    bottom: 1562px;
     position: relative;
 }
 
