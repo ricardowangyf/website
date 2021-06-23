@@ -331,6 +331,7 @@ li {
     right: 170px;
     color: #fff;
     height: 75px;
+    font-size: 23px;
     text-align: left;
     position: relative;
     padding-left: 30px;
@@ -343,6 +344,7 @@ li {
     height: 75px;
     width: 455px;
     color: #fff;
+    font-size: 23px;
     text-align: left;
     padding-left: 30px;
     border-radius: 37.5px;
@@ -351,19 +353,16 @@ li {
 }
 
 .nam input::-webkit-input-placeholder {
-    top: 5px;
+    bottom: 4px;
     color: #fff;
     font-size: 30px;
     position: relative;
-    outline: none;
 }
 
-.sub input::-webkit-input-placeholder {
-    left: 5px;
+.emai input::-webkit-input-placeholder {
+    color: #fff;
+    bottom: 4px;
     font-size: 30px;
-    color: #009EF6;
-    line-height: 3rem;
-    text-align: center;
     position: relative;
 }
 
@@ -371,7 +370,7 @@ input:focus {
     outline: none;
 }
 
-.mit {
+button {
     height: 70px;
     width: 280px;
     font-size: 21px;
