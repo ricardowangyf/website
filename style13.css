@@ -344,6 +344,22 @@ li {
     background: rgba(255, 255, 255, 0.26);
 }
 
+.nam input::-webkit-input-placeholder {
+    top: 5px;
+    color: #fff;
+    font-size: 30px;
+    position: relative;
+}
+
+.sub input::-webkit-input-placeholder {
+    left: 5px;
+    font-size: 30px;
+    color: #009EF6;
+    line-height: 3rem;
+    text-align: center;
+    position: relative;
+}
+
 .mit {
     height: 70px;
     width: 280px;
@@ -426,20 +442,6 @@ input::-webkit-input-placeholder {
     color: #fff;
     font-size: 25px;
     position: relative;
-}
-
-.nam input::-webkit-input-placeholder {
-    top: 3px;
-    color: #fff;
-    font-size: 30px;
-    position: relative;
-}
-
-.sub input::-webkit-input-placeholder {
-    font-size: 30px;
-    color: #009EF6;
-    line-height: 3rem;
-    text-align: center;
 }
 
 .fanzhuan {
