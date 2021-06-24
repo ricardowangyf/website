@@ -3,9 +3,22 @@
     padding: 0;
 }
 
+html {
+    height: 5235px;
+}
+
+body {
+    height: 5235px;
+}
+
+.body {
+    width: 1425px;
+    margin: 0 auto;
+}
+
 .first {
-    width: 1920px;
-    height: 960px;
+    height: 805px;
+    width: 1417px;
     background-image: url(./图片/headerimage.png);
 }
 
@@ -15,7 +28,7 @@
 
 .jz {
     margin: 0 auto;
-    max-width: 1635px;
+    max-width: 1210px;
 }
 
 .display {
@@ -27,12 +40,15 @@
     padding-top: 45px;
 }
 
+.wenzi {
+    position: relative;
+    left: 30px;
+}
+
 .flex h1 {
-    left: 32px;
     color: #fff;
     font-size: 11px;
     font-weight: 400;
-    position: relative;
 }
 
 .another {
@@ -40,16 +56,16 @@
 }
 
 .another-1 {
-    max-width: 87%;
     float: left;
+    left: 345px;
+    bottom: 135px;
+    max-width: 87%;
     position: relative;
-    right: 304px;
-    top: 65px;
 }
 
 .first-1 {
     float: left;
-    max-width: 30%;
+    max-width: 60%;
 }
 
 .first-1 h1 {
@@ -60,9 +76,9 @@
 
 .xian {
     float: left;
-    position: relative;
     right: 150px;
     bottom: 50px;
+    position: relative;
 }
 
 .xian img {
@@ -87,4 +103,643 @@ ul {
 .play li {
     font-size: 14px;
     color: #9071EA;
+}
+
+.button {
+    position: relative;
+    top: 345px;
+}
+
+.but {
+    width: 230px;
+    height: 61px;
+    right: 310px;
+    position: relative;
+    border-radius: 100px;
+    background: #5C3CAF;
+    border: 1px solid #5C3CAF;
+    box-shadow: 0 16px 24px 0 rgb(10 14 52 / 50%);
+}
+
+.but p {
+    right: 30px;
+    width: 140px;
+    float: right;
+    font-size: 8px;
+    text-align: left;
+    color: #FFFFFF;
+    position: relative;
+}
+
+.but1 {
+    top: 10px;
+    width: 230px;
+    height: 61px;
+    right: 275px;
+    position: relative;
+    border-radius: 100px;
+    background: #5C3CAF;
+    border: 1px solid #5C3CAF;
+    box-shadow: 0 16px 24px 0 rgb(10 14 52 / 50%);
+}
+
+.but1 p {
+    top: 5px;
+    right: 20px;
+    width: 110px;
+    float: right;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: left;
+    position: relative;
+}
+
+.but1 img {
+    position: relative;
+    left: 3px;
+    width: 32px;
+    top: 4px;
+}
+
+.second {
+    height: 330px;
+    padding-top: 30px;
+}
+
+.picture {
+    float: left;
+    max-width: 43%;
+    padding-left: 95px;
+}
+
+.picture img {
+    width: 578px;
+}
+
+.another1 {
+    float: right;
+    padding-right: 25px;
+}
+
+.width {
+    padding-top: 55px;
+}
+
+.wenzi1 h1 {
+    font-size: 65px;
+    color: #E7E7E7;
+    letter-spacing: 0;
+}
+
+.wenzi1 h2 {
+    width: 20px;
+    font-size: 18px;
+    color: #000000;
+    letter-spacing: 1.5px;
+}
+
+.wenzi1 span {
+    left: 28px;
+    bottom: 32px;
+    font-size: 28px;
+    color: #C2C2C2;
+    position: relative;
+}
+
+.wenzi1 p {
+    bottom: 20px;
+    font-size: 15px;
+    color: #000000;
+    position: relative;
+}
+
+.botton {
+    border-bottom: 4px solid #603EBE;
+}
+
+.third {
+    height: 300px;
+    background-color: #fafafa;
+}
+
+.neirong2 {
+    left: 75px;
+    float: right;
+    max-width: 49%;
+    padding-top: 65px;
+    position: relative;
+}
+
+.neirong2 h1 {
+    float: left;
+    width: 20px;
+    font-size: 18px;
+    color: #000000;
+}
+
+.neirong2 span {
+    left: 10px;
+    font-size: 23px;
+    color: #C2C2C2;
+    position: relative
+}
+
+.neirong2 p {
+    width: 595px;
+    font-size: 17px;
+    color: #000000;
+}
+
+.fourth {
+    height: 300px;
+    background: #5E3DB3;
+}
+
+.neirong3 {
+    left: 35px;
+    float: right;
+    max-width: 49%;
+    padding-top: 65px;
+    position: relative;
+}
+
+.botton1 {
+    width: 20px;
+    border-bottom: 4px solid#fff;
+}
+
+.neirong3 h1 {
+    font-size: 18px;
+    color: #000000;
+    font-weight: 400;
+}
+
+.neirong3 span {
+    left: 35px;
+    bottom: 30px;
+    font-size: 24px;
+    color: #C2C2C2;
+    position: relative;
+}
+
+.neirong3 p {
+    width: 555px;
+    font-size: 17px;
+    color: #ffffff;
+}
+
+.five {
+    height: 300px;
+}
+
+.left {
+    float: left;
+    max-width: 50%;
+}
+
+.wenzi3 {
+    padding-top: 25px;
+    padding-left: 90px;
+}
+
+.wenzi3 h1 {
+    font-size: 65px;
+    color: #E7E7E7;
+}
+
+.wenzi3 h2 {
+    font-size: 18px;
+    color: #000000;
+}
+
+.wenzi3 span {
+    font-size: 26px;
+    color: #C2C2C2;
+    position: relative;
+    left: 30px;
+    bottom: 30px;
+}
+
+.wenzi3 p {
+    width: 465px;
+    position: relative;
+    bottom: 20px;
+}
+
+.conn {
+    padding-top: 50px;
+}
+
+.six {
+    height: 245px;
+    background: #F5F4F9;
+}
+
+.botton3 {
+    width: 20px;
+    border-bottom: 4px solid #603EBE;
+}
+
+.seven {
+    height: 300px;
+    background-color: #090C35;
+}
+
+.wenzi4 {
+    padding-left: 90px;
+}
+
+.wenzi4 h2 {
+    font-size: 18px;
+    color: #8F6BE8;
+    letter-spacing: 1.5px;
+}
+
+.wenzi4 span {
+    font-size: 29px;
+    color: #C2C2C2;
+    letter-spacing: 1.5px;
+    position: relative;
+    left: 30px;
+    bottom: 31px;
+}
+
+.wenzi4 p {
+    font-size: 15px;
+    color: #FFFFFF;
+    letter-spacing: 0.65px;
+}
+
+.botton4 {
+    width: 20px;
+    border-bottom: 4px solid #fff;
+}
+
+.two {
+    max-width: 61%;
+    float: right;
+    position: relative;
+    bottom: 861px;
+    width: 815px;
+}
+
+.tang {
+    position: relative;
+    left: 100px;
+    bottom: 305px;
+}
+
+.tang1 {
+    position: relative;
+    left: 310px;
+    bottom: 693px;
+}
+
+.tang2 {
+    position: relative;
+    left: 109px;
+    bottom: 693px;
+}
+
+.eight {
+    height: 555px;
+}
+
+.be {
+    float: left;
+    position: relative;
+    bottom: 986px;
+    width: 730px;
+}
+
+.be img {
+    width: 730px;
+}
+
+.zhengfangxing img {
+    width: 130px;
+    height: 130px;
+}
+
+.zhengfangxing {
+    width: 130px;
+    height: 130px;
+    float: left;
+    position: relative;
+    bottom: 796px;
+    right: 75px;
+}
+
+.copy {
+    position: relative;
+    float: left;
+    bottom: 740px;
+    right: 145px;
+}
+
+.number {
+    width: 10px;
+    float: left;
+    color: #fff;
+    position: relative;
+    bottom: 755px;
+    right: 160px;
+    font-size: 10px;
+}
+
+.number2 {
+    width: 10px;
+    float: left;
+    color: #fff;
+    position: relative;
+    bottom: 730px;
+    right: 169px;
+    font-size: 10px;
+}
+
+.right {
+    width: 450px;
+    float: right;
+    position: relative;
+    bottom: 835px;
+    right: 165px;
+    height: 230px;
+}
+
+.right h1 {
+    font-size: 60px;
+    color: #E7E7E7;
+    letter-spacing: 0;
+}
+
+.right p {
+    font-size: 18px;
+    color: #000000;
+    letter-spacing: 1.12px;
+    width: 290px;
+    position: relative;
+    top: 60px;
+    float: left;
+}
+
+.nine {
+    height: 555px;
+}
+
+.wenzi5 {
+    float: left;
+    max-width: 50%;
+    position: relative;
+    bottom: 460px;
+    right: 580px;
+}
+
+.wenzi5 h1 {
+    font-size: 55px;
+    color: #E7E7E7;
+    letter-spacing: 4px;
+}
+
+.wenzi5 p {
+    font-size: 24px;
+    color: #000000;
+    letter-spacing: 1.12px;
+    width: 445px;
+}
+
+.zhengfangxing1 img {
+    width: 130px;
+    height: 130px;
+}
+
+.zhengfangxing1 {
+    width: 130px;
+    height: 130px;
+    float: left;
+    position: relative;
+    bottom: 830px;
+    left: 630px;
+}
+
+.number1 {
+    width: 30px;
+    float: left;
+    color: #fff;
+    position: relative;
+    bottom: 770px;
+    left: 550px;
+    font-size: 10px;
+}
+
+.copy1 {
+    position: relative;
+    float: left;
+    bottom: 755px;
+    left: 520px;
+}
+
+.be1 {
+    float: right;
+    position: relative;
+    bottom: 991px;
+    width: 730px;
+}
+
+.be1 img {
+    width: 730px;
+}
+
+.be2 {
+    float: left;
+    position: relative;
+    bottom: 995px;
+    width: 730px;
+}
+
+.be2 img {
+    width: 730px;
+}
+
+.zhengfangxing3 {
+    width: 130px;
+    height: 130px;
+    float: left;
+    position: relative;
+    bottom: 845px;
+    right: 61px;
+}
+
+.zhengfangxing3 img {
+    width: 130px;
+    height: 130px;
+}
+
+.copy2 {
+    position: relative;
+    float: left;
+    bottom: 785px;
+    right: 143px;
+}
+
+.number3 {
+    float: left;
+    color: #fff;
+    position: relative;
+    bottom: 800px;
+    right: 160px;
+    font-size: 10px;
+}
+
+.number4 {
+    width: 10px;
+    float: left;
+    color: #fff;
+    position: relative;
+    bottom: 778px;
+    right: 170px;
+    font-size: 10px;
+}
+
+.another-3 {
+    max-width: 50%;
+    float: right;
+    position: relative;
+    bottom: 825px;
+    right: 135px;
+}
+
+.another-3 h1 {
+    font-size: 60px;
+    color: #E7E7E7;
+    letter-spacing: 0;
+}
+
+.another-3 p {
+    width: 480px;
+    font-size: 18px;
+    color: #000000;
+    letter-spacing: 1.12px;
+    position: relative;
+    top: 70px;
+}
+
+.finally {
+    top: 555px;
+    height: 960px;
+    position: relative;
+    background-image: url(./图片/footerBG.png);
+}
+
+.icon1 {
+    position: relative;
+    right: 361px;
+    width: 132px;
+    height: 128px;
+}
+
+.wenzi6 H1 {
+    font-size: 58px;
+    color: #FFFFFF;
+    letter-spacing: 5.2px;
+    position: relative;
+    left: 409px;
+    width: 708px;
+    float: left;
+    bottom: 1300px;
+}
+
+.wenzi6 p {
+    font-size: 25px;
+    color: #A496CA;
+    letter-spacing: 0;
+    position: relative;
+    bottom: 50px;
+    right: 210px;
+}
+
+.picture4 {
+    position: relative;
+    bottom: 235px;
+}
+
+.path {
+    position: relative;
+    left: 395px;
+}
+
+.path-c {
+    position: relative;
+    left: 312px;
+    bottom: 98px;
+}
+
+.button11 {
+    position: relative;
+    bottom: 215px;
+}
+
+.but33 {
+    width: 230px;
+    height: 61px;
+    left: 380px;
+    position: relative;
+    border-radius: 100px;
+    background: #5C3CAF;
+    border: 1px solid #5C3CAF;
+    box-shadow: 0 16px 24px 0 rgb(10 14 52 / 50%);
+}
+
+.but33 p {
+    top: 5px;
+    right: 17px;
+    width: 140px;
+    float: right;
+    font-size: 8px;
+    text-align: left;
+    color: #FFFFFF;
+    position: relative;
+}
+
+.but22 {
+    width: 230px;
+    height: 61px;
+    left: 415px;
+    position: relative;
+    border-radius: 100px;
+    background: #5C3CAF;
+    border: 1px solid #5C3CAF;
+    box-shadow: 0 16px 24px 0 rgb(10 14 52 / 50%);
+}
+
+.but22 p {
+    top: 5px;
+    right: 25px;
+    width: 110px;
+    float: right;
+    font-size: 8px;
+    color: #FFFFFF;
+    text-align: left;
+    position: relative;
+}
+
+.but22 img {
+    width: 36px;
+    height: 39px;
+}
+
+.img {
+    position: relative;
+    right: 77px;
+    top: 70px;
+}
+
+.img img {
+    width: 170px;
+    height: 32px;
+}
+
+.wenzi6 h5 {
+    font-size: 20px;
+    color: #FFFFFF;
+    letter-spacing: 1px;
 }
