@@ -4,7 +4,7 @@
 }
 
 body {
-    height: 3780px;
+    height: 3905px;
     margin: 0 auto;
 }
 
@@ -17,8 +17,8 @@ body {
 }
 
 .first {
-    height: 946px;
     width: 1426px;
+    height: 946px;
     background-image: url(./图片/Rectangle7.png);
 }
 
@@ -59,7 +59,6 @@ li {
 
 .tran {
     left: 745px;
-    opacity: 0.1;
     bottom: -206px;
     color: white;
     width: 390.23px;
@@ -71,7 +70,6 @@ li {
 
 .tran2 {
     left: 908px;
-    opacity: 0.3;
     color: white;
     bottom: -265px;
     width: 269.23px;
@@ -480,10 +478,6 @@ input::-webkit-input-placeholder {
     top: 220px;
     margin: 0 auto;
     position: relative;
-}
-
-html {
-    height: 3780px;
 }
 
 .zop {

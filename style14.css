@@ -2,3 +2,89 @@
     margin: 0;
     padding: 0;
 }
+
+.first {
+    width: 1920px;
+    height: 960px;
+    background-image: url(./图片/headerimage.png);
+}
+
+.clear {
+    clear: both;
+}
+
+.jz {
+    margin: 0 auto;
+    max-width: 1635px;
+}
+
+.display {
+    display: flex;
+    justify-content: space-between;
+}
+
+.p-t {
+    padding-top: 45px;
+}
+
+.flex h1 {
+    left: 32px;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 400;
+    position: relative;
+}
+
+.another {
+    padding-top: 200px;
+}
+
+.another-1 {
+    max-width: 87%;
+    float: left;
+    position: relative;
+    right: 304px;
+    top: 65px;
+}
+
+.first-1 {
+    float: left;
+    max-width: 30%;
+}
+
+.first-1 h1 {
+    font-size: 58px;
+    color: #FFFFFF;
+    letter-spacing: 4.2px;
+}
+
+.xian {
+    float: left;
+    position: relative;
+    right: 150px;
+    bottom: 50px;
+}
+
+.xian img {
+    width: 160px;
+}
+
+.another-1 h1 {
+    font-size: 58px;
+    color: #FFFFFF;
+    letter-spacing: 4.2px;
+}
+
+ul {
+    list-style: none;
+}
+
+.play {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.play li {
+    font-size: 14px;
+    color: #9071EA;
+}
