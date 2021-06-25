@@ -4,11 +4,11 @@
 }
 
 html {
-    height: 5235px;
+    height: 5190px;
 }
 
 body {
-    height: 5235px;
+    height: 5190px;
 }
 
 .body {
@@ -40,9 +40,13 @@ body {
     padding-top: 45px;
 }
 
-.wenzi {
+.tupian2 {
     position: relative;
-    left: 30px;
+    left: 35px;
+}
+
+.tupian2 img {
+    width: 155px;
 }
 
 .flex h1 {
@@ -57,8 +61,8 @@ body {
 
 .another-1 {
     float: left;
-    left: 345px;
-    bottom: 135px;
+    left: 390px;
+    bottom: 145px;
     max-width: 87%;
     position: relative;
 }
@@ -66,6 +70,8 @@ body {
 .first-1 {
     float: left;
     max-width: 60%;
+    position: relative;
+    left: 35px;
 }
 
 .first-1 h1 {
@@ -76,7 +82,7 @@ body {
 
 .xian {
     float: left;
-    right: 150px;
+    right: 115px;
     bottom: 50px;
     position: relative;
 }
@@ -101,7 +107,7 @@ ul {
 }
 
 .play li {
-    font-size: 14px;
+    font-size: 12px;
     color: #9071EA;
 }
 
@@ -113,7 +119,7 @@ ul {
 .but {
     width: 230px;
     height: 61px;
-    right: 310px;
+    right: 270px;
     position: relative;
     border-radius: 100px;
     background: #5C3CAF;
@@ -135,7 +141,7 @@ ul {
     top: 10px;
     width: 230px;
     height: 61px;
-    right: 275px;
+    right: 240px;
     position: relative;
     border-radius: 100px;
     background: #5C3CAF;
@@ -169,16 +175,12 @@ ul {
 .picture {
     float: left;
     max-width: 43%;
-    padding-left: 95px;
-}
-
-.picture img {
-    width: 578px;
+    padding-left: 30px;
 }
 
 .another1 {
     float: right;
-    padding-right: 25px;
+    padding-right: 70px;
 }
 
 .width {
@@ -189,6 +191,7 @@ ul {
     font-size: 65px;
     color: #E7E7E7;
     letter-spacing: 0;
+    font-weight: 400;
 }
 
 .wenzi1 h2 {
@@ -223,7 +226,7 @@ ul {
 }
 
 .neirong2 {
-    left: 75px;
+    left: 40px;
     float: right;
     max-width: 49%;
     padding-top: 65px;
@@ -256,7 +259,6 @@ ul {
 }
 
 .neirong3 {
-    left: 35px;
     float: right;
     max-width: 49%;
     padding-top: 65px;
@@ -293,13 +295,12 @@ ul {
 }
 
 .left {
-    float: left;
     max-width: 50%;
 }
 
 .wenzi3 {
     padding-top: 25px;
-    padding-left: 90px;
+    padding-left: 125px;
 }
 
 .wenzi3 h1 {
@@ -346,7 +347,7 @@ ul {
 }
 
 .wenzi4 {
-    padding-left: 90px;
+    padding-left: 140px;
 }
 
 .wenzi4 h2 {
@@ -426,8 +427,8 @@ ul {
     height: 130px;
     float: left;
     position: relative;
-    bottom: 796px;
-    right: 75px;
+    bottom: 795px;
+    right: 70px;
 }
 
 .copy {
@@ -470,6 +471,8 @@ ul {
     font-size: 60px;
     color: #E7E7E7;
     letter-spacing: 0;
+    position: relative;
+    top: 50px;
 }
 
 .right p {
@@ -478,7 +481,7 @@ ul {
     letter-spacing: 1.12px;
     width: 290px;
     position: relative;
-    top: 60px;
+    top: 125px;
     float: left;
 }
 
@@ -490,7 +493,7 @@ ul {
     float: left;
     max-width: 50%;
     position: relative;
-    bottom: 460px;
+    bottom: 495px;
     right: 580px;
 }
 
@@ -501,10 +504,10 @@ ul {
 }
 
 .wenzi5 p {
-    font-size: 24px;
+    font-size: 15px;
     color: #000000;
     letter-spacing: 1.12px;
-    width: 445px;
+    width: 295px;
 }
 
 .zhengfangxing1 img {
@@ -517,8 +520,8 @@ ul {
     height: 130px;
     float: left;
     position: relative;
-    bottom: 830px;
-    left: 630px;
+    bottom: 840px;
+    left: 655px;
 }
 
 .number1 {
@@ -526,27 +529,27 @@ ul {
     float: left;
     color: #fff;
     position: relative;
-    bottom: 770px;
-    left: 550px;
+    bottom: 800px;
+    left: 580px;
     font-size: 10px;
 }
 
 .copy1 {
     position: relative;
     float: left;
-    bottom: 755px;
-    left: 520px;
+    bottom: 780px;
+    left: 550px;
 }
 
 .be1 {
     float: right;
     position: relative;
     bottom: 991px;
-    width: 730px;
+    width: 700px;
 }
 
 .be1 img {
-    width: 730px;
+    width: 700px;
 }
 
 .be2 {
@@ -561,24 +564,24 @@ ul {
 }
 
 .zhengfangxing3 {
-    width: 130px;
-    height: 130px;
+    width: 120px;
+    height: 120px;
     float: left;
     position: relative;
     bottom: 845px;
-    right: 61px;
+    right: 60px;
 }
 
 .zhengfangxing3 img {
-    width: 130px;
-    height: 130px;
+    width: 120px;
+    height: 120px;
 }
 
 .copy2 {
     position: relative;
     float: left;
     bottom: 785px;
-    right: 143px;
+    right: 135px;
 }
 
 .number3 {
@@ -586,7 +589,7 @@ ul {
     color: #fff;
     position: relative;
     bottom: 800px;
-    right: 160px;
+    right: 150px;
     font-size: 10px;
 }
 
@@ -595,8 +598,8 @@ ul {
     float: left;
     color: #fff;
     position: relative;
-    bottom: 778px;
-    right: 170px;
+    bottom: 775px;
+    right: 162px;
     font-size: 10px;
 }
 
@@ -624,17 +627,18 @@ ul {
 }
 
 .finally {
-    top: 555px;
-    height: 960px;
+    top: 500px;
+    height: 970px;
     position: relative;
     background-image: url(./图片/footerBG.png);
 }
 
 .icon1 {
     position: relative;
-    right: 361px;
-    width: 132px;
-    height: 128px;
+    right: 828px;
+    width: 99px;
+    height: 103px;
+    top: 111px;
 }
 
 .wenzi6 H1 {
@@ -642,7 +646,7 @@ ul {
     color: #FFFFFF;
     letter-spacing: 5.2px;
     position: relative;
-    left: 409px;
+    left: 400px;
     width: 708px;
     float: left;
     bottom: 1300px;
@@ -653,8 +657,10 @@ ul {
     color: #A496CA;
     letter-spacing: 0;
     position: relative;
-    bottom: 50px;
-    right: 210px;
+    bottom: 1306px;
+    left: 395px;
+    width: 568px;
+    float: left;
 }
 
 .picture4 {
@@ -664,13 +670,14 @@ ul {
 
 .path {
     position: relative;
-    left: 395px;
+    left: 370px;
+    bottom: 20px;
 }
 
 .path-c {
     position: relative;
-    left: 312px;
-    bottom: 98px;
+    left: 300px;
+    bottom: 127px;
 }
 
 .button11 {
@@ -728,9 +735,12 @@ ul {
 }
 
 .img {
-    position: relative;
     right: 77px;
-    top: 70px;
+    display: flex;
+    width: 1392px;
+    bottom: 730px;
+    position: relative;
+    justify-content: space-between;
 }
 
 .img img {
@@ -739,7 +749,85 @@ ul {
 }
 
 .wenzi6 h5 {
-    font-size: 20px;
+    font-size: 15px;
     color: #FFFFFF;
     letter-spacing: 1px;
+    font-weight: 300;
+}
+
+.displat-2 {
+    display: flex;
+    justify-content: start;
+    position: relative;
+    bottom: 760px;
+    width: 120px;
+    left: 562px;
+    float: left;
+}
+
+.displat-3 {
+    height: 0;
+}
+
+.facebook {
+    padding-right: 25px;
+}
+
+.twitter {
+    padding-right: 25px;
+}
+
+.rect {
+    width: 30px;
+    float: right;
+    position: relative;
+    bottom: 520px;
+    right: 104px;
+}
+
+.rect img {
+    width: 20px;
+    height: 5px;
+}
+
+.rect1 {
+    width: 30px;
+    float: right;
+    position: relative;
+    top: 60px;
+    right: 435px;
+}
+
+.rect1 img {
+    width: 20px;
+    height: 5px;
+}
+
+.rect2 {
+    width: 30px;
+    float: right;
+    position: relative;
+    bottom: 505px;
+    right: 135px;
+}
+
+.rect2 img {
+    width: 20px;
+    height: 5px;
+}
+
+.rectan {
+    width: 20px;
+    float: left;
+    position: relative;
+    left: 141px;
+    top: 20px;
+}
+
+.rectan1 {
+    width: 20px;
+    float: left;
+    position: relative;
+    left: 140px;
+    top: 30px;
 }
