@@ -141,7 +141,7 @@ li {
 
 .s1 {
     right: 70px;
-    width: 1460px;
+    width: 1340px;
     height: 350px;
     position: relative;
     transform: rotate( 352deg);
@@ -149,13 +149,13 @@ li {
 }
 
 .blue {
-    right: 360px;
+    right: 319px;
     bottom: 360px;
-    width: 1737px;
+    width: 1624px;
     height: 745px;
     position: relative;
     transform: rotate( 5deg);
-    background-color: #034ffa;
+    background-color: #034ffa
 }
 
 .works {
