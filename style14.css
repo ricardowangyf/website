@@ -12,13 +12,11 @@ body {
 }
 
 .body {
-    width: 1425px;
     margin: 0 auto;
 }
 
 .first {
     height: 805px;
-    width: 1417px;
     background-image: url(./图片/headerimage.png);
 }
 
