@@ -4,7 +4,7 @@
 }
 
 .body {
-    width: 1750px;
+    width: 1890px;
     margin: 0 auto;
 }
 
@@ -13,13 +13,13 @@
 }
 
 .first {
-    width: 1750px;
+    width: 1890px;
     height: 130px;
     background-color: #B60038;
 }
 
 .jz {
-    max-width: 1480px;
+    max-width: 1635px;
     margin: 0 auto;
 }
 
@@ -174,7 +174,7 @@ input:focus {
 }
 
 .second {
-    width: 1745px;
+    width: 1890px;
     height: 950px;
 }
 
@@ -184,13 +184,13 @@ input:focus {
 
 .picture1 {
     float: left;
-    width: 249px;
-    height: 237px;
+    width: 270px;
+    height: 240px;
 }
 
 .picture1 img {
-    width: 249px;
-    height: 237px;
+    width: 270px;
+    height: 240px;
 }
 
 .wenzi2 {
