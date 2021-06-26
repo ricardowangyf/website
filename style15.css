@@ -3,12 +3,17 @@
     padding: 0;
 }
 
+.body {
+    width: 1750px;
+    margin: 0 auto;
+}
+
 .clear {
     clear: both;
 }
 
 .first {
-    width: 1660px;
+    width: 1750px;
     height: 130px;
     background-color: #B60038;
 }
@@ -25,7 +30,6 @@
 
 .left {
     top: 20px;
-    left: 20px;
     width: 100px;
     height: 85px;
     position: relative;
@@ -50,8 +54,8 @@
 }
 
 .right1 {
-    right: 33px;
-    width: 135px;
+    right: 80px;
+    width: 145px;
     height: 130px;
     position: relative;
     background-image: url(./图片/Menu_select.png);
@@ -71,7 +75,7 @@
 }
 
 .right2 {
-    right: 80px;
+    right: 120px;
     position: relative;
 }
 
@@ -84,7 +88,7 @@
 }
 
 .right3 {
-    right: 10px;
+    right: 35px;
     width: 120px;
     position: relative;
 }
@@ -112,7 +116,7 @@
 }
 
 .right4 {
-    left: 35px;
+    left: 20px;
     position: relative;
 }
 
@@ -125,7 +129,7 @@
 }
 
 .right5 {
-    left: 105px;
+    left: 95px;
     position: relative;
 }
 
@@ -152,7 +156,7 @@
 
 .search {
     top: 40px;
-    left: 179px;
+    left: 190px;
     width: 290px;
     height: 40px;
     position: relative;
@@ -171,7 +175,7 @@ input:focus {
 
 .second {
     width: 1745px;
-    height: 1000px;
+    height: 950px;
 }
 
 .allpicture {
@@ -221,4 +225,13 @@ button {
     border: 1px solid #B60038;
     color: #fff;
     font-size: 30px;
+}
+
+.third {
+    height: 122px;
+    background-color: #F7F7F7;
+}
+
+.left-1 {
+    width: 600px;
 }
