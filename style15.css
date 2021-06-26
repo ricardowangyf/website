@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.first {
+    height: 130px;
+    background-color: #B60038;
+}
+
+.jz {
+    max-width: 1235px;
+    margin: 0 auto;
+}
+
+.display {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    top: 20px;
+    width: 100px;
+    height: 85px;
+    position: relative;
+    border: 2px solid #ffffff;
+}
+
+.neirong h1 {
+    font-size: 22px;
+    color: #fff;
+    padding-left: 10px;
+}
+
+.right {
+    display: flex;
+    justify-content: space-between;
+}
+
+.position {
+    position: relative;
+    right: 475px;
+}
+
+.right1 {
+    width: 120px;
+    height: 130px;
+    background-image: url(./图片/Menu_select.png);
+}
+
+.another {
+    display: flex;
+}
+
+.right1 h1 {
+    top: 50px;
+    font-size: 17px;
+    font-weight: 300;
+    color: #ffffff;
+    text-align: center;
+    position: relative;
+}
+
+.right2 h1 {
+    top: 50px;
+    font-size: 18px;
+    font-weight: 300;
+    color: #ffffff;
+    position: relative;
+}
+
+.right3 h1 {
+    top: 50px;
+    font-size: 18px;
+    font-weight: 300;
+    color: #ffffff;
+    position: relative;
+}
+
+.num {
+    background-image: url(./图片/Oval5.png);
+}
+
+.num h2 {
+    top: 25px;
+    left: 98px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #ffffff;
+    position: relative;
+}
+
+.right4 h1 {
+    top: 50px;
+    left: 95px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #ffffff;
+    position: relative;
+}
+
+.right5 h1 {
+    top: 50px;
+    left: 160px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #ffffff;
+    position: relative;
+}
+
+.right6 h1 {
+    top: 50px;
+    left: 230px;
+    font-size: 18px;
+    font-weight: 300;
+    color: #ffffff;
+    position: relative;
+}
