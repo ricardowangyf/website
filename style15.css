@@ -1,3 +1,164 @@
 * {
     margin: 0;
 }
+
+.clear {
+    clear: both;
+}
+
+.first {
+    background-color: #B60038;
+}
+
+.center {
+    max-width: 1550px;
+    margin: 0 auto;
+}
+
+.display {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.left1 {
+    width: 120px;
+    height: 130px;
+    border: 2px solid #ffffff;
+}
+
+.left1 h1 {
+    padding: 5px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.right {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right2 {
+    width: 150px;
+    height: 165px;
+    background-image: url(./图片/Menu_select.png);
+}
+
+.right2 h1 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    padding-top: 70px;
+    text-align: center;
+}
+
+.right-2 h1 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.right1 {
+    position: relative;
+    left: 100px;
+}
+
+.right-2 {
+    left: 85px;
+    width: 120px;
+    position: relative;
+}
+
+.right-3 {
+    left: 80px;
+    width: 170px;
+    position: relative;
+}
+
+.right-4 {
+    left: 120px;
+    width: 95px;
+    position: relative;
+}
+
+.right-5 {
+    left: 140px;
+    width: 120px;
+    position: relative;
+}
+
+.right-6 {
+    left: 150px;
+    width: 120px;
+    position: relative;
+}
+
+.right-3 h1 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.num {
+    width: 25px;
+    float: right;
+    bottom: 27px;
+    position: relative;
+}
+
+.num h3 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.right-4 h1 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.right-5 h1 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.right-6 h1 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.sub {
+    width: 320px;
+    height: 45px;
+    padding-top: 70px;
+}
+
+input {
+    text-align: left;
+    background: #FFFFFF;
+    border: 1px solid #B60038;
+    width: 290px;
+    height: 40px;
+    font-size: 20px;
+    padding-left: 24px;
+    outline: none;
+}
