@@ -6,13 +6,23 @@
     clear: both;
 }
 
+html {
+    height: 3665px;
+}
+
+.body {
+    width: 1750px;
+    height: 3665px;
+    margin: 0 auto;
+}
+
 .first {
     background-color: #B60038;
 }
 
 .center {
-    max-width: 1550px;
     margin: 0 auto;
+    max-width: 1560px;
 }
 
 .display {
@@ -22,13 +32,14 @@
 
 .left {
     padding-top: 15px;
+    padding-left: 10px;
     padding-bottom: 15px;
 }
 
 .left1 {
     width: 120px;
     height: 130px;
-    border: 2px solid #ffffff;
+    border: 2px solid #fff;
 }
 
 .left1 h1 {
@@ -66,12 +77,12 @@
 }
 
 .right1 {
-    position: relative;
     left: 100px;
+    position: relative;
 }
 
 .right-2 {
-    left: 85px;
+    left: 100px;
     width: 120px;
     position: relative;
 }
@@ -147,18 +158,407 @@
 }
 
 .sub {
-    width: 320px;
-    height: 45px;
-    padding-top: 70px;
+    left: 4px;
+    width: 295px;
+    height: 40px;
+    padding-top: 77px;
+    position: relative;
 }
 
 input {
-    text-align: left;
-    background: #FFFFFF;
-    border: 1px solid #B60038;
-    width: 290px;
+    width: 267px;
     height: 40px;
-    font-size: 20px;
-    padding-left: 24px;
     outline: none;
+    font-size: 20px;
+    text-align: left;
+    background: #fff;
+    padding-left: 24px;
+    border: 1px solid #B60038;
+}
+
+.all-picture {
+    display: flex;
+}
+
+.picture1 {
+    width: 250px;
+    height: 250px;
+}
+
+.picture1 img {
+    width: 250px;
+    height: 250px;
+}
+
+.wenzi3 {
+    left: 720px;
+    float: left;
+    width: 300px;
+    height: 260px;
+    bottom: 765px;
+    position: relative;
+}
+
+.wenzi3 img {
+    width: 300px;
+    height: 260px;
+}
+
+.wenzi4 {
+    width: 705px;
+    right: 275px;
+    padding-top: 80px;
+    position: relative;
+}
+
+.wenzi4 p {
+    font-size: 36px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.sign {
+    width: 310px;
+    height: 80px;
+    padding-top: 55px;
+}
+
+.sign button {
+    width: 310px;
+    height: 80px;
+    color: #ffff;
+    font-size: 29px;
+    background: #B60038;
+    border: 1px solid #AE1A47;
+}
+
+.third {
+    width: 1750px;
+    background: #F7F7F7;
+}
+
+.display2 {
+    right: 206px;
+    display: flex;
+    padding-top: 30px;
+    position: relative;
+    padding-bottom: 30px;
+}
+
+.left12 h1 {
+    color: #000;
+    font-size: 42px;
+    font-weight: 400;
+}
+
+.another {
+    left: 25px;
+    position: relative;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.another li {
+    font-size: 20px;
+    color: #000000;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.picture-2 {
+    right: 40px;
+    width: 185px;
+    height: 53px;
+    float: right;
+    bottom: 85px;
+    position: relative;
+}
+
+.picture-2 img {
+    width: 185px;
+    height: 53px;
+}
+
+.just {
+    width: 315px;
+    height: 1000px;
+}
+
+.just img {
+    bottom: 140px;
+    position: relative;
+}
+
+.fourth {
+    bottom: 998px;
+    position: relative;
+}
+
+.all-picture1 {
+    left: 100px;
+    display: flex;
+    position: relative;
+    justify-content: start;
+}
+
+.picture-1 {
+    width: 260px;
+    height: 250px;
+}
+
+.picture-1 img {
+    width: 260px;
+    height: 250px;
+}
+
+.picture-11 {
+    width: 260px;
+    height: 250px;
+}
+
+.picture-11 img {
+    width: 260px;
+    height: 250px;
+}
+
+.five {
+    height: 100px;
+    bottom: 950px;
+    position: relative;
+    background-image: url(./图片/BG_News.png);
+}
+
+.display22 {
+    display: flex;
+    justify-content: start;
+}
+
+.left13 h1 {
+    color: #000;
+    font-size: 33px;
+    font-weight: 400;
+    padding-top: 25px;
+}
+
+.another3 li {
+    color: #000;
+    font-size: 20px;
+    letter-spacing: 0;
+    padding-right: 25px;
+}
+
+.another3 {
+    left: 70px;
+    width: 545px;
+    height: 30px;
+    padding-top: 30px;
+    position: relative;
+}
+
+.an-pic {
+    left: 415px;
+    position: relative;
+}
+
+.pic1 {
+    position: relative;
+    right: 50px;
+}
+
+.pic2 {
+    right: -5px;
+    position: relative;
+}
+
+.pic3 {
+    left: 50px;
+    position: relative;
+}
+
+.display33 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.six {
+    bottom: 915px;
+    position: relative;
+}
+
+.seven {
+    bottom: 810px;
+    position: relative;
+}
+
+.neirong1 h1 {
+    color: #000;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.display11 {
+    display: flex;
+    justify-content: start;
+}
+
+.anoth h1 {
+    color: #000;
+    font-size: 18px;
+    padding-top: 3px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.another-2 li {
+    padding-top: 20px;
+    padding-right: 70px;
+}
+
+.botton {
+    width: 75px;
+    padding-right: 0;
+    text-align: center;
+    border-bottom: 4px solid #006A85;
+}
+
+.another-2 {
+    padding-left: 50px;
+}
+
+.anoth {
+    width: 185px;
+    height: 60px;
+    border: 1px solid #8E8E93;
+}
+
+.date {
+    top: 8px;
+    left: 10px;
+    position: relative;
+}
+
+.display44 {
+    display: flex;
+    padding-top: 45px;
+    padding-left: 25px;
+    padding-bottom: 40px;
+    justify-content: space-between;
+}
+
+.itck {
+    padding-left: 75px;
+}
+
+.nine {
+    bottom: 750px;
+    height: 330px;
+    position: relative;
+    background-color: #FC3159;
+}
+
+.top {
+    right: 160px;
+    bottom: 795px;
+    width: 160px;
+    height: 45px;
+    float: right;
+    position: relative;
+    background-color: #FC3159;
+}
+
+.top h1 {
+    width: 62px;
+    right: 50px;
+    bottom: 27px;
+    float: right;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: right;
+    position: relative;
+}
+
+.top img {
+    left: 30px;
+    width: 13px;
+    height: 10px;
+    padding-top: 20px;
+    position: relative;
+}
+
+.left22 {
+    width: 100px;
+    height: 110px;
+    border: 2px solid #fff;
+}
+
+.display55 {
+    display: flex;
+    padding-top: 35px;
+    justify-content: space-between;
+}
+
+.left33 h1 {
+    padding: 5px;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.wenzi7 li {
+    color: #fff;
+    font-size: 18px;
+    text-align: left;
+    padding-right: 71px;
+}
+
+.wenzi7 {
+    padding-right: 115px;
+}
+
+.tupian {
+    left: 10px;
+    display: flex;
+    position: relative;
+}
+
+.another55 {
+    display: flex;
+}
+
+.pic-1 {
+    padding-right: 25px;
+}
+
+.fangkuang {
+    width: 150px;
+    height: 50px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 10px;
+    border: 2px solid #fff;
+}
+
+.fangkuang h1 {
+    color: #fff;
+    font-size: 18px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.right22 {
+    padding-top: 60px;
+}
+
+.home {
+    right: 60px;
+    position: relative;
+    border-bottom: 1px solid #fff;
+}
+
+.wenzi11 {
+    padding-left: 5px;
 }
