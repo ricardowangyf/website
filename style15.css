@@ -10,9 +10,7 @@ html {
     height: 3625px;
 }
 
-body {
-    overflow-x: hidden;
-}
+body {}
 
 .body {
     width: 1750px;
@@ -211,7 +209,7 @@ input {
 
 .wenzi4 {
     width: 705px;
-    right: 275px;
+    right: 230px;
     padding-top: 80px;
     position: relative;
 }
@@ -223,9 +221,11 @@ input {
 }
 
 .sign {
+    right: 20px;
     width: 310px;
     height: 80px;
     padding-top: 55px;
+    position: relative;
 }
 
 .sign button {
@@ -572,4 +572,19 @@ ul {
     position: relative;
     right: 80px;
     top: 13px;
+}
+
+.black {
+    background-image: url(./图片/Bg_top_opacity60%.png);
+}
+
+.picture-11 {
+    background-image: url(./图片/Rectangle65.png);
+}
+
+.another3 img {
+    position: relative;
+    left: 20px;
+    bottom: 8px;
+    width: 120px;
 }
