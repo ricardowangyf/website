@@ -10,22 +10,30 @@ html {
     height: 3625px;
 }
 
-body {}
-
 .body {
-    width: 1750px;
     height: 3625px;
     margin: 0 auto;
 }
 
 .first {
+    width: 1750px;
     height: 125px;
     background-color: #B60038;
 }
 
 .center {
     margin: 0 auto;
-    max-width: 1560px;
+    max-width: 1600px;
+}
+
+.center1 {
+    margin: 0 auto;
+    max-width: 1660px;
+}
+
+.center2 {
+    margin: 0 auto;
+    max-width: 1480px;
 }
 
 .display {
@@ -58,7 +66,7 @@ body {}
 }
 
 .right2 {
-    width: 150px;
+    width: 140px;
     height: 125px;
     background-image: url(./图片/Menu_select.png);
 }
@@ -80,37 +88,42 @@ body {}
 }
 
 .right1 {
-    left: 100px;
+    left: 25px;
     position: relative;
 }
 
 .right-2 {
-    left: 100px;
-    width: 120px;
+    left: 50px;
+    width: 55px;
+    height: 125px;
     position: relative;
 }
 
 .right-3 {
-    left: 80px;
-    width: 170px;
+    left: 110px;
+    width: 140px;
+    height: 125px;
     position: relative;
 }
 
 .right-4 {
-    left: 120px;
-    width: 95px;
+    left: 140px;
+    width: 80px;
+    height: 125px;
     position: relative;
 }
 
 .right-5 {
-    left: 140px;
+    left: 175px;
     width: 120px;
+    height: 125px;
     position: relative;
 }
 
 .right-6 {
-    left: 150px;
+    left: 180px;
     width: 120px;
+    height: 125px;
     position: relative;
 }
 
@@ -120,12 +133,14 @@ body {}
     font-weight: 300;
     padding-top: 50px;
     text-align: center;
+    position: relative;
+    right: 20px;
 }
 
 .num {
     width: 25px;
     float: right;
-    bottom: 27px;
+    bottom: 24px;
     position: relative;
 }
 
@@ -134,6 +149,8 @@ body {}
     font-size: 18px;
     font-weight: 300;
     text-align: center;
+    right: 5px;
+    position: relative;
 }
 
 .right-4 h1 {
@@ -161,16 +178,16 @@ body {}
 }
 
 .sub {
-    left: 4px;
-    width: 295px;
+    right: 60px;
+    width: 285px;
     height: 40px;
-    padding-top: 50px;
+    padding-top: 45px;
     position: relative;
 }
 
 input {
-    width: 267px;
-    height: 40px;
+    width: 255px;
+    height: 35px;
     outline: none;
     font-size: 20px;
     text-align: left;
@@ -189,16 +206,16 @@ input {
 }
 
 .picture1 img {
-    width: 250px;
+    width: 235px;
     height: 250px;
 }
 
 .wenzi3 {
-    left: 720px;
+    left: 700px;
     float: left;
-    width: 300px;
+    width: 310px;
     height: 260px;
-    bottom: 765px;
+    bottom: 760px;
     position: relative;
 }
 
@@ -247,7 +264,7 @@ input {
     display: flex;
     padding-top: 30px;
     position: relative;
-    padding-bottom: 30px;
+    padding-bottom: 12px;
 }
 
 .left12 h1 {
@@ -303,19 +320,19 @@ ul {
 }
 
 .all-picture1 {
-    left: 100px;
+    left: 105px;
     display: flex;
     position: relative;
     justify-content: start;
 }
 
 .picture-1 {
-    width: 260px;
+    width: 250px;
     height: 250px;
 }
 
 .picture-1 img {
-    width: 260px;
+    width: 250px;
     height: 250px;
 }
 
@@ -356,25 +373,24 @@ ul {
 }
 
 .another3 {
-    left: 70px;
+    left: 85px;
     width: 545px;
     height: 30px;
     padding-top: 30px;
     position: relative;
 }
 
-.an-pic {
-    left: 415px;
-    position: relative;
+.left-22 {
+    padding-left: 65px;
 }
 
-.pic1 {
+.an-pic {
+    left: 400px;
     position: relative;
-    right: 50px;
 }
 
 .pic2 {
-    right: -5px;
+    left: 30px;
     position: relative;
 }
 
@@ -448,7 +464,6 @@ ul {
 .display44 {
     display: flex;
     padding-top: 45px;
-    padding-left: 25px;
     padding-bottom: 40px;
     justify-content: space-between;
 }
@@ -465,7 +480,7 @@ ul {
 }
 
 .top {
-    right: 160px;
+    right: 100px;
     bottom: 795px;
     width: 160px;
     height: 45px;
@@ -496,8 +511,10 @@ ul {
 
 .left22 {
     width: 100px;
-    height: 110px;
+    height: 95px;
+    position: relative;
     border: 2px solid #fff;
+    left: 60px;
 }
 
 .display55 {
@@ -509,7 +526,7 @@ ul {
 .left33 h1 {
     padding: 5px;
     color: #fff;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 500;
 }
 
@@ -521,11 +538,11 @@ ul {
 }
 
 .wenzi7 {
-    padding-right: 115px;
+    padding-right: 50px;
 }
 
 .tupian {
-    left: 10px;
+    left: 60px;
     display: flex;
     position: relative;
 }
@@ -539,11 +556,12 @@ ul {
 }
 
 .fangkuang {
+    left: 40px;
     width: 150px;
     height: 50px;
     float: right;
     margin-top: 50px;
-    margin-right: 10px;
+    position: relative;
     border: 2px solid #fff;
 }
 
@@ -564,14 +582,10 @@ ul {
     border-bottom: 1px solid #fff;
 }
 
-.wenzi11 {
-    padding-left: 5px;
-}
-
 .another img {
     position: relative;
-    right: 80px;
-    top: 13px;
+    left: 30px;
+    bottom: 15px;
 }
 
 .black {
