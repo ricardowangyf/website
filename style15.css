@@ -327,12 +327,12 @@ ul {
 }
 
 .picture-1 {
-    width: 250px;
+    width: 259px;
     height: 250px;
 }
 
-.picture-1 img {
-    width: 250px;
+. {
+    width: 247px;
     height: 250px;
 }
 
@@ -613,8 +613,7 @@ ul {
     width: 120px;
 }
 
-.black {
-    background-image: url(./图片/Bg_top_opacity60%.png), linear-gradient(#f00, #f00);
-    background-blend-mode: lighten;
-    background-size: cover;
+.second {
+    opacity: 0.6;
+    background: rgb(0 0 0 / 35%);
 }
