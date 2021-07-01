@@ -336,6 +336,16 @@ ul {
     height: 250px;
 }
 
+.picture-3 {
+    width: 230px;
+    height: 250px;
+}
+
+.picture-3 img {
+    width: 230px;
+    height: 250px;
+}
+
 .picture-11 {
     width: 260px;
     height: 250px;
@@ -601,4 +611,10 @@ ul {
     left: 20px;
     bottom: 8px;
     width: 120px;
+}
+
+.black {
+    background-image: url(./图片/Bg_top_opacity60%.png), linear-gradient(#f00, #f00);
+    background-blend-mode: lighten;
+    background-size: cover;
 }
