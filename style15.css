@@ -32,7 +32,7 @@ html {
 
 .center2 {
     margin: 0 auto;
-    max-width: 1480px;
+    max-width: 1450px;
 }
 
 .display {
@@ -42,8 +42,8 @@ html {
 
 .left {
     padding-top: 15px;
-    padding-left: 10px;
-    padding-bottom: 15px;
+    padding-left: 80px;
+    padding-bottom: 10px;
 }
 
 .left1 {
@@ -62,6 +62,8 @@ html {
 .right {
     display: flex;
     justify-content: space-between;
+    position: relative;
+    left: 30px;
 }
 
 .right2 {
@@ -177,11 +179,9 @@ html {
 }
 
 .sub {
-    right: 60px;
     width: 285px;
     height: 40px;
     padding-top: 45px;
-    position: relative;
 }
 
 input {
@@ -205,28 +205,28 @@ input {
 }
 
 .picture1 img {
-    width: 235px;
+    width: 254px;
     height: 250px;
 }
 
 .wenzi3 {
-    left: 700px;
+    left: 715px;
     float: left;
-    width: 310px;
+    width: 338px;
     height: 260px;
     bottom: 760px;
     position: relative;
 }
 
 .wenzi3 img {
-    width: 300px;
+    width: 310px;
     height: 260px;
 }
 
 .wenzi4 {
     width: 705px;
-    right: 230px;
-    padding-top: 80px;
+    right: 188px;
+    padding-top: 40px;
     position: relative;
 }
 
@@ -237,11 +237,9 @@ input {
 }
 
 .sign {
-    right: 20px;
-    width: 310px;
+    width: 340px;
     height: 80px;
     padding-top: 55px;
-    position: relative;
 }
 
 .sign button {
@@ -259,7 +257,7 @@ input {
 }
 
 .display2 {
-    right: 206px;
+    right: 240px;
     display: flex;
     padding-top: 30px;
     position: relative;
@@ -286,12 +284,13 @@ ul {
     font-size: 20px;
     color: #000000;
     padding-top: 20px;
-    padding-left: 30px;
+    padding-left: 26px;
+    font-weight: 400;
 }
 
 .picture-2 {
-    right: 40px;
-    width: 185px;
+    right: 55px;
+    width: 195px;
     height: 53px;
     float: right;
     bottom: 85px;
@@ -299,7 +298,7 @@ ul {
 }
 
 .picture-2 img {
-    width: 185px;
+    width: 190px;
     height: 53px;
 }
 
@@ -331,17 +330,17 @@ ul {
 }
 
 .picture-1 img {
-    width: 247px;
+    width: 265px;
     height: 250px;
 }
 
 .picture-3 {
-    width: 230px;
+    width: 245px;
     height: 250px;
 }
 
 .picture-3 img {
-    width: 230px;
+    width: 245px;
     height: 250px;
 }
 
@@ -378,7 +377,7 @@ ul {
     color: #000;
     font-size: 20px;
     letter-spacing: 0;
-    padding-right: 25px;
+    padding-right: 27px;
 }
 
 .another3 {
@@ -394,7 +393,7 @@ ul {
 }
 
 .an-pic {
-    left: 400px;
+    left: 430px;
     position: relative;
 }
 
@@ -404,7 +403,7 @@ ul {
 }
 
 .pic3 {
-    left: 50px;
+    left: 85px;
     position: relative;
 }
 
@@ -444,7 +443,7 @@ ul {
 
 .another-2 li {
     padding-top: 20px;
-    padding-right: 70px;
+    padding-right: 55px;
 }
 
 .botton {
@@ -489,11 +488,11 @@ ul {
 }
 
 .top {
-    right: 100px;
-    bottom: 795px;
+    right: 80px;
     width: 160px;
     height: 45px;
     float: right;
+    bottom: 795px;
     position: relative;
     background-color: #FC3159;
 }
@@ -523,7 +522,7 @@ ul {
     height: 95px;
     position: relative;
     border: 2px solid #fff;
-    left: 60px;
+    left: 70px;
 }
 
 .display55 {
@@ -547,11 +546,11 @@ ul {
 }
 
 .wenzi7 {
-    padding-right: 50px;
+    padding-right: 40px;
 }
 
 .tupian {
-    left: 60px;
+    left: 90px;
     display: flex;
     position: relative;
 }
@@ -565,7 +564,7 @@ ul {
 }
 
 .fangkuang {
-    left: 40px;
+    left: 75px;
     width: 150px;
     height: 50px;
     float: right;
