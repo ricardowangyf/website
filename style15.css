@@ -16,7 +16,6 @@ html {
 }
 
 .first {
-    width: 1750px;
     height: 125px;
     background-color: #B60038;
 }
@@ -608,4 +607,8 @@ ul {
 .second {
     opacity: 0.6;
     background: rgb(0 0 0 / 35%);
+}
+
+.black {
+    opacity: 0.5;
 }
