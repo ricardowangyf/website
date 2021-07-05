@@ -12,6 +12,7 @@
 
 .first {
     height: 125px;
+    width: 1750px;
     background-color: #B60038;
 }
 
@@ -21,8 +22,7 @@
 }
 
 .center1 {
-    margin: 0 auto;
-    max-width: 1665px;
+    height: 1000px;
 }
 
 .display {
@@ -32,7 +32,7 @@
 
 .left {
     padding-top: 15px;
-    padding-left: 77px;
+    padding-left: 40px;
     padding-bottom: 10px;
 }
 
@@ -50,10 +50,10 @@
 }
 
 .right {
+    left: 5px;
     display: flex;
-    justify-content: space-between;
     position: relative;
-    left: 35px;
+    justify-content: space-between;
 }
 
 .right2 {
@@ -169,7 +169,7 @@
 }
 
 .sub {
-    left: 5px;
+    right: 35px;
     height: 40px;
     width: 285px;
     padding-top: 45px;
@@ -207,4 +207,169 @@ input {
 .picture-11 img {
     width: 250px;
     height: 250px;
+}
+
+.picture-22 {
+    width: 250px;
+    height: 250px;
+}
+
+.picture-22 img {
+    width: 250px;
+    height: 250px;
+}
+
+.picture-33 {
+    width: 250px;
+    height: 250px;
+}
+
+.picture-33 img {
+    width: 250px;
+    height: 250px;
+}
+
+.picture-44 {
+    width: 250px;
+    height: 250px;
+}
+
+.picture-44 img {
+    width: 250px;
+    height: 250px;
+}
+
+.opl {
+    left: 727px;
+    width: 303px;
+    height: 263px;
+    bottom: 763px;
+    position: relative;
+}
+
+.opl img {
+    width: 303px;
+    height: 263px;
+}
+
+.wenzi1 {
+    left: 510px;
+    width: 743px;
+    bottom: 730px;
+    float: left;
+    position: relative;
+}
+
+.wenzi1 h1 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.button {
+    right: 25px;
+    float: left;
+    width: 310px;
+    height: 80px;
+    bottom: 540px;
+    text-align: center;
+    position: relative;
+    background: #B60038;
+}
+
+.btn {
+    padding: 0;
+    color: #fff;
+    font-size: 40px;
+    padding-top: 17px;
+    background: #B60039;
+    border: 1px solid #B60038;
+}
+
+.third {
+    width: 1750px;
+    height: 120px;
+    background: #F7F7F7;
+}
+
+.all-display {
+    display: flex;
+    padding-top: 35px;
+    height: 83px;
+}
+
+.all-left {
+    display: flex;
+    justify-content: start;
+}
+
+.all-left2 h1 {
+    color: #000;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.all-left1 {
+    padding-left: 22px;
+}
+
+.another2 {
+    display: flex;
+    padding-left: 94px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.another2 li {
+    color: #000;
+    font-size: 20px;
+    letter-spacing: 0;
+    padding-right: 25px;
+}
+
+.chang {
+    position: relative;
+    left: 20px;
+    bottom: 10px;
+}
+
+.width {
+    width: 104px;
+}
+
+.picture1 h1 {
+    font-size: 20px;
+    color: #000000;
+    letter-spacing: 0;
+    position: relative;
+    bottom: 45px;
+    float: left;
+    left: 75px;
+    font-weight: 400;
+}
+
+.hear {
+    position: relative;
+    right: 65px;
+    bottom: 45px;
+}
+
+.picture1 {
+    width: 185px;
+    height: 53px;
+}
+
+.another3 {
+    position: relative;
+    left: 656px;
+}
+
+.all-pic4 {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    right: 463px;
 }
