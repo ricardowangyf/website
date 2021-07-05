@@ -7,6 +7,7 @@
 }
 
 .body {
+    width: 1750px;
     margin: 0 auto;
 }
 
@@ -240,10 +241,11 @@ input {
 }
 
 .opl {
-    left: 727px;
+    float: left;
+    left: 722px;
     width: 303px;
-    height: 263px;
-    bottom: 763px;
+    height: 262px;
+    bottom: 1768px;
     position: relative;
 }
 
@@ -253,10 +255,10 @@ input {
 }
 
 .wenzi1 {
-    left: 510px;
-    width: 743px;
-    bottom: 730px;
+    left: 200px;
     float: left;
+    width: 743px;
+    bottom: 1444px;
     position: relative;
 }
 
@@ -268,11 +270,11 @@ input {
 }
 
 .button {
-    right: 25px;
+    right: 327px;
     float: left;
     width: 310px;
     height: 80px;
-    bottom: 540px;
+    bottom: 1280px;
     text-align: center;
     position: relative;
     background: #B60038;
@@ -294,9 +296,9 @@ input {
 }
 
 .all-display {
+    height: 83px;
     display: flex;
     padding-top: 35px;
-    height: 83px;
 }
 
 .all-left {
@@ -324,16 +326,18 @@ li {
 }
 
 .another2 li {
+    height: 43px;
     color: #000;
     font-size: 20px;
     letter-spacing: 0;
-    padding-right: 25px;
+    padding-top: 11px;
+    padding-right: 20px;
 }
 
 .chang {
-    position: relative;
     left: 20px;
     bottom: 10px;
+    position: relative;
 }
 
 .width {
@@ -341,49 +345,239 @@ li {
 }
 
 .picture1 h1 {
+    left: 75px;
+    float: left;
+    bottom: 45px;
+    color: #000;
     font-size: 20px;
-    color: #000000;
+    font-weight: 400;
     letter-spacing: 0;
     position: relative;
-    bottom: 45px;
-    float: left;
-    left: 75px;
-    font-weight: 400;
 }
 
 .hear {
-    position: relative;
     right: 65px;
     bottom: 45px;
+    position: relative;
 }
 
 .picture1 {
     width: 185px;
-    height: 53px;
+    height: 52px;
 }
 
 .another3 {
+    left: 670px;
+    height: 52px;
     position: relative;
-    left: 656px;
 }
 
 .all-pic4 {
     display: flex;
     justify-content: space-around;
-    position: relative;
-    right: 463px;
 }
 
 .top {
-    position: relative;
-    bottom: 500px;
     left: 540px;
+    bottom: 500px;
+    position: relative;
 }
 
 .five {
+    top: 75px;
     height: 100px;
     width: 1750px;
-    bottom: 154px;
     position: relative;
     background-image: url(./图片/BG_News.png);
+}
+
+.pian {
+    bottom: 1000px;
+    position: relative;
+}
+
+.all-display1 {
+    height: 77px;
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-around;
+}
+
+.another2-2 {
+    padding: 0;
+    right: 212px;
+    position: relative;
+}
+
+.display2-2 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.all-left2-2 h1 {
+    color: #000;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.another2-2 li {
+    height: 29px;
+    color: #000;
+    font-size: 20px;
+    letter-spacing: 0;
+    padding-top: 12px;
+    padding-right: 23px;
+}
+
+.chang1 {
+    left: 26px;
+    bottom: 16px;
+    position: relative;
+}
+
+.width1 {
+    width: 125px;
+}
+
+.all1 {
+    height: 99px;
+}
+
+.all-left1-1 {
+    right: 100px;
+    position: relative;
+}
+
+.another3-3 {
+    right: 70px;
+    bottom: 20px;
+    position: relative;
+}
+
+.picture-11-1 {
+    left: 13px;
+    height: 515px;
+    width: 1550px;
+    position: relative;
+}
+
+.display3-3 {
+    display: flex;
+    justify-content: start;
+}
+
+.position1-1 {
+    top: 96px;
+    right: 1265px;
+    position: relative;
+}
+
+.picture-1-1 {
+    padding-right: 161px;
+}
+
+.six {
+    height: 733px;
+}
+
+.seven {
+    padding-top: 140px;
+}
+
+.display-all-1 {
+    display: flex;
+    justify-content: start;
+}
+
+.all-right {
+    display: flex;
+    padding-left: 99px;
+    justify-content: start;
+}
+
+.bottom {
+    padding: 0;
+    width: 63px;
+    text-align: center;
+    border-bottom: 3px solid #006A85;
+}
+
+.all-right li {
+    padding-top: 15px;
+    padding-right: 55px;
+}
+
+.row {
+    display: flex;
+    padding-left: 53px;
+}
+
+.left-1-1 h1 {
+    color: #000;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.all-another {
+    left: 33px;
+    width: 185px;
+    height: 61px;
+    position: relative;
+    border: 1px solid #8E8E93;
+}
+
+.all-another h1 {
+    width: 99px;
+    float: left;
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px;
+    padding-left: 22px;
+}
+
+.calen {
+    padding-top: 16px;
+    padding-left: 7px;
+}
+
+.bottom-1 {
+    display: flex;
+    justify-content: start;
+}
+
+.picture-2-1 {
+    padding-right: 74px;
+}
+
+.top-2-1 {
+    top: 56px;
+    width: 162px;
+    height: 44px;
+    float: right;
+    right: 165px;
+    position: relative;
+    background: #FC3159;
+}
+
+.top-2-1 h1 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    position: relative;
+    bottom: 15px;
+}
+
+.trian {
+    top: 10px;
+    padding-left: 31px;
+    position: relative;
+}
+
+.eight {
+    top: 100px;
+    height: 329px;
+    position: relative;
+    background: #FC3159;
 }
