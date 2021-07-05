@@ -373,3 +373,17 @@ li {
     position: relative;
     right: 463px;
 }
+
+.top {
+    position: relative;
+    bottom: 500px;
+    left: 540px;
+}
+
+.five {
+    height: 100px;
+    width: 1750px;
+    bottom: 154px;
+    position: relative;
+    background-image: url(./图片/BG_News.png);
+}
