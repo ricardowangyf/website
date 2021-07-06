@@ -6,6 +6,13 @@
     clear: both;
 }
 
+body {
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
 .body {
     width: 1750px;
     margin: 0 auto;
@@ -473,7 +480,7 @@ li {
 }
 
 .picture-1-1 {
-    padding-right: 161px;
+    padding-right: 158px;
 }
 
 .six {
@@ -543,6 +550,7 @@ li {
 
 .bottom-1 {
     display: flex;
+    padding-top: 35px;
     justify-content: start;
 }
 
@@ -580,4 +588,99 @@ li {
     height: 329px;
     position: relative;
     background: #FC3159;
+}
+
+.left-2-1 {
+    width: 99px;
+    border: 2px solid #fff;
+}
+
+.display-1-3 {
+    display: flex;
+    justify-content: start;
+}
+
+.all-1-1 {
+    padding-top: 61px;
+}
+
+.left-1-2 h1 {
+    padding: 5px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.another-3-1 li {
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: left;
+    padding-right: 73px;
+}
+
+.bottom-3 {
+    width: 51px;
+    padding: 0;
+    border-bottom: 1px solid #fff;
+}
+
+.another-3-1 {
+    display: flex;
+    justify-content: start;
+}
+
+.padding-1 {
+    height: 25px;
+    padding-top: 39px;
+    padding-left: 296px;
+}
+
+.cket {
+    display: flex;
+    padding-left: 81px;
+    justify-content: stretch;
+}
+
+.view {
+    width: 150px;
+    height: 50px;
+    position: relative;
+    border: 1px solid #fff;
+    top: 99px;
+    right: 24px;
+}
+
+.view h1 {
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 12px;
+    font-weight: 200;
+}
+
+.picture-3-1 {
+    top: 39px;
+    right: 35px;
+    display: flex;
+    position: relative;
+}
+
+.tw-goo {
+    left: 156px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    justify-content: start;
+}
+
+.google {
+    padding-right: 29px;
+}
+
+.facebook {
+    padding-right: 29px;
+}
+
+.twitter {
+    padding-right: 29px;
 }
