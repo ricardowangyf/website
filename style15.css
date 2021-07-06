@@ -290,7 +290,7 @@ input {
 .btn {
     padding: 0;
     color: #fff;
-    font-size: 40px;
+    font-size: 37px;
     padding-top: 17px;
     background: #B60039;
     border: 1px solid #B60038;
@@ -462,10 +462,8 @@ li {
 }
 
 .picture-11-1 {
-    left: 13px;
     height: 515px;
     width: 1550px;
-    position: relative;
 }
 
 .display3-3 {
