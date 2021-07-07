@@ -20,6 +20,10 @@ body {
 
 .first {
     height: 125px;
+<<<<<<< HEAD
+=======
+    width: 1750px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
     background-color: #B60038;
 }
 
@@ -278,7 +282,11 @@ input {
 .button {
     right: 327px;
     float: left;
+<<<<<<< HEAD
     width: 310px;
+=======
+    width: 311px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
     height: 80px;
     bottom: 1280px;
     text-align: center;
@@ -656,7 +664,11 @@ li {
 }
 
 .picture-3-1 {
+<<<<<<< HEAD
     top: 40px;
+=======
+    top: 39px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
     right: 35px;
     display: flex;
     position: relative;
@@ -671,6 +683,7 @@ li {
 }
 
 .google {
+<<<<<<< HEAD
     padding-right: 29px;
 }
 
@@ -680,4 +693,15 @@ li {
 
 .twitter {
     padding-right: 29px;
+=======
+    padding-right: 30px;
+}
+
+.facebook {
+    padding-right: 30px;
+}
+
+.twitter {
+    padding-right: 30px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }

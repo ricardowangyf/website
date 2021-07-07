@@ -3,6 +3,17 @@
     padding: 0;
 }
 
+<<<<<<< HEAD
+=======
+html {
+    height: 5190px;
+}
+
+body {
+    height: 5190px;
+}
+
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 .body {
     margin: 0 auto;
 }
@@ -290,7 +301,11 @@ ul {
 
 .wenzi3 {
     padding-top: 25px;
+<<<<<<< HEAD
     padding-left: 90px;
+=======
+    padding-left: 125px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .wenzi3 h1 {
@@ -337,7 +352,11 @@ ul {
 }
 
 .wenzi4 {
+<<<<<<< HEAD
     padding-left: 95px;
+=======
+    padding-left: 140px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .wenzi4 h2 {
@@ -399,6 +418,7 @@ ul {
 .be {
     float: left;
     position: relative;
+<<<<<<< HEAD
     width: 950px;
     bottom: 986px;
 }
@@ -419,11 +439,34 @@ ul {
     position: relative;
     bottom: 795px;
     right: 79px;
+=======
+    bottom: 986px;
+    width: 730px;
+}
+
+.be img {
+    width: 730px;
+}
+
+.zhengfangxing img {
+    width: 130px;
+    height: 130px;
+}
+
+.zhengfangxing {
+    width: 130px;
+    height: 130px;
+    float: left;
+    position: relative;
+    bottom: 795px;
+    right: 70px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .copy {
     position: relative;
     float: left;
+<<<<<<< HEAD
     bottom: 712px;
     right: 178px;
 }
@@ -436,6 +479,20 @@ ul {
     bottom: 747px;
     right: 198px;
     font-size: 15px;
+=======
+    bottom: 740px;
+    right: 145px;
+}
+
+.number {
+    width: 10px;
+    float: left;
+    color: #fff;
+    position: relative;
+    bottom: 755px;
+    right: 160px;
+    font-size: 10px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .number2 {
@@ -443,9 +500,15 @@ ul {
     float: left;
     color: #fff;
     position: relative;
+<<<<<<< HEAD
     bottom: 706px;
     right: 210px;
     font-size: 16px
+=======
+    bottom: 730px;
+    right: 169px;
+    font-size: 10px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .right {
@@ -453,8 +516,13 @@ ul {
     float: right;
     position: relative;
     bottom: 835px;
+<<<<<<< HEAD
     right: 117px;
     height: 380px;
+=======
+    right: 165px;
+    height: 230px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .right h1 {
@@ -484,6 +552,7 @@ ul {
     max-width: 50%;
     position: relative;
     bottom: 495px;
+<<<<<<< HEAD
     right: 760px;
 }
 
@@ -512,6 +581,36 @@ ul {
     position: relative;
     bottom: 840px;
     left: 870px;
+=======
+    right: 580px;
+}
+
+.wenzi5 h1 {
+    font-size: 55px;
+    color: #E7E7E7;
+    letter-spacing: 4px;
+}
+
+.wenzi5 p {
+    font-size: 15px;
+    color: #000000;
+    letter-spacing: 1.12px;
+    width: 295px;
+}
+
+.zhengfangxing1 img {
+    width: 130px;
+    height: 130px;
+}
+
+.zhengfangxing1 {
+    width: 130px;
+    height: 130px;
+    float: left;
+    position: relative;
+    bottom: 840px;
+    left: 655px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .number1 {
@@ -519,32 +618,53 @@ ul {
     float: left;
     color: #fff;
     position: relative;
+<<<<<<< HEAD
     bottom: 780px;
     left: 770px;
     font-size: 14px;
+=======
+    bottom: 800px;
+    left: 580px;
+    font-size: 10px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .copy1 {
     position: relative;
     float: left;
+<<<<<<< HEAD
     bottom: 745px;
     left: 745px;
+=======
+    bottom: 780px;
+    left: 550px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .be1 {
     float: right;
     position: relative;
+<<<<<<< HEAD
     bottom: 835px;
     width: 715px;
 }
 
 .be1 img {
     width: 835px;
+=======
+    bottom: 991px;
+    width: 700px;
+}
+
+.be1 img {
+    width: 700px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .be2 {
     float: left;
     position: relative;
+<<<<<<< HEAD
     bottom: 535px;
     width: 950px;
 }
@@ -565,21 +685,53 @@ ul {
 .zhengfangxing3 img {
     width: 172px;
     height: 175px;
+=======
+    bottom: 995px;
+    width: 730px;
+}
+
+.be2 img {
+    width: 730px;
+}
+
+.zhengfangxing3 {
+    width: 120px;
+    height: 120px;
+    float: left;
+    position: relative;
+    bottom: 845px;
+    right: 60px;
+}
+
+.zhengfangxing3 img {
+    width: 120px;
+    height: 120px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .copy2 {
     position: relative;
     float: left;
+<<<<<<< HEAD
     bottom: 552px;
     right: 175px;
+=======
+    bottom: 785px;
+    right: 135px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .number3 {
     float: left;
     color: #fff;
     position: relative;
+<<<<<<< HEAD
     bottom: 582px;
     right: 195px;
+=======
+    bottom: 800px;
+    right: 150px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
     font-size: 10px;
 }
 
@@ -588,8 +740,13 @@ ul {
     float: left;
     color: #fff;
     position: relative;
+<<<<<<< HEAD
     bottom: 544px;
     right: 205px;
+=======
+    bottom: 775px;
+    right: 162px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
     font-size: 10px;
 }
 
@@ -597,6 +754,7 @@ ul {
     max-width: 50%;
     float: right;
     position: relative;
+<<<<<<< HEAD
     bottom: 626px;
     right: 83px;
 }
@@ -605,6 +763,16 @@ ul {
     font-size: 70px;
     color: #E7E7E7;
     letter-spacing: 2px;
+=======
+    bottom: 825px;
+    right: 135px;
+}
+
+.another-3 h1 {
+    font-size: 60px;
+    color: #E7E7E7;
+    letter-spacing: 0;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .another-3 p {
@@ -617,7 +785,11 @@ ul {
 }
 
 .finally {
+<<<<<<< HEAD
     top: 965px;
+=======
+    top: 500px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
     height: 970px;
     position: relative;
     background-image: url(./图片/footerBG.png);
@@ -625,6 +797,7 @@ ul {
 
 .icon1 {
     position: relative;
+<<<<<<< HEAD
     right: 458px;
     width: 148px;
     height: 144px;
@@ -650,29 +823,74 @@ ul {
     bottom: 1310px;
     left: 438px;
     width: 759px;
+=======
+    right: 828px;
+    width: 99px;
+    height: 103px;
+    top: 111px;
+}
+
+.wenzi6 H1 {
+    font-size: 58px;
+    color: #FFFFFF;
+    letter-spacing: 5.2px;
+    position: relative;
+    left: 400px;
+    width: 708px;
+    float: left;
+    bottom: 1300px;
+}
+
+.wenzi6 p {
+    font-size: 25px;
+    color: #A496CA;
+    letter-spacing: 0;
+    position: relative;
+    bottom: 1306px;
+    left: 395px;
+    width: 568px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
     float: left;
 }
 
 .picture4 {
     position: relative;
+<<<<<<< HEAD
     bottom: 1235px;
+=======
+    bottom: 235px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .path {
     position: relative;
+<<<<<<< HEAD
     left: 20px;
     bottom: 55px;
+=======
+    left: 370px;
+    bottom: 20px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .path-c {
     position: relative;
+<<<<<<< HEAD
     right: 432px;
     top: 195px;
+=======
+    left: 300px;
+    bottom: 127px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .button11 {
     position: relative;
+<<<<<<< HEAD
     bottom: 1275px;
+=======
+    bottom: 215px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .but33 {
@@ -725,10 +943,17 @@ ul {
 }
 
 .img {
+<<<<<<< HEAD
     right: 183px;
     display: flex;
     width: 1770px;
     bottom: 742px;
+=======
+    right: 77px;
+    display: flex;
+    width: 1392px;
+    bottom: 730px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
     position: relative;
     justify-content: space-between;
 }
@@ -751,7 +976,11 @@ ul {
     position: relative;
     bottom: 760px;
     width: 120px;
+<<<<<<< HEAD
     left: 659px;
+=======
+    left: 562px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
     float: left;
 }
 
@@ -771,8 +1000,13 @@ ul {
     width: 30px;
     float: right;
     position: relative;
+<<<<<<< HEAD
     bottom: 356px;
     right: 50px;
+=======
+    bottom: 520px;
+    right: 104px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .rect img {
@@ -785,7 +1019,11 @@ ul {
     float: right;
     position: relative;
     top: 60px;
+<<<<<<< HEAD
     right: 590px;
+=======
+    right: 435px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .rect1 img {
@@ -797,8 +1035,13 @@ ul {
     width: 30px;
     float: right;
     position: relative;
+<<<<<<< HEAD
     bottom: 483px;
     right: 88px;
+=======
+    bottom: 505px;
+    right: 135px;
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
 
 .rect2 img {
@@ -820,8 +1063,11 @@ ul {
     position: relative;
     left: 140px;
     top: 30px;
+<<<<<<< HEAD
 }
 
 .center {
     height: 970px;
+=======
+>>>>>>> 912d5ace94f92b0b8ea884af16afdcaeb10be3ea
 }
