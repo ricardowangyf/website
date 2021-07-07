@@ -1,0 +1,306 @@
+body {
+    color: #545E6C;
+    background: #f5f5f5;
+    font-size: 14px;
+}
+
+.wrap {
+    background: #42A8c0;
+    max-width: 960px;
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+
+.wra-wrap {
+    background: #42A8C0;
+    position: absolute;
+    right: 0;
+    width: 240px;
+    height: 100%;
+    min-height: 1915px;
+    color: #fff;
+}
+
+.zhao {
+    padding: 30px;
+    background: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: #fff;
+}
+
+.name {
+    font-size: 32px;
+    font-weight: 900;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.dis {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.next {
+    width: 17px;
+    padding-top: 10px;
+}
+
+.email {
+    margin-bottom: 30px;
+}
+
+.pohone {
+    margin-bottom: 30px;
+}
+
+.ron {
+    padding-left: 30px;
+    padding-top: 50px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.degree {
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+
+.meta {
+    color: rgba(255, 255, 255, 0.6);
+    margin: 0 0 0 0;
+}
+
+.time {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.i {
+    padding-left: 30px;
+}
+
+.languages {
+    padding-top: 50px;
+    padding-left: 15px;
+}
+
+.itle {
+    margin: 0 0 0 0;
+    padding-left: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.block {
+    padding-top: 50px;
+    padding-left: 15px;
+}
+
+.twitter {
+    margin: 0 0 0;
+}
+
+.cont {
+    margin: 0 0 0 0;
+    padding-left: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.unstyled {
+    margin: 0 0 0 0;
+    padding-left: 20px;
+}
+
+.lang {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.org {
+    background: #fff;
+    padding: 65px;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    background: #2d7788;
+    border-radius: 87%;
+    display: flex;
+    justify-content: center;
+}
+
+.carer {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    color: #2d7788;
+    margin: 0 0 0 0;
+    width: 270px;
+    padding-left: 49px;
+    margin-top: -35px;
+}
+
+.org2 {
+    color: #2d7788;
+    width: 600px;
+}
+
+a {
+    color: #2d7788;
+    text-decoration: none;
+}
+
+.org3 {
+    color: #2d7788;
+    width: 600px;
+}
+
+.org-1 {
+    padding-top: 50px;
+}
+
+.exx {
+    margin: 0 0 0 0;
+    width: 200px;
+    padding-left: 50px;
+    margin-top: -31px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    color: #2d7788;
+}
+
+.row {
+    color: #3F4650;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+
+.tim {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -40px;
+    color: #97AAC3;
+}
+
+.pad {
+    color: #97AAC3;
+}
+
+.ite {
+    padding-top: 50px;
+}
+
+.tiem {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -40px;
+}
+
+.pany {
+    color: #97AAC3;
+}
+
+.item {
+    padding-top: 50px;
+}
+
+.pro {
+    margin: 0 0 0 0;
+    padding-left: 50px;
+    margin-top: -33px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    color: #2d7788;
+}
+
+.just {
+    padding-top: 50px;
+}
+
+.rng-2 {
+    margin-bottom: 20px;
+}
+
+.amp {
+    margin: 0 0 0 0;
+    padding-left: 50px;
+    margin-top: -33px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    color: #2d7788;
+}
+
+.kpl2 {
+    display: flex;
+    justify-content: flex-start;
+    width: 30%;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.ar {
+    height: 10px;
+    background: #f5f5f5;
+    border-radius: 2px;
+    position: relative;
+    left: 140px;
+    bottom: 15px;
+    width: 500px;
+}
+
+.br {
+    width: 96%;
+    border: 5px solid #68bacd;
+}
+
+.ar1r {
+    width: 95%;
+    border: 5px solid #68bacd;
+}
+
+.kpl {
+    padding-top: 100px;
+}
+
+.arr {
+    width: 90%;
+    border: 5px solid #68bacd;
+}
+
+.arrr {
+    width: 82%;
+    border: 5px solid #68bacd;
+}
+
+.arrrr {
+    width: 70%;
+    border: 5px solid #68bacd;
+}
+
+.ap {
+    padding: 30px;
+}
+
+.adc {
+    line-height: 1.6;
+    color: #545E6C;
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+}
