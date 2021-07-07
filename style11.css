@@ -1,0 +1,298 @@
+    body {
+        margin: 0;
+    }
+    
+    .clear {
+        clear: both;
+    }
+    
+    .juzhong1 {
+        margin: 0 auto;
+        width: 1269px;
+    }
+    
+    .t-p {
+        background-image: url(./图片/Mask.png);
+        border-bottom-right-radius: 70%;
+    }
+    
+    .first {
+        background-color: #2B1ECD;
+        border-bottom-right-radius: 100%;
+        padding-left: 100px;
+        padding-right: 50px;
+    }
+    
+    .p-m {
+        padding-bottom: 2rem;
+        height: 55px;
+    }
+    
+    .nei {
+        display: flex;
+    }
+    
+    .juzhong {
+        margin: 0 auto;
+        max-width: 1230px;
+        padding-right: 20px;
+    }
+    
+    .ex {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    ul {
+        list-style-type: none;
+    }
+    
+    .li {
+        max-width: 50%;
+    }
+    
+    .bi {
+        padding-right: 20px;
+        padding-left: 0;
+        padding-top: 20px;
+        margin: 0;
+        color: #fff;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    .another {
+        max-width: 50%;
+    }
+    
+    .display {
+        display: flex;
+    }
+    
+    .p-t {
+        padding-top: 120px;
+    }
+    
+    .p-20 {
+        padding-top: 15px;
+    }
+    
+    .s-b {
+        position: relative;
+        right: 520px;
+        float: right;
+    }
+    
+    .img {
+        padding-bottom: 100px;
+    }
+    
+    .mary {
+        color: #fff;
+        background-color: #D8D8D8;
+        padding: 14px 25px;
+    }
+    
+    .tu h {
+        padding-left: 14px;
+        position: relative;
+        color: #fff;
+        top: 2px;
+    }
+    
+    .icon11 {
+        position: relative;
+        top: 6px;
+    }
+    
+    .tu {
+        position: relative;
+        right: 20px;
+        top: 5px;
+    }
+    
+    .icon1 {
+        padding-left: 14px;
+        position: relative;
+        top: 5px;
+    }
+    
+    .icon {
+        position: relative;
+        top: 7px;
+    }
+    
+    .max {
+        max-width: 41%;
+    }
+    
+    .max h2 {
+        color: #fff;
+        margin: 0;
+        margin-bottom: 0.5rem;
+    }
+    
+    .max h1 {
+        color: #fff;
+        margin: 0;
+        margin-bottom: 0.5rem;
+    }
+    
+    p {
+        margin: 0;
+    }
+    
+    .p-l {
+        padding-left: 85px;
+    }
+    
+    p {
+        color: #fff;
+        padding-bottom: 3.5rem;
+    }
+    
+    .herf {
+        background-color: #fff;
+        border: 1px solid rgb(71, 98, 226);
+        padding: 20px 20px 20px 20px;
+        width: 135px;
+    }
+    
+    .tubiao {
+        float: left;
+        position: relative;
+        right: 85px;
+    }
+    
+    .shu {
+        max-width: 50%;
+    }
+    
+    .dis {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .h-x {
+        float: right;
+        position: relative;
+        bottom: 300px;
+        left: 22px;
+    }
+    
+    .p-100 {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    
+    .disp {
+        display: flex;
+    }
+    
+    .kuan {
+        max-width: 33%;
+    }
+    
+    .ku-1 {
+        box-shadow: 0 3px 9px rgb(0 0 0 / 25%);
+        border-radius: 10px;
+        padding: 35px;
+    }
+    
+    .ku-2 {
+        box-shadow: 0 3px 9px rgb(50 31 247 / 25%);
+        border-radius: 10px;
+        padding: 35px;
+        height: 280px;
+    }
+    
+    .contact-content p {
+        color: #696969;
+    }
+    
+    .another span {
+        color: #fff;
+        position: relative;
+        right: 70px;
+        bottom: 15px;
+    }
+    
+    .box {
+        width: 60px;
+        height: 60px;
+    }
+    
+    h6 {
+        margin: 0;
+    }
+    
+    .contact-title {
+        font-size: 24px;
+        margin-bottom: 12px;
+        margin-top: 20px;
+    }
+    
+    .p-30 {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    
+    .k-1 {
+        background-color: #2B1ECD;
+        max-width: 30%;
+        border-radius: 10px;
+        margin-top: -15px;
+    }
+    
+    .k-1 .contact-content p {
+        color: #fff;
+    }
+    
+    .k-1 .contact-title {
+        color: #fff;
+    }
+    
+    .more {
+        border: 1px solid rgb(71, 98, 226);
+        padding: 20px 35px;
+    }
+    
+    .more1 {
+        border: 1px solid rgb(71, 98, 226);
+        padding: 20px 35px;
+        background-color: #fff;
+    }
+    
+    .finally {
+        text-align: center;
+    }
+    
+    h4 {
+        font-size: 30px;
+        color: rgb(71, 98, 226);
+        margin: 0 0 20px;
+        text-align: center;
+    }
+    
+    p1 {
+        font-size: 25px;
+        color: rgb(71, 98, 226);
+    }
+    
+    .disa {
+        display: flex;
+        justify-content: space-evenly;
+        position: relative;
+        bottom: 34px;
+    }
+    
+    .gary {
+        background-image: url(./图片/Mask.png);
+        border-top-left-radius: 100%;
+        margin-top: -216px;
+        width: 55%;
+        float: right;
+        height: 224px;
+    }
