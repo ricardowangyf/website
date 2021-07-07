@@ -2,6 +2,9 @@
     margin: 0;
 }
 
+
+/* 同步测试 */
+
 .clear {
     clear: both;
 }
@@ -561,7 +564,7 @@ li {
     float: right;
     right: 165px;
     position: relative;
-    background: #FC3159;
+    background: #FC3159:
 }
 
 .top-2-1 h1 {
