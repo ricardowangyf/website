@@ -2,15 +2,15 @@
     margin: 0;
 }
 
-.clear {
-    clear: both;
-}
-
 body {
     user-select: none;
+    -ms-user-select: none;
     -moz-user-select: none;
     -webkit-user-select: none;
-    -ms-user-select: none;
+}
+
+.clear {
+    clear: both;
 }
 
 .body {
@@ -40,7 +40,6 @@ body {
 
 .left {
     padding-top: 15px;
-    padding-left: 40px;
     padding-bottom: 10px;
 }
 
@@ -87,68 +86,68 @@ body {
 }
 
 .right1 {
-    left: 25px;
+    left: 47px;
     position: relative;
 }
 
 .right-2 {
-    left: 50px;
+    left: 55px;
     width: 55px;
     height: 125px;
     position: relative;
 }
 
 .right-3 {
-    left: 110px;
+    left: 130px;
     width: 140px;
     height: 125px;
     position: relative;
 }
 
 .right-4 {
-    left: 140px;
+    left: 170px;
     width: 80px;
     height: 125px;
     position: relative;
 }
 
 .right-5 {
-    left: 175px;
+    left: 195px;
     width: 120px;
     height: 125px;
     position: relative;
 }
 
 .right-6 {
-    left: 180px;
+    left: 195px;
     width: 120px;
     height: 125px;
     position: relative;
 }
 
 .right-3 h1 {
+    right: 20px;
     color: #fff;
     font-size: 18px;
     font-weight: 300;
     padding-top: 50px;
     text-align: center;
     position: relative;
-    right: 20px;
 }
 
 .num {
     width: 25px;
-    float: right;
     bottom: 24px;
+    float: right;
     position: relative;
 }
 
 .num h3 {
+    right: 5px;
     color: #fff;
     font-size: 18px;
     font-weight: 300;
     text-align: center;
-    right: 5px;
     position: relative;
 }
 
@@ -248,8 +247,8 @@ input {
 }
 
 .opl {
-    float: left;
     left: 722px;
+    float: left;
     width: 303px;
     height: 262px;
     bottom: 1768px;
@@ -277,14 +276,13 @@ input {
 }
 
 .button {
-    right: 327px;
     float: left;
+    right: 330px;
     width: 310px;
-    width: 311px;
     height: 80px;
     bottom: 1280px;
-    text-align: center;
     position: relative;
+    text-align: center;
     background: #B60038;
 }
 
@@ -325,7 +323,7 @@ input {
 
 .another2 {
     display: flex;
-    padding-left: 94px;
+    padding-left: 90px;
 }
 
 li {
@@ -336,9 +334,9 @@ li {
     height: 43px;
     color: #000;
     font-size: 20px;
-    letter-spacing: 0;
     padding-top: 11px;
-    padding-right: 20px;
+    letter-spacing: 0;
+    padding-right: 23px;
 }
 
 .chang {
@@ -374,7 +372,7 @@ li {
 }
 
 .another3 {
-    left: 670px;
+    left: 675px;
     height: 52px;
     position: relative;
 }
@@ -495,7 +493,7 @@ li {
 
 .all-right {
     display: flex;
-    padding-left: 99px;
+    padding-left: 65px;
     justify-content: start;
 }
 
@@ -508,7 +506,7 @@ li {
 
 .all-right li {
     padding-top: 15px;
-    padding-right: 55px;
+    padding-right: 65px;
 }
 
 .row {
@@ -522,10 +520,14 @@ li {
     font-weight: 400;
 }
 
+.left-1-1 {
+    padding-left: 20px;
+}
+
 .all-another {
-    left: 33px;
+    left: 25px;
     width: 185px;
-    height: 61px;
+    height: 50px;
     position: relative;
     border: 1px solid #8E8E93;
 }
@@ -536,23 +538,24 @@ li {
     color: #000;
     font-size: 18px;
     font-weight: 400;
-    padding-top: 20px;
+    padding-top: 10px;
     padding-left: 22px;
 }
 
 .calen {
-    padding-top: 16px;
-    padding-left: 7px;
+    padding-top: 5px;
+    padding-left: 10px;
 }
 
 .bottom-1 {
     display: flex;
     padding-top: 35px;
+    padding-left: 20px;
     justify-content: start;
 }
 
 .picture-2-1 {
-    padding-right: 74px;
+    padding-right: 70px;
 }
 
 .top-2-1 {
@@ -566,12 +569,12 @@ li {
 }
 
 .top-2-1 h1 {
+    bottom: 15px;
     color: #fff;
     font-size: 18px;
     font-weight: 400;
     text-align: center;
     position: relative;
-    bottom: 15px;
 }
 
 .trian {
@@ -609,15 +612,15 @@ li {
 }
 
 .another-3-1 li {
+    color: #fff;
     font-size: 18px;
-    color: #FFFFFF;
     text-align: left;
     padding-right: 73px;
 }
 
 .bottom-3 {
-    width: 51px;
     padding: 0;
+    width: 51px;
     border-bottom: 1px solid #fff;
 }
 
@@ -629,7 +632,7 @@ li {
 .padding-1 {
     height: 25px;
     padding-top: 39px;
-    padding-left: 296px;
+    padding-left: 305px;
 }
 
 .cket {
@@ -639,36 +642,27 @@ li {
 }
 
 .view {
+    top: 99px;
+    right: 30px;
     width: 150px;
     height: 50px;
     position: relative;
     border: 1px solid #fff;
-    top: 99px;
-    right: 24px;
 }
 
 .view h1 {
     color: #fff;
     font-size: 18px;
-    text-align: center;
-    padding-top: 12px;
     font-weight: 200;
+    padding-top: 12px;
+    text-align: center;
 }
 
 .picture-3-1 {
     top: 40px;
-    top: 39px;
-    right: 35px;
+    right: 50px;
     display: flex;
     position: relative;
-}
-
-.tw-goo {
-    left: 156px;
-    height: 40px;
-    display: flex;
-    position: relative;
-    justify-content: start;
 }
 
 .google {
@@ -683,10 +677,10 @@ li {
     padding-right: 30px;
 }
 
-.facebook {
-    padding-right: 30px;
-}
-
-.twitter {
-    padding-right: 30px;
+.tw-goo {
+    left: 156px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    justify-content: start;
 }

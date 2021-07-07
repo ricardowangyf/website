@@ -178,7 +178,8 @@
         
         .another1 {
             float: right;
-            padding-right: 70px;
+            position: relative;
+            left: 65px;
         }
         
         .width {
@@ -224,7 +225,7 @@
         }
         
         .neirong2 {
-            left: 40px;
+            left: 165px;
             float: right;
             max-width: 49%;
             padding-top: 65px;
@@ -257,6 +258,7 @@
         }
         
         .neirong3 {
+            left: 135px;
             float: right;
             max-width: 49%;
             padding-top: 65px;
