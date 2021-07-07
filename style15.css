@@ -396,8 +396,8 @@ li {
 }
 
 .pian {
-    bottom: 1000px;
-    position: relative;
+    bottom: 1000px !important;
+    position: relative !important;
 }
 
 .all-display1 {
