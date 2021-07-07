@@ -297,7 +297,6 @@ input {
 }
 
 .third {
-    width: 1750px;
     height: 120px;
     background: #F7F7F7;
 }
@@ -393,7 +392,6 @@ li {
 .five {
     top: 75px;
     height: 100px;
-    width: 1750px;
     position: relative;
     background-image: url(./图片/BG_News.png);
 }
