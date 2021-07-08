@@ -326,6 +326,14 @@ input {
     padding-left: 90px;
 }
 
+.move1 {
+    transition: 1s all;
+}
+
+.antoher2~:hover .move1 {
+    border-bottom: 4px solid;
+}
+
 li {
     list-style-type: none;
 }
