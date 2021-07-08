@@ -326,10 +326,6 @@ input {
     padding-left: 90px;
 }
 
-.move1 {
-    transition: 1s all;
-}
-
 .antoher2~:hover .move1 {
     border-bottom: 4px solid;
 }
@@ -450,10 +446,16 @@ li {
 
 .width1 {
     width: 125px;
+    border-bottom: 4px solid #FC3159;
 }
 
 .all1 {
     height: 99px;
+}
+
+.move1:hover .move1 li {
+    transition: 1s;
+    border-bottom: 4px solid #FC3159;
 }
 
 .all-left1-1 {
