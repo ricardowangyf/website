@@ -5,7 +5,7 @@
 
 .body {
     width: 400px;
-    height: 785px;
+    height: 900px;
     background-color: #F6F8FA;
 }
 
@@ -165,4 +165,87 @@
     font-size: 14px;
     color: #003087;
     font-weight: 400;
+}
+
+.kuang {
+    width: 325px;
+    height: 235px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.first {
+    padding-top: 20px;
+    padding-left: 27px;
+}
+
+.first-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first h1 {
+    font-size: 12px;
+    color: #1B1B1B;
+}
+
+.first h2 {
+    color: #999;
+    font-size: 10px;
+}
+
+.number {
+    padding-top: 25px;
+    padding-right: 10px;
+}
+
+.number h1 {
+    font-size: 16px;
+    color: #1B1B1B;
+    font-weight: 400;
+}
+
+.number1 {
+    padding-top: 25px;
+    padding-right: 10px;
+}
+
+.number1 h1 {
+    font-size: 16px;
+    color: #00C55B;
+    font-weight: 400;
+}
+
+.xian {
+    left: 29px;
+    width: 280px;
+    height: 17px;
+    position: relative;
+    border-bottom: 1px dashed;
+}
+
+.final {
+    width: 404px;
+    padding-top: 87px;
+}
+
+.path img {
+    width: 404px;
+    position: relative;
+    right: 34px;
+}
+
+.val {
+    width: 103px;
+    height: 100px;
+    float: left;
+    position: relative;
+    bottom: 126px;
+    left: 117px
+}
+
+.val img {
+    width: 103px;
+    height: 100px;
 }
