@@ -39,8 +39,8 @@
 }
 
 .blue-1 {
-    top: 30px;
-    width: 280px;
+    top: 18px;
+    width: 355px;
     height: 190px;
     position: relative;
     border-radius: 15px;
@@ -168,7 +168,7 @@
 }
 
 .kuang {
-    width: 325px;
+    width: 369px;
     height: 235px;
     margin-top: 25px;
     border-radius: 10px;
@@ -226,14 +226,18 @@
 }
 
 .final {
-    width: 404px;
+    width: 432px;
     padding-top: 87px;
+    position: relative;
+    right: 27px;
 }
 
 .path img {
-    width: 404px;
+    width: 463px;
     position: relative;
     right: 34px;
+    height: 78px;
+    bottom: -20px;
 }
 
 .val {
@@ -241,8 +245,8 @@
     height: 100px;
     float: left;
     position: relative;
-    bottom: 126px;
-    left: 117px
+    bottom: 89px;
+    left: 145px;
 }
 
 .val img {
@@ -252,8 +256,51 @@
 
 .down {
     position: relative;
-    bottom: 95px;
+    bottom: 58px;
     width: 25px;
     float: left;
-    left: 53px;
+    left: 81px;
+}
+
+.picture-1-1 h1 {
+    font-size: 12px;
+    color: #999;
+}
+
+.wenzi3 h1 {
+    font-size: 12px;
+    color: #999;
+}
+
+.picture-1-2 h1 {
+    font-size: 12px;
+    color: #999;
+}
+
+.neirong3 {
+    position: relative;
+    bottom: 35px;
+}
+
+.first-1-1 {
+    position: relative;
+    right: 88px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wenzi3 {
+    position: relative;
+    top: 24px;
+    left: 4px;
+}
+
+.picture-1-2 {
+    position: relative;
+    left: 24px;
+}
+
+.picture-1 img {
+    position: relative;
+    left: 12px;
 }
