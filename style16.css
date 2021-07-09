@@ -4,7 +4,7 @@
 }
 
 .body {
-    width: 400px;
+    width: 435px;
     height: 900px;
     background-color: #F6F8FA;
 }
@@ -248,4 +248,12 @@
 .val img {
     width: 103px;
     height: 100px;
+}
+
+.down {
+    position: relative;
+    bottom: 95px;
+    width: 25px;
+    float: left;
+    left: 53px;
 }
