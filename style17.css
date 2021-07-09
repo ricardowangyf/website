@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    width: 360px;
+    height: 760px;
+    background-color: #F6F8FA;
+}
+
+.center {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.all {
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+.display {
+    display: flex;
+    justify-content: start;
+}
+
+.right {
+    padding-left: 20px;
+    position: relative;
+    bottom: 2px;
+}
+
+.right h1 {
+    font-size: 16px;
+    color: #1B1B1B;
+}
