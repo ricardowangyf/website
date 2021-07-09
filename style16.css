@@ -4,7 +4,6 @@
 }
 
 .body {
-    width: 435px;
     height: 900px;
     background-color: #F6F8FA;
 }
@@ -19,6 +18,7 @@
 }
 
 .all {
+    width: 253px;
     padding-top: 20px;
 }
 
