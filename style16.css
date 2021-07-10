@@ -18,7 +18,7 @@
 }
 
 .all {
-    width: 253px;
+    width: 360px;
     padding-top: 20px;
 }
 
@@ -143,6 +143,7 @@
 }
 
 .ptb {
+    width: 360px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -157,6 +158,7 @@
 }
 
 .wenzi4 {
+    width: 360px;
     display: flex;
     justify-content: space-between;
 }
