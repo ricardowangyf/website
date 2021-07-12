@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+.nav {
+    width: 360px;
+    height: 150px;
+    background: #fff;
+}
+
+.center {
+    max-width: 85%;
+    margin: 0 auto;
+}
+
+.picture {
+    display: flex;
+}
+
+.picture h1 {
+    font-size: 16px;
+    color: #1B1B1B;
+}
+
+.all-top {
+    padding-top: 32px;
+}
