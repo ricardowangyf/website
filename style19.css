@@ -28,5 +28,177 @@
 }
 
 .all-top {
+    height: 105px;
     padding-top: 32px;
+}
+
+.sub {
+    width: 320px;
+    height: 40px;
+}
+
+.email {
+    width: 283px;
+    height: 40px;
+    padding-left: 36px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+
+.all-ant {
+    width: 350px;
+    height: 660px;
+    background-color: #F6F8FA;
+}
+
+.picture-1 h1 {
+    font-size: 14px;
+    color: #999;
+    font-weight: 300;
+    position: relative;
+    right: 43px;
+    top: 10px;
+}
+
+.usa {
+    width: 30px;
+    height: 20px;
+    position: relative;
+    right: 55px;
+    top: 10px;
+}
+
+.picture-1 {
+    display: flex;
+    padding-top: 30px;
+    justify-content: space-between;
+}
+
+.copy {
+    position: relative;
+    left: 15px;
+}
+
+.usd h1 {
+    font-size: 14px;
+    color: #999;
+    font-weight: 300;
+    position: relative;
+    right: 18px;
+    top: 10px;
+}
+
+.xian {
+    left: 25px;
+    width: 302px;
+    height: 12px;
+    position: relative;
+    border-bottom: 1px dashed;
+}
+
+.picture-2 {
+    display: flex;
+    padding-top: 17px;
+    justify-content: space-between;
+}
+
+.picture-2 h1 {
+    font-size: 14px;
+    color: #999;
+    font-weight: 300;
+    position: relative;
+    right: 121px;
+    top: 10px;
+}
+
+.usa1 {
+    width: 30px;
+    height: 20px;
+    position: relative;
+    right: 99px;
+    top: 10px;
+}
+
+.usd1 {
+    position: relative;
+    right: 21px;
+    top: 14px;
+}
+
+.picture-3 {
+    display: flex;
+    padding-top: 24px;
+    justify-content: space-between;
+}
+
+.picture-3 h1 {
+    font-size: 14px;
+    color: #999;
+    font-weight: 300;
+    position: relative;
+    right: 65px;
+    top: 9px;
+}
+
+.usd h1 {
+    font-size: 14px;
+    color: #999;
+    font-weight: 300;
+}
+
+.usa2 {
+    width: 30px;
+    height: 20px;
+    position: relative;
+    right: 69px;
+    top: 10px;
+}
+
+.usd2 h1 {
+    position: relative;
+    right: 22px;
+    top: 10px;
+    font-size: 14px;
+    color: #999;
+    font-weight: 300;
+}
+
+.usa3 {
+    width: 30px;
+    height: 20px;
+    position: relative;
+    right: 72px;
+    top: 10px;
+}
+
+.usa4 {
+    width: 30px;
+    height: 20px;
+    position: relative;
+    right: 67px;
+    top: 10px;
+}
+
+.usa5 {
+    width: 30px;
+    height: 20px;
+    position: relative;
+    right: 76px;
+    top: 10px;
+}
+
+.usa6 {
+    width: 30px;
+    height: 20px;
+    position: relative;
+    right: 71px;
+    top: 10px;
+}
+
+.usa7 {
+    width: 30px;
+    height: 20px;
+    position: relative;
+    right: 71px;
+    top: 10px;
 }
