@@ -13,9 +13,9 @@
 }
 
 .all-top {
-    width: 360px;
+    width: 355px;
     background-color: #fff;
-    border-bottom: 1px solid #fafafa;
+    border: 2px solid #F6F8FA;
 }
 
 .picture {
@@ -25,27 +25,29 @@
 }
 
 .picture img {
+    left: 18px;
     width: 24px;
     height: 24px;
+    position: relative;
 }
 
 .picture h1 {
+    right: 104px;
     font-size: 16px;
     color: #1B1B1B;
     font-weight: 300;
     position: relative;
-    right: 104px;
 }
 
 .sub {
-    position: relative;
     right: 30px;
+    position: relative;
 }
 
 .wenzi {
     display: flex;
-    justify-content: space-around;
     padding-top: 45px;
+    justify-content: space-around;
 }
 
 .wenzi1 {
@@ -62,30 +64,333 @@
 }
 
 .wenzi1 h1 {
+    bottom: 15px;
     font-size: 16px;
     color: #025ED7;
-    text-align: center;
     font-weight: 400;
+    text-align: center;
     position: relative;
-    bottom: 15px;
 }
 
 .wenzi2 h1 {
-    font-family: Helvetica;
-    font-size: 16px;
-    color: #999999;
-    text-align: center;
-    font-weight: 400;
-    position: relative;
+    color: #999;
     bottom: 15px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    position: relative;
 }
 
 .wenzi3 h1 {
+    bottom: 15px;
+    color: #999;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    position: relative;
+}
+
+.all-bottom {
+    width: 360px;
+    height: 620px;
+    background: #F6F8FA;
+}
+
+.wenzi11 h1 {
+    color: #666;
+    font-size: 12px;
+    font-weight: 400;
+    padding-left: 20px;
+}
+
+.wenzi22 h1 {
+    font-size: 13px;
+    color: #1B1B1B;
+    font-weight: 400;
+}
+
+.wenzi22 h2 {
+    color: #999;
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.wenzi4 h1 {
+    font-size: 16px;
+    color: #00D090;
+    text-align: right;
+    font-weight: 400;
+}
+
+.wenzi4 h2 {
+    color: #999;
+    font-size: 12px;
+    text-align: right;
+    font-weight: 400;
+}
+
+.picture-1 {
+    display: flex;
+    padding-top: 22px;
+    justify-content: space-around;
+}
+
+.all-op {
+    padding-top: 20px;
+}
+
+.picture-1 img {
+    width: 48px;
+    height: 48px;
+}
+
+.wenzi22 {
+    position: relative;
+    right: 21px;
+    top: 6px;
+}
+
+.wenzi4 {
+    position: relative;
+    top: 6px;
+}
+
+.xian {
+    left: 25px;
+    width: 302px;
+    height: 12px;
+    position: relative;
+    border-bottom: 1px dashed;
+}
+
+.picture-1-1 {
+    display: flex;
+    padding-top: 22px;
+    justify-content: space-around;
+}
+
+.picture-1-1 img {
+    width: 48px;
+    height: 48px;
+    position: relative;
+    right: 11px;
+}
+
+.wenzi2-2 {
+    position: relative;
+    right: 57px;
+    top: 6px;
+}
+
+.wenzi2-2 h1 {
+    font-size: 13px;
+    color: #1B1B1B;
+    font-weight: 400;
+}
+
+.wenzi2-2 h2 {
+    color: #999;
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.wenzi4-1 {
+    position: relative;
+    left: 7px;
+    top: 10px;
+}
+
+.wenzi4-1 h1 {
     font-family: Helvetica;
     font-size: 16px;
-    color: #999999;
-    text-align: center;
+    color: #666;
+    text-align: right;
+    font-weight: 300;
+}
+
+.wenzi4-1 h2 {
+    font-family: Helvetica;
+    font-size: 12px;
+    color: #999;
+    text-align: right;
+}
+
+.wenzi1-3 {
+    padding-top: 25px;
+}
+
+.wenzi1-3 h1 {
+    color: #666;
+    font-size: 12px;
     font-weight: 400;
+    padding-left: 20px;
+}
+
+.picture-2-1 {
+    display: flex;
+    padding-top: 22px;
+    justify-content: space-between;
+}
+
+.picture-2-1 img {
+    left: 20px;
+    width: 48px;
+    height: 48px;
     position: relative;
-    bottom: 15px;
+}
+
+.wenzi2-3 h1 {
+    font-size: 13px;
+    color: #1B1B1B;
+    font-weight: 400;
+}
+
+.wenzi2-3 h2 {
+    color: #999;
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.wenzi4-2 h1 {
+    font-size: 16px;
+    color: #00D090;
+    text-align: right;
+    font-weight: 400;
+}
+
+.wenzi4-2 h2 {
+    color: #999;
+    font-size: 12px;
+    text-align: right;
+    font-weight: 400;
+}
+
+.wenzi2-3 {
+    position: relative;
+    right: 44px;
+    top: 5px;
+}
+
+.wenzi4-2 {
+    position: relative;
+    right: 25px;
+    bottom: -1px;
+}
+
+.picture-2-3 {
+    display: flex;
+    padding-top: 22px;
+    justify-content: space-between;
+}
+
+.picture-2-3 img {
+    left: 20px;
+    width: 48px;
+    height: 48px;
+    position: relative;
+}
+
+.wenzi2-4 h1 {
+    font-size: 13px;
+    color: #1B1B1B;
+    font-weight: 400;
+}
+
+.wenzi2-4 h2 {
+    color: #999;
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.wenzi4-3 h1 {
+    font-size: 16px;
+    color: #00D090;
+    text-align: right;
+    font-weight: 400;
+}
+
+.wenzi4-3 h2 {
+    color: #999;
+    font-size: 12px;
+    text-align: right;
+    font-weight: 400;
+}
+
+.wenzi2-3 {
+    position: relative;
+    right: 44px;
+    top: 5px;
+}
+
+.wenzi4-2 {
+    position: relative;
+    right: 25px;
+    bottom: -1px;
+}
+
+.wenzi2-4 {
+    position: relative;
+    right: 44px;
+    top: 5px;
+}
+
+.wenzi4-3 {
+    position: relative;
+    right: 25px;
+    bottom: -1px;
+}
+
+.wenzi4-4 h1 {
+    font-size: 16px;
+    color: #00D090;
+    text-align: right;
+    font-weight: 400;
+}
+
+.wenzi4-4 h2 {
+    color: #999;
+    font-size: 12px;
+    text-align: right;
+    font-weight: 400;
+}
+
+.picture-2-4 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 17px;
+}
+
+.picture-2-4 img {
+    position: relative;
+    left: 20px
+}
+
+.wenzi4-4 {
+    position: relative;
+    right: 25px;
+    bottom: -3px;
+}
+
+.wenzi5-4 {
+    position: relative;
+    right: 44px;
+    top: 5px;
+}
+
+.wenzi5-4 h1 {
+    font-size: 13px;
+    color: #1B1B1B;
+    font-weight: 400;
+}
+
+.wenzi5-4 h2 {
+    color: #999;
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.wenzi5-4 {
+    position: relative;
+    right: 23px;
+    top: 5px;
 }
