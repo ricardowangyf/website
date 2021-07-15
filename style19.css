@@ -11,6 +11,7 @@
     width: 360px;
     height: 150px;
     background: #fff;
+    border: 2px solid #F6F8FA;
 }
 
 .center {
@@ -46,8 +47,10 @@
 }
 
 .all-ant {
-    width: 350px;
+    width: 360px;
     height: 660px;
+    position: relative;
+    right: 25px;
     background-color: #F6F8FA;
 }
 
