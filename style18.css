@@ -19,7 +19,6 @@
 
 .nac {
     float: left;
-    width: 370px;
     height: 268px;
     box-shadow: 0 2px 4px 0 rgb(0 0 0 / 50%);
     background-image: linear-gradient( 180deg, #005EBC 0%, #003087 100%);
@@ -44,7 +43,6 @@
 
 .black {
     top: 20px;
-    width: 325px;
     height: 190px;
     position: relative;
     border-radius: 15px;

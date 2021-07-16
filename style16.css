@@ -4,7 +4,6 @@
 }
 
 .body {
-    height: 900px;
     background-color: #F6F8FA;
 }
 
@@ -18,7 +17,6 @@
 }
 
 .all {
-    width: 360px;
     padding-top: 20px;
 }
 
@@ -33,14 +31,12 @@
 }
 
 .blue {
-    width: 100%;
     height: 188px;
     background-image: url(./图片/Rectangle.png);
 }
 
 .blue-1 {
     top: 18px;
-    width: 355px;
     height: 190px;
     position: relative;
     border-radius: 15px;
@@ -143,7 +139,6 @@
 }
 
 .ptb {
-    width: 360px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -170,7 +165,6 @@
 }
 
 .kuang {
-    width: 369px;
     height: 235px;
     margin-top: 25px;
     border-radius: 10px;
@@ -228,22 +222,15 @@
 }
 
 .final {
-    width: 432px;
-    padding-top: 87px;
-    position: relative;
-    right: 27px;
+    padding-top: 15px;
 }
 
 .path img {
-    width: 463px;
-    position: relative;
-    right: 34px;
     height: 78px;
-    bottom: -20px;
+    padding-left: 14px;
 }
 
 .val {
-    width: 103px;
     height: 100px;
     float: left;
     position: relative;
@@ -259,7 +246,6 @@
 .down {
     position: relative;
     bottom: 58px;
-    width: 25px;
     float: left;
     left: 81px;
 }
