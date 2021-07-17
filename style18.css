@@ -8,13 +8,13 @@
 }
 
 .body {
-    height: 760px;
+    height: 810px;
     background-color: #F6F8FA;
 }
 
 .center {
     margin: 0 auto;
-    max-width: 85%;
+    max-width: 90%;
 }
 
 .nac {

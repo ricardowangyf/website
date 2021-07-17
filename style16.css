@@ -226,16 +226,16 @@
 }
 
 .path img {
+    width: 360px;
     height: 78px;
-    padding-left: 14px;
 }
 
 .val {
     height: 100px;
     float: left;
     position: relative;
-    bottom: 89px;
-    left: 145px;
+    bottom: 105px;
+    left: 125px;
 }
 
 .val img {
@@ -245,9 +245,9 @@
 
 .down {
     position: relative;
-    bottom: 58px;
+    bottom: 78px;
     float: left;
-    left: 81px;
+    left: 61px;
 }
 
 .picture-1-1 h1 {
@@ -267,7 +267,7 @@
 
 .neirong3 {
     position: relative;
-    bottom: 35px;
+    bottom: 55px;
 }
 
 .first-1-1 {
@@ -279,13 +279,13 @@
 
 .wenzi3 {
     position: relative;
-    top: 24px;
-    left: 4px;
+    top: 30px;
+    left: 23px;
 }
 
 .picture-1-2 {
     position: relative;
-    left: 24px;
+    left: 35px;
 }
 
 .picture-1 img {
