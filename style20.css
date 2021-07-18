@@ -142,20 +142,20 @@
 }
 
 .wenzi22 {
-    position: relative;
     top: 6px;
     right: 15px;
+    position: relative;
 }
 
 .wenzi4 {
-    position: relative;
     top: 6px;
-    right: 43px;
+    right: 10px;
+    position: relative;
 }
 
 .xian {
     left: 25px;
-    width: 285px;
+    width: 325px;
     height: 12px;
     position: relative;
     border-bottom: 1px dashed;
@@ -194,7 +194,6 @@
 
 .wenzi4-1 {
     position: relative;
-    left: -33px;
     top: 10px;
 }
 
@@ -271,8 +270,8 @@
 
 .wenzi4-2 {
     position: relative;
-    right: 66px;
     bottom: -1px;
+    right: 25px;
 }
 
 .picture-2-3 {
@@ -322,7 +321,7 @@
 
 .wenzi4-3 {
     position: relative;
-    right: 70px;
+    right: 30px;
     bottom: -1px;
 }
 
@@ -353,7 +352,7 @@
 
 .wenzi4-4 {
     position: relative;
-    right: 70px;
+    right: 30px;
     bottom: -3px;
 }
 

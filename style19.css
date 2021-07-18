@@ -19,7 +19,7 @@
 
 .picture {
     display: flex;
-    padding-left: 25px;
+    padding-left: 40px;
 }
 
 .picture h1 {
@@ -28,17 +28,17 @@
 }
 
 .all-top {
-    height: 105px;
+    height: 120px;
     padding-top: 32px;
 }
 
 .sub {
     padding-top: 22px;
-    padding-left: 15px
+    padding-left: 40px
 }
 
 .email {
-    width: 283px;
+    width: 260px;
     height: 40px;
     padding-left: 36px;
     border-radius: 20px;
@@ -46,10 +46,6 @@
 }
 
 .all-ant {
-    right: 22px;
-    height: 660px;
-    position: relative;
-    top: 16px;
     background-color: #F6F8FA;
 }
 
