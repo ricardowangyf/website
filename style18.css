@@ -7,11 +7,6 @@
     clear: both;
 }
 
-.body {
-    height: 810px;
-    background-color: #F6F8FA;
-}
-
 .center {
     margin: 0 auto;
     max-width: 90%;
