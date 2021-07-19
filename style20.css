@@ -22,13 +22,6 @@
     justify-content: space-between;
 }
 
-.picture img {
-    left: 18px;
-    width: 24px;
-    height: 24px;
-    position: relative;
-}
-
 .picture h1 {
     right: 104px;
     font-size: 16px;
@@ -141,18 +134,6 @@
     height: 48px;
 }
 
-.wenzi22 {
-    top: 6px;
-    right: 15px;
-    position: relative;
-}
-
-.wenzi4 {
-    top: 6px;
-    right: 10px;
-    position: relative;
-}
-
 .xian {
     left: 25px;
     width: 325px;
@@ -176,7 +157,7 @@
 
 .wenzi2-2 {
     position: relative;
-    right: 50px;
+    right: 35px;
     top: 6px;
 }
 
@@ -195,6 +176,7 @@
 .wenzi4-1 {
     position: relative;
     top: 10px;
+    left: 10px;
 }
 
 .wenzi4-1 h1 {
@@ -226,11 +208,11 @@
 .picture-2-1 {
     display: flex;
     padding-top: 22px;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .picture-2-1 img {
-    left: 20px;
+    left: -10px;
     width: 48px;
     height: 48px;
     position: relative;
@@ -264,24 +246,24 @@
 
 .wenzi2-3 {
     position: relative;
-    right: 40px;
+    right: 25px;
     top: 5px;
 }
 
 .wenzi4-2 {
     position: relative;
     bottom: -1px;
-    right: 25px;
+    right: -10px;
 }
 
 .picture-2-3 {
     display: flex;
     padding-top: 22px;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .picture-2-3 img {
-    left: 20px;
+    left: -15px;
     width: 48px;
     height: 48px;
     position: relative;
@@ -315,13 +297,13 @@
 
 .wenzi2-4 {
     position: relative;
-    right: 45px;
+    right: 30px;
     top: 5px;
 }
 
 .wenzi4-3 {
     position: relative;
-    right: 30px;
+    right: -10px;
     bottom: -1px;
 }
 
@@ -341,24 +323,24 @@
 
 .picture-2-4 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding-top: 17px;
 }
 
 .picture-2-4 img {
     position: relative;
-    left: 20px
+    left: -15px;
 }
 
 .wenzi4-4 {
     position: relative;
-    right: 30px;
+    right: -5px;
     bottom: -3px;
 }
 
 .wenzi5-4 {
     position: relative;
-    right: 25px;
+    right: 5px;
     top: 5px;
 }
 
