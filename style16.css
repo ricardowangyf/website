@@ -287,3 +287,7 @@
     position: relative;
     left: 35px;
 }
+
+html {
+    height: 760px;
+}
