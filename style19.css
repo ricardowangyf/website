@@ -28,7 +28,7 @@
     justify-content: start;
 }
 
-.wenzi h1 {
+.wenzi-1-1 h1 {
     font-size: 16px;
     color: #1B1B1B;
     font-weight: 400;
@@ -68,7 +68,7 @@ input {
 }
 
 .pmtb {
-    padding-top: 30px;
+    padding-top: 42px;
     margin-bottom: 16px;
 }
 
@@ -108,4 +108,118 @@ input {
 
 .right {
     padding-right: 20px;
+}
+
+.center-wenzi {
+    position: relative;
+    right: 96px;
+    top: 7px;
+}
+
+.center-wenzi h1 {
+    font-size: 14px;
+    color: #1B1B1B;
+    font-weight: 400;
+    padding-top: 6px;
+}
+
+.bitm {
+    position: relative;
+    right: 52px;
+    bottom: 13px;
+}
+
+.dui {
+    padding-top: 10px;
+}
+
+.pt1 {
+    padding-top: 17px;
+    padding-bottom: 17px;
+}
+
+.center-wenzi-1 h1 {
+    font-size: 14px;
+    color: #999999;
+    font-weight: 400;
+    padding-top: 7px;
+}
+
+.can {
+    position: relative;
+    right: 52px;
+    bottom: 14px;
+}
+
+.center-wenzi-1 {
+    position: relative;
+    right: 50px;
+}
+
+.ptb1 {
+    padding-top: 28px;
+}
+
+.center-wenzi-2 {
+    position: relative;
+    right: 60px;
+}
+
+.center-wenzi-2 h1 {
+    font-size: 14px;
+    color: #999999;
+    font-weight: 400;
+    padding-top: 7px;
+}
+
+.center-wenzi-3 {
+    position: relative;
+    right: 54px;
+}
+
+.center-wenzi-3 h1 {
+    font-size: 14px;
+    color: #999999;
+    font-weight: 400;
+    padding-top: 7px;
+}
+
+.center-wenzi-4 {
+    position: relative;
+    right: 67px;
+}
+
+.center-wenzi-4 h1 {
+    font-size: 14px;
+    color: #999999;
+    font-weight: 400;
+    padding-top: 7px;
+}
+
+.center-wenzi-5 {
+    position: relative;
+    right: 65px;
+}
+
+.center-wenzi-5 h1 {
+    font-size: 14px;
+    color: #999999;
+    font-weight: 400;
+    padding-top: 7px;
+}
+
+.center-wenzi-6 {
+    position: relative;
+    right: 60px;
+}
+
+.center-wenzi-6 h1 {
+    font-size: 14px;
+    color: #999999;
+    font-weight: 400;
+    padding-top: 7px;
+}
+
+.all-1 {
+    padding-bottom: 35px;
 }
