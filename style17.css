@@ -4,6 +4,7 @@
 }
 
 .nav {
+    padding-bottom: 40px;
     background-color: #F6F8FA;
 }
 
@@ -34,17 +35,14 @@
 }
 
 .second {
-    margin-top: 30px;
     background: #FFFFFF;
     box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.15);
     border-radius: 15px;
 }
 
 .mop2 {
-    padding-right: 30px;
-    padding-left: 30px;
-    margin-left: 13px;
-    margin-right: 13px;
+    padding: 0px 30px 35px 30px;
+    margin: 65px 13px 0 13px;
 }
 
 .display-1 {
@@ -119,29 +117,25 @@
 }
 
 .third {
-    margin-top: 42px;
     background: #FFFFFF;
     box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.15);
     border-radius: 15px;
 }
 
 .mpo1 {
-    padding-right: 30px;
-    padding-left: 30px;
-    margin-bottom: 44px;
-    margin-left: 15px;
-    margin-right: 15px;
+    padding: 0px 30px 0px 30px;
+    margin: 65px 15px 44px 15px;
 }
 
 .wenzi-1-3 h1 {
     font-size: 14px;
     color: #1B1B1B;
+    width: 88px;
     font-weight: 400;
 }
 
 .wenzi-1-4 {
-    padding-left: 135px;
-    padding-top: 2px;
+    padding: 2px 0px 0px 115px;
 }
 
 .wenzi-1-4 h1 {
@@ -156,16 +150,17 @@
 }
 
 .ptb2 {
-    padding-top: 25px;
-    padding-bottom: 20px;
+    padding: 25px 0px 10px 0px;
 }
 
 .middle {
-    padding-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 14px;
 }
 
 .middle-1 {
-    padding-top: 45px;
+    padding-top: 23px;
+    padding-bottom: 17px;
 }
 
 .wenzi-3 {
@@ -198,8 +193,7 @@
 }
 
 .final {
-    padding-top: 55px;
-    padding-bottom: 40px;
+    padding: 25px 0px 28px 0px;
 }
 
 .neirong-1-1 h1 {
@@ -235,4 +229,9 @@
     letter-spacing: 1px;
     font-weight: 400;
     text-decoration: none;
+}
+
+.xian {
+    opacity: 0.1;
+    border: 1px dashed #000;
 }

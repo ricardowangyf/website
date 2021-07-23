@@ -231,8 +231,8 @@
 
 .copy {
     position: relative;
-    bottom: 120px;
-    left: 129px;
+    bottom: 35px;
+    left: 118px;
 }
 
 .copy1 {
@@ -283,4 +283,10 @@
 
 .neirong-1 img {
     padding-left: 3px;
+}
+
+.yuan {
+    height: 77px;
+    background: #FFFFFF;
+    box-shadow: 0 -2px 10px 0 rgb(0 0 0 / 10%);
 }
