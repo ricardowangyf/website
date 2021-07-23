@@ -67,11 +67,9 @@
 .ver {
     border: 1px solid #FFFFFF;
     border-radius: 15px;
-    margin-top: 10px;
     width: 132px;
-    padding-top: 10px;
-    padding-bottom: 7px;
-    margin-bottom: 16px;
+    padding: 10px 0px 7px 0px;
+    margin: 10px 0px 16px 0px;
 }
 
 .ver h1 {
@@ -160,10 +158,10 @@
 
 .fourth {
     margin-top: 25px;
-    padding-top: 25px;
+    padding-top: 10px;
+    border-radius: 10px;
     background: #FFFFFF;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
-    border-radius: 10px;
 }
 
 .wenzi-1-4 {
@@ -172,7 +170,7 @@
 }
 
 .pt45 {
-    padding-bottom: 45px;
+    padding: 10px 0px 10px 0px;
 }
 
 .wenzi-2-1 {
@@ -213,6 +211,8 @@
 
 .five {
     margin-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
 }
 
 .yuan {
@@ -231,14 +231,14 @@
 
 .copy {
     position: relative;
-    bottom: 35px;
-    left: 118px;
+    bottom: 45px;
+    left: 15px;
 }
 
 .copy1 {
     position: relative;
-    bottom: 170px;
-    left: 60px;
+    bottom: 95px;
+    left: -55px;
 }
 
 .neirong-1 h1 {
@@ -264,6 +264,7 @@
     justify-content: space-between;
     position: relative;
     bottom: 45px;
+    padding-left: 20px;
 }
 
 .neirong-1 {
@@ -277,16 +278,18 @@
     left: 8px;
 }
 
-.neirong-3 img {
-    padding-left: 7px;
-}
-
-.neirong-1 img {
-    padding-left: 3px;
+.neirong-3 {
+    padding-right: 40px;
 }
 
 .yuan {
     height: 77px;
     background: #FFFFFF;
     box-shadow: 0 -2px 10px 0 rgb(0 0 0 / 10%);
+}
+
+.xian {
+    opacity: 0.1;
+    border: 1px dashed #000;
+    margin: 0px 30px 0px 30px;
 }

@@ -4,6 +4,7 @@
 }
 
 .nav {
+    padding-bottom: 29px;
     background-color: #F6F8FA;
 }
 
@@ -216,7 +217,11 @@
     height: 60px;
     text-align: center;
     float: right;
-    margin-top: 20px;
+    margin-top: 30px;
+}
+
+.jiahao h1 {
+    padding-top: 5px;
 }
 
 .jiahao a {
