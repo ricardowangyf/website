@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-.body {
+.nav {
     background-color: #F6F8FA;
 }
 
@@ -45,57 +45,54 @@
     font-size: 10px;
     color: #3A2424;
     left: 13px;
+    font-weight: 400;
     position: relative;
     bottom: 24px;
-    font-weight: 400;
 }
 
 .wenzi-1 h1 {
+    color: #fff;
     font-size: 14px;
-    color: #FFFFFF;
     font-weight: 400;
 }
 
 .wenzi-1 h2 {
-    font-family: Helvetica;
+    color: #fff;
     font-size: 28px;
-    color: #FFFFFF;
     text-align: left;
     font-weight: 400;
 }
 
 .ver {
-    border: 1px solid #FFFFFF;
-    border-radius: 15px;
     width: 132px;
+    border-radius: 15px;
+    border: 1px solid #fff;
     padding: 10px 0px 7px 0px;
     margin: 10px 0px 16px 0px;
 }
 
 .ver h1 {
-    font-family: Helvetica;
+    color: #fff;
     font-size: 12px;
-    color: #FFFFFF;
-    text-align: center;
     font-weight: 400;
+    text-align: center;
 }
 
 .wenzi-1-1 h1 {
+    color: #fff;
     opacity: 0.6;
-    font-family: Helvetica;
     font-size: 10px;
-    color: #FFFFFF;
     font-weight: 400;
 }
 
 .wenzi-1-1 h2 {
-    font-size: 16px;
     color: #fff;
+    font-size: 16px;
     font-weight: 400;
 }
 
 .right1 {
-    padding-right: 10px;
+    padding: 10px 10px 0px 0px;
 }
 
 .right {
@@ -130,8 +127,8 @@
 }
 
 .photo-1-1 h1 {
+    color: #666;
     font-size: 10px;
-    color: #666666;
     font-weight: 400;
 }
 
@@ -159,8 +156,8 @@
 .fourth {
     margin-top: 17px;
     padding-top: 10px;
+    background: #fff;
     border-radius: 10px;
-    background: #FFFFFF;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
 }
 
@@ -184,8 +181,8 @@
 }
 
 .wenzi-2-1 p {
+    color: #999;
     font-size: 10px;
-    color: #999999;
     font-weight: 400;
 }
 
@@ -210,9 +207,9 @@
 }
 
 .five {
+    height: 108px;
     margin-top: 50px;
     text-align: center;
-    padding-bottom: 50px;
 }
 
 .yuan {
@@ -242,20 +239,20 @@
 }
 
 .neirong-1 h1 {
+    color: #999;
     font-size: 12px;
-    color: #999999;
     font-weight: 400;
 }
 
 .neirong-2 h1 {
+    color: #999;
     font-size: 12px;
-    color: #999999;
     font-weight: 400;
 }
 
 .neirong-3 h1 {
+    color: #999;
     font-size: 12px;
-    color: #999999;
     font-weight: 400;
 }
 
@@ -284,7 +281,7 @@
 
 .yuan {
     height: 77px;
-    background: #FFFFFF;
+    background: #fff;
     box-shadow: 0 -2px 10px 0 rgb(0 0 0 / 10%);
 }
 

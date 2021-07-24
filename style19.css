@@ -20,8 +20,7 @@
 }
 
 .photo {
-    padding-top: 35px;
-    padding-left: 20px;
+    padding: 35px 0px 0px 20px;
 }
 
 .X {
@@ -33,22 +32,19 @@
     font-size: 16px;
     color: #1B1B1B;
     font-weight: 400;
-    padding-top: 35px;
-    padding-left: 13px;
+    padding: 35px 0px 0px 13px;
 }
 
 .sub {
-    margin-top: 27px;
-    margin-left: 20px;
-    margin-bottom: 17px;
+    margin: 27px 0px 17px 20px;
 }
 
 input {
-    border: 1px solid #CCCCCC;
-    border-radius: 20px;
-    background: #fff;
     width: 320px;
     height: 40px;
+    background: #fff;
+    border-radius: 20px;
+    border: 1px solid #CCCCCC;
 }
 
 .png {
@@ -58,11 +54,11 @@ input {
 }
 
 .sub input {
+    color: #999;
     font-size: 14px;
-    color: #999999;
+    text-align: left;
     font-weight: 400;
     padding-left: 41px;
-    text-align: left;
 }
 
 .second {
@@ -101,15 +97,15 @@ input {
 }
 
 .wenzi1 h1 {
+    color: #999;
     font-size: 14px;
-    color: #999999;
     padding-top: 6px;
     font-weight: 400;
 }
 
 .right h1 {
+    color: #999;
     font-size: 14px;
-    color: #999999;
     padding-top: 6px;
     font-weight: 400;
 }
@@ -146,8 +142,8 @@ input {
 }
 
 .center-wenzi-1 h1 {
+    color: #999;
     font-size: 14px;
-    color: #999999;
     font-weight: 400;
     padding-top: 7px;
 }
@@ -173,8 +169,8 @@ input {
 }
 
 .center-wenzi-2 h1 {
+    color: #999;
     font-size: 14px;
-    color: #999999;
     font-weight: 400;
     padding-top: 7px;
 }
@@ -185,8 +181,8 @@ input {
 }
 
 .center-wenzi-3 h1 {
+    color: #999;
     font-size: 14px;
-    color: #999999;
     font-weight: 400;
     padding-top: 7px;
 }
@@ -197,8 +193,8 @@ input {
 }
 
 .center-wenzi-4 h1 {
+    color: #999;
     font-size: 14px;
-    color: #999999;
     font-weight: 400;
     padding-top: 7px;
 }
@@ -209,8 +205,8 @@ input {
 }
 
 .center-wenzi-5 h1 {
+    color: #999;
     font-size: 14px;
-    color: #999999;
     font-weight: 400;
     padding-top: 7px;
 }
@@ -221,8 +217,8 @@ input {
 }
 
 .center-wenzi-6 h1 {
+    color: #999;
     font-size: 14px;
-    color: #999999;
     font-weight: 400;
     padding-top: 7px;
 }
