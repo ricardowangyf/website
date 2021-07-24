@@ -1,6 +1,6 @@
 * {
-    padding: 0;
     margin: 0;
+    padding: 0;
 }
 
 .nav {
@@ -12,8 +12,8 @@
 }
 
 .center {
-    max-width: 90%;
     margin: 0 auto;
+    max-width: 90%;
 }
 
 .all {
@@ -33,8 +33,7 @@
 }
 
 .all-1 {
-    padding-top: 20px;
-    padding-left: 28px;
+    padding: 20px 0px 0px 28px;
 }
 
 .right-2 {
@@ -79,8 +78,8 @@
 }
 
 .wenzi-1-1 h1 {
-    color: #fff;
     opacity: 0.6;
+    color: #fff;
     font-size: 10px;
     font-weight: 400;
 }
@@ -259,9 +258,9 @@
 .fin-wenzi {
     display: flex;
     justify-content: space-between;
+    padding-left: 20px;
     position: relative;
     bottom: 45px;
-    padding-left: 20px;
 }
 
 .neirong-1 {
