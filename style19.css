@@ -4,8 +4,8 @@
 }
 
 .nav {
-    padding: 0px 0px 60px 0px;
     background: #F6F8FA;
+    padding: 0px 0px 4px 0px;
 }
 
 .first {
@@ -38,9 +38,9 @@
 }
 
 .sub {
-    margin-top: 33px;
+    margin-top: 27px;
     margin-left: 20px;
-    margin-bottom: 23px;
+    margin-bottom: 17px;
 }
 
 input {
@@ -49,6 +49,12 @@ input {
     background: #fff;
     width: 320px;
     height: 40px;
+}
+
+.png {
+    position: relative;
+    left: 40px;
+    top: 5px;
 }
 
 .sub input {

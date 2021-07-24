@@ -4,7 +4,7 @@
 }
 
 .nav {
-    padding-bottom: 29px;
+    padding-bottom: 5px;
     background-color: #F6F8FA;
 }
 
@@ -139,8 +139,19 @@
 }
 
 .photo {
+    height: 70px;
     background-color: #FFFFFF;
     box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+}
+
+.photo1 {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.photo1 {
+    background-color: #FFFFFF;
     border-radius: 5px;
 }
 
@@ -173,7 +184,7 @@
 }
 
 .all-1 {
-    margin-top: 30px;
+    margin-top: 15px;
     padding-bottom: 15px;
 }
 
@@ -217,7 +228,7 @@
     height: 60px;
     text-align: center;
     float: right;
-    margin-top: 30px;
+    margin-top: 13px;
 }
 
 .jiahao h1 {
