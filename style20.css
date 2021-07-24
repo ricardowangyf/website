@@ -4,6 +4,7 @@
 }
 
 .nav {
+    padding-bottom: 14px;
     background-color: #F6F8FA;
 }
 
@@ -61,7 +62,7 @@
 }
 
 .wenzi1 {
-    padding-bottom: 25px;
+    padding-bottom: 15px;
 }
 
 .bottom {
@@ -80,12 +81,12 @@
 
 .eur {
     padding-top: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 12px;
 }
 
 .all-1-1 {
     margin-top: 13px;
-    padding-bottom: 13px;
+    padding-bottom: 20px;
 }
 
 .wenzi-1 h1 {
@@ -186,4 +187,9 @@
     font-weight: 400;
     padding-left: 35px;
     padding-top: 2px;
+}
+
+.xian {
+    opacity: 0.1;
+    border: 1px dashed #000
 }
