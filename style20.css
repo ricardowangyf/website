@@ -5,11 +5,12 @@
 
 .nav {
     background-color: #F6F8FA;
+    border: 2px solid #F6F8FA;
 }
 
 .center {
-    max-width: 100%;
     margin: 0 auto;
+    max-width: 100%;
 }
 
 .first {
@@ -31,17 +32,13 @@
 }
 
 .wenzi {
-    padding-right: 190px;
+    padding-right: 210px;
 }
 
 .wenzi h1 {
     font-size: 16px;
     color: #1B1B1B;
     font-weight: 400;
-}
-
-.right {
-    padding-right: 25px;
 }
 
 .wenzi1 h1 {
