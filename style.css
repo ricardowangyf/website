@@ -43,6 +43,7 @@ li {
 
 body {
     transition: 0.3s;
+    user-select: none;
     background-color: var( --nav-color);
 }
 
