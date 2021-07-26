@@ -3,9 +3,8 @@
     padding: 0;
 }
 
-.nav {
+body {
     background-color: #F6F8FA;
-    border: 2px solid #F6F8FA;
 }
 
 .center {
@@ -24,7 +23,7 @@
 }
 
 .ptl {
-    padding: 40px 20px 49px 20px;
+    padding: 30px 20px 35px 20px;
 }
 
 .neirong {
@@ -69,7 +68,7 @@
 }
 
 .plr {
-    padding: 0px 15px 100px 15px;
+    padding: 0px 15px 0px 15px;
 }
 
 .eur {
@@ -81,7 +80,7 @@
 }
 
 .all-1-1 {
-    padding: 20px 0px 20px 0px;
+    padding: 25px 0px 25px 0px;
 }
 
 .wenzi-1 h1 {
