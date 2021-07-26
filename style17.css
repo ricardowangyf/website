@@ -3,14 +3,17 @@
     padding: 0;
 }
 
-.nav {
-    padding-bottom: 40px;
+body {
     background-color: #F6F8FA;
+}
+
+.first {
+    padding: 0px 25px 0px 25px;
 }
 
 .center {
     margin: 0 auto;
-    max-width: 90%;
+    max-width: 100%;
 }
 
 .display {
@@ -19,9 +22,7 @@
 }
 
 .pt4 {
-    padding-top: 30px;
-    position: relative;
-    right: 30px;
+    padding-top: 45px;
 }
 
 .right {
@@ -120,8 +121,8 @@
 }
 
 .mpo1 {
+    margin: 45px 15px 40px 15px;
     padding: 0px 15px 15px 15px;
-    margin: 35px 15px 40px 15px;
 }
 
 w .wenzi-1-3 h1 {
@@ -147,7 +148,7 @@ w .wenzi-1-3 h1 {
 }
 
 .ptb2 {
-    padding: 25px 0px 20px 0px;
+    padding: 15px 0px 10px 0px;
 }
 
 .middle {
