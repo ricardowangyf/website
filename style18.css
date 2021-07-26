@@ -4,84 +4,65 @@
 }
 
 body {
-    background-color: #F6F8FA;
-}
-
-.center {
-    margin: 0 auto;
-    max-width: 100%;
+    background: #F6F8FA;
 }
 
 .first {
-    height: 268px;
-    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.5);
-    background-image: linear-gradient(180deg, #005EBC 0%, #003087 100%);
+    background-color: #fff;
+    border-bottom: 2px solid #F6F8FA;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1);
 }
 
-.plr {
-    padding: 0px 18px 0px 18px;
+.center {
+    max-width: 100%;
+    margin: 0 auto;
 }
 
-.fanhui {
-    padding-top: 45px;
+.photo {
+    padding: 35px 0px 0px 20px;
 }
 
-.wenzi {
-    padding-top: 20px;
+.X {
+    display: flex;
+    justify-content: start;
 }
 
-.wenzi h1 {
-    color: #fff;
-    font-size: 20px;
+.wenzi-1-1 h1 {
+    font-size: 16px;
+    color: #1B1B1B;
     font-weight: 400;
+    padding: 35px 0px 0px 13px;
 }
 
-.wenzi1 {
-    padding-top: 10px;
+.sub {
+    margin: 27px 0px 17px 20px;
 }
 
-.wenzi1 p {
-    color: #fff;
-    font-size: 12px;
-    font-weight: 400;
-    line-height: 18px;
+input {
+    width: 320px;
+    height: 40px;
+    background: #fff;
+    border-radius: 20px;
+    border: 1px solid #CCCCCC;
 }
 
-.black {
-    margin-top: 35px;
-    border-radius: 15px;
-    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.15);
-    background-image: linear-gradient(232deg, #3E3E3E 0%, #0B0B0B 100%);
+.png {
+    position: relative;
+    left: 40px;
+    top: 5px;
 }
 
-.vvab {
-    padding: 30px 30px 0px 30px;
-}
-
-.wenzi-1-2 {
-    padding: 25px 0px 0px 30px;
-}
-
-.wenzi-1-2 h1 {
-    color: #fff;
-    font-size: 20px;
-    text-align: left;
-    font-weight: 400;
-}
-
-.wenzi-1-3 h1 {
-    color: #fff;
-    opacity: 0.6;
-    font-size: 10px;
-    text-align: left;
-    font-weight: 400;
-}
-
-.wenzi-1-4 h1 {
-    color: #fff;
+.sub input {
+    color: #999;
     font-size: 14px;
     text-align: left;
     font-weight: 400;
+    padding-left: 41px;
+}
+
+.second {
+    padding-bottom: 15px;
+    background: #F6F8FA;
 }
 
 .neirong {
@@ -89,150 +70,159 @@ body {
     justify-content: space-between;
 }
 
-.ptl {
-    padding: 20px 30px 20px 30px;
+.pmtb {
+    padding-top: 25px;
+    margin-bottom: 16px;
 }
 
-.phto h1 {
-    color: #fff;
-    font-size: 10px;
-    font-weight: 400;
+.copy4 {
+    padding-left: 25px;
 }
 
-.wenzi-1-3 {
-    height: 33px;
-    padding-top: 15px;
-}
-
-.wenzi-1-4 {
-    height: 20px;
-    padding-top: 30px;
-}
-
-.copy1 {
-    position: relative;
-    left: 16px;
-    top: 2px;
-}
-
-.copy2 {
-    position: relative;
-    right: 17px;
-    top: 2px;
-}
-
-.second {
-    padding-top: 200px;
-}
-
-.wenzi-11-2 h1 {
-    font-size: 16px;
-    color: #001D50;
-    font-weight: 400;
-}
-
-.photo {
-    height: 70px;
-    border-radius: 5px;
-    background-color: #fff;
-    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.15);
-}
-
-.photo1 {
-    border-radius: 5px;
-    background-color: #fff;
-}
-
-.photo1 {
-    border-radius: 5px;
-    background-color: #fff;
-}
-
-.display {
-    display: flex;
-    justify-content: space-between;
-}
-
-.yuan {
-    height: 38px;
-    padding: 20px 0px 0px 20px;
-}
-
-.wenzi-1-5 h1 {
-    font-size: 16px;
-    color: #1B1B1B;
-    font-weight: 400;
-}
-
-.wenzi-1-5 p {
-    color: #999;
-    font-size: 14px;
-}
-
-.wenzi-1-5 {
-    height: 38px;
-    padding-top: 15px;
-}
-
-.all-1 {
-    margin-top: 18px;
-}
-
-.left-1-1 {
-    height: 20px;
-    padding: 20px 0px 0px 20px;
-}
-
-.wenzi-1-7 h1 {
-    font-size: 16px;
-    color: #1B1B1B;
-    font-weight: 400;
-}
-
-.wezni-1-7 p {
-    color: #999;
-    font-size: 14px;
-    font-weight: 400;
-}
-
-.wenzi-1-7 {
-    padding: 15px 100px 0px 0px;
-}
-
-.dian {
-    padding: 22px 25px 0px 0px;
-}
-
-.pb {
-    padding-bottom: 80px;
-}
-
-.jiahao {
+.wenzi {
     width: 60px;
-    height: 60px;
-    float: right;
-    text-align: center;
-    border-radius: 35px;
-    margin: 20px 0px 20px 0px;
-    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.15);
-    background-image: linear-gradient(232deg, #0262E9 0%, #0054AE 100%);
+    height: 40px;
 }
 
-.jiahao h1 {
-    padding-top: 5px;
+.copy4 img {
+    width: 60px;
+    height: 40px;
 }
 
-.jiahao a {
-    color: #fff;
-    padding-top: 3px;
+.usa {
+    position: relative;
+    left: 41px;
+    bottom: 39px;
 }
 
-a {
-    text-decoration: none;
-}
-
-.wenzi-1-7 p {
+.wenzi1 h1 {
     color: #999;
     font-size: 14px;
     font-weight: 400;
+    padding-top: 10px;
+}
+
+.right h1 {
+    color: #999;
+    font-size: 14px;
+    padding-top: 6px;
+    font-weight: 400;
+}
+
+.right {
+    padding-right: 20px;
+}
+
+.center-wenzi {
+    position: relative;
+    right: 96px;
+    top: 7px;
+}
+
+.center-wenzi h1 {
+    font-size: 14px;
+    color: #1B1B1B;
+    font-weight: 400;
+    padding-top: 6px;
+}
+
+.bitm {
+    position: relative;
+    right: 52px;
+    bottom: 13px;
+}
+
+.dui {
+    padding-top: 10px;
+}
+
+.pt1 {
+    padding: 14px 0px 12px 0px;
+}
+
+.center-wenzi-1 h1 {
+    color: #999;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 7px;
+}
+
+.can {
+    position: relative;
+    right: 52px;
+    bottom: 14px;
+}
+
+.center-wenzi-1 {
+    position: relative;
+    right: 50px;
+}
+
+.ptb1 {
+    padding: 17px 0px 15px 0px;
+}
+
+.center-wenzi-2 {
+    position: relative;
+    right: 60px;
+}
+
+.center-wenzi-2 h1 {
+    color: #999;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 7px;
+}
+
+.center-wenzi-3 {
+    position: relative;
+    right: 54px;
+}
+
+.center-wenzi-3 h1 {
+    color: #999;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 7px;
+}
+
+.center-wenzi-4 {
+    position: relative;
+    right: 67px;
+}
+
+.center-wenzi-4 h1 {
+    color: #999;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 7px;
+}
+
+.center-wenzi-5 {
+    position: relative;
+    right: 65px;
+}
+
+.center-wenzi-5 h1 {
+    color: #999;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 7px;
+}
+
+.center-wenzi-6 {
+    position: relative;
+    right: 60px;
+}
+
+.center-wenzi-6 h1 {
+    color: #999;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 7px;
+}
+
+.xian {
+    opacity: 0.1;
+    border: 1px dashed #000;
 }
