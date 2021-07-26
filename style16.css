@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.nav {
+body {
     background-color: #F6F8FA;
 }
 
@@ -26,8 +26,8 @@
 }
 
 .secnod {
-    margin-top: 15px;
     border-radius: 15px;
+    margin: 15px 15px 0px 15px;
     box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.15);
     background-image: linear-gradient(232deg, #0262E9 0%, #0054AE 100%);
 }
@@ -106,8 +106,12 @@
     bottom: 20px;
 }
 
+.third {
+    margin: 0px 15px 0px 15px;
+}
+
 .wenzi-1-2 {
-    padding-top: 25px;
+    padding-top: 20px;
 }
 
 .wenzi-1-2 h1 {
@@ -132,7 +136,7 @@
 }
 
 .pt4 {
-    padding-top: 40px;
+    padding-top: 15px;
 }
 
 .botton {
@@ -153,10 +157,10 @@
 }
 
 .fourth {
-    margin-top: 17px;
     padding-top: 10px;
     background: #fff;
     border-radius: 10px;
+    margin: 17px 15px 0px 15px;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
 }
 
@@ -206,9 +210,10 @@
 }
 
 .five {
-    height: 108px;
-    margin-top: 50px;
+    height: 75px;
+    margin-top: 85px;
     text-align: center;
+    margin: 80px 15px 0px 15px
 }
 
 .yuan {
@@ -272,6 +277,7 @@
     position: relative;
     top: 24px;
     left: 8px;
+    height: 20px;
 }
 
 .neirong-3 {
