@@ -1,0 +1,97 @@
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: decimal outside none;
+}
+
+li {
+    padding-bottom: 20px;
+    list-style: decimal outside none;
+}
+
+h1 {
+    margin: 0;
+    font-size: 30px;
+    padding-left: 20px;
+    position: relative;
+    bottom: 17px;
+    width: 221px;
+}
+
+.jianli {
+    width: 25%;
+    float: left;
+    border-radius: 10px;
+    transition: all 0.3s;
+    border: 1px solid #754ef9;
+    background-color: (--nav-color);
+}
+
+a {
+    color: var(--primary-color);
+}
+
+h1 {
+    color: var(--acg-color);
+}
+
+li {
+    color: --acv-color;
+}
+
+body {
+    transition: 0.3s;
+    background-color: var( --nav-color);
+}
+
+ :root {
+    --nav-color: #fff;
+    --bg-color: #F6F8FA;
+    --primary-color: #8e43e7;
+    --ag-color: rgb(138, 43, 226);
+    --acg-color: rgb(219, 112, 147);
+    --acv-color: rgb(0, 0, 128);
+}
+
+[data-theme="dark"] {
+    --nav-color: rgb(192, 192, 192);
+    --bg-color: #131617;
+    --primary-color: #fff;
+    --ag-color: rgb(102, 205, 170);
+    --acg-color: rgb(138, 43, 226);
+    --acv-color: rgb(0, 0, 128);
+}
+
+.theme-switch {
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    left: 346px;
+    top: 22px;
+}
+
+.theme-switch .mode-container {
+    display: flex;
+}
+
+#checkbox {
+    display: none;
+}
+
+#checkbox:checked+.mode-container .light {
+    display: inline-block;
+}
+
+#checkbox+.mode-container .light {
+    display: none;
+}
+
+#checkbox:checked+.mode-container .dark {
+    display: none;
+}
+
+#checkbox+.mode-container .dark {
+    display: inline-block;
+}
