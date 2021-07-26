@@ -2,13 +2,6 @@
     margin: 0;
 }
 
-body {
-    user-select: none;
-    -ms-user-select: none;
-    -moz-user-select: none;
-    -webkit-user-select: none;
-}
-
 .clear {
     clear: both;
 }
