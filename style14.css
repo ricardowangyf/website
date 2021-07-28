@@ -7,18 +7,13 @@ body {
     background-color: #F6F8FA;
 }
 
-.five {
-    height: 86px;
-    background-color: #fff;
-}
-
 .yuan {
     width: 90px;
     text-align: center;
     border-radius: 50%;
     background-color: #F6F8FA;
     position: absolute;
-    left: 125px;
+    left: 138px;
     bottom: 28px;
     height: 89px;
 }
@@ -228,7 +223,8 @@ body {
 .five {
     height: 75px;
     text-align: center;
-    margin: 0px 15px 0px 15px;
+    height: 86px;
+    background-color: #fff;
 }
 
 .yuan1 {
@@ -243,14 +239,14 @@ body {
 
 .copy {
     position: relative;
-    bottom: -3px;
-    left: -5px;
+    bottom: 28px;
+    left: 11px;
 }
 
 .copy1 {
     position: relative;
-    bottom: 76px;
-    left: 2px;
+    bottom: 77px;
+    left: -57px;
 }
 
 .neirong-1 h1 {
@@ -276,7 +272,7 @@ body {
     justify-content: space-between;
     padding-left: 20px;
     position: relative;
-    top: 26px;
+    bottom: 75px;
 }
 
 .neirong-1 {
