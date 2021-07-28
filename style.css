@@ -21,12 +21,12 @@ h1 {
 }
 
 .jianli {
-    width: 25%;
     float: left;
     border-radius: 10px;
+    padding-right: 100px;
     transition: all 0.3s;
+    margin: 40px 0px 0px 50px;
     border: 1px solid #754ef9;
-    background-color: (--bg-color);
 }
 
 a {
@@ -38,13 +38,14 @@ h1 {
 }
 
 li {
-    color: --acv-color;
+    color: var(--acv-color);
 }
 
 body {
+    margin: 0;
     transition: 0.3s;
     user-select: none;
-    background-color: var( --nav-color);
+    background-color: var( --bg-color);
 }
 
  :root {
@@ -53,15 +54,15 @@ body {
     --primary-color: #8e43e7;
     --ag-color: rgb(138, 43, 226);
     --acg-color: rgb(219, 112, 147);
-    --acv-color: rgb(0, 0, 128);
+    --acv-color: #593df8;
 }
 
 [data-theme="dark"] {
     --nav-color: rgb(192, 192, 192);
-    --bg-color: #131617;
-    --primary-color: #fff;
+    --bg-color: #ddd;
+    --primary-color: rgb(252, 88, 13);
     --ag-color: rgb(102, 205, 170);
-    --acg-color: rgb(138, 43, 226);
+    --acg-color: #292922;
     --acv-color: rgb(0, 0, 128);
 }
 
@@ -69,7 +70,7 @@ body {
     display: inline-block;
     cursor: pointer;
     position: relative;
-    left: 346px;
+    left: 280px;
     top: 22px;
 }
 
