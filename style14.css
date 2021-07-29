@@ -8,12 +8,12 @@ body {
 }
 
 .yuan1-1 {
-    width: 90px;
-    border-radius: 50%;
-    background-color: #F6F8FA;
     position: relative;
     bottom: 40px;
     height: 89px;
+    width: 90px;
+    border-radius: 50%;
+    background-color: #F6F8FA;
 }
 
 .clear {
@@ -22,7 +22,11 @@ body {
 
 .center {
     margin: 0 auto;
-    max-width: 90%;
+    max-width: 98%;
+}
+
+.left {
+    padding-left: 13px;
 }
 
 .all {
@@ -42,7 +46,7 @@ body {
 }
 
 .all-1 {
-    padding: 20px 0px 0px 28px;
+    padding: 20px 0px 0px 20px;
 }
 
 .right-2 {
@@ -100,7 +104,7 @@ body {
 }
 
 .right1 {
-    padding: 10px 10px 0px 0px;
+    padding: 10px 23px 0px 0px;
 }
 
 .right {
@@ -119,7 +123,7 @@ body {
 }
 
 .wenzi-1-2 {
-    padding-top: 20px;
+    padding-top: 30px;
 }
 
 .wenzi-1-2 h1 {
@@ -144,7 +148,7 @@ body {
 }
 
 .pt4 {
-    padding-top: 15px;
+    padding-top: 40px;
 }
 
 .botton {
@@ -172,7 +176,7 @@ body {
 .fourth {
     background: #fff;
     border-radius: 10px;
-    margin: 17px 15px 75px 15px;
+    margin: 14px 15px 75px 15px;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
 }
 
