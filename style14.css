@@ -7,14 +7,12 @@ body {
     background-color: #F6F8FA;
 }
 
-.yuan {
+.yuan1-1 {
     width: 90px;
-    text-align: center;
     border-radius: 50%;
     background-color: #F6F8FA;
-    position: absolute;
-    left: 138px;
-    bottom: 28px;
+    position: relative;
+    bottom: 40px;
     height: 89px;
 }
 
@@ -55,7 +53,7 @@ body {
     font-size: 10px;
     color: #3A2424;
     left: 13px;
-    font-weight: 400;
+    font-weight: 300;
     position: relative;
     bottom: 24px;
 }
@@ -110,8 +108,7 @@ body {
 }
 
 .picture-1-2 {
-    width: 20px;
-    float: right;
+    text-align: right;
     position: relative;
     left: 30px;
     bottom: 20px;
@@ -167,11 +164,15 @@ body {
     font-weight: 400;
 }
 
+.blue {
+    position: relative;
+    bottom: 112px;
+}
+
 .fourth {
-    padding-top: 10px;
     background: #fff;
     border-radius: 10px;
-    margin: 17px 15px 0px 15px;
+    margin: 17px 15px 75px 15px;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
 }
 
@@ -185,7 +186,7 @@ body {
 }
 
 .wenzi-2-1 {
-    padding-left: 30px;
+    padding-left: 20px;
 }
 
 .wenzi-2-1 h1 {
@@ -201,7 +202,7 @@ body {
 }
 
 .wenzi-2-2 {
-    padding-right: 30px;
+    padding-right: 20px;
 }
 
 .wenzi2-2 h1 {
@@ -211,7 +212,7 @@ body {
 }
 
 .wenzi-2-3 {
-    padding-right: 30px;
+    padding-right: 20px;
 }
 
 .wenzi-2-3 h1 {
@@ -223,7 +224,6 @@ body {
 .five {
     height: 75px;
     text-align: center;
-    height: 86px;
     background-color: #fff;
 }
 
@@ -239,14 +239,14 @@ body {
 
 .copy {
     position: relative;
-    bottom: 28px;
-    left: 11px;
+    left: 15px;
+    bottom: 13px;
 }
 
 .copy1 {
     position: relative;
-    bottom: 77px;
-    left: -57px;
+    bottom: 63px;
+    right: 54px;
 }
 
 .neirong-1 h1 {
@@ -272,7 +272,7 @@ body {
     justify-content: space-between;
     padding-left: 20px;
     position: relative;
-    bottom: 75px;
+    bottom: 170px;
 }
 
 .neirong-1 {
@@ -302,4 +302,8 @@ body {
     bottom: 6px;
     right: 0;
     left: 0;
+}
+
+.photo-1-1 img {
+    padding-left: 6px;
 }
