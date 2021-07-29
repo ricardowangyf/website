@@ -56,10 +56,10 @@ body {
 .right-2 h1 {
     font-size: 10px;
     color: #3A2424;
-    left: 13px;
-    font-weight: 300;
+    text-align: center;
+    font-weight: 400;
     position: relative;
-    bottom: 24px;
+    bottom: 25px;
 }
 
 .wenzi-1 h1 {
