@@ -35,7 +35,15 @@ body {
 }
 
 .sub {
-    margin: 27px 0px 17px 20px;
+    height: 40px;
+    margin: 30px 20px 20px 20px;
+}
+
+.leftphoto {
+    width: 65px;
+    height: 39px;
+    position: relative;
+    left: 23px;
 }
 
 input {
@@ -43,13 +51,13 @@ input {
     height: 40px;
     background: #fff;
     border-radius: 20px;
-    border: 1px solid #CCCCCC;
+    border: 1px solid #ccc;
 }
 
 .png {
     position: relative;
-    left: 40px;
-    top: 5px;
+    bottom: 30px;
+    left: 15px;
 }
 
 .sub input {
@@ -71,17 +79,15 @@ input {
 }
 
 .pmtb {
-    padding-top: 25px;
+    padding-top: 30px;
     margin-bottom: 16px;
 }
 
-.copy4 {
-    padding-left: 25px;
-}
-
 .wenzi {
-    width: 60px;
-    height: 40px;
+    width: 65px;
+    height: 39px;
+    position: relative;
+    left: 23px;
 }
 
 .copy4 img {
@@ -91,7 +97,7 @@ input {
 
 .usa {
     position: relative;
-    left: 41px;
+    left: 15px;
     bottom: 39px;
 }
 
@@ -105,17 +111,19 @@ input {
 .right h1 {
     color: #999;
     font-size: 14px;
-    padding-top: 6px;
     font-weight: 400;
+    padding-top: 10px;
 }
 
 .right {
+    height: 30px;
     padding-right: 20px;
 }
 
 .center-wenzi {
     position: relative;
-    right: 96px;
+    right: 80px;
+    height: 34px;
     top: 7px;
 }
 
@@ -123,39 +131,37 @@ input {
     font-size: 14px;
     color: #1B1B1B;
     font-weight: 400;
-    padding-top: 6px;
+    padding-top: 5px;
 }
 
 .bitm {
     position: relative;
-    right: 52px;
-    bottom: 13px;
+    left: 17px;
+    bottom: 39px;
 }
 
 .dui {
-    padding-top: 10px;
+    padding-top: 14px;
 }
 
 .pt1 {
-    padding: 14px 0px 12px 0px;
+    padding: 10px 0px 15px 0px;
+}
+
+.pt2 {
+    padding: 10px 0px 15px 0px;
 }
 
 .center-wenzi-1 h1 {
     color: #999;
     font-size: 14px;
     font-weight: 400;
-    padding-top: 7px;
-}
-
-.can {
-    position: relative;
-    right: 52px;
-    bottom: 14px;
+    padding-top: 10px;
 }
 
 .center-wenzi-1 {
     position: relative;
-    right: 50px;
+    right: 30px;
 }
 
 .ptb1 {
@@ -164,7 +170,7 @@ input {
 
 .center-wenzi-2 {
     position: relative;
-    right: 60px;
+    right: 40px;
 }
 
 .center-wenzi-2 h1 {
@@ -176,7 +182,7 @@ input {
 
 .center-wenzi-3 {
     position: relative;
-    right: 54px;
+    right: 35px;
 }
 
 .center-wenzi-3 h1 {
@@ -188,7 +194,7 @@ input {
 
 .center-wenzi-4 {
     position: relative;
-    right: 67px;
+    right: 50px;
 }
 
 .center-wenzi-4 h1 {
@@ -200,7 +206,7 @@ input {
 
 .center-wenzi-5 {
     position: relative;
-    right: 65px;
+    right: 50px;
 }
 
 .center-wenzi-5 h1 {
@@ -212,7 +218,7 @@ input {
 
 .center-wenzi-6 {
     position: relative;
-    right: 60px;
+    right: 45px;
 }
 
 .center-wenzi-6 h1 {
@@ -225,4 +231,21 @@ input {
 .xian {
     opacity: 0.1;
     border: 1px dashed #000;
+}
+
+.left-photo {
+    width: 65px;
+    height: 39px;
+    position: relative;
+    left: 23px;
+}
+
+.can {
+    position: relative;
+    left: 17px;
+    bottom: 39px;
+}
+
+.wenzi1 {
+    padding-right: 24px;
 }
