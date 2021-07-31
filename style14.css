@@ -77,9 +77,9 @@ body {
 
 .ver {
     width: 132px;
+    height: 30px;
     border-radius: 15px;
     border: 1px solid #fff;
-    padding: 10px 0px 7px 0px;
     margin: 10px 0px 16px 0px;
 }
 
@@ -88,6 +88,7 @@ body {
     font-size: 12px;
     font-weight: 400;
     text-align: center;
+    padding-top: 5px;
 }
 
 .wenzi-1-1 h1 {
@@ -119,7 +120,7 @@ body {
 }
 
 .third {
-    margin: 0px 15px 0px 15px;
+    margin: 0px 24px 0px 27px;
 }
 
 .wenzi-1-2 {
@@ -129,6 +130,12 @@ body {
 .wenzi-1-2 h1 {
     font-size: 14px;
     color: #003087;
+    font-weight: 400;
+}
+
+.wenzi-2-3 h1 {
+    font-size: 12px;
+    color: #1B1B1B;
     font-weight: 400;
 }
 
@@ -148,7 +155,7 @@ body {
 }
 
 .pt4 {
-    padding-top: 40px;
+    padding-top: 35px;
 }
 
 .botton {
@@ -176,7 +183,7 @@ body {
 .fourth {
     background: #fff;
     border-radius: 10px;
-    margin: 14px 15px 75px 15px;
+    margin: 17px 15px 50px 15px;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
 }
 
@@ -209,7 +216,11 @@ body {
     padding-right: 20px;
 }
 
-.wenzi2-2 h1 {
+.wenzi-2-2-1 {
+    padding-right: 22px;
+}
+
+.wenzi-2-2-1 h1 {
     font-size: 16px;
     color: #1B1B1B;
     font-weight: 400;
@@ -298,7 +309,7 @@ body {
 .xian {
     opacity: 0.1;
     border: 1px dashed #000;
-    margin: 0px 30px 0px 30px;
+    margin: 0px 17px 0px 17px;
 }
 
 .fixed {
