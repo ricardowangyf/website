@@ -23,15 +23,11 @@ body {
 }
 
 .ptl {
-    padding: 30px 20px 35px 20px;
-}
-
-.neirong {
-    padding-right: 40px;
+    padding: 30px 25px 50px 20px;
 }
 
 .wenzi {
-    padding-right: 210px;
+    padding-right: 200px;
 }
 
 .wenzi h1 {
@@ -59,8 +55,12 @@ body {
 }
 
 .bottom {
-    width: 115px;
+    width: 120px;
     border-bottom: 2px solid #025ED7;
+}
+
+.wenzi2 {
+    width: 120px;
 }
 
 .second {
@@ -68,11 +68,11 @@ body {
 }
 
 .plr {
-    padding: 0px 15px 0px 15px;
+    padding: 0px 20px 0px 22px;
 }
 
 .eur {
-    padding: 17px 0px 12px 0px;
+    padding: 0px 0px 15px 0px;
 }
 
 .eur-1 {
@@ -80,7 +80,7 @@ body {
 }
 
 .all-1-1 {
-    padding: 25px 0px 25px 0px;
+    padding: 20px 0px 20px 0px;
 }
 
 .wenzi-1 h1 {
