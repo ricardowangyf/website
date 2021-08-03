@@ -139,7 +139,9 @@ body {
 }
 
 .wenzi-1-4 {
-    padding: 2px 0px 0px 115px;
+    position: relative;
+    left: 60px;
+    top: 2px;
 }
 
 .wenzi-1-4 h1 {
@@ -166,7 +168,8 @@ body {
 }
 
 .wenzi-3 {
-    padding: 7px 145px 0px 0px;
+    position: relative;
+    right: 66px;
 }
 
 .wenzi-3 p {
