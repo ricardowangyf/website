@@ -177,14 +177,14 @@ body {
 
 .blue {
     position: relative;
-    bottom: 112px;
+    bottom: 124px;
 }
 
 .fourth {
     background: #fff;
     border-radius: 10px;
-    margin: 17px 15px 50px 15px;
-    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
+    margin: 17px 15px 80px 15px;
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 15%);
 }
 
 .wenzi-1-4 {
@@ -240,6 +240,8 @@ body {
     height: 75px;
     text-align: center;
     background-color: #fff;
+    position: relative;
+    top: 15px;
 }
 
 .yuan1 {
@@ -283,11 +285,14 @@ body {
 }
 
 .fin-wenzi {
-    display: flex;
-    justify-content: space-between;
     padding-left: 20px;
     position: relative;
     bottom: 170px;
+}
+
+.display-1 {
+    display: flex;
+    justify-content: space-between;
 }
 
 .neirong-1 {
@@ -303,7 +308,7 @@ body {
 }
 
 .neirong-3 {
-    padding-right: 40px;
+    padding-right: 30px;
 }
 
 .xian {
@@ -312,13 +317,11 @@ body {
     margin: 0px 17px 0px 17px;
 }
 
-.fixed {
-    position: fixed;
-    bottom: 6px;
-    right: 0;
-    left: 0;
-}
-
 .photo-1-1 img {
     padding-left: 6px;
+}
+
+.posit {
+    position: relative;
+    bottom: 15px;
 }
