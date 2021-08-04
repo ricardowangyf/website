@@ -7,6 +7,10 @@ body {
     background-color: #F6F8FA;
 }
 
+html {
+    height: 828px;
+}
+
 .yuan1-1 {
     position: relative;
     bottom: 40px;
@@ -242,6 +246,7 @@ body {
     background-color: #fff;
     position: relative;
     top: 15px;
+    padding-bottom: 30px;
 }
 
 .yuan1 {
