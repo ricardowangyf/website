@@ -7,10 +7,6 @@ body {
     background-color: #F6F8FA;
 }
 
-html {
-    height: 828px;
-}
-
 .yuan1-1 {
     position: relative;
     bottom: 40px;
@@ -187,7 +183,7 @@ html {
 .fourth {
     background: #fff;
     border-radius: 10px;
-    margin: 17px 15px 80px 15px;
+    margin: 17px 15px 173px 15px;
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 15%);
 }
 
@@ -244,9 +240,13 @@ html {
     height: 75px;
     text-align: center;
     background-color: #fff;
-    position: relative;
-    top: 15px;
-    padding-bottom: 30px;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
 }
 
 .yuan1 {
