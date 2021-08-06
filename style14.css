@@ -183,7 +183,7 @@ body {
 .fourth {
     background: #fff;
     border-radius: 10px;
-    margin: 17px 15px 173px 15px;
+    margin: 17px 15px 65px 15px;
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 15%);
 }
 
@@ -237,96 +237,12 @@ body {
 }
 
 .five {
-    height: 75px;
     text-align: center;
-    background-color: #fff;
 }
 
-.fixed {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    left: 0;
-}
-
-.yuan1 {
-    width: 64px;
-    height: 64px;
-}
-
-.yuan1 img {
-    width: 64px;
-    height: 64px;
-}
-
-.copy {
-    position: relative;
-    left: 15px;
-    bottom: 13px;
-}
-
-.copy1 {
-    position: relative;
-    bottom: 63px;
-    right: 54px;
-}
-
-.neirong-1 h1 {
-    color: #999;
-    font-size: 12px;
-    font-weight: 400;
-}
-
-.neirong-2 h1 {
-    color: #999;
-    font-size: 12px;
-    font-weight: 400;
-}
-
-.neirong-3 h1 {
-    color: #999;
-    font-size: 12px;
-    font-weight: 400;
-}
-
-.fin-wenzi {
-    padding-left: 20px;
-    position: relative;
-    bottom: 170px;
-}
-
-.display-1 {
-    display: flex;
-    justify-content: space-between;
-}
-
-.neirong-1 {
-    position: relative;
-    left: 20px;
-}
-
-.neirong-2 {
-    position: relative;
-    top: 24px;
-    left: 8px;
-    height: 20px;
-}
-
-.neirong-3 {
-    padding-right: 30px;
-}
-
-.xian {
-    opacity: 0.1;
-    border: 1px dashed #000;
-    margin: 0px 17px 0px 17px;
-}
-
-.photo-1-1 img {
-    padding-left: 6px;
-}
-
-.posit {
-    position: relative;
-    bottom: 15px;
+.five img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
 }
