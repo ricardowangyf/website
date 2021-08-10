@@ -239,7 +239,6 @@ body {
 .five {
     height: 78px;
     text-align: center;
-    background-color: #fff;
 }
 
 .fixed {
@@ -247,4 +246,23 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.l1 {
+    width: auto;
+    height: auto;
+}
+
+.cen1 {
+    width: auto;
+    height: auto;
+}
+
+.l2 {
+    width: auto;
+    height: auto;
 }
