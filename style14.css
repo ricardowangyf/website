@@ -238,6 +238,7 @@ body {
 
 .five {
     height: 78px;
+    display: flex;
     text-align: center;
 }
 
@@ -246,4 +247,18 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
+}
+
+.yuan {
+    position: relative;
+    right: 228px;
+    bottom: 27px;
+}
+
+.asd {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    bottom: 51px;
+    right: 67px;
 }
