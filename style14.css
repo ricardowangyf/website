@@ -7,6 +7,10 @@ body {
     background-color: #F6F8FA;
 }
 
+a {
+    text-decoration: none;
+}
+
 .yuan1-1 {
     position: relative;
     bottom: 40px;
@@ -183,6 +187,7 @@ body {
 .fourth {
     background: #fff;
     border-radius: 10px;
+    padding: 0 15px 0px 15px;
     margin: 17px 15px 65px 15px;
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 15%);
 }
@@ -194,10 +199,6 @@ body {
 
 .pt45 {
     padding: 10px 0px 10px 0px;
-}
-
-.wenzi-2-1 {
-    padding-left: 20px;
 }
 
 .wenzi-2-1 h1 {
@@ -216,18 +217,10 @@ body {
     padding-right: 20px;
 }
 
-.wenzi-2-2-1 {
-    padding-right: 22px;
-}
-
 .wenzi-2-2-1 h1 {
     font-size: 16px;
     color: #1B1B1B;
     font-weight: 400;
-}
-
-.wenzi-2-3 {
-    padding-right: 20px;
 }
 
 .wenzi-2-3 h1 {
@@ -238,8 +231,16 @@ body {
 
 .five {
     height: 78px;
-    display: flex;
     text-align: center;
+    background-color: #fff;
+}
+
+.banyuan {
+    width: 100px;
+    height: 50px;
+    background-color: #F6F8FA;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
 }
 
 .fixed {
@@ -249,16 +250,74 @@ body {
     right: 0;
 }
 
-.yuan {
-    position: relative;
-    right: 228px;
-    bottom: 27px;
+.flex {
+    display: flex;
+    justify-content: space-between;
 }
 
-.asd {
-    width: 20px;
-    height: 20px;
+.yuan {
+    width: 64px;
+    height: 64px;
+    border-radius: 50px;
+    background-image: linear-gradient(180deg, #005EBC 0%, #003087 100%);
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.15);
+}
+
+.plt {
     position: relative;
-    bottom: 51px;
-    right: 67px;
+    bottom: 75px;
+    left: 2px;
+}
+
+.pb {
+    position: relative;
+    bottom: 45px;
+}
+
+.pb9 {
+    position: relative;
+    bottom: 100px;
+}
+
+.ch {
+    position: relative;
+    bottom: 20px;
+    left: 35px;
+}
+
+.left-1-1 a {
+    font-size: 12px;
+    color: #999999;
+    font-weight: 400;
+}
+
+.center-1-1 a {
+    font-size: 12px;
+    color: #999999;
+    position: relative;
+    font-weight: 400;
+    top: 5px;
+}
+
+.right-1-1 a {
+    font-size: 12px;
+    color: #999999;
+    font-weight: 400;
+}
+
+.pbr {
+    position: relative;
+    right: 30px;
+    bottom: 2px;
+}
+
+.me {
+    position: relative;
+    bottom: 20px;
+    left: 30px;
+}
+
+.xian {
+    opacity: 0.1;
+    border: 1px dashed #000;
 }
