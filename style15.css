@@ -82,11 +82,13 @@ body {
 }
 
 .neirong2 {
-    width: 120px;
+    width: 95px;
     height: 39px;
     border-radius: 195px;
     background: #00D090;
-    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.10);
+    box-shadow: 0 5px 10px 0 rgb(0 0 0 / 10%);
+    position: relative;
+    left: 12px;
 }
 
 .neirong2 h1 {
@@ -127,7 +129,7 @@ body {
 }
 
 .mpo1 {
-    margin: 42px 17px 44px 17px;
+    margin: 42px 17px 14px 17px;
     padding: 0px 15px 0px 15px;
 }
 
@@ -169,7 +171,8 @@ body {
 
 .wenzi-3 {
     position: relative;
-    right: 66px;
+    right: 45px;
+    top: 4px;
 }
 
 .wenzi-3 p {
@@ -231,7 +234,7 @@ body {
 
 .mp {
     padding-top: 20px;
-    margin: 40px 15px 0px 15px;
+    margin: 14px 15px 66px 15px;
 }
 
 .sub a {
