@@ -76,7 +76,7 @@ body {
 }
 
 .pmtb {
-    padding-top: 35px;
+    padding-top: 30px;
     margin-bottom: 16px;
 }
 
@@ -119,7 +119,7 @@ body {
 
 .center-wenzi {
     position: relative;
-    right: 55px;
+    right: 85px;
     height: 34px;
     top: 7px;
 }
@@ -149,6 +149,11 @@ body {
     padding: 18px 0px 18px 0px;
 }
 
+.center-wenzi-1 {
+    position: relative;
+    right: 34px;
+}
+
 .center-wenzi-1 h1 {
     color: #999;
     font-size: 14px;
@@ -162,7 +167,7 @@ body {
 
 .center-wenzi-2 {
     position: relative;
-    right: 11px;
+    right: 44px;
 }
 
 .center-wenzi-2 h1 {
@@ -174,7 +179,7 @@ body {
 
 .center-wenzi-3 {
     position: relative;
-    right: 5px;
+    right: 36px;
 }
 
 .center-wenzi-3 h1 {
@@ -186,7 +191,7 @@ body {
 
 .center-wenzi-4 {
     position: relative;
-    right: 20px;
+    right: 50px;
 }
 
 .center-wenzi-4 h1 {
@@ -198,7 +203,7 @@ body {
 
 .center-wenzi-5 {
     position: relative;
-    right: 20px;
+    right: 47px;
 }
 
 .center-wenzi-5 h1 {
@@ -240,5 +245,5 @@ body {
 
 .wenzi1 {
     position: relative;
-    left: 10px;
+    right: 18px;
 }
