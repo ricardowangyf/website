@@ -229,20 +229,6 @@ a {
     font-weight: 400;
 }
 
-.five {
-    height: 78px;
-    text-align: center;
-    background-color: #fff;
-}
-
-.banyuan {
-    width: 100px;
-    height: 50px;
-    background-color: #F6F8FA;
-    border-bottom-left-radius: 50px;
-    border-bottom-right-radius: 50px;
-}
-
 .fixed {
     position: fixed;
     bottom: 0;
@@ -250,71 +236,80 @@ a {
     right: 0;
 }
 
-.flex {
-    display: flex;
-    justify-content: space-between;
+.png {
+    position: relative;
+    top: 125px;
 }
 
 .yuan {
     width: 64px;
     height: 64px;
-    border-radius: 50px;
     background-image: linear-gradient(180deg, #005EBC 0%, #003087 100%);
     box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 50px;
 }
 
-.plt {
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.plb {
     position: relative;
-    bottom: 75px;
-    left: 2px;
+    bottom: -20px;
+    left: 12px;
 }
 
-.pb {
+.png img {
+    width: 100%;
+    height: 94px;
+}
+
+.down {
     position: relative;
-    bottom: 45px;
+    bottom: 44px;
+    left: 18px;
 }
 
-.pb9 {
+.neirong {
+    display: flex;
     position: relative;
-    bottom: 100px;
+    justify-content: space-between;
 }
 
-.ch {
+.left-1 a {
+    font-size: 12px;
+    color: #999999;
+    font-weight: 400;
     position: relative;
-    bottom: 20px;
-    left: 35px;
+    left: 3px;
+    bottom: 6px;
 }
 
-.left-1-1 a {
+.center-1 a {
     font-size: 12px;
     color: #999999;
     font-weight: 400;
 }
 
-.center-1-1 a {
-    font-size: 12px;
-    color: #999999;
-    position: relative;
-    font-weight: 400;
-    top: 5px;
-}
-
-.right-1-1 a {
+.right-1 a {
     font-size: 12px;
     color: #999999;
     font-weight: 400;
+    position: relative;
+    right: 22px;
 }
 
-.pbr {
+.m {
     position: relative;
-    right: 30px;
-    bottom: 2px;
+    bottom: 15px;
+    left: 5px;
 }
 
-.me {
+.chuan {
     position: relative;
-    bottom: 20px;
-    left: 30px;
+    bottom: 19px;
+    left: 36px;
 }
 
 .xian {
