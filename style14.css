@@ -236,9 +236,9 @@ a {
     right: 0;
 }
 
-.png {
-    position: relative;
-    top: 125px;
+.five {
+    height: 88px;
+    margin-top: 20px;
 }
 
 .yuan {
@@ -256,7 +256,7 @@ a {
 
 .plb {
     position: relative;
-    bottom: -20px;
+    bottom: 110px;
     left: 12px;
 }
 
@@ -273,8 +273,12 @@ a {
 
 .neirong {
     display: flex;
-    position: relative;
     justify-content: space-between;
+}
+
+.pb13 {
+    position: relative;
+    bottom: 130px;
 }
 
 .left-1 a {
