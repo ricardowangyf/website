@@ -320,3 +320,13 @@ a {
     opacity: 0.1;
     border: 1px dashed #000;
 }
+
+.flex1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.center1 {
+    position: relative;
+    right: 11px;
+}
