@@ -37,6 +37,9 @@ body {
 .leftphoto {
     width: 65px;
     height: 39px;
+}
+
+.pl23 {
     position: relative;
     left: 23px;
 }
@@ -83,6 +86,9 @@ body {
 .wenzi {
     width: 65px;
     height: 39px;
+}
+
+.pl2 {
     position: relative;
     left: 23px;
 }
@@ -118,9 +124,12 @@ body {
 }
 
 .center-wenzi {
+    height: 34px;
+}
+
+.prt {
     position: relative;
     right: 85px;
-    height: 34px;
     top: 7px;
 }
 
@@ -215,7 +224,7 @@ body {
 
 .center-wenzi-6 {
     position: relative;
-    right: 15px
+    right: 43px;
 }
 
 .center-wenzi-6 h1 {
