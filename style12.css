@@ -157,3 +157,84 @@ ul {
     width: 32px;
     top: 4px;
 }
+
+.second {
+    width: 1950px;
+    padding-top: 66px;
+    background-color: #fff;
+}
+
+.left-1 {
+    max-width: 50%;
+    float: left;
+    padding-left: 300px;
+}
+
+.szj1 {
+    width: 40px;
+    float: left;
+    position: relative;
+    top: 170px;
+    right: 23px;
+}
+
+.zj {
+    position: relative;
+    top: 16px;
+}
+
+.foot img {
+    width: 678px;
+    height: 950px;
+}
+
+.right-1 {
+    float: right;
+    max-width: 50%;
+}
+
+.top h1 {
+    font-size: 90px;
+    color: #E7E7E7;
+    letter-spacing: 0;
+    font-weight: 400;
+}
+
+.wenzi {
+    width: 20px;
+    float: left;
+}
+
+.xian1 {
+    width: 19px;
+    height: 5px;
+    background: #603EBE;
+    border-radius: 100px;
+}
+
+.neirong {
+    width: 258px;
+    float: right;
+    position: relative;
+    right: 217px;
+    bottom: 8px;
+}
+
+.neirong h1 {
+    font-size: 36px;
+    color: #C2C2C2;
+    letter-spacing: 1.5px;
+    font-weight: 400;
+}
+
+.duan {
+    position: relative;
+    top: 43px;
+    width: 592px;
+}
+
+.duan p {
+    color: #000000;
+    font-weight: 400;
+    font-size: 20px;
+}
