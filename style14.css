@@ -63,6 +63,8 @@ a {
     color: #3A2424;
     font-weight: 400;
     text-align: center;
+    position: relative;
+    bottom: 24px;
 }
 
 .wenzi-1 h1 {
