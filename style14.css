@@ -12,12 +12,12 @@ a {
 }
 
 .yuan1-1 {
-    position: relative;
-    bottom: 40px;
     height: 89px;
     width: 90px;
     border-radius: 50%;
     background-color: #F6F8FA;
+    position: relative;
+    bottom: 40px;
 }
 
 .clear {
