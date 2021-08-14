@@ -328,5 +328,22 @@ a {
 }
 
 .png img {
-    background-repeat: repeat
+    background-repeat: repeat-x;
+}
+
+.left-1-2 img {
+    width: 280%;
+    height: 78px;
+}
+
+.center-1-2 img {
+    width: 100%;
+    height: 78px;
+}
+
+.right-1-2 img {
+    position: relative;
+    right: 237px;
+    width: 285%;
+    height: 82px;
 }
