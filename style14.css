@@ -238,7 +238,7 @@ a {
 }
 
 .five {
-    height: 88px;
+    height: 77px;
     margin-top: 20px;
 }
 
@@ -346,4 +346,8 @@ a {
     right: 237px;
     width: 285%;
     height: 82px;
+}
+
+.heigh {
+    height: 20px;
 }
