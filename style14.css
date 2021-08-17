@@ -252,8 +252,13 @@ a {
 
 .plb {
     position: relative;
-    bottom: 82px;
+    bottom: 134px;
     left: 12px;
+}
+
+.pb23 {
+    position: relative;
+    bottom: 23px;
 }
 
 .down {
@@ -269,7 +274,7 @@ a {
 
 .pb13 {
     position: relative;
-    bottom: 105px;
+    bottom: 153px;
 }
 
 .left-1 a {
@@ -328,7 +333,6 @@ a {
 
 .five {
     height: 77px;
-    background-color: #fff;
 }
 
 .tm1 {
@@ -353,4 +357,14 @@ a {
     width: 100px;
     height: 57px;
     border-radius: 0 0 50px 50px;
+}
+
+.pb260 {
+    position: relative;
+    bottom: 260px;
+}
+
+.r23 {
+    background-image: url(./图片/1.png);
+    background-repeat: repeat-x;
 }
