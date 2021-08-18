@@ -252,13 +252,13 @@ a {
 
 .plb {
     position: relative;
-    bottom: 134px;
+    bottom: 240px;
     left: 12px;
 }
 
 .pb23 {
     position: relative;
-    bottom: 23px;
+    bottom: 125px;
 }
 
 .down {
@@ -274,7 +274,7 @@ a {
 
 .pb13 {
     position: relative;
-    bottom: 153px;
+    bottom: 250px;
 }
 
 .left-1 a {
@@ -362,4 +362,35 @@ a {
 .pb260 {
     position: relative;
     bottom: 260px;
+}
+
+.mo {
+    width: 36%;
+    position: relative;
+    bottom: 25px;
+}
+
+.mo .move {
+    height: 100px;
+    background-image: url(./图片/1.png);
+    background-repeat: repeat-x;
+}
+
+.mp1 {
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 30px;
+    height: 30px;
+}
+
+.mo1 {
+    width: 34%;
+    position: relative;
+    bottom: 26px;
+    float: right;
+}
+
+.mo1 .move1 {
+    height: 100px;
+    background-image: url(./图片/1.png);
+    background-repeat: repeat-x;
 }
