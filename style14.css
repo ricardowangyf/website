@@ -252,8 +252,7 @@ a {
 
 .plb {
     position: relative;
-    bottom: 235px;
-    left: 10px;
+    bottom: 140px;
 }
 
 .pb23 {
@@ -274,7 +273,7 @@ a {
 
 .pb13 {
     position: relative;
-    bottom: 252px;
+    bottom: 150px;
 }
 
 .left-1 a {
@@ -322,11 +321,6 @@ a {
     justify-content: space-between;
 }
 
-.center1 {
-    position: relative;
-    right: 10px;
-}
-
 .png img {
     background-repeat: repeat-x;
 }
@@ -359,11 +353,6 @@ a {
     border-radius: 0 0 50px 50px;
 }
 
-.pb260 {
-    position: relative;
-    bottom: 260px;
-}
-
 .mo {
     width: 47%;
     position: relative;
@@ -374,7 +363,6 @@ a {
     height: 100px;
     background-image: url(./图片/1.png);
     background-repeat: repeat-x;
-    border-radius: 0 185px 0 0;
 }
 
 .mp1 {
@@ -386,12 +374,16 @@ a {
 .mo1 {
     width: 47%;
     position: relative;
-    bottom: 23px;
+    bottom: 24px;
 }
 
 .mo1 .move1 {
     height: 100px;
     background-image: url(./图片/1.png);
     background-repeat: repeat-x;
-    border-radius: 179px 0 0 0;
+}
+
+.center-1-12 {
+    position: relative;
+    bottom: 25px;
 }
