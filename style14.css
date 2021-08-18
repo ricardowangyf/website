@@ -252,13 +252,13 @@ a {
 
 .plb {
     position: relative;
-    bottom: 240px;
+    bottom: 235px;
     left: 10px;
 }
 
 .pb23 {
     position: relative;
-    bottom: 125px;
+    bottom: 123px;
 }
 
 .down {
@@ -274,7 +274,7 @@ a {
 
 .pb13 {
     position: relative;
-    bottom: 255px;
+    bottom: 252px;
 }
 
 .left-1 a {
@@ -365,15 +365,16 @@ a {
 }
 
 .mo {
-    width: 43%;
+    width: 47%;
     position: relative;
-    bottom: 25px;
+    bottom: 24px;
 }
 
 .mo .move {
     height: 100px;
     background-image: url(./图片/1.png);
     background-repeat: repeat-x;
+    border-radius: 0 185px 0 0;
 }
 
 .mp1 {
@@ -383,13 +384,14 @@ a {
 }
 
 .mo1 {
-    width: 43%;
+    width: 47%;
     position: relative;
-    bottom: 25px;
+    bottom: 23px;
 }
 
 .mo1 .move1 {
     height: 100px;
     background-image: url(./图片/1.png);
     background-repeat: repeat-x;
+    border-radius: 179px 0 0 0;
 }
