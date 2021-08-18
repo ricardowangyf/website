@@ -252,13 +252,13 @@ a {
 
 .plb {
     position: relative;
-    bottom: 240px;
-    left: 12px;
+    bottom: 335px;
+    left: 10px;
 }
 
 .pb23 {
     position: relative;
-    bottom: 125px;
+    bottom: 225px;
 }
 
 .down {
@@ -274,7 +274,7 @@ a {
 
 .pb13 {
     position: relative;
-    bottom: 250px;
+    bottom: 350px;
 }
 
 .left-1 a {
@@ -365,7 +365,7 @@ a {
 }
 
 .mo {
-    width: 36%;
+    width: 43%;
     position: relative;
     bottom: 25px;
 }
@@ -383,10 +383,9 @@ a {
 }
 
 .mo1 {
-    width: 34%;
+    width: 43%;
     position: relative;
-    bottom: 26px;
-    float: right;
+    bottom: 25px;
 }
 
 .mo1 .move1 {
