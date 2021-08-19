@@ -273,7 +273,8 @@ a {
 
 .pb13 {
     position: relative;
-    bottom: 150px;
+    bottom: 200px;
+    height: 75px;
 }
 
 .left-1 a {
@@ -289,6 +290,8 @@ a {
     color: #999;
     font-size: 12px;
     font-weight: 400;
+    position: relative;
+    top: 51px;
 }
 
 .right-1 a {
@@ -301,14 +304,14 @@ a {
 
 .m {
     position: relative;
-    bottom: 15px;
+    top: 35px;
     left: 22px;
 }
 
 .chuan {
     position: relative;
-    bottom: 19px;
-    left: 36px;
+    top: 23px;
+    left: 25px;
 }
 
 .xian {
@@ -390,5 +393,24 @@ a {
 
 .center-1 {
     position: relative;
-    right: 13px;
+    right: 7px;
+}
+
+.left-1 {
+    height: 75px;
+}
+
+.left-1 span {
+    right: 9px;
+    color: #999;
+    font-size: 12px;
+    font-weight: 400;
+    position: relative;
+    top: 40px;
+}
+
+.right-1 span {
+    position: relative;
+    top: 50px;
+    right: 5px;
 }
