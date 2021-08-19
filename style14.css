@@ -387,3 +387,8 @@ a {
     position: relative;
     bottom: 25px;
 }
+
+.center-1 {
+    position: relative;
+    right: 13px;
+}
