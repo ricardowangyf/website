@@ -129,7 +129,7 @@ body {
 
 .prt {
     position: relative;
-    right: 85px;
+    right: 51px;
     top: 7px;
 }
 
@@ -158,11 +158,6 @@ body {
     padding: 18px 0px 18px 0px;
 }
 
-.center-wenzi-1 {
-    position: relative;
-    right: 34px;
-}
-
 .center-wenzi-1 h1 {
     color: #999;
     font-size: 14px;
@@ -176,7 +171,7 @@ body {
 
 .center-wenzi-2 {
     position: relative;
-    right: 44px;
+    right: 10px;
 }
 
 .center-wenzi-2 h1 {
@@ -188,7 +183,7 @@ body {
 
 .center-wenzi-3 {
     position: relative;
-    right: 36px;
+    right: 2px;
 }
 
 .center-wenzi-3 h1 {
@@ -200,7 +195,7 @@ body {
 
 .center-wenzi-4 {
     position: relative;
-    right: 50px;
+    right: 15px;
 }
 
 .center-wenzi-4 h1 {
@@ -212,7 +207,7 @@ body {
 
 .center-wenzi-5 {
     position: relative;
-    right: 47px;
+    right: 12px;
 }
 
 .center-wenzi-5 h1 {
@@ -224,7 +219,7 @@ body {
 
 .center-wenzi-6 {
     position: relative;
-    right: 43px;
+    right: 7px;
 }
 
 .center-wenzi-6 h1 {
@@ -254,5 +249,5 @@ body {
 
 .wenzi1 {
     position: relative;
-    right: 18px;
+    left: 15px;
 }
