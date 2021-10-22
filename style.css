@@ -2,10 +2,6 @@ a {
     text-decoration: none;
 }
 
-ul {
-    list-style: decimal outside none;
-}
-
 li {
     padding-bottom: 20px;
     list-style: decimal outside none;
