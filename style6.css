@@ -697,6 +697,8 @@ p2 {
     background: #fff;
     border-radius: 50%;
     padding: 11px;
+    transition: all 0.3s;
+    margin-right: 15px;
 }
 
 .icon-2:hover {
