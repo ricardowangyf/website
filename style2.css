@@ -376,12 +376,12 @@ body {
 
 .qq {
     position: relative;
-    left: 33px;
+    left: 22px;
 }
 
 .job-nam {
     position: relative;
-    left: 38px;
+left:30px;
 }
 
 .left {
@@ -461,7 +461,6 @@ body {
 
 .pol {
     position: relative;
-    padding: 5px 10px;
     line-height: 20px;
     overflow: hidden;
     font-weight: 500;
